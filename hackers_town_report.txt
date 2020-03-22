@@ -1,11 +1,11 @@
-As of 2020-03-22 05:02:58, hackers.town is rank 1113
-   with 5,252 work units for 66,239,704 credits
+As of 2020-03-22 05:18:45, hackers.town is rank 1108
+   with 5,255 work units for 66,242,940 credits
   1. merimus                      13.78%    9,131,087 (units:   261)
   2. wetdryvac                     9.81%    6,495,713 (units:   217)
   3. KemoNine                      9.47%    6,272,791 (units:   269)
   4. packetcat                     7.71%    5,107,367 (units:    48)
   5. Freakazoid                    7.04%    4,662,429 (units:   139)
-  6. Polychrome                    4.60%    3,049,382 (units:   124)
+  6. Polychrome                    4.61%    3,052,404 (units:   125)
   7. Calcifer                      3.82%    2,532,661 (units:    50)
   8. Werekat                       3.28%    2,172,689 (units:    80)
   9. radicaledward                 3.07%    2,036,399 (units:    81)
@@ -31,7 +31,7 @@ As of 2020-03-22 05:02:58, hackers.town is rank 1113
  29. fl0wn                         0.59%      388,420 (units:    74)
  30. HolSta                        0.57%      375,707 (units:    43)
  31. DJ_Sundog                     0.56%      371,148 (units:    84)
- 32. paullindner                   0.51%      334,522 (units:    72)
+ 32. paullindner                   0.50%      334,522 (units:    72)
  33. Logomancer                    0.49%      326,762 (units:   117)
  34. drwho                         0.40%      265,996 (units:   143)
  35. debugninja                    0.36%      240,300 (units:    22)
@@ -74,7 +74,7 @@ As of 2020-03-22 05:02:58, hackers.town is rank 1113
  72. RandyNose                     0.03%       22,839 (units:    29)
  73. SJM                           0.03%       21,011 (units:     8)
  74. murph                         0.03%       19,785 (units:     9)
- 75. claudiom                      0.03%       18,591 (units:   143)
+ 75. claudiom                      0.03%       18,805 (units:   145)
  76. MaxAtCastleMalmeddy           0.03%       18,282 (units:    28)
  77. daum3ns                       0.03%       17,013 (units:     2)
  78. shellkr                       0.02%       16,190 (units:    14)
