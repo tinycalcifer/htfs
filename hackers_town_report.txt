@@ -1,5 +1,5 @@
-As of 2020-03-22 22:30:39, hackers.town is rank 1079
-   with 5,465 work units for 69,747,894 credits
+As of 2020-03-22 22:38:30, hackers.town is rank 1079
+   with 5,467 work units for 69,748,400 credits
   1. merimus                      13.09%    9,131,087 (units:   261)
   2. wetdryvac                     9.91%    6,911,864 (units:   230)
   3. KemoNine                      9.48%    6,612,339 (units:   279)
@@ -18,7 +18,7 @@ As of 2020-03-22 22:30:39, hackers.town is rank 1079
  16. qwazix                        1.66%    1,157,676 (units:   220)
  17. kusuriya                      1.52%    1,058,721 (units:    52)
  18. Mr.House                      1.50%    1,048,877 (units:    54)
- 19. mandibular joint dysfunction  1.48%    1,034,743 (units:   313)
+ 19. mandibular joint dysfunction  1.48%    1,034,963 (units:   314)
  20. TerrorBite                    1.18%      822,047 (units:    16)
  21. Null                          1.17%      818,594 (units:    22)
  22. Anonymous                     1.11%      775,662 (units:   265)
@@ -108,10 +108,10 @@ As of 2020-03-22 22:30:39, hackers.town is rank 1079
 106. gueorgui                      0.00%        2,321 (units:     9)
 107. SteveTheDragon                0.00%        2,215 (units:     5)
 108. Michael_Simkin                0.00%        1,970 (units:     4)
-109. m4iler                        0.00%        1,800 (units:     2)
-110. Seb                           0.00%        1,695 (units:     5)
-111. wizzwizz4                     0.00%        1,668 (units:     4)
-112. rfquerin                      0.00%        1,556 (units:     3)
+109. rfquerin                      0.00%        1,842 (units:     4)
+110. m4iler                        0.00%        1,800 (units:     2)
+111. Seb                           0.00%        1,695 (units:     5)
+112. wizzwizz4                     0.00%        1,668 (units:     4)
 113. smitso                        0.00%        1,280 (units:     4)
 114. micmac                        0.00%        1,270 (units:     2)
 115. shitposter.club               0.00%        1,160 (units:     2)
@@ -120,6 +120,6 @@ As of 2020-03-22 22:30:39, hackers.town is rank 1079
 118. Brian                         0.00%          620 (units:     2)
 119. Sean_Lynch                    0.00%          511 (units:     5)
 120. technoid_                     0.00%          370 (units:     1)
-121. Mathis                        0.00%          220 (units:     1)
-122. rev. vulgo virus              0.00%          220 (units:     1)
+121. rev. vulgo virus              0.00%          220 (units:     1)
+122. Mathis                        0.00%          220 (units:     1)
 123. NoraCodes                     0.00%          145 (units:    12)
