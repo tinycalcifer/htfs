@@ -1,5 +1,5 @@
-As of 2020-03-22 08:36:47, hackers.town is rank 1098
-   with 5,326 work units for 67,695,035 credits
+As of 2020-03-22 08:52:03, hackers.town is rank 1098
+   with 5,329 work units for 67,696,465 credits
   1. merimus                      13.49%    9,131,087 (units:   261)
   2. wetdryvac                     9.75%    6,601,294 (units:   221)
   3. KemoNine                      9.54%    6,458,426 (units:   274)
@@ -32,7 +32,7 @@ As of 2020-03-22 08:36:47, hackers.town is rank 1098
  30. fl0wn                         0.57%      388,420 (units:    74)
  31. DJ_Sundog                     0.55%      371,148 (units:    84)
  32. paullindner                   0.50%      338,924 (units:    73)
- 33. Logomancer                    0.48%      326,762 (units:   117)
+ 33. Logomancer                    0.48%      326,792 (units:   118)
  34. drwho                         0.39%      265,996 (units:   143)
  35. debugninja                    0.35%      240,300 (units:    22)
  36. tayo                          0.34%      231,833 (units:    70)
@@ -94,9 +94,9 @@ As of 2020-03-22 08:36:47, hackers.town is rank 1098
  92. Azure                         0.01%        5,715 (units:     9)
  93. Bingo                         0.01%        4,897 (units:    10)
  94.                               0.01%        4,700 (units:     6)
- 95. crc32                         0.01%        4,452 (units:     8)
- 96. LunaLapin                     0.01%        3,986 (units:     7)
- 97. neoninteger                   0.01%        3,510 (units:     7)
+ 95. neoninteger                   0.01%        4,510 (units:     8)
+ 96. crc32                         0.01%        4,452 (units:     8)
+ 97. LunaLapin                     0.01%        3,986 (units:     7)
  98. cooper                        0.00%        3,285 (units:     9)
  99. Alteraner92                   0.00%        3,264 (units:     3)
 100. ratSprite                     0.00%        2,899 (units:     8)
@@ -116,5 +116,6 @@ As of 2020-03-22 08:36:47, hackers.town is rank 1098
 114. Michael_Simkin                0.00%          970 (units:     3)
 115. imacrea                       0.00%          885 (units:     1)
 116. Sean_Lynch                    0.00%          511 (units:     5)
-117. rev. vulgo virus              0.00%          220 (units:     1)
-118. NoraCodes                     0.00%          145 (units:    12)
+117. Brian                         0.00%          400 (units:     1)
+118. rev. vulgo virus              0.00%          220 (units:     1)
+119. NoraCodes                     0.00%          145 (units:    12)
