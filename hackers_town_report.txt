@@ -1,6 +1,6 @@
-As of 2020-03-22 21:34:20, hackers.town is rank 1080
-   with 5,459 work units for 69,674,798 credits
-  1. merimus                      13.11%    9,131,087 (units:   261)
+As of 2020-03-22 21:48:46, hackers.town is rank 1080
+   with 5,461 work units for 69,690,414 credits
+  1. merimus                      13.10%    9,131,087 (units:   261)
   2. wetdryvac                     9.84%    6,855,040 (units:   228)
   3. KemoNine                      9.49%    6,612,339 (units:   279)
   4. packetcat                     8.09%    5,639,201 (units:    52)
@@ -12,7 +12,7 @@ As of 2020-03-22 21:34:20, hackers.town is rank 1080
  10. c0debabe                      2.97%    2,071,018 (units:    67)
  11. pfreak                        2.87%    1,996,770 (units:    48)
  12. SiinaCutie                    2.29%    1,593,477 (units:   129)
- 13. dokuja                        2.23%    1,553,605 (units:   179)
+ 13. dokuja                        2.25%    1,569,001 (units:   180)
  14. ryen                          2.09%    1,458,442 (units:   136)
  15. FOOL                          1.78%    1,237,032 (units:    67)
  16. qwazix                        1.66%    1,157,676 (units:   220)
@@ -117,8 +117,8 @@ As of 2020-03-22 21:34:20, hackers.town is rank 1080
 115. shitposter.club               0.00%        1,160 (units:     2)
 116. Arcans                        0.00%        1,000 (units:     1)
 117. imacrea                       0.00%          885 (units:     1)
-118. Sean_Lynch                    0.00%          511 (units:     5)
-119. Brian                         0.00%          400 (units:     1)
-120. rev. vulgo virus              0.00%          220 (units:     1)
-121. Mathis                        0.00%          220 (units:     1)
+118. Brian                         0.00%          620 (units:     2)
+119. Sean_Lynch                    0.00%          511 (units:     5)
+120. Mathis                        0.00%          220 (units:     1)
+121. rev. vulgo virus              0.00%          220 (units:     1)
 122. NoraCodes                     0.00%          145 (units:    12)
