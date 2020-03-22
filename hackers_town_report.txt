@@ -1,5 +1,5 @@
-As of 2020-03-22 05:32:44, hackers.town is rank 1108
-   with 5,262 work units for 66,574,446 credits
+As of 2020-03-22 05:47:01, hackers.town is rank 1108
+   with 5,264 work units for 66,574,897 credits
   1. merimus                      13.72%    9,131,087 (units:   261)
   2. wetdryvac                     9.77%    6,504,797 (units:   218)
   3. KemoNine                      9.42%    6,272,791 (units:   269)
@@ -20,7 +20,7 @@ As of 2020-03-22 05:32:44, hackers.town is rank 1108
  18. mandibular joint dysfunction  1.55%    1,030,507 (units:   307)
  19. Mr.House                      1.48%      984,522 (units:    50)
  20. Null                          1.23%      818,594 (units:    22)
- 21. TerrorBite                    1.17%      775,597 (units:    15)
+ 21. TerrorBite                    1.16%      775,597 (units:    15)
  22. Anonymous                     1.06%      706,068 (units:   254)
  23. TG                            0.93%      616,338 (units:   124)
  24. sungo                         0.86%      573,356 (units:   160)
@@ -74,7 +74,7 @@ As of 2020-03-22 05:32:44, hackers.town is rank 1108
  72. RandyNose                     0.03%       22,839 (units:    29)
  73. SJM                           0.03%       21,011 (units:     8)
  74. murph                         0.03%       19,785 (units:     9)
- 75. claudiom                      0.03%       18,970 (units:   146)
+ 75. claudiom                      0.03%       19,135 (units:   147)
  76. MaxAtCastleMalmeddy           0.03%       18,282 (units:    28)
  77. daum3ns                       0.03%       17,013 (units:     2)
  78. shellkr                       0.02%       16,190 (units:    14)
@@ -98,7 +98,7 @@ As of 2020-03-22 05:32:44, hackers.town is rank 1108
  96. LunaLapin                     0.01%        3,986 (units:     7)
  97. neoninteger                   0.01%        3,510 (units:     7)
  98. cooper                        0.00%        3,285 (units:     9)
- 99. Alteraner92                   0.00%        2,978 (units:     2)
+ 99. Alteraner92                   0.00%        3,264 (units:     3)
 100. ratSprite                     0.00%        2,899 (units:     8)
 101. Toive8547                     0.00%        2,640 (units:     4)
 102. 1g0rb                         0.00%        2,490 (units:     4)
