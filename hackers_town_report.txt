@@ -1,5 +1,5 @@
-As of 2020-03-24 16:34:25, hackers.town is rank 1041
-   with 5,757 work units for 76,345,858 credits
+As of 2020-03-24 16:50:37, hackers.town is rank 1041
+   with 5,758 work units for 76,356,848 credits
   1. merimus                      11.96%    9,131,087 (units:   261)
   2. wetdryvac                    10.91%    8,327,394 (units:   257)
   3. KemoNine                      9.38%    7,161,616 (units:   291)
@@ -25,7 +25,7 @@ As of 2020-03-24 16:34:25, hackers.town is rank 1041
  23. r000t                         0.89%      679,993 (units:    25)
  24. TG                            0.83%      632,619 (units:   126)
  25. sungo                         0.82%      627,944 (units:   170)
- 26. CookieMom                     0.82%      622,266 (units:    59)
+ 26. CookieMom                     0.81%      622,266 (units:    59)
  27. /dev/random                   0.81%      617,848 (units:    59)
  28. HolSta                        0.57%      432,917 (units:    48)
  29. synfinner                     0.55%      420,975 (units:    13)
@@ -44,8 +44,8 @@ As of 2020-03-24 16:34:25, hackers.town is rank 1041
  42. rmgr                          0.27%      203,032 (units:    13)
  43. felix                         0.26%      196,086 (units:    21)
  44. Mnemonic                      0.20%      150,198 (units:    71)
- 45. Kyle                          0.15%      114,195 (units:    11)
- 46. jkl                           0.14%      110,107 (units:    41)
+ 45. jkl                           0.16%      121,097 (units:    42)
+ 46. Kyle                          0.15%      114,195 (units:    11)
  47. heliostatic                   0.13%      101,482 (units:    26)
  48. JoshMulliken                  0.13%       97,080 (units:    23)
  49. m68k                          0.12%       89,593 (units:    21)
@@ -121,8 +121,8 @@ As of 2020-03-24 16:34:25, hackers.town is rank 1041
 119. Brian                         0.00%          620 (units:     2)
 120. technoid_                     0.00%          590 (units:     2)
 121. Sean_Lynch                    0.00%          511 (units:     5)
-122. Mathis                        0.00%          220 (units:     1)
-123. Koakuma                       0.00%          220 (units:     1)
-124. rev. vulgo virus              0.00%          220 (units:     1)
+122. Koakuma                       0.00%          220 (units:     1)
+123. rev. vulgo virus              0.00%          220 (units:     1)
+124. Mathis                        0.00%          220 (units:     1)
 125. NoraCodes                     0.00%          145 (units:    12)
 126. cyberia                       0.00%           27 (units:     1)
