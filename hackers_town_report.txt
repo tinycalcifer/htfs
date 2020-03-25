@@ -1,5 +1,5 @@
-As of 2020-03-25 05:05:29, hackers.town is rank 1024
-   with 5,838 work units for 78,269,152 credits
+As of 2020-03-25 05:13:46, hackers.town is rank 1024
+   with 5,840 work units for 78,277,057 credits
   1. merimus                      11.67%    9,131,087 (units:   261)
   2. wetdryvac                    11.48%    8,987,860 (units:   266)
   3. KemoNine                      9.47%    7,411,329 (units:   296)
@@ -7,7 +7,7 @@ As of 2020-03-25 05:05:29, hackers.town is rank 1024
   5. Freakazoid                    6.67%    5,220,995 (units:   147)
   6. Polychrome                    5.32%    4,165,743 (units:   146)
   7. Calcifer                      4.17%    3,262,108 (units:    58)
-  8. radicaledward                 3.34%    2,610,515 (units:    89)
+  8. radicaledward                 3.33%    2,610,515 (units:    89)
   9. Werekat                       3.15%    2,467,757 (units:    86)
  10. c0debabe                      2.89%    2,263,247 (units:    71)
  11. pfreak                        2.55%    1,996,770 (units:    48)
@@ -17,7 +17,7 @@ As of 2020-03-25 05:05:29, hackers.town is rank 1024
  15. FOOL                          1.80%    1,405,433 (units:    75)
  16. Mr.House                      1.68%    1,318,055 (units:    58)
  17. qwazix                        1.48%    1,157,676 (units:   220)
- 18. mandibular joint dysfunction  1.40%    1,092,358 (units:   323)
+ 18. mandibular joint dysfunction  1.40%    1,092,578 (units:   324)
  19. kusuriya                      1.37%    1,073,100 (units:    53)
  20. r000t                         1.26%      987,176 (units:    30)
  21. Anonymous                     1.13%      886,001 (units:   285)
@@ -25,7 +25,7 @@ As of 2020-03-25 05:05:29, hackers.town is rank 1024
  23. Null                          1.05%      818,594 (units:    22)
  24. sungo                         0.82%      640,057 (units:   174)
  25. TG                            0.81%      632,619 (units:   126)
- 26. CookieMom                     0.80%      622,266 (units:    59)
+ 26. CookieMom                     0.79%      622,266 (units:    59)
  27. /dev/random                   0.79%      617,848 (units:    59)
  28. HolSta                        0.55%      432,917 (units:    48)
  29. paullindner                   0.55%      429,983 (units:    86)
@@ -51,9 +51,9 @@ As of 2020-03-25 05:05:29, hackers.town is rank 1024
  49. heliostatic                   0.13%      101,482 (units:    26)
  50. bhtooefr                      0.13%       98,404 (units:     9)
  51. JoshMulliken                  0.12%       97,080 (units:    23)
- 52. Nemesis                       0.11%       88,005 (units:    38)
- 53. arbu                          0.11%       87,499 (units:     6)
- 54. csrsuoeb                      0.11%       84,995 (units:    11)
+ 52. csrsuoeb                      0.12%       92,680 (units:    12)
+ 53. Nemesis                       0.11%       88,005 (units:    38)
+ 54. arbu                          0.11%       87,499 (units:     6)
  55. Canageek                      0.11%       82,586 (units:    16)
  56. piggo                         0.10%       75,350 (units:    15)
  57. Murph                         0.09%       71,069 (units:    21)
