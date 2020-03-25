@@ -1,6 +1,6 @@
-As of 2020-03-25 19:54:13, hackers.town is rank 994
-   with 5,998 work units for 81,584,967 credits
-  1. wetdryvac                    11.85%    9,663,793 (units:   275)
+As of 2020-03-25 20:28:52, hackers.town is rank 993
+   with 6,001 work units for 81,586,274 credits
+  1. wetdryvac                    11.84%    9,663,793 (units:   275)
   2. merimus                      11.19%    9,131,087 (units:   261)
   3. KemoNine                      9.72%    7,926,733 (units:   306)
   4. packetcat                     8.40%    6,855,689 (units:    61)
@@ -59,7 +59,7 @@ As of 2020-03-25 19:54:13, hackers.town is rank 994
  57. piggo                         0.09%       75,350 (units:    15)
  58. Murph                         0.09%       71,069 (units:    21)
  59. deowyth                       0.08%       68,655 (units:     5)
- 60. djsumdog                      0.08%       62,969 (units:     8)
+ 60. djsumdog                      0.08%       63,033 (units:     9)
  61. George_                       0.07%       59,802 (units:    11)
  62. tomatoefolding                0.07%       59,750 (units:     1)
  63. daum3ns                       0.07%       56,636 (units:     6)
@@ -71,7 +71,7 @@ As of 2020-03-25 19:54:13, hackers.town is rank 994
  69. silksnep                      0.04%       33,974 (units:    50)
  70. mainebot                      0.04%       33,813 (units:    12)
  71. Phlox                         0.04%       32,011 (units:     2)
- 72. Purple                        0.03%       27,872 (units:    12)
+ 72. Purple                        0.04%       28,872 (units:    13)
  73. gwozniak                      0.03%       27,627 (units:    45)
  74. rfquerin                      0.03%       27,068 (units:    11)
  75. RandyNose                     0.03%       26,049 (units:    34)
@@ -123,8 +123,8 @@ As of 2020-03-25 19:54:13, hackers.town is rank 994
 121. shitposter.club               0.00%        1,160 (units:     2)
 122. Koakuma                       0.00%        1,120 (units:     2)
 123. technoid_                     0.00%          590 (units:     2)
-124. Sean_Lynch                    0.00%          511 (units:     5)
-125. nuklearfiziks                 0.00%          336 (units:     1)
+124. nuklearfiziks                 0.00%          579 (units:     2)
+125. Sean_Lynch                    0.00%          511 (units:     5)
 126. Mathis                        0.00%          220 (units:     1)
 127. rev. vulgo virus              0.00%          220 (units:     1)
 128. NoraCodes                     0.00%          145 (units:    12)
