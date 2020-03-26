@@ -1,11 +1,11 @@
-As of 2020-03-26 01:51:42, hackers.town is rank 985
-   with 6,059 work units for 82,809,363 credits
+As of 2020-03-26 01:55:08, hackers.town is rank 985
+   with 6,060 work units for 82,809,649 credits
   1. wetdryvac                    12.14%   10,054,613 (units:   278)
   2. merimus                      11.03%    9,131,087 (units:   261)
   3. KemoNine                      9.81%    8,123,894 (units:   310)
   4. packetcat                     8.28%    6,855,689 (units:    61)
   5. Freakazoid                    6.39%    5,288,975 (units:   150)
-  6. Polychrome                    5.07%    4,194,301 (units:   151)
+  6. Polychrome                    5.06%    4,194,301 (units:   151)
   7. Calcifer                      3.95%    3,268,538 (units:    59)
   8. radicaledward                 3.15%    2,610,515 (units:    89)
   9. Werekat                       3.14%    2,599,305 (units:    89)
@@ -69,7 +69,7 @@ As of 2020-03-26 01:51:42, hackers.town is rank 985
  67. Imani                         0.05%       40,054 (units:    50)
  68. Tool_Man                      0.04%       35,354 (units:    53)
  69. Hany                          0.04%       34,272 (units:    13)
- 70. silksnep                      0.04%       33,974 (units:    50)
+ 70. silksnep                      0.04%       34,260 (units:    51)
  71. Phlox                         0.04%       32,011 (units:     2)
  72. Purple                        0.03%       28,872 (units:    13)
  73. gwozniak                      0.03%       27,627 (units:    45)
@@ -125,8 +125,8 @@ As of 2020-03-26 01:51:42, hackers.town is rank 985
 123. Koakuma                       0.00%        1,120 (units:     2)
 124. technoid_                     0.00%          590 (units:     2)
 125. Sean_Lynch                    0.00%          511 (units:     5)
-126. Mathis                        0.00%          220 (units:     1)
-127. rev. vulgo virus              0.00%          220 (units:     1)
+126. rev. vulgo virus              0.00%          220 (units:     1)
+127. Mathis                        0.00%          220 (units:     1)
 128. NoraCodes                     0.00%          145 (units:    12)
 129. neil                          0.00%           83 (units:     1)
 130. cyberia                       0.00%           27 (units:     1)
