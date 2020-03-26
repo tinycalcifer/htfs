@@ -1,8 +1,8 @@
-As of 2020-03-26 23:29:47, hackers.town is rank 959
-   with 6,282 work units for 87,291,621 credits
+As of 2020-03-26 23:53:47, hackers.town is rank 958
+   with 6,284 work units for 87,296,017 credits
   1. wetdryvac                    12.53%   10,936,136 (units:   293)
   2. merimus                      10.61%    9,263,774 (units:   262)
-  3. KemoNine                     10.03%    8,751,015 (units:   326)
+  3. KemoNine                     10.02%    8,751,015 (units:   326)
   4. packetcat                     8.48%    7,402,614 (units:    67)
   5. Freakazoid                    6.11%    5,330,750 (units:   156)
   6. Polychrome                    4.84%    4,220,794 (units:   154)
@@ -23,7 +23,7 @@ As of 2020-03-26 23:29:47, hackers.town is rank 959
  21. Anonymous                     1.07%      935,883 (units:   291)
  22. TerrorBite                    0.94%      822,047 (units:    16)
  23. Null                          0.94%      818,594 (units:    22)
- 24. sungo                         0.80%      700,451 (units:   189)
+ 24. sungo                         0.81%      703,847 (units:   190)
  25. CookieMom                     0.74%      647,041 (units:    62)
  26. TG                            0.72%      632,619 (units:   126)
  27. /dev/random                   0.71%      617,848 (units:    59)
@@ -68,7 +68,7 @@ As of 2020-03-26 23:29:47, hackers.town is rank 959
  66. daum3ns                       0.06%       56,636 (units:     6)
  67. technolust                    0.06%       50,262 (units:    12)
  68. emelie                        0.05%       46,275 (units:     4)
- 69. Imani                         0.05%       42,714 (units:    54)
+ 69. Imani                         0.05%       43,714 (units:    55)
  70. silksnep                      0.04%       36,260 (units:    53)
  71. Tool_Man                      0.04%       35,354 (units:    53)
  72. Phlox                         0.04%       32,011 (units:     2)
@@ -126,7 +126,7 @@ As of 2020-03-26 23:29:47, hackers.town is rank 959
 124. shitposter.club               0.00%        1,160 (units:     2)
 125. Koakuma                       0.00%        1,120 (units:     2)
 126. Sean_Lynch                    0.00%          511 (units:     5)
-127. rev. vulgo virus              0.00%          220 (units:     1)
-128. Mathis                        0.00%          220 (units:     1)
+127. Mathis                        0.00%          220 (units:     1)
+128. rev. vulgo virus              0.00%          220 (units:     1)
 129. NoraCodes                     0.00%          145 (units:    12)
 130. cyberia                       0.00%           27 (units:     1)
