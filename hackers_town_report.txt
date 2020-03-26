@@ -1,5 +1,5 @@
-As of 2020-03-26 23:05:53, hackers.town is rank 959
-   with 6,281 work units for 87,282,216 credits
+As of 2020-03-26 23:29:47, hackers.town is rank 959
+   with 6,282 work units for 87,291,621 credits
   1. wetdryvac                    12.53%   10,936,136 (units:   293)
   2. merimus                      10.61%    9,263,774 (units:   262)
   3. KemoNine                     10.03%    8,751,015 (units:   326)
@@ -33,7 +33,7 @@ As of 2020-03-26 23:05:53, hackers.town is rank 959
  31. DJ_Sundog                     0.51%      446,201 (units:    92)
  32. synfinner                     0.48%      420,975 (units:    13)
  33. protospork                    0.45%      395,066 (units:    54)
- 34. fl0wn                         0.45%      388,420 (units:    74)
+ 34. fl0wn                         0.44%      388,420 (units:    74)
  35. Logomancer                    0.38%      331,304 (units:   128)
  36. avolkov                       0.37%      326,778 (units:    27)
  37. tayo                          0.37%      326,041 (units:    92)
@@ -62,10 +62,10 @@ As of 2020-03-26 23:05:53, hackers.town is rank 959
  60. Murph                         0.08%       71,069 (units:    21)
  61. deowyth                       0.08%       68,655 (units:     5)
  62. skraelingjar                  0.07%       63,228 (units:    18)
- 63. George_                       0.07%       59,802 (units:    11)
- 64. tomatoefolding                0.07%       59,750 (units:     1)
- 65. daum3ns                       0.06%       56,636 (units:     6)
- 66. Hany                          0.06%       51,528 (units:    16)
+ 63. Hany                          0.07%       60,933 (units:    17)
+ 64. George_                       0.07%       59,802 (units:    11)
+ 65. tomatoefolding                0.07%       59,750 (units:     1)
+ 66. daum3ns                       0.06%       56,636 (units:     6)
  67. technolust                    0.06%       50,262 (units:    12)
  68. emelie                        0.05%       46,275 (units:     4)
  69. Imani                         0.05%       42,714 (units:    54)
