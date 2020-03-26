@@ -1,5 +1,5 @@
-As of 2020-03-26 05:05:47, hackers.town is rank 978
-   with 6,115 work units for 83,890,889 credits
+As of 2020-03-26 05:33:01, hackers.town is rank 978
+   with 6,117 work units for 83,891,509 credits
   1. wetdryvac                    12.39%   10,393,883 (units:   282)
   2. merimus                      10.88%    9,131,087 (units:   261)
   3. KemoNine                      9.75%    8,179,160 (units:   312)
@@ -55,7 +55,7 @@ As of 2020-03-26 05:05:47, hackers.town is rank 978
  53. JoshMulliken                  0.12%       97,080 (units:    23)
  54. csrsuoeb                      0.11%       95,415 (units:    14)
  55. Canageek                      0.11%       91,194 (units:    18)
- 56. Nemesis                       0.11%       90,005 (units:    40)
+ 56. Nemesis                       0.11%       90,315 (units:    41)
  57. arbu                          0.10%       87,499 (units:     6)
  58. piggo                         0.09%       75,350 (units:    15)
  59. djsumdog                      0.09%       75,074 (units:    12)
@@ -82,8 +82,8 @@ As of 2020-03-26 05:05:47, hackers.town is rank 978
  80. TMY                           0.03%       23,206 (units:    40)
  81. SJM                           0.03%       21,011 (units:     8)
  82. murph                         0.02%       19,785 (units:     9)
- 83. MaxAtCastleMalmeddy           0.02%       18,282 (units:    28)
- 84. Syrinx                        0.02%       17,990 (units:    45)
+ 83. Syrinx                        0.02%       18,300 (units:    46)
+ 84. MaxAtCastleMalmeddy           0.02%       18,282 (units:    28)
  85. tbn97                         0.02%       17,480 (units:    22)
  86. nuklearfiziks                 0.02%       16,218 (units:     4)
  87. shellkr                       0.02%       16,190 (units:    14)
@@ -126,7 +126,7 @@ As of 2020-03-26 05:05:47, hackers.town is rank 978
 124. Koakuma                       0.00%        1,120 (units:     2)
 125. neil                          0.00%          883 (units:     2)
 126. Sean_Lynch                    0.00%          511 (units:     5)
-127. rev. vulgo virus              0.00%          220 (units:     1)
-128. Mathis                        0.00%          220 (units:     1)
+127. Mathis                        0.00%          220 (units:     1)
+128. rev. vulgo virus              0.00%          220 (units:     1)
 129. NoraCodes                     0.00%          145 (units:    12)
 130. cyberia                       0.00%           27 (units:     1)
