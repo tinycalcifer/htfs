@@ -1,8 +1,8 @@
-As of 2020-03-27 08:35:21, hackers.town is rank 953
-   with 6,408 work units for 89,107,094 credits
+As of 2020-03-27 09:14:02, hackers.town is rank 953
+   with 6,414 work units for 89,128,386 credits
   1. wetdryvac                    12.83%   11,433,951 (units:   301)
-  2. merimus                      10.49%    9,344,313 (units:   266)
-  3. KemoNine                      9.99%    8,903,962 (units:   333)
+  2. merimus                      10.48%    9,344,313 (units:   266)
+  3. KemoNine                     10.00%    8,911,981 (units:   334)
   4. packetcat                     8.44%    7,518,418 (units:    68)
   5. Freakazoid                    6.05%    5,388,168 (units:   157)
   6. Polychrome                    4.74%    4,222,946 (units:   155)
@@ -20,11 +20,11 @@ As of 2020-03-27 08:35:21, hackers.town is rank 953
  18. kusuriya                      1.47%    1,314,054 (units:    65)
  19. qwazix                        1.30%    1,157,676 (units:   220)
  20. mandibular joint dysfunction  1.29%    1,148,745 (units:   344)
- 21. Anonymous                     1.06%      948,308 (units:   296)
+ 21. Anonymous                     1.06%      949,208 (units:   297)
  22. TerrorBite                    0.92%      822,047 (units:    16)
  23. Null                          0.92%      818,594 (units:    22)
- 24. bhtooefr                      0.85%      753,485 (units:    25)
- 25. sungo                         0.81%      724,364 (units:   192)
+ 24. bhtooefr                      0.85%      755,430 (units:    26)
+ 25. sungo                         0.82%      734,506 (units:   194)
  26. CookieMom                     0.74%      662,257 (units:    64)
  27. TG                            0.71%      632,619 (units:   126)
  28. /dev/random                   0.69%      617,848 (units:    59)
@@ -81,7 +81,7 @@ As of 2020-03-27 08:35:21, hackers.town is rank 953
  79. julianaito                    0.03%       24,640 (units:    69)
  80. TMY                           0.03%       23,206 (units:    40)
  81. SJM                           0.02%       21,011 (units:     8)
- 82. MaxAtCastleMalmeddy           0.02%       20,182 (units:    30)
+ 82. MaxAtCastleMalmeddy           0.02%       20,468 (units:    31)
  83. Syrinx                        0.02%       20,100 (units:    48)
  84. murph                         0.02%       19,785 (units:     9)
  85. tbn97                         0.02%       17,480 (units:    22)
