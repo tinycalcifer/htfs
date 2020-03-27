@@ -1,5 +1,5 @@
-As of 2020-03-27 21:38:57, hackers.town is rank 940
-   with 6,546 work units for 91,220,631 credits
+As of 2020-03-27 21:54:46, hackers.town is rank 940
+   with 6,551 work units for 91,232,057 credits
   1. wetdryvac                    13.01%   11,870,002 (units:   310)
   2. merimus                      10.24%    9,344,313 (units:   266)
   3. KemoNine                     10.20%    9,303,262 (units:   342)
@@ -38,7 +38,7 @@ As of 2020-03-27 21:38:57, hackers.town is rank 940
  36. fl0wn                         0.43%      388,420 (units:    74)
  37. tayo                          0.38%      347,573 (units:   101)
  38. avolkov                       0.37%      336,183 (units:    28)
- 39. Logomancer                    0.36%      331,384 (units:   132)
+ 39. Logomancer                    0.36%      331,410 (units:   135)
  40. drwho                         0.33%      301,816 (units:   198)
  41. rmgr                          0.32%      291,428 (units:    15)
  42. felix                         0.30%      269,487 (units:    27)
@@ -46,9 +46,9 @@ As of 2020-03-27 21:38:57, hackers.town is rank 940
  44. debugninja                    0.26%      240,300 (units:    22)
  45. LordBowlich                   0.26%      239,809 (units:    54)
  46. Requiem                       0.25%      232,579 (units:    84)
- 47. djsumdog                      0.17%      152,111 (units:    19)
- 48. Mnemonic                      0.17%      150,601 (units:    73)
- 49. jkl                           0.16%      145,353 (units:    50)
+ 47. jkl                           0.17%      156,333 (units:    51)
+ 48. djsumdog                      0.17%      152,111 (units:    19)
+ 49. Mnemonic                      0.17%      150,601 (units:    73)
  50. arbu                          0.14%      125,499 (units:     7)
  51. m68k                          0.13%      122,824 (units:    25)
  52. zx3                           0.13%      114,418 (units:    19)
@@ -69,7 +69,7 @@ As of 2020-03-27 21:38:57, hackers.town is rank 940
  67. daum3ns                       0.06%       56,636 (units:     6)
  68. dafuchs                       0.06%       51,073 (units:     8)
  69. emelie                        0.05%       46,275 (units:     4)
- 70. Imani                         0.05%       45,623 (units:    59)
+ 70. Imani                         0.05%       46,043 (units:    60)
  71. silksnep                      0.04%       36,813 (units:    55)
  72. rfquerin                      0.04%       36,234 (units:    15)
  73. Tool_Man                      0.04%       35,354 (units:    53)
