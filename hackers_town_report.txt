@@ -1,8 +1,8 @@
-As of 2020-03-27 07:04:14, hackers.town is rank 954
-   with 6,384 work units for 88,736,366 credits
+As of 2020-03-27 07:17:11, hackers.town is rank 954
+   with 6,386 work units for 88,746,316 credits
   1. wetdryvac                    12.79%   11,348,810 (units:   300)
   2. merimus                      10.53%    9,344,313 (units:   266)
-  3. KemoNine                      9.98%    8,856,417 (units:   331)
+  3. KemoNine                      9.99%    8,864,431 (units:   332)
   4. packetcat                     8.47%    7,518,418 (units:    68)
   5. Freakazoid                    6.01%    5,330,750 (units:   156)
   6. Polychrome                    4.76%    4,222,946 (units:   155)
@@ -12,7 +12,7 @@ As of 2020-03-27 07:04:14, hackers.town is rank 954
  10. c0debabe                      2.92%    2,593,889 (units:    76)
  11. SiinaCutie                    2.84%    2,517,553 (units:   159)
  12. pfreak                        2.25%    1,996,770 (units:    48)
- 13. dokuja                        2.23%    1,974,435 (units:   217)
+ 13. dokuja                        2.22%    1,974,435 (units:   217)
  14. FOOL                          1.90%    1,681,852 (units:    90)
  15. r000t                         1.71%    1,519,087 (units:    37)
  16. ryen                          1.64%    1,458,442 (units:   136)
@@ -36,8 +36,8 @@ As of 2020-03-27 07:04:14, hackers.town is rank 954
  34. mainebot                      0.44%      390,739 (units:    20)
  35. Kyle                          0.44%      389,632 (units:    16)
  36. fl0wn                         0.44%      388,420 (units:    74)
- 37. avolkov                       0.38%      336,183 (units:    28)
- 38. tayo                          0.38%      335,600 (units:    96)
+ 37. tayo                          0.38%      337,536 (units:    97)
+ 38. avolkov                       0.38%      336,183 (units:    28)
  39. Logomancer                    0.37%      331,304 (units:   128)
  40. drwho                         0.33%      295,837 (units:   186)
  41. rmgr                          0.33%      291,428 (units:    15)
