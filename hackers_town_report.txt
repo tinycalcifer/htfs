@@ -1,8 +1,8 @@
-As of 2020-03-27 04:00:57, hackers.town is rank 955
-   with 6,340 work units for 88,227,371 credits
+As of 2020-03-27 04:15:09, hackers.town is rank 955
+   with 6,345 work units for 88,237,023 credits
   1. wetdryvac                    12.74%   11,239,413 (units:   297)
   2. merimus                      10.57%    9,326,739 (units:   264)
-  3. KemoNine                     10.02%    8,843,720 (units:   329)
+  3. KemoNine                     10.03%    8,850,364 (units:   330)
   4. packetcat                     8.39%    7,402,614 (units:    67)
   5. Freakazoid                    6.04%    5,330,750 (units:   156)
   6. Polychrome                    4.78%    4,220,794 (units:   154)
@@ -13,7 +13,7 @@ As of 2020-03-27 04:00:57, hackers.town is rank 955
  11. SiinaCutie                    2.69%    2,372,295 (units:   156)
  12. pfreak                        2.26%    1,996,770 (units:    48)
  13. dokuja                        2.22%    1,957,422 (units:   215)
- 14. FOOL                          1.90%    1,679,189 (units:    89)
+ 14. FOOL                          1.91%    1,681,852 (units:    90)
  15. r000t                         1.72%    1,519,087 (units:    37)
  16. ryen                          1.65%    1,458,442 (units:   136)
  17. Mr.House                      1.49%    1,318,055 (units:    58)
@@ -39,7 +39,7 @@ As of 2020-03-27 04:00:57, hackers.town is rank 955
  37. tayo                          0.38%      331,853 (units:    94)
  38. Logomancer                    0.38%      331,304 (units:   128)
  39. avolkov                       0.37%      326,778 (units:    27)
- 40. drwho                         0.33%      294,391 (units:   182)
+ 40. drwho                         0.33%      294,603 (units:   184)
  41. rmgr                          0.33%      291,428 (units:    15)
  42. KitRedgrave                   0.28%      247,683 (units:    36)
  43. felix                         0.28%      245,187 (units:    25)
@@ -75,8 +75,8 @@ As of 2020-03-27 04:00:57, hackers.town is rank 955
  73. Purple                        0.03%       29,872 (units:    14)
  74. rfquerin                      0.03%       28,354 (units:    13)
  75. gwozniak                      0.03%       27,627 (units:    45)
- 76. dafuchs                       0.03%       26,738 (units:     4)
- 77. claudiom                      0.03%       26,658 (units:   209)
+ 76. claudiom                      0.03%       26,791 (units:   210)
+ 77. dafuchs                       0.03%       26,738 (units:     4)
  78. RandyNose                     0.03%       26,049 (units:    34)
  79. julianaito                    0.03%       24,640 (units:    69)
  80. TMY                           0.03%       23,206 (units:    40)
