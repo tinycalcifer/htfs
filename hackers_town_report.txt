@@ -1,11 +1,11 @@
-As of 2020-03-26 23:53:47, hackers.town is rank 958
-   with 6,284 work units for 87,296,017 credits
+As of 2020-03-27 00:10:24, hackers.town is rank 958
+   with 6,286 work units for 87,300,900 credits
   1. wetdryvac                    12.53%   10,936,136 (units:   293)
   2. merimus                      10.61%    9,263,774 (units:   262)
   3. KemoNine                     10.02%    8,751,015 (units:   326)
   4. packetcat                     8.48%    7,402,614 (units:    67)
   5. Freakazoid                    6.11%    5,330,750 (units:   156)
-  6. Polychrome                    4.84%    4,220,794 (units:   154)
+  6. Polychrome                    4.83%    4,220,794 (units:   154)
   7. Calcifer                      3.74%    3,268,538 (units:    59)
   8. Werekat                       3.10%    2,706,497 (units:    93)
   9. radicaledward                 2.99%    2,610,515 (units:    89)
@@ -35,8 +35,8 @@ As of 2020-03-26 23:53:47, hackers.town is rank 958
  33. protospork                    0.45%      395,066 (units:    54)
  34. fl0wn                         0.44%      388,420 (units:    74)
  35. Logomancer                    0.38%      331,304 (units:   128)
- 36. avolkov                       0.37%      326,778 (units:    27)
- 37. tayo                          0.37%      326,041 (units:    92)
+ 36. tayo                          0.38%      330,124 (units:    93)
+ 37. avolkov                       0.37%      326,778 (units:    27)
  38. Kyle                          0.37%      325,864 (units:    15)
  39. drwho                         0.34%      293,783 (units:   175)
  40. rmgr                          0.33%      291,428 (units:    15)
@@ -83,7 +83,7 @@ As of 2020-03-26 23:53:47, hackers.town is rank 958
  81. SJM                           0.02%       21,011 (units:     8)
  82. murph                         0.02%       19,785 (units:     9)
  83. MaxAtCastleMalmeddy           0.02%       19,182 (units:    29)
- 84. Syrinx                        0.02%       18,300 (units:    46)
+ 84. Syrinx                        0.02%       19,100 (units:    47)
  85. tbn97                         0.02%       17,480 (units:    22)
  86. nuklearfiziks                 0.02%       16,218 (units:     4)
  87. shellkr                       0.02%       16,190 (units:    14)
