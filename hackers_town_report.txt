@@ -1,5 +1,5 @@
-As of 2020-03-31 20:22:59, hackers.town is rank 894
-   with 7,720 work units for 106,976,474 credits
+As of 2020-03-31 20:45:34, hackers.town is rank 894
+   with 7,723 work units for 106,979,854 credits
   1. wetdryvac                    13.80%   14,757,996 (units:   383)
   2. KemoNine                     10.52%   11,252,227 (units:   396)
   3. merimus                       9.97%   10,662,641 (units:   282)
@@ -19,7 +19,7 @@ As of 2020-03-31 20:22:59, hackers.town is rank 894
  17. Mr.House                      1.43%    1,533,491 (units:    72)
  18. ryen                          1.36%    1,458,442 (units:   136)
  19. kusuriya                      1.23%    1,314,054 (units:    65)
- 20. mandibular joint dysfunction  1.19%    1,274,189 (units:   408)
+ 20. mandibular joint dysfunction  1.19%    1,274,626 (units:   409)
  21. qwazix                        1.08%    1,157,676 (units:   220)
  22. Anonymous                     0.90%      963,903 (units:   309)
  23. CookieMom                     0.80%      852,516 (units:    80)
@@ -42,7 +42,7 @@ As of 2020-03-31 20:22:59, hackers.town is rank 894
  40. felix                         0.33%      351,592 (units:    49)
  41. drwho                         0.32%      340,283 (units:   240)
  42. Logomancer                    0.31%      331,564 (units:   145)
- 43. KitRedgrave                   0.28%      298,819 (units:    55)
+ 43. KitRedgrave                   0.28%      299,062 (units:    56)
  44. rmgr                          0.27%      291,428 (units:    15)
  45. Requiem                       0.26%      276,685 (units:    95)
  46. rfquerin                      0.26%      274,143 (units:    24)
@@ -54,7 +54,7 @@ As of 2020-03-31 20:22:59, hackers.town is rank 894
  52. skraelingjar                  0.15%      161,327 (units:    27)
  53. Canageek                      0.14%      152,774 (units:    37)
  54. Mnemonic                      0.14%      150,601 (units:    73)
- 55. technolust                    0.14%      146,427 (units:    83)
+ 55. technolust                    0.14%      149,127 (units:    84)
  56. Hany                          0.13%      139,596 (units:    32)
  57. m68k                          0.13%      138,322 (units:    32)
  58. Kyresti                       0.12%      127,356 (units:    18)
