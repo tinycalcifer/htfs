@@ -1,5 +1,5 @@
-As of 2020-03-31 00:07:55, hackers.town is rank 910
-   with 7,458 work units for 102,668,282 credits
+As of 2020-03-31 00:16:26, hackers.town is rank 910
+   with 7,461 work units for 102,676,080 credits
   1. wetdryvac                    13.15%   13,497,769 (units:   357)
   2. KemoNine                     10.48%   10,763,308 (units:   385)
   3. merimus                      10.11%   10,377,575 (units:   279)
@@ -55,9 +55,9 @@ As of 2020-03-31 00:07:55, hackers.town is rank 910
  53. m68k                          0.13%      134,422 (units:    31)
  54. Kyresti                       0.12%      127,356 (units:    18)
  55. arbu                          0.12%      125,499 (units:     7)
- 56. skraelingjar                  0.12%      121,156 (units:    23)
- 57. csrsuoeb                      0.12%      120,156 (units:    21)
- 58. Canageek                      0.11%      116,716 (units:    31)
+ 56. Canageek                      0.12%      124,324 (units:    32)
+ 57. skraelingjar                  0.12%      121,156 (units:    23)
+ 58. csrsuoeb                      0.12%      120,156 (units:    21)
  59. technolust                    0.11%      113,125 (units:    70)
  60. Hany                          0.11%      111,809 (units:    26)
  61. heliostatic                   0.10%      101,482 (units:    26)
@@ -75,8 +75,8 @@ As of 2020-03-31 00:07:55, hackers.town is rank 910
  73. emelie                        0.05%       46,275 (units:     4)
  74. silksnep                      0.04%       43,376 (units:    64)
  75. Purple                        0.04%       37,565 (units:    18)
- 76. gwozniak                      0.04%       36,632 (units:    54)
- 77. claudiom                      0.04%       36,610 (units:   281)
+ 76. claudiom                      0.04%       36,800 (units:   283)
+ 77. gwozniak                      0.04%       36,632 (units:    54)
  78. Tool_Man                      0.03%       35,354 (units:    53)
  79. RandyNose                     0.03%       34,101 (units:    48)
  80. Phlox                         0.03%       32,011 (units:     2)
