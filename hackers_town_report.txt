@@ -1,11 +1,11 @@
-As of 2020-03-31 07:24:42, hackers.town is rank 904
-   with 7,555 work units for 104,223,739 credits
-  1. wetdryvac                    13.47%   14,040,960 (units:   367)
-  2. KemoNine                     10.41%   10,845,609 (units:   387)
-  3. merimus                      10.11%   10,532,346 (units:   281)
+As of 2020-03-31 07:39:22, hackers.town is rank 904
+   with 7,560 work units for 104,252,940 credits
+  1. wetdryvac                    13.48%   14,055,641 (units:   368)
+  2. KemoNine                     10.40%   10,845,609 (units:   387)
+  3. merimus                      10.10%   10,532,346 (units:   281)
   4. packetcat                     7.87%    8,206,333 (units:    74)
   5. Freakazoid                    5.52%    5,750,313 (units:   181)
-  6. Polychrome                    4.32%    4,501,878 (units:   172)
+  6. Polychrome                    4.32%    4,505,273 (units:   173)
   7. Werekat                       3.22%    3,354,107 (units:   109)
   8. Calcifer                      3.15%    3,286,914 (units:    62)
   9. c0debabe                      3.01%    3,135,314 (units:    88)
@@ -26,7 +26,7 @@ As of 2020-03-31 07:24:42, hackers.town is rank 904
  24. TerrorBite                    0.79%      822,047 (units:    16)
  25. Null                          0.79%      818,594 (units:    22)
  26. sungo                         0.76%      794,319 (units:   211)
- 27. paullindner                   0.65%      678,287 (units:   136)
+ 27. paullindner                   0.65%      680,772 (units:   137)
  28. dafuchs                       0.64%      663,584 (units:    26)
  29. DJ_Sundog                     0.63%      655,503 (units:   126)
  30. TG                            0.61%      632,619 (units:   126)
@@ -52,8 +52,8 @@ As of 2020-03-31 07:24:42, hackers.town is rank 904
  50. jkl                           0.17%      173,061 (units:    55)
  51. zx3                           0.16%      165,991 (units:    26)
  52. Mnemonic                      0.14%      150,601 (units:    73)
- 53. skraelingjar                  0.13%      138,246 (units:    25)
- 54. Canageek                      0.13%      134,729 (units:    34)
+ 53. Canageek                      0.14%      143,369 (units:    36)
+ 54. skraelingjar                  0.13%      138,246 (units:    25)
  55. m68k                          0.13%      134,422 (units:    31)
  56. Kyresti                       0.12%      127,356 (units:    18)
  57. arbu                          0.12%      125,499 (units:     7)
