@@ -1,5 +1,5 @@
-As of 2020-03-31 21:56:40, hackers.town is rank 894
-   with 7,745 work units for 107,450,968 credits
+As of 2020-03-31 21:57:00, hackers.town is rank 894
+   with 7,746 work units for 107,451,388 credits
   1. wetdryvac                    13.82%   14,854,899 (units:   385)
   2. KemoNine                     10.47%   11,252,227 (units:   396)
   3. merimus                      10.05%   10,795,063 (units:   283)
@@ -77,7 +77,7 @@ As of 2020-03-31 21:56:40, hackers.town is rank 894
  75. gwozniak                      0.04%       42,630 (units:    60)
  76. claudiom                      0.04%       39,292 (units:   292)
  77. Purple                        0.03%       37,565 (units:    18)
- 78. RandyNose                     0.03%       36,821 (units:    52)
+ 78. RandyNose                     0.03%       37,241 (units:    53)
  79. Tool_Man                      0.03%       35,354 (units:    53)
  80. Phlox                         0.03%       32,011 (units:     2)
  81. Michael_Simkin                0.03%       31,694 (units:    16)
