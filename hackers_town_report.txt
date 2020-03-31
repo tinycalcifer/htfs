@@ -1,5 +1,5 @@
-As of 2020-03-31 08:00:06, hackers.town is rank 904
-   with 7,570 work units for 104,377,823 credits
+As of 2020-03-31 08:07:40, hackers.town is rank 904
+   with 7,573 work units for 104,379,213 credits
   1. wetdryvac                    13.47%   14,055,641 (units:   368)
   2. KemoNine                     10.44%   10,896,240 (units:   388)
   3. merimus                      10.09%   10,532,346 (units:   281)
@@ -19,7 +19,7 @@ As of 2020-03-31 08:00:06, hackers.town is rank 904
  17. Mr.House                      1.41%    1,470,598 (units:    70)
  18. ryen                          1.40%    1,458,442 (units:   136)
  19. kusuriya                      1.26%    1,314,054 (units:    65)
- 20. mandibular joint dysfunction  1.22%    1,272,760 (units:   403)
+ 20. mandibular joint dysfunction  1.22%    1,273,197 (units:   404)
  21. qwazix                        1.11%    1,157,676 (units:   220)
  22. Anonymous                     0.92%      963,903 (units:   309)
  23. CookieMom                     0.82%      852,516 (units:    80)
@@ -39,7 +39,7 @@ As of 2020-03-31 08:00:06, hackers.town is rank 904
  37. synfinner                     0.40%      420,975 (units:    13)
  38. avolkov                       0.40%      415,303 (units:    33)
  39. fl0wn                         0.37%      388,420 (units:    74)
- 40. drwho                         0.32%      337,315 (units:   235)
+ 40. drwho                         0.32%      337,368 (units:   236)
  41. Logomancer                    0.32%      331,564 (units:   145)
  42. felix                         0.31%      325,097 (units:    46)
  43. KitRedgrave                   0.28%      297,334 (units:    52)
@@ -78,7 +78,7 @@ As of 2020-03-31 08:00:06, hackers.town is rank 904
  76. gwozniak                      0.04%       37,652 (units:    56)
  77. Purple                        0.04%       37,565 (units:    18)
  78. Tool_Man                      0.03%       35,354 (units:    53)
- 79. RandyNose                     0.03%       34,101 (units:    48)
+ 79. RandyNose                     0.03%       35,001 (units:    49)
  80. Phlox                         0.03%       32,011 (units:     2)
  81. Michael_Simkin                0.03%       27,997 (units:    14)
  82. Neue.City                     0.03%       27,559 (units:    10)
