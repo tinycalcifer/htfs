@@ -1,10 +1,10 @@
-As of 2020-03-31 00:36:57, hackers.town is rank 910
-   with 7,465 work units for 102,731,967 credits
+As of 2020-03-31 00:54:43, hackers.town is rank 910
+   with 7,468 work units for 102,743,923 credits
   1. wetdryvac                    13.14%   13,497,769 (units:   357)
   2. KemoNine                     10.51%   10,798,245 (units:   386)
   3. merimus                      10.10%   10,377,575 (units:   279)
-  4. packetcat                     7.85%    8,059,380 (units:    72)
-  5. Freakazoid                    5.57%    5,717,921 (units:   177)
+  4. packetcat                     7.84%    8,059,380 (units:    72)
+  5. Freakazoid                    5.57%    5,720,035 (units:   178)
   6. Polychrome                    4.38%    4,501,878 (units:   172)
   7. Calcifer                      3.20%    3,286,914 (units:    62)
   8. Werekat                       3.16%    3,243,071 (units:   107)
@@ -56,9 +56,9 @@ As of 2020-03-31 00:36:57, hackers.town is rank 910
  54. Kyresti                       0.12%      127,356 (units:    18)
  55. arbu                          0.12%      125,499 (units:     7)
  56. Canageek                      0.12%      124,324 (units:    32)
- 57. skraelingjar                  0.12%      121,156 (units:    23)
- 58. csrsuoeb                      0.12%      120,156 (units:    21)
- 59. technolust                    0.11%      113,125 (units:    70)
+ 57. technolust                    0.12%      122,530 (units:    71)
+ 58. skraelingjar                  0.12%      121,156 (units:    23)
+ 59. csrsuoeb                      0.12%      120,156 (units:    21)
  60. Hany                          0.11%      111,809 (units:    26)
  61. heliostatic                   0.10%      101,482 (units:    26)
  62. JoshMulliken                  0.09%       97,080 (units:    23)
@@ -70,7 +70,7 @@ As of 2020-03-31 00:36:57, hackers.town is rank 910
  68. George_                       0.06%       59,802 (units:    11)
  69. tomatoefolding                0.06%       59,750 (units:     1)
  70. daum3ns                       0.06%       56,636 (units:     6)
- 71. Imani                         0.05%       53,084 (units:    72)
+ 71. Imani                         0.05%       53,521 (units:    73)
  72. BadGateway                    0.05%       50,447 (units:    14)
  73. emelie                        0.05%       46,275 (units:     4)
  74. silksnep                      0.04%       43,376 (units:    64)
