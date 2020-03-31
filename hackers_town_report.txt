@@ -1,5 +1,5 @@
-As of 2020-03-31 01:42:21, hackers.town is rank 910
-   with 7,484 work units for 103,058,713 credits
+As of 2020-03-31 01:50:48, hackers.town is rank 910
+   with 7,486 work units for 103,064,487 credits
   1. wetdryvac                    13.18%   13,581,693 (units:   358)
   2. KemoNine                     10.52%   10,845,609 (units:   387)
   3. merimus                      10.14%   10,453,040 (units:   280)
@@ -18,7 +18,7 @@ As of 2020-03-31 01:42:21, hackers.town is rank 910
  16. bhtooefr                      1.76%    1,814,978 (units:    46)
  17. ryen                          1.42%    1,458,442 (units:   136)
  18. Mr.House                      1.37%    1,407,815 (units:    67)
- 19. kusuriya                      1.28%    1,314,054 (units:    65)
+ 19. kusuriya                      1.27%    1,314,054 (units:    65)
  20. mandibular joint dysfunction  1.23%    1,270,948 (units:   400)
  21. qwazix                        1.12%    1,157,676 (units:   220)
  22. Anonymous                     0.94%      963,903 (units:   309)
@@ -31,10 +31,10 @@ As of 2020-03-31 01:42:21, hackers.town is rank 910
  29. DJ_Sundog                     0.63%      646,681 (units:   124)
  30. TG                            0.61%      632,619 (units:   126)
  31. /dev/random                   0.60%      617,848 (units:    59)
- 32. mainebot                      0.54%      551,382 (units:    22)
+ 32. mainebot                      0.53%      551,382 (units:    22)
  33. Kyle                          0.50%      514,171 (units:    21)
  34. HolSta                        0.45%      461,750 (units:    56)
- 35. tayo                          0.45%      459,142 (units:   138)
+ 35. tayo                          0.45%      460,665 (units:   139)
  36. protospork                    0.41%      423,474 (units:    58)
  37. synfinner                     0.41%      420,975 (units:    13)
  38. avolkov                       0.40%      415,303 (units:    33)
@@ -44,7 +44,7 @@ As of 2020-03-31 01:42:21, hackers.town is rank 910
  42. felix                         0.31%      314,792 (units:    44)
  43. KitRedgrave                   0.29%      297,334 (units:    52)
  44. rmgr                          0.28%      291,428 (units:    15)
- 45. Requiem                       0.26%      267,495 (units:    92)
+ 45. Requiem                       0.26%      271,746 (units:    93)
  46. rfquerin                      0.25%      258,723 (units:    20)
  47. LordBowlich                   0.25%      257,085 (units:    59)
  48. debugninja                    0.25%      253,887 (units:    25)
