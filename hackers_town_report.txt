@@ -1,9 +1,9 @@
-As of 2020-03-31 14:41:47, hackers.town is rank 898
-   with 7,655 work units for 105,910,743 credits
-  1. wetdryvac                    13.64%   14,445,542 (units:   376)
+As of 2020-03-31 14:56:04, hackers.town is rank 898
+   with 7,657 work units for 105,955,972 credits
+  1. wetdryvac                    13.67%   14,483,483 (units:   377)
   2. KemoNine                     10.48%   11,102,137 (units:   392)
-  3. merimus                      10.07%   10,662,641 (units:   282)
-  4. packetcat                     8.00%    8,467,786 (units:    76)
+  3. merimus                      10.06%   10,662,641 (units:   282)
+  4. packetcat                     7.99%    8,467,786 (units:    76)
   5. Freakazoid                    5.43%    5,750,313 (units:   181)
   6. Polychrome                    4.28%    4,532,241 (units:   176)
   7. Werekat                       3.18%    3,365,848 (units:   112)
@@ -14,7 +14,7 @@ As of 2020-03-31 14:41:47, hackers.town is rank 898
  12. r000t                         2.45%    2,594,023 (units:    51)
  13. dokuja                        2.35%    2,488,623 (units:   265)
  14. FOOL                          2.10%    2,219,836 (units:   116)
- 15. pfreak                        1.89%    1,996,770 (units:    48)
+ 15. pfreak                        1.88%    1,996,770 (units:    48)
  16. bhtooefr                      1.77%    1,876,276 (units:    48)
  17. Mr.House                      1.39%    1,470,598 (units:    70)
  18. ryen                          1.38%    1,458,442 (units:   136)
@@ -27,7 +27,7 @@ As of 2020-03-31 14:41:47, hackers.town is rank 898
  25. Null                          0.77%      818,594 (units:    22)
  26. sungo                         0.75%      798,375 (units:   213)
  27. dafuchs                       0.68%      721,059 (units:    33)
- 28. paullindner                   0.65%      692,856 (units:   140)
+ 28. paullindner                   0.66%      700,144 (units:   141)
  29. DJ_Sundog                     0.63%      668,010 (units:   129)
  30. TG                            0.60%      632,619 (units:   126)
  31. /dev/random                   0.58%      617,848 (units:    59)
