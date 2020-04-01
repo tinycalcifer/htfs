@@ -1,8 +1,8 @@
-As of 2020-04-01 08:48:28, hackers.town is rank 888
-   with 7,877 work units for 109,593,877 credits
+As of 2020-04-01 08:57:35, hackers.town is rank 888
+   with 7,880 work units for 109,607,569 credits
   1. wetdryvac                    14.22%   15,585,390 (units:   397)
   2. KemoNine                     10.40%   11,402,436 (units:   399)
-  3. merimus                       9.91%   10,855,426 (units:   285)
+  3. merimus                       9.90%   10,855,426 (units:   285)
   4. packetcat                     8.02%    8,792,067 (units:    79)
   5. Freakazoid                    5.61%    6,153,024 (units:   187)
   6. Polychrome                    4.14%    4,540,408 (units:   178)
@@ -19,16 +19,16 @@ As of 2020-04-01 08:48:28, hackers.town is rank 888
  17. Mr.House                      1.48%    1,619,291 (units:    73)
  18. ryen                          1.33%    1,458,442 (units:   136)
  19. kusuriya                      1.20%    1,314,054 (units:    65)
- 20. mandibular joint dysfunction  1.16%    1,275,062 (units:   411)
+ 20. mandibular joint dysfunction  1.16%    1,275,305 (units:   412)
  21. qwazix                        1.06%    1,157,676 (units:   220)
  22. Anonymous                     0.88%      963,903 (units:   309)
  23. CookieMom                     0.78%      852,516 (units:    80)
  24. TerrorBite                    0.75%      822,047 (units:    16)
  25. Null                          0.75%      818,594 (units:    22)
- 26. sungo                         0.74%      806,014 (units:   216)
+ 26. sungo                         0.74%      812,233 (units:   217)
  27. dafuchs                       0.73%      797,138 (units:    38)
  28. /dev/random                   0.72%      784,710 (units:    65)
- 29. paullindner                   0.67%      737,979 (units:   148)
+ 29. paullindner                   0.68%      745,209 (units:   149)
  30. DJ_Sundog                     0.63%      686,624 (units:   133)
  31. TG                            0.58%      632,619 (units:   126)
  32. mainebot                      0.50%      551,382 (units:    22)
