@@ -1,5 +1,5 @@
-As of 2020-04-01 23:12:23, hackers.town is rank 879
-   with 8,062 work units for 112,194,322 credits
+As of 2020-04-01 23:30:41, hackers.town is rank 879
+   with 8,065 work units for 112,195,802 credits
   1. wetdryvac                    14.26%   16,004,163 (units:   409)
   2. KemoNine                     10.66%   11,962,696 (units:   416)
   3. merimus                       9.68%   10,855,426 (units:   285)
@@ -56,7 +56,7 @@ As of 2020-04-01 23:12:23, hackers.town is rank 879
  54. m68k                          0.14%      157,252 (units:    38)
  55. technolust                    0.14%      155,794 (units:   100)
  56. Mnemonic                      0.13%      150,601 (units:    73)
- 57. Hany                          0.13%      144,496 (units:    34)
+ 57. Hany                          0.13%      144,933 (units:    35)
  58. Kyresti                       0.11%      127,356 (units:    18)
  59. arbu                          0.11%      125,499 (units:     7)
  60. csrsuoeb                      0.11%      120,156 (units:    21)
@@ -85,7 +85,7 @@ As of 2020-04-01 23:12:23, hackers.town is rank 879
  83. Michael_Simkin                0.03%       31,694 (units:    16)
  84. Alteraner92                   0.02%       27,006 (units:    16)
  85. MaxAtCastleMalmeddy           0.02%       26,309 (units:    36)
- 86. tbn97                         0.02%       25,350 (units:    33)
+ 86. tbn97                         0.02%       25,593 (units:    34)
  87. julianaito                    0.02%       24,640 (units:    69)
  88. nuklearfiziks                 0.02%       23,903 (units:     5)
  89. neil                          0.02%       23,436 (units:    16)
@@ -106,9 +106,9 @@ As of 2020-04-01 23:12:23, hackers.town is rank 879
 104. ASBJORN                       0.01%       12,368 (units:    19)
 105. Data                          0.01%       11,812 (units:    15)
 106. Bingo                         0.01%       10,657 (units:    22)
-107. Mathis                        0.01%        9,105 (units:     7)
-108. OldRedSun                     0.01%        9,054 (units:     1)
-109. LunaLapin                     0.01%        8,441 (units:    11)
+107. LunaLapin                     0.01%        9,241 (units:    12)
+108. Mathis                        0.01%        9,105 (units:     7)
+109. OldRedSun                     0.01%        9,054 (units:     1)
 110. amsomniac                     0.01%        8,314 (units:    25)
 111. teecee                        0.01%        7,506 (units:    10)
 112. neoninteger                   0.01%        7,373 (units:    11)
