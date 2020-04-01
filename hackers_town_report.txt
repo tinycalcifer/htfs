@@ -1,5 +1,5 @@
-As of 2020-04-01 16:41:49, hackers.town is rank 884
-   with 7,983 work units for 111,033,610 credits
+As of 2020-04-01 17:00:18, hackers.town is rank 884
+   with 7,987 work units for 111,035,912 credits
   1. wetdryvac                    14.11%   15,663,471 (units:   402)
   2. KemoNine                     10.76%   11,943,652 (units:   411)
   3. merimus                       9.78%   10,855,426 (units:   285)
@@ -9,7 +9,7 @@ As of 2020-04-01 16:41:49, hackers.town is rank 884
   7. Werekat                       3.04%    3,373,386 (units:   114)
   8. Calcifer                      2.99%    3,315,858 (units:    66)
   9. SiinaCutie                    2.91%    3,229,247 (units:   188)
- 10. c0debabe                      2.89%    3,203,434 (units:    89)
+ 10. c0debabe                      2.89%    3,204,676 (units:    90)
  11. r000t                         2.50%    2,772,349 (units:    54)
  12. dokuja                        2.47%    2,739,524 (units:   278)
  13. radicaledward                 2.35%    2,610,515 (units:    89)
@@ -39,7 +39,7 @@ As of 2020-04-01 16:41:49, hackers.town is rank 884
  37. avolkov                       0.38%      422,988 (units:    34)
  38. synfinner                     0.38%      420,975 (units:    13)
  39. fl0wn                         0.35%      388,420 (units:    74)
- 40. felix                         0.32%      360,069 (units:    52)
+ 40. felix                         0.33%      360,869 (units:    53)
  41. drwho                         0.31%      346,778 (units:   255)
  42. Logomancer                    0.30%      331,564 (units:   145)
  43. KitRedgrave                   0.27%      299,348 (units:    57)
@@ -75,7 +75,7 @@ As of 2020-04-01 16:41:49, hackers.town is rank 884
  73. silksnep                      0.04%       47,946 (units:    71)
  74. emelie                        0.04%       46,275 (units:     4)
  75. Neue.City                     0.04%       44,815 (units:    13)
- 76. claudiom                      0.04%       44,523 (units:   312)
+ 76. claudiom                      0.04%       44,783 (units:   314)
  77. gwozniak                      0.04%       44,402 (units:    64)
  78. RandyNose                     0.04%       41,970 (units:    60)
  79. Purple                        0.03%       37,565 (units:    18)
