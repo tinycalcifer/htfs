@@ -1,5 +1,5 @@
-As of 2020-04-01 08:22:28, hackers.town is rank 888
-   with 7,870 work units for 109,560,296 credits
+As of 2020-04-01 08:31:38, hackers.town is rank 888
+   with 7,873 work units for 109,563,322 credits
   1. wetdryvac                    14.23%   15,585,390 (units:   397)
   2. KemoNine                     10.41%   11,402,436 (units:   399)
   3. merimus                       9.91%   10,855,426 (units:   285)
@@ -40,7 +40,7 @@ As of 2020-04-01 08:22:28, hackers.town is rank 888
  38. synfinner                     0.38%      420,975 (units:    13)
  39. fl0wn                         0.35%      388,420 (units:    74)
  40. felix                         0.33%      359,277 (units:    50)
- 41. drwho                         0.31%      343,766 (units:   245)
+ 41. drwho                         0.31%      343,837 (units:   246)
  42. Logomancer                    0.30%      331,564 (units:   145)
  43. KitRedgrave                   0.27%      299,348 (units:    57)
  44. rmgr                          0.27%      291,428 (units:    15)
@@ -60,8 +60,8 @@ As of 2020-04-01 08:22:28, hackers.town is rank 888
  58. Kyresti                       0.12%      127,356 (units:    18)
  59. arbu                          0.11%      125,499 (units:     7)
  60. csrsuoeb                      0.11%      120,156 (units:    21)
- 61. heliostatic                   0.09%      101,482 (units:    26)
- 62. Nemesis                       0.09%      100,891 (units:    52)
+ 61. Nemesis                       0.09%      103,626 (units:    53)
+ 62. heliostatic                   0.09%      101,482 (units:    26)
  63. JoshMulliken                  0.09%       97,080 (units:    23)
  64. piggo                         0.07%       75,350 (units:    15)
  65. Brian                         0.07%       71,731 (units:    29)
@@ -93,7 +93,7 @@ As of 2020-04-01 08:22:28, hackers.town is rank 888
  91.                               0.02%       21,835 (units:    19)
  92. SJM                           0.02%       21,011 (units:     8)
  93. murph                         0.02%       19,785 (units:     9)
- 94. crc32                         0.02%       19,131 (units:    27)
+ 94. crc32                         0.02%       19,351 (units:    28)
  95. shellkr                       0.01%       16,190 (units:    14)
  96. Twitter                       0.01%       16,044 (units:    19)
  97. pmosetc                       0.01%       15,237 (units:    14)
