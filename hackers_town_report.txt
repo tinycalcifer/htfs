@@ -1,5 +1,5 @@
-As of 2020-04-01 05:44:20, hackers.town is rank 888
-   with 7,819 work units for 108,779,973 credits
+As of 2020-04-01 06:01:09, hackers.town is rank 888
+   with 7,823 work units for 108,790,772 credits
   1. wetdryvac                    14.16%   15,400,233 (units:   393)
   2. KemoNine                     10.40%   11,318,514 (units:   398)
   3. merimus                       9.98%   10,855,426 (units:   285)
@@ -44,9 +44,9 @@ As of 2020-04-01 05:44:20, hackers.town is rank 888
  42. Logomancer                    0.30%      331,564 (units:   145)
  43. KitRedgrave                   0.28%      299,348 (units:    57)
  44. rmgr                          0.27%      291,428 (units:    15)
- 45. Requiem                       0.26%      280,813 (units:    97)
+ 45. Requiem                       0.26%      285,938 (units:    98)
  46. rfquerin                      0.25%      276,155 (units:    25)
- 47. LordBowlich                   0.24%      262,997 (units:    61)
+ 47. LordBowlich                   0.25%      268,545 (units:    62)
  48. debugninja                    0.23%      253,887 (units:    25)
  49. djsumdog                      0.23%      253,356 (units:    30)
  50. jkl                           0.16%      173,061 (units:    55)
@@ -75,7 +75,7 @@ As of 2020-04-01 05:44:20, hackers.town is rank 888
  73. silksnep                      0.04%       47,946 (units:    71)
  74. emelie                        0.04%       46,275 (units:     4)
  75. gwozniak                      0.04%       44,159 (units:    63)
- 76. claudiom                      0.04%       39,794 (units:   299)
+ 76. claudiom                      0.04%       39,857 (units:   300)
  77. RandyNose                     0.04%       39,407 (units:    56)
  78. Purple                        0.03%       37,565 (units:    18)
  79. Tool_Man                      0.03%       35,354 (units:    53)
@@ -112,7 +112,7 @@ As of 2020-04-01 05:44:20, hackers.town is rank 888
 110. neoninteger                   0.01%        7,373 (units:    11)
 111. dimazest                      0.01%        7,169 (units:     6)
 112. LordMathis                    0.01%        6,356 (units:    11)
-113. amsomniac                     0.01%        5,883 (units:    16)
+113. amsomniac                     0.01%        5,946 (units:    17)
 114. imacrea                       0.01%        5,818 (units:     8)
 115. Azure                         0.01%        5,715 (units:     9)
 116. Seb                           0.00%        4,676 (units:    12)
