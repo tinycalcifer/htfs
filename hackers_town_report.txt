@@ -1,5 +1,5 @@
-As of 2020-04-01 10:10:18, hackers.town is rank 885
-   with 7,895 work units for 109,911,568 credits
+As of 2020-04-01 10:17:38, hackers.town is rank 885
+   with 7,899 work units for 109,916,289 credits
   1. wetdryvac                    14.21%   15,619,352 (units:   398)
   2. KemoNine                     10.45%   11,491,212 (units:   402)
   3. merimus                       9.88%   10,855,426 (units:   285)
@@ -40,13 +40,13 @@ As of 2020-04-01 10:10:18, hackers.town is rank 885
  38. synfinner                     0.38%      420,975 (units:    13)
  39. fl0wn                         0.35%      388,420 (units:    74)
  40. felix                         0.33%      359,277 (units:    50)
- 41. drwho                         0.31%      344,625 (units:   251)
+ 41. drwho                         0.31%      344,683 (units:   252)
  42. Logomancer                    0.30%      331,564 (units:   145)
  43. KitRedgrave                   0.27%      299,348 (units:    57)
  44. rmgr                          0.27%      291,428 (units:    15)
  45. Requiem                       0.26%      291,077 (units:    99)
  46. rfquerin                      0.25%      276,155 (units:    25)
- 47. LordBowlich                   0.25%      273,021 (units:    63)
+ 47. LordBowlich                   0.25%      273,264 (units:    64)
  48. debugninja                    0.23%      253,887 (units:    25)
  49. djsumdog                      0.23%      253,356 (units:    30)
  50. skraelingjar                  0.17%      189,890 (units:    28)
@@ -63,8 +63,8 @@ As of 2020-04-01 10:10:18, hackers.town is rank 885
  61. Nemesis                       0.09%      103,626 (units:    53)
  62. heliostatic                   0.09%      101,482 (units:    26)
  63. JoshMulliken                  0.09%       97,080 (units:    23)
- 64. piggo                         0.07%       75,350 (units:    15)
- 65. Brian                         0.07%       71,731 (units:    29)
+ 64. Brian                         0.07%       75,865 (units:    30)
+ 65. piggo                         0.07%       75,350 (units:    15)
  66. Murph                         0.06%       71,069 (units:    21)
  67. deowyth                       0.06%       68,655 (units:     5)
  68. George_                       0.05%       59,802 (units:    11)
@@ -112,7 +112,7 @@ As of 2020-04-01 10:10:18, hackers.town is rank 885
 110. teecee                        0.01%        7,506 (units:    10)
 111. neoninteger                   0.01%        7,373 (units:    11)
 112. dimazest                      0.01%        7,169 (units:     6)
-113. amsomniac                     0.01%        6,528 (units:    21)
+113. amsomniac                     0.01%        6,814 (units:    22)
 114. LordMathis                    0.01%        6,356 (units:    11)
 115. imacrea                       0.01%        5,818 (units:     8)
 116. Azure                         0.01%        5,715 (units:     9)
