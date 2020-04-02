@@ -1,5 +1,5 @@
-As of 2020-04-02 02:03:13, hackers.town is rank 876
-   with 8,104 work units for 112,957,558 credits
+As of 2020-04-02 02:19:03, hackers.town is rank 876
+   with 8,106 work units for 112,964,369 credits
   1. wetdryvac                    14.43%   16,299,392 (units:   413)
   2. KemoNine                     10.63%   12,010,314 (units:   418)
   3. merimus                       9.66%   10,913,295 (units:   287)
@@ -28,7 +28,7 @@ As of 2020-04-02 02:03:13, hackers.town is rank 876
  26. TerrorBite                    0.73%      822,047 (units:    16)
  27. sungo                         0.73%      820,847 (units:   220)
  28. Null                          0.72%      818,594 (units:    22)
- 29. DJ_Sundog                     0.67%      755,334 (units:   140)
+ 29. DJ_Sundog                     0.67%      761,445 (units:   141)
  30. paullindner                   0.66%      750,398 (units:   150)
  31. TG                            0.56%      632,619 (units:   126)
  32. mainebot                      0.49%      557,720 (units:    23)
@@ -43,7 +43,7 @@ As of 2020-04-02 02:03:13, hackers.town is rank 876
  41. drwho                         0.31%      348,506 (units:   256)
  42. Logomancer                    0.29%      331,564 (units:   145)
  43. skraelingjar                  0.28%      317,375 (units:    30)
- 44. KitRedgrave                   0.27%      299,348 (units:    57)
+ 44. KitRedgrave                   0.26%      299,348 (units:    57)
  45. Requiem                       0.26%      298,178 (units:   103)
  46. rmgr                          0.26%      291,428 (units:    15)
  47. rfquerin                      0.24%      276,155 (units:    25)
@@ -98,9 +98,9 @@ As of 2020-04-02 02:03:13, hackers.town is rank 876
  96. shellkr                       0.01%       16,190 (units:    14)
  97. Twitter                       0.01%       16,044 (units:    19)
  98. pmosetc                       0.01%       15,237 (units:    14)
- 99. tn5421                        0.01%       14,710 (units:    37)
-100. dctrud                        0.01%       14,635 (units:     8)
-101. atinciona                     0.01%       14,436 (units:    25)
+ 99. atinciona                     0.01%       15,136 (units:    26)
+100. tn5421                        0.01%       14,710 (units:    37)
+101. dctrud                        0.01%       14,635 (units:     8)
 102. socketwench                   0.01%       12,855 (units:    15)
 103. SteveTheDragon                0.01%       12,572 (units:    10)
 104. ASBJORN                       0.01%       12,368 (units:    19)
