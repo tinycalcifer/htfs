@@ -1,5 +1,5 @@
-As of 2020-04-02 00:47:21, hackers.town is rank 879
-   with 8,087 work units for 112,652,837 credits
+As of 2020-04-02 01:00:20, hackers.town is rank 879
+   with 8,090 work units for 112,659,231 credits
   1. wetdryvac                    14.41%   16,233,188 (units:   412)
   2. KemoNine                     10.62%   11,964,154 (units:   417)
   3. merimus                       9.64%   10,857,646 (units:   286)
@@ -32,7 +32,7 @@ As of 2020-04-02 00:47:21, hackers.town is rank 879
  30. paullindner                   0.67%      750,398 (units:   150)
  31. TG                            0.56%      632,619 (units:   126)
  32. mainebot                      0.49%      551,382 (units:    22)
- 33. Kyle                          0.46%      514,171 (units:    21)
+ 33. Kyle                          0.46%      517,989 (units:    22)
  34. tayo                          0.44%      492,486 (units:   148)
  35. HolSta                        0.41%      461,750 (units:    56)
  36. protospork                    0.38%      423,474 (units:    58)
@@ -44,7 +44,7 @@ As of 2020-04-02 00:47:21, hackers.town is rank 879
  42. Logomancer                    0.29%      331,564 (units:   145)
  43. skraelingjar                  0.28%      317,375 (units:    30)
  44. KitRedgrave                   0.27%      299,348 (units:    57)
- 45. Requiem                       0.26%      295,822 (units:   102)
+ 45. Requiem                       0.26%      298,178 (units:   103)
  46. rmgr                          0.26%      291,428 (units:    15)
  47. rfquerin                      0.25%      276,155 (units:    25)
  48. LordBowlich                   0.24%      274,374 (units:    66)
@@ -77,7 +77,7 @@ As of 2020-04-02 00:47:21, hackers.town is rank 879
  75. emelie                        0.04%       46,275 (units:     4)
  76. claudiom                      0.04%       45,089 (units:   317)
  77. gwozniak                      0.04%       44,402 (units:    64)
- 78. RandyNose                     0.04%       42,190 (units:    61)
+ 78. RandyNose                     0.04%       42,410 (units:    62)
  79. elfgirlsarah                  0.04%       41,309 (units:     6)
  80. Purple                        0.03%       37,565 (units:    18)
  81. Tool_Man                      0.03%       35,354 (units:    53)
