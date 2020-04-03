@@ -1,14 +1,14 @@
-As of 2020-04-03 15:31:59, hackers.town is rank 856
-   with 8,790 work units for 120,823,967 credits
+As of 2020-04-03 15:49:21, hackers.town is rank 856
+   with 8,794 work units for 120,835,635 credits
   1. wetdryvac                    14.41%   17,416,112 (units:   466)
-  2. KemoNine                     10.59%   12,793,130 (units:   450)
+  2. KemoNine                     10.59%   12,798,939 (units:   452)
   3. merimus                       9.94%   12,006,471 (units:   321)
   4. packetcat                     7.28%    8,792,067 (units:    79)
   5. Freakazoid                    6.06%    7,321,586 (units:   223)
   6. Polychrome                    4.21%    5,088,965 (units:   197)
   7. c0debabe                      3.23%    3,897,405 (units:   107)
   8. Werekat                       2.88%    3,474,093 (units:   135)
-  9. SiinaCutie                    2.83%    3,413,493 (units:   193)
+  9. SiinaCutie                    2.82%    3,413,493 (units:   193)
  10. Calcifer                      2.75%    3,326,767 (units:    68)
  11. dokuja                        2.52%    3,047,540 (units:   292)
  12. r000t                         2.29%    2,772,349 (units:    54)
@@ -26,8 +26,8 @@ As of 2020-04-03 15:31:59, hackers.town is rank 856
  24. Anonymous                     0.82%      991,256 (units:   331)
  25. CookieMom                     0.72%      875,597 (units:    82)
  26. sungo                         0.70%      850,071 (units:   230)
- 27. DJ_Sundog                     0.70%      839,764 (units:   155)
- 28. paullindner                   0.68%      823,238 (units:   162)
+ 27. DJ_Sundog                     0.69%      839,764 (units:   155)
+ 28. paullindner                   0.69%      828,761 (units:   163)
  29. TerrorBite                    0.68%      822,047 (units:    16)
  30. Null                          0.68%      818,594 (units:    22)
  31. TG                            0.54%      657,139 (units:   129)
@@ -68,7 +68,7 @@ As of 2020-04-03 15:31:59, hackers.town is rank 856
  66. BadGateway                    0.07%       82,690 (units:    26)
  67. piggo                         0.06%       75,350 (units:    15)
  68. Murph                         0.06%       71,069 (units:    21)
- 69. Neue.City                     0.06%       69,565 (units:    20)
+ 69. Neue.City                     0.06%       69,901 (units:    21)
  70. deowyth                       0.06%       68,655 (units:     5)
  71. Imani                         0.05%       61,207 (units:    87)
  72. George_                       0.05%       59,802 (units:    11)
