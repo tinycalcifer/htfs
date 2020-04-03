@@ -1,10 +1,10 @@
-As of 2020-04-03 02:05:46, hackers.town is rank 865
-   with 8,527 work units for 119,273,195 credits
+As of 2020-04-03 02:23:23, hackers.town is rank 865
+   with 8,530 work units for 119,281,860 credits
   1. wetdryvac                    14.43%   17,207,572 (units:   451)
   2. KemoNine                     10.55%   12,581,195 (units:   441)
   3. merimus                       9.99%   11,918,673 (units:   310)
   4. packetcat                     7.37%    8,792,067 (units:    79)
-  5. Freakazoid                    6.01%    7,162,473 (units:   211)
+  5. Freakazoid                    6.00%    7,162,473 (units:   211)
   6. Polychrome                    4.14%    4,936,709 (units:   189)
   7. c0debabe                      3.17%    3,783,149 (units:   104)
   8. Werekat                       2.86%    3,416,668 (units:   127)
@@ -24,7 +24,7 @@ As of 2020-04-03 02:05:46, hackers.town is rank 865
  22. qwazix                        0.97%    1,157,676 (units:   220)
  23. dafuchs                       0.91%    1,085,232 (units:    58)
  24. Anonymous                     0.83%      987,206 (units:   322)
- 25. CookieMom                     0.71%      852,516 (units:    80)
+ 25. CookieMom                     0.72%      860,201 (units:    81)
  26. sungo                         0.69%      825,470 (units:   222)
  27. TerrorBite                    0.69%      822,047 (units:    16)
  28. Null                          0.69%      818,594 (units:    22)
@@ -72,7 +72,7 @@ As of 2020-04-03 02:05:46, hackers.town is rank 865
  70. Neue.City                     0.06%       68,062 (units:    16)
  71. George_                       0.05%       59,802 (units:    11)
  72. tomatoefolding                0.05%       59,750 (units:     1)
- 73. Imani                         0.05%       57,397 (units:    80)
+ 73. Imani                         0.05%       58,067 (units:    81)
  74. daum3ns                       0.05%       56,636 (units:     6)
  75. silksnep                      0.04%       50,546 (units:    74)
  76. Michael_Simkin                0.04%       49,818 (units:    22)
@@ -84,7 +84,7 @@ As of 2020-04-03 02:05:46, hackers.town is rank 865
  82. Purple                        0.03%       37,565 (units:    18)
  83. Tool_Man                      0.03%       35,354 (units:    53)
  84. Phlox                         0.03%       32,011 (units:     2)
- 85. tbn97                         0.02%       29,783 (units:    39)
+ 85. tbn97                         0.03%       30,093 (units:    40)
  86. neil                          0.02%       27,912 (units:    17)
  87. MaxAtCastleMalmeddy           0.02%       27,746 (units:    38)
  88.                               0.02%       26,084 (units:    21)
