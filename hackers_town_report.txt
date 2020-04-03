@@ -1,10 +1,10 @@
-As of 2020-04-03 17:47:48, hackers.town is rank 856
-   with 8,829 work units for 121,289,810 credits
+As of 2020-04-03 18:08:40, hackers.town is rank 856
+   with 8,831 work units for 121,298,225 credits
   1. wetdryvac                    14.48%   17,565,553 (units:   470)
   2. KemoNine                     10.55%   12,801,478 (units:   453)
   3. merimus                       9.90%   12,006,471 (units:   321)
   4. packetcat                     7.25%    8,792,067 (units:    79)
-  5. Freakazoid                    6.09%    7,380,731 (units:   224)
+  5. Freakazoid                    6.08%    7,380,731 (units:   224)
   6. Polychrome                    4.20%    5,094,269 (units:   199)
   7. c0debabe                      3.21%    3,897,405 (units:   107)
   8. Werekat                       2.86%    3,474,093 (units:   135)
@@ -66,9 +66,9 @@ As of 2020-04-03 17:47:48, hackers.town is rank 856
  64. heliostatic                   0.08%      101,482 (units:    26)
  65. JoshMulliken                  0.08%       97,080 (units:    23)
  66. BadGateway                    0.07%       82,690 (units:    26)
- 67. piggo                         0.06%       75,350 (units:    15)
- 68. Murph                         0.06%       71,069 (units:    21)
- 69. Neue.City                     0.06%       69,901 (units:    21)
+ 67. Neue.City                     0.06%       77,586 (units:    22)
+ 68. piggo                         0.06%       75,350 (units:    15)
+ 69. Murph                         0.06%       71,069 (units:    21)
  70. deowyth                       0.06%       68,655 (units:     5)
  71. Imani                         0.05%       61,207 (units:    87)
  72. George_                       0.05%       59,802 (units:    11)
@@ -80,7 +80,7 @@ As of 2020-04-03 17:47:48, hackers.town is rank 856
  78. RandyNose                     0.04%       47,296 (units:    71)
  79. emelie                        0.04%       46,275 (units:     4)
  80. gwozniak                      0.04%       46,222 (units:    66)
- 81. Alteraner92                   0.03%       39,806 (units:    20)
+ 81. Alteraner92                   0.03%       40,536 (units:    21)
  82. Purple                        0.03%       37,565 (units:    18)
  83. Tool_Man                      0.03%       35,354 (units:    53)
  84. Phlox                         0.03%       32,011 (units:     2)
