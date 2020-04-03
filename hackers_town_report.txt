@@ -1,10 +1,10 @@
-As of 2020-04-03 08:20:32, hackers.town is rank 859
-   with 8,652 work units for 120,280,450 credits
-  1. wetdryvac                    14.46%   17,392,094 (units:   458)
+As of 2020-04-03 08:36:24, hackers.town is rank 859
+   with 8,659 work units for 120,294,150 credits
+  1. wetdryvac                    14.46%   17,393,257 (units:   459)
   2. KemoNine                     10.58%   12,728,519 (units:   446)
   3. merimus                       9.96%   11,977,562 (units:   317)
   4. packetcat                     7.31%    8,792,067 (units:    79)
-  5. Freakazoid                    6.00%    7,219,851 (units:   214)
+  5. Freakazoid                    6.01%    7,227,466 (units:   216)
   6. Polychrome                    4.17%    5,014,122 (units:   195)
   7. c0debabe                      3.24%    3,894,312 (units:   106)
   8. Werekat                       2.86%    3,437,088 (units:   130)
@@ -18,7 +18,7 @@ As of 2020-04-03 08:20:32, hackers.town is rank 859
  16. pfreak                        1.66%    1,996,770 (units:    48)
  17. Mr.House                      1.65%    1,980,753 (units:    80)
  18. ryen                          1.21%    1,458,442 (units:   136)
- 19. mandibular joint dysfunction  1.10%    1,322,488 (units:   439)
+ 19. mandibular joint dysfunction  1.10%    1,323,748 (units:   442)
  20. kusuriya                      1.09%    1,314,054 (units:    65)
  21. /dev/random                   1.07%    1,291,911 (units:    79)
  22. qwazix                        0.96%    1,157,676 (units:   220)
@@ -26,7 +26,7 @@ As of 2020-04-03 08:20:32, hackers.town is rank 859
  24. Anonymous                     0.82%      989,996 (units:   328)
  25. CookieMom                     0.73%      875,597 (units:    82)
  26. sungo                         0.70%      836,987 (units:   225)
- 27. DJ_Sundog                     0.69%      826,223 (units:   152)
+ 27. DJ_Sundog                     0.69%      829,885 (units:   153)
  28. TerrorBite                    0.68%      822,047 (units:    16)
  29. Null                          0.68%      818,594 (units:    22)
  30. paullindner                   0.68%      813,811 (units:   159)
