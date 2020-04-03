@@ -1,7 +1,7 @@
-As of 2020-04-03 03:04:06, hackers.town is rank 865
-   with 8,544 work units for 119,419,292 credits
+As of 2020-04-03 03:20:26, hackers.town is rank 865
+   with 8,548 work units for 119,428,712 credits
   1. wetdryvac                    14.49%   17,306,839 (units:   453)
-  2. KemoNine                     10.54%   12,581,195 (units:   441)
+  2. KemoNine                     10.54%   12,584,437 (units:   442)
   3. merimus                       9.98%   11,918,673 (units:   310)
   4. packetcat                     7.36%    8,792,067 (units:    79)
   5. Freakazoid                    6.00%    7,162,473 (units:   211)
@@ -18,7 +18,7 @@ As of 2020-04-03 03:04:06, hackers.town is rank 865
  16. pfreak                        1.67%    1,996,770 (units:    48)
  17. Mr.House                      1.66%    1,977,215 (units:    79)
  18. ryen                          1.22%    1,458,442 (units:   136)
- 19. mandibular joint dysfunction  1.11%    1,319,658 (units:   433)
+ 19. mandibular joint dysfunction  1.10%    1,319,658 (units:   433)
  20. kusuriya                      1.10%    1,314,054 (units:    65)
  21. /dev/random                   1.08%    1,291,911 (units:    79)
  22. qwazix                        0.97%    1,157,676 (units:   220)
@@ -45,14 +45,14 @@ As of 2020-04-03 03:04:06, hackers.town is rank 865
  43. rfquerin                      0.28%      333,597 (units:    26)
  44. Logomancer                    0.28%      331,647 (units:   151)
  45. djsumdog                      0.27%      325,619 (units:    39)
- 46. LordBowlich                   0.26%      313,414 (units:    75)
+ 46. LordBowlich                   0.26%      313,851 (units:    76)
  47. Requiem                       0.26%      312,824 (units:   107)
  48. KitRedgrave                   0.25%      299,348 (units:    57)
  49. rmgr                          0.24%      291,428 (units:    15)
- 50. debugninja                    0.22%      261,991 (units:    27)
+ 50. debugninja                    0.22%      266,732 (units:    28)
  51. jkl                           0.16%      188,426 (units:    60)
  52. Canageek                      0.16%      186,950 (units:    52)
- 53. technolust                    0.16%      185,533 (units:   118)
+ 53. technolust                    0.16%      186,533 (units:   119)
  54. m68k                          0.15%      181,345 (units:    46)
  55. Hany                          0.15%      181,042 (units:    42)
  56. zx3                           0.15%      177,467 (units:    31)
