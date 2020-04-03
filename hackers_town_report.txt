@@ -1,10 +1,10 @@
-As of 2020-04-03 20:20:46, hackers.town is rank 856
-   with 8,871 work units for 121,757,764 credits
+As of 2020-04-03 20:36:18, hackers.town is rank 856
+   with 8,874 work units for 121,764,189 credits
   1. wetdryvac                    14.57%   17,739,630 (units:   477)
   2. KemoNine                     10.57%   12,866,337 (units:   456)
   3. merimus                       9.86%   12,006,471 (units:   321)
   4. packetcat                     7.22%    8,792,067 (units:    79)
-  5. Freakazoid                    6.08%    7,401,601 (units:   226)
+  5. Freakazoid                    6.08%    7,404,026 (units:   227)
   6. Polychrome                    4.22%    5,134,606 (units:   201)
   7. c0debabe                      3.20%    3,897,405 (units:   107)
   8. Werekat                       2.86%    3,478,274 (units:   136)
@@ -27,7 +27,7 @@ As of 2020-04-03 20:20:46, hackers.town is rank 856
  25. CookieMom                     0.72%      875,597 (units:    82)
  26. sungo                         0.70%      856,653 (units:   232)
  27. DJ_Sundog                     0.70%      846,435 (units:   156)
- 28. paullindner                   0.69%      839,034 (units:   164)
+ 28. paullindner                   0.69%      842,154 (units:   165)
  29. TerrorBite                    0.68%      822,047 (units:    16)
  30. Null                          0.67%      818,594 (units:    22)
  31. TG                            0.54%      657,139 (units:   129)
@@ -59,7 +59,7 @@ As of 2020-04-03 20:20:46, hackers.town is rank 856
  57. zx3                           0.15%      177,467 (units:    31)
  58. Kyresti                       0.13%      161,226 (units:    22)
  59. Mnemonic                      0.12%      150,601 (units:    73)
- 60. csrsuoeb                      0.11%      128,641 (units:    23)
+ 60. csrsuoeb                      0.11%      129,521 (units:    24)
  61. arbu                          0.10%      125,499 (units:     7)
  62. Brian                         0.10%      117,338 (units:    40)
  63. Nemesis                       0.09%      103,626 (units:    53)
