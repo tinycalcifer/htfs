@@ -1,5 +1,5 @@
-As of 2020-04-03 23:15:43, hackers.town is rank 856
-   with 8,909 work units for 122,066,831 credits
+As of 2020-04-03 23:31:53, hackers.town is rank 856
+   with 8,912 work units for 122,070,971 credits
   1. wetdryvac                    14.55%   17,765,869 (units:   480)
   2. KemoNine                     10.62%   12,963,131 (units:   458)
   3. merimus                       9.84%   12,006,471 (units:   321)
@@ -11,7 +11,7 @@ As of 2020-04-03 23:15:43, hackers.town is rank 856
   9. SiinaCutie                    2.80%    3,413,493 (units:   193)
  10. Calcifer                      2.73%    3,326,767 (units:    68)
  11. dokuja                        2.55%    3,114,680 (units:   296)
- 12. FOOL                          2.30%    2,813,515 (units:   156)
+ 12. FOOL                          2.31%    2,816,565 (units:   157)
  13. r000t                         2.27%    2,772,349 (units:    54)
  14. radicaledward                 2.14%    2,610,515 (units:    89)
  15. bhtooefr                      2.06%    2,508,583 (units:    65)
@@ -46,7 +46,7 @@ As of 2020-04-03 23:15:43, hackers.town is rank 856
  44. rfquerin                      0.28%      338,375 (units:    28)
  45. Requiem                       0.27%      335,101 (units:   116)
  46. Logomancer                    0.27%      331,647 (units:   151)
- 47. LordBowlich                   0.27%      324,048 (units:    80)
+ 47. LordBowlich                   0.27%      324,468 (units:    81)
  48. KitRedgrave                   0.25%      299,768 (units:    58)
  49. rmgr                          0.24%      293,100 (units:    16)
  50. elfgirlsarah                  0.23%      279,753 (units:    18)
@@ -99,7 +99,7 @@ As of 2020-04-03 23:15:43, hackers.town is rank 856
  97. pmosetc                       0.01%       17,863 (units:    18)
  98. shellkr                       0.01%       16,190 (units:    14)
  99. Twitter                       0.01%       16,044 (units:    19)
-100. Bingo                         0.01%       15,097 (units:    28)
+100. Bingo                         0.01%       15,767 (units:    29)
 101. tn5421                        0.01%       14,710 (units:    37)
 102. dctrud                        0.01%       14,635 (units:     8)
 103. socketwench                   0.01%       12,855 (units:    15)
