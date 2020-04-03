@@ -1,5 +1,5 @@
-As of 2020-04-03 00:44:49, hackers.town is rank 865
-   with 8,511 work units for 118,893,102 credits
+As of 2020-04-03 01:04:20, hackers.town is rank 865
+   with 8,513 work units for 118,901,487 credits
   1. wetdryvac                    14.35%   17,062,219 (units:   449)
   2. KemoNine                     10.58%   12,577,773 (units:   440)
   3. merimus                      10.02%   11,918,673 (units:   310)
@@ -30,12 +30,12 @@ As of 2020-04-03 00:44:49, hackers.town is rank 865
  28. Null                          0.69%      818,594 (units:    22)
  29. paullindner                   0.68%      806,110 (units:   157)
  30. DJ_Sundog                     0.66%      784,546 (units:   148)
- 31. TG                            0.53%      632,839 (units:   127)
+ 31. TG                            0.54%      640,524 (units:   128)
  32. mainebot                      0.47%      557,720 (units:    23)
  33. Kyle                          0.46%      549,415 (units:    29)
  34. tayo                          0.42%      495,216 (units:   149)
  35. HolSta                        0.39%      461,750 (units:    56)
- 36. felix                         0.39%      457,751 (units:    67)
+ 36. felix                         0.38%      457,751 (units:    67)
  37. avolkov                       0.37%      441,798 (units:    36)
  38. protospork                    0.36%      423,474 (units:    58)
  39. synfinner                     0.35%      420,975 (units:    13)
@@ -118,10 +118,10 @@ As of 2020-04-03 00:44:49, hackers.town is rank 865
 116. imacrea                       0.00%        5,818 (units:     8)
 117. Azure                         0.00%        5,715 (units:     9)
 118. technoid_                     0.00%        4,951 (units:     8)
-119. Toive8547                     0.00%        3,640 (units:     5)
-120. Koakuma                       0.00%        3,391 (units:     8)
-121. cooper                        0.00%        3,285 (units:     9)
-122. L4NN-1312                     0.00%        3,021 (units:     2)
+119. L4NN-1312                     0.00%        3,721 (units:     3)
+120. Toive8547                     0.00%        3,640 (units:     5)
+121. Koakuma                       0.00%        3,391 (units:     8)
+122. cooper                        0.00%        3,285 (units:     9)
 123. ratSprite                     0.00%        2,899 (units:     8)
 124. electric.glowing.surf/        0.00%        2,843 (units:     4)
 125. wizzwizz4                     0.00%        2,668 (units:     5)
