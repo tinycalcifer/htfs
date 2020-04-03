@@ -1,5 +1,5 @@
-As of 2020-04-03 16:06:40, hackers.town is rank 856
-   with 8,799 work units for 120,881,248 credits
+As of 2020-04-03 16:15:24, hackers.town is rank 856
+   with 8,800 work units for 120,896,644 credits
   1. wetdryvac                    14.41%   17,416,112 (units:   466)
   2. KemoNine                     10.59%   12,798,939 (units:   452)
   3. merimus                       9.93%   12,006,471 (units:   321)
@@ -35,8 +35,8 @@ As of 2020-04-03 16:06:40, hackers.town is rank 856
  33. Kyle                          0.46%      557,005 (units:    31)
  34. tayo                          0.41%      497,485 (units:   150)
  35. felix                         0.41%      491,866 (units:    73)
- 36. HolSta                        0.38%      462,170 (units:    57)
- 37. avolkov                       0.38%      457,194 (units:    37)
+ 36. avolkov                       0.39%      472,590 (units:    38)
+ 37. HolSta                        0.38%      462,170 (units:    57)
  38. protospork                    0.35%      423,894 (units:    59)
  39. synfinner                     0.35%      420,975 (units:    13)
  40. fl0wn                         0.32%      388,420 (units:    74)
