@@ -1,10 +1,10 @@
-As of 2020-04-04 04:21:00, hackers.town is rank 851
-   with 8,975 work units for 122,582,739 credits
+As of 2020-04-04 04:35:27, hackers.town is rank 851
+   with 8,977 work units for 122,594,247 credits
   1. wetdryvac                    14.53%   17,815,674 (units:   486)
   2. KemoNine                     10.69%   13,100,251 (units:   462)
   3. merimus                       9.79%   12,006,471 (units:   321)
   4. packetcat                     7.17%    8,792,067 (units:    79)
-  5. Freakazoid                    6.17%    7,557,654 (units:   230)
+  5. Freakazoid                    6.16%    7,557,654 (units:   230)
   6. Polychrome                    4.20%    5,143,910 (units:   205)
   7. c0debabe                      3.19%    3,906,186 (units:   110)
   8. Werekat                       2.85%    3,493,228 (units:   137)
@@ -18,7 +18,7 @@ As of 2020-04-04 04:21:00, hackers.town is rank 851
  16. pfreak                        1.63%    1,996,770 (units:    48)
  17. Mr.House                      1.62%    1,980,753 (units:    80)
  18. ryen                          1.19%    1,458,442 (units:   136)
- 19. mandibular joint dysfunction  1.10%    1,347,050 (units:   456)
+ 19. mandibular joint dysfunction  1.10%    1,354,658 (units:   457)
  20. kusuriya                      1.07%    1,314,054 (units:    65)
  21. /dev/random                   1.06%    1,293,662 (units:    80)
  22. qwazix                        0.94%    1,157,676 (units:   220)
@@ -74,7 +74,7 @@ As of 2020-04-04 04:21:00, hackers.town is rank 851
  72. George_                       0.05%       59,802 (units:    11)
  73. tomatoefolding                0.05%       59,750 (units:     1)
  74. daum3ns                       0.05%       56,636 (units:     6)
- 75. RandyNose                     0.04%       52,616 (units:    74)
+ 75. RandyNose                     0.05%       56,516 (units:    75)
  76. claudiom                      0.04%       52,478 (units:   342)
  77. silksnep                      0.04%       51,866 (units:    76)
  78. Michael_Simkin                0.04%       49,818 (units:    22)
