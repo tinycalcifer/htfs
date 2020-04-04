@@ -1,6 +1,6 @@
-As of 2020-04-04 18:09:26, hackers.town is rank 845
-   with 9,160 work units for 124,336,651 credits
-  1. wetdryvac                    14.38%   17,883,065 (units:   497)
+As of 2020-04-04 18:25:26, hackers.town is rank 845
+   with 9,163 work units for 124,342,754 credits
+  1. wetdryvac                    14.38%   17,886,366 (units:   498)
   2. KemoNine                     10.76%   13,383,150 (units:   470)
   3. merimus                       9.83%   12,222,599 (units:   323)
   4. packetcat                     7.07%    8,792,067 (units:    79)
@@ -76,17 +76,17 @@ As of 2020-04-04 18:09:26, hackers.town is rank 845
  74. George_                       0.05%       59,802 (units:    11)
  75. tomatoefolding                0.05%       59,750 (units:     1)
  76. daum3ns                       0.05%       56,636 (units:     6)
- 77. claudiom                      0.04%       54,727 (units:   365)
+ 77. claudiom                      0.04%       54,779 (units:   366)
  78. gwozniak                      0.04%       50,574 (units:    75)
  79. Michael_Simkin                0.04%       49,818 (units:    22)
  80. emelie                        0.04%       46,275 (units:     4)
  81. Alteraner92                   0.03%       40,536 (units:    21)
  82. Purple                        0.03%       37,565 (units:    18)
  83. Tool_Man                      0.03%       35,354 (units:    53)
- 84. MaxAtCastleMalmeddy           0.03%       32,433 (units:    46)
- 85. Phlox                         0.03%       32,011 (units:     2)
- 86. tbn97                         0.03%       31,823 (units:    42)
- 87. neil                          0.03%       31,751 (units:    23)
+ 84. neil                          0.03%       34,501 (units:    24)
+ 85. MaxAtCastleMalmeddy           0.03%       32,433 (units:    46)
+ 86. Phlox                         0.03%       32,011 (units:     2)
+ 87. tbn97                         0.03%       31,823 (units:    42)
  88.                               0.02%       30,834 (units:    24)
  89. Syrinx                        0.02%       26,278 (units:    58)
  90. crc32                         0.02%       25,958 (units:    31)
