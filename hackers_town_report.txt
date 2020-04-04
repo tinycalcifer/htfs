@@ -1,5 +1,5 @@
-As of 2020-04-04 14:46:16, hackers.town is rank 845
-   with 9,111 work units for 123,935,091 credits
+As of 2020-04-04 15:15:18, hackers.town is rank 845
+   with 9,113 work units for 123,939,766 credits
   1. wetdryvac                    14.43%   17,878,494 (units:   495)
   2. KemoNine                     10.76%   13,335,866 (units:   468)
   3. merimus                       9.79%   12,133,411 (units:   322)
@@ -18,7 +18,7 @@ As of 2020-04-04 14:46:16, hackers.town is rank 845
  16. pfreak                        1.61%    1,996,770 (units:    48)
  17. Mr.House                      1.60%    1,980,753 (units:    80)
  18. ryen                          1.18%    1,458,442 (units:   136)
- 19. mandibular joint dysfunction  1.09%    1,356,734 (units:   461)
+ 19. mandibular joint dysfunction  1.10%    1,357,404 (units:   462)
  20. kusuriya                      1.06%    1,314,054 (units:    65)
  21. /dev/random                   1.05%    1,307,037 (units:    81)
  22. dafuchs                       0.99%    1,226,728 (units:    66)
@@ -48,8 +48,8 @@ As of 2020-04-04 14:46:16, hackers.town is rank 845
  46. LordBowlich                   0.27%      339,864 (units:    82)
  47. Logomancer                    0.27%      331,647 (units:   151)
  48. KitRedgrave                   0.24%      299,768 (units:    58)
- 49. rmgr                          0.24%      293,937 (units:    17)
- 50. elfgirlsarah                  0.24%      293,652 (units:    21)
+ 49. elfgirlsarah                  0.24%      297,657 (units:    22)
+ 50. rmgr                          0.24%      293,937 (units:    17)
  51. debugninja                    0.22%      276,224 (units:    30)
  52. jkl                           0.17%      214,127 (units:    67)
  53. technolust                    0.16%      201,160 (units:   138)
