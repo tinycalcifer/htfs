@@ -1,5 +1,5 @@
-As of 2020-04-05 13:45:08, hackers.town is rank 831
-   with 9,746 work units for 133,893,021 credits
+As of 2020-04-05 14:05:23, hackers.town is rank 831
+   with 9,748 work units for 133,911,591 credits
   1. wetdryvac                    14.58%   19,526,856 (units:   533)
   2. KemoNine                     10.33%   13,828,084 (units:   497)
   3. merimus                       9.75%   13,058,109 (units:   339)
@@ -26,13 +26,13 @@ As of 2020-04-05 13:45:08, hackers.town is rank 831
  24. paullindner                   0.77%    1,035,400 (units:   195)
  25. Anonymous                     0.76%    1,016,057 (units:   333)
  26. DJ_Sundog                     0.71%      947,102 (units:   177)
- 27. sungo                         0.69%      917,282 (units:   248)
+ 27. sungo                         0.68%      917,282 (units:   248)
  28. CookieMom                     0.66%      885,084 (units:    86)
  29. elfgirlsarah                  0.64%      862,135 (units:    52)
  30. TerrorBite                    0.62%      824,811 (units:    17)
  31. Null                          0.61%      818,594 (units:    22)
  32. TG                            0.51%      686,708 (units:   140)
- 33. Kyle                          0.51%      676,515 (units:    44)
+ 33. Kyle                          0.51%      679,689 (units:    45)
  34. felix                         0.50%      668,715 (units:    88)
  35. rfquerin                      0.46%      619,311 (units:    47)
  36. mainebot                      0.42%      557,720 (units:    23)
@@ -61,8 +61,8 @@ As of 2020-04-05 13:45:08, hackers.town is rank 831
  59. Brian                         0.11%      152,383 (units:    50)
  60. Mnemonic                      0.11%      150,601 (units:    73)
  61. csrsuoeb                      0.10%      131,078 (units:    27)
- 62. arbu                          0.09%      125,499 (units:     7)
- 63. Neue.City                     0.09%      115,624 (units:    30)
+ 62. Neue.City                     0.10%      131,020 (units:    31)
+ 63. arbu                          0.09%      125,499 (units:     7)
  64. BadGateway                    0.08%      111,358 (units:    45)
  65. Nemesis                       0.08%      103,626 (units:    53)
  66. heliostatic                   0.08%      101,482 (units:    26)
