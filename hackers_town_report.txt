@@ -1,5 +1,5 @@
-As of 2020-04-05 21:35:08, hackers.town is rank 826
-   with 9,889 work units for 135,732,474 credits
+As of 2020-04-05 21:45:04, hackers.town is rank 826
+   with 9,892 work units for 135,734,118 credits
   1. wetdryvac                    14.44%   19,593,621 (units:   536)
   2. KemoNine                     10.28%   13,957,675 (units:   502)
   3. merimus                       9.62%   13,060,016 (units:   340)
@@ -24,8 +24,8 @@ As of 2020-04-05 21:35:08, hackers.town is rank 826
  22. kusuriya                      0.97%    1,314,054 (units:    65)
  23. qwazix                        0.85%    1,157,676 (units:   220)
  24. paullindner                   0.80%    1,084,018 (units:   203)
- 25. Anonymous                     0.75%    1,016,057 (units:   333)
- 26. elfgirlsarah                  0.75%    1,011,208 (units:    59)
+ 25. Anonymous                     0.75%    1,017,345 (units:   334)
+ 26. elfgirlsarah                  0.74%    1,011,208 (units:    59)
  27. DJ_Sundog                     0.71%      968,981 (units:   182)
  28. sungo                         0.68%      917,282 (units:   248)
  29. CookieMom                     0.66%      892,692 (units:    87)
@@ -72,12 +72,12 @@ As of 2020-04-05 21:35:08, hackers.town is rank 826
  70. Murph                         0.05%       71,069 (units:    21)
  71. LordMathis                    0.05%       69,335 (units:    21)
  72. deowyth                       0.05%       68,655 (units:     5)
- 73. silksnep                      0.05%       65,697 (units:    90)
+ 73. silksnep                      0.05%       65,983 (units:    91)
  74. Imani                         0.05%       64,847 (units:    93)
  75. George_                       0.04%       59,802 (units:    11)
  76. tomatoefolding                0.04%       59,750 (units:     1)
  77. gwozniak                      0.04%       57,802 (units:    87)
- 78. claudiom                      0.04%       57,402 (units:   382)
+ 78. claudiom                      0.04%       57,472 (units:   383)
  79. daum3ns                       0.04%       56,636 (units:     6)
  80. Michael_Simkin                0.04%       50,773 (units:    23)
  81. emelie                        0.03%       46,275 (units:     4)
