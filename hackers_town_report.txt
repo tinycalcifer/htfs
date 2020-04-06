@@ -1,6 +1,6 @@
-As of 2020-04-06 03:55:20, hackers.town is rank 826
-   with 10,015 work units for 137,763,903 credits
-  1. wetdryvac                    14.45%   19,907,578 (units:   545)
+As of 2020-04-06 04:05:15, hackers.town is rank 826
+   with 10,019 work units for 137,774,076 credits
+  1. wetdryvac                    14.45%   19,911,704 (units:   546)
   2. KemoNine                     10.20%   14,055,388 (units:   506)
   3. merimus                       9.50%   13,092,642 (units:   345)
   4. packetcat                     7.04%    9,692,626 (units:    85)
@@ -8,7 +8,7 @@ As of 2020-04-06 03:55:20, hackers.town is rank 826
   6. Polychrome                    4.54%    6,254,739 (units:   249)
   7. dokuja                        3.96%    5,453,702 (units:   328)
   8. c0debabe                      3.18%    4,375,149 (units:   128)
-  9. Werekat                       2.74%    3,779,622 (units:   153)
+  9. Werekat                       2.74%    3,781,535 (units:   154)
  10. SiinaCutie                    2.73%    3,755,929 (units:   201)
  11. FOOL                          2.51%    3,458,670 (units:   208)
  12. bhtooefr                      2.47%    3,403,104 (units:    85)
@@ -23,7 +23,7 @@ As of 2020-04-06 03:55:20, hackers.town is rank 826
  21. dafuchs                       1.01%    1,396,504 (units:    78)
  22. kusuriya                      0.95%    1,314,054 (units:    65)
  23. qwazix                        0.84%    1,157,676 (units:   220)
- 24. paullindner                   0.81%    1,118,509 (units:   209)
+ 24. paullindner                   0.81%    1,122,223 (units:   210)
  25. elfgirlsarah                  0.75%    1,030,755 (units:    63)
  26. Anonymous                     0.74%    1,017,345 (units:   334)
  27. DJ_Sundog                     0.71%      981,462 (units:   185)
@@ -97,7 +97,7 @@ As of 2020-04-06 03:55:20, hackers.town is rank 826
  95. TMY                           0.02%       23,206 (units:    40)
  96. murph                         0.02%       21,246 (units:    10)
  97. SJM                           0.02%       21,011 (units:     8)
- 98. Bingo                         0.01%       19,753 (units:    34)
+ 98. Bingo                         0.01%       20,173 (units:    35)
  99. pmosetc                       0.01%       17,863 (units:    18)
 100. Seb                           0.01%       17,488 (units:    32)
 101. shellkr                       0.01%       16,190 (units:    14)
