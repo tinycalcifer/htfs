@@ -1,10 +1,10 @@
-As of 2020-04-06 06:44:59, hackers.town is rank 816
-   with 10,102 work units for 139,396,384 credits
+As of 2020-04-06 06:55:17, hackers.town is rank 816
+   with 10,106 work units for 139,417,237 credits
   1. wetdryvac                    14.47%   20,176,470 (units:   552)
   2. KemoNine                     10.09%   14,069,646 (units:   510)
-  3. merimus                       9.41%   13,120,707 (units:   348)
+  3. merimus                       9.42%   13,127,982 (units:   349)
   4. packetcat                     7.33%   10,215,274 (units:    88)
-  5. Freakazoid                    5.73%    7,984,633 (units:   265)
+  5. Freakazoid                    5.73%    7,986,143 (units:   266)
   6. Polychrome                    4.56%    6,360,706 (units:   251)
   7. dokuja                        4.02%    5,608,037 (units:   329)
   8. c0debabe                      3.22%    4,488,638 (units:   130)
@@ -33,8 +33,8 @@ As of 2020-04-06 06:44:59, hackers.town is rank 816
  31. TerrorBite                    0.59%      824,811 (units:    17)
  32. Null                          0.59%      818,594 (units:    22)
  33. TG                            0.50%      694,922 (units:   143)
- 34. Kyle                          0.49%      683,021 (units:    46)
- 35. mainebot                      0.49%      679,307 (units:    32)
+ 34. mainebot                      0.49%      685,683 (units:    33)
+ 35. Kyle                          0.49%      683,021 (units:    46)
  36. rfquerin                      0.44%      620,067 (units:    49)
  37. djsumdog                      0.41%      567,681 (units:    69)
  38. avolkov                       0.36%      500,805 (units:    41)
@@ -54,7 +54,7 @@ As of 2020-04-06 06:44:59, hackers.town is rank 816
  52. Hany                          0.19%      265,883 (units:    68)
  53. jkl                           0.18%      253,898 (units:    79)
  54. m68k                          0.17%      231,106 (units:    64)
- 55. zx3                           0.15%      213,716 (units:    40)
+ 55. zx3                           0.16%      219,408 (units:    41)
  56. technolust                    0.15%      209,376 (units:   150)
  57. Canageek                      0.14%      198,620 (units:    68)
  58. Kyresti                       0.13%      178,947 (units:    27)
