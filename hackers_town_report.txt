@@ -1,10 +1,10 @@
-As of 2020-04-06 10:25:25, hackers.town is rank 814
-   with 10,193 work units for 141,101,311 credits
-  1. wetdryvac                    14.48%   20,436,187 (units:   558)
-  2. KemoNine                     10.06%   14,188,998 (units:   516)
+As of 2020-04-06 10:35:08, hackers.town is rank 814
+   with 10,197 work units for 141,124,127 credits
+  1. wetdryvac                    14.49%   20,442,943 (units:   559)
+  2. KemoNine                     10.05%   14,188,998 (units:   516)
   3. merimus                       9.32%   13,150,303 (units:   352)
   4. packetcat                     7.54%   10,635,439 (units:    90)
-  5. Freakazoid                    5.70%    8,046,765 (units:   269)
+  5. Freakazoid                    5.71%    8,054,218 (units:   270)
   6. Polychrome                    4.55%    6,414,632 (units:   254)
   7. dokuja                        4.12%    5,811,372 (units:   331)
   8. c0debabe                      3.19%    4,496,154 (units:   133)
@@ -15,8 +15,8 @@ As of 2020-04-06 10:25:25, hackers.town is rank 814
  13. Calcifer                      2.36%    3,326,767 (units:    68)
  14. r000t                         1.96%    2,772,349 (units:    54)
  15. radicaledward                 1.85%    2,610,515 (units:    89)
- 16. Mr.House                      1.57%    2,213,309 (units:    93)
- 17. pfreak                        1.42%    1,996,770 (units:    48)
+ 16. Mr.House                      1.57%    2,218,323 (units:    94)
+ 17. pfreak                        1.41%    1,996,770 (units:    48)
  18. /dev/random                   1.06%    1,494,627 (units:   102)
  19. ryen                          1.03%    1,458,442 (units:   136)
  20. dafuchs                       1.02%    1,432,779 (units:    86)
@@ -24,7 +24,7 @@ As of 2020-04-06 10:25:25, hackers.town is rank 814
  22. kusuriya                      0.93%    1,314,054 (units:    65)
  23. paullindner                   0.83%    1,164,991 (units:   219)
  24. qwazix                        0.82%    1,157,676 (units:   220)
- 25. felix                         0.78%    1,093,678 (units:    98)
+ 25. felix                         0.78%    1,097,271 (units:    99)
  26. elfgirlsarah                  0.74%    1,045,995 (units:    66)
  27. Anonymous                     0.72%    1,021,774 (units:   336)
  28. DJ_Sundog                     0.71%      997,441 (units:   189)
