@@ -1,8 +1,8 @@
-As of 2020-04-07 20:35:10, hackers.town is rank 790
-   with 11,012 work units for 154,193,957 credits
-  1. wetdryvac                    14.48%   22,322,421 (units:   610)
+As of 2020-04-07 20:45:15, hackers.town is rank 790
+   with 11,017 work units for 154,221,198 credits
+  1. wetdryvac                    14.47%   22,322,421 (units:   610)
   2. merimus                       9.48%   14,623,759 (units:   389)
-  3. KemoNine                      9.43%   14,538,404 (units:   554)
+  3. KemoNine                      9.43%   14,538,405 (units:   555)
   4. packetcat                     7.71%   11,892,435 (units:    99)
   5. Freakazoid                    5.50%    8,482,383 (units:   305)
   6. dokuja                        4.97%    7,662,580 (units:   352)
@@ -19,7 +19,7 @@ As of 2020-04-07 20:35:10, hackers.town is rank 790
  17. pfreak                        1.29%    1,996,770 (units:    48)
  18. felix                         1.05%    1,613,809 (units:   115)
  19. dafuchs                       1.02%    1,572,285 (units:   105)
- 20. mandibular joint dysfunction  1.00%    1,542,394 (units:   545)
+ 20. mandibular joint dysfunction  1.01%    1,559,809 (units:   547)
  21. /dev/random                   0.97%    1,500,657 (units:   104)
  22. ryen                          0.95%    1,458,442 (units:   136)
  23. kusuriya                      0.85%    1,314,054 (units:    65)
@@ -55,10 +55,10 @@ As of 2020-04-07 20:35:10, hackers.town is rank 790
  53. jkl                           0.19%      285,770 (units:    87)
  54. debugninja                    0.18%      276,224 (units:    30)
  55. zx3                           0.16%      253,652 (units:    48)
- 56. m68k                          0.15%      236,925 (units:    68)
+ 56. m68k                          0.15%      237,345 (units:    69)
  57. Canageek                      0.15%      235,553 (units:    77)
- 58. technolust                    0.14%      209,376 (units:   150)
- 59. Kyresti                       0.14%      208,382 (units:    32)
+ 58. Kyresti                       0.14%      217,787 (units:    33)
+ 59. technolust                    0.14%      209,376 (units:   150)
  60. csrsuoeb                      0.11%      169,690 (units:    33)
  61. Brian                         0.11%      167,931 (units:    55)
  62. Neue.City                     0.10%      160,069 (units:    38)
