@@ -1,10 +1,10 @@
-As of 2020-04-07 04:25:05, hackers.town is rank 802
-   with 10,621 work units for 147,105,369 credits
-  1. wetdryvac                    14.69%   21,614,654 (units:   586)
-  2. KemoNine                      9.73%   14,315,407 (units:   535)
+As of 2020-04-07 04:35:26, hackers.town is rank 802
+   with 10,628 work units for 147,189,040 credits
+  1. wetdryvac                    14.69%   21,623,363 (units:   588)
+  2. KemoNine                      9.77%   14,373,088 (units:   536)
   3. merimus                       9.43%   13,876,121 (units:   372)
   4. packetcat                     7.49%   11,017,270 (units:    93)
-  5. Freakazoid                    5.70%    8,384,357 (units:   288)
+  5. Freakazoid                    5.70%    8,391,395 (units:   290)
   6. dokuja                        4.58%    6,740,606 (units:   340)
   7. Polychrome                    4.47%    6,579,245 (units:   262)
   8. c0debabe                      3.12%    4,594,727 (units:   139)
@@ -19,7 +19,7 @@ As of 2020-04-07 04:25:05, hackers.town is rank 802
  17. pfreak                        1.36%    1,996,770 (units:    48)
  18. dafuchs                       1.04%    1,531,999 (units:    99)
  19. /dev/random                   1.02%    1,495,750 (units:   103)
- 20. mandibular joint dysfunction  1.00%    1,465,066 (units:   522)
+ 20. mandibular joint dysfunction  1.00%    1,467,766 (units:   523)
  21. ryen                          0.99%    1,458,442 (units:   136)
  22. kusuriya                      0.89%    1,314,054 (units:    65)
  23. paullindner                   0.82%    1,207,055 (units:   228)
@@ -33,7 +33,7 @@ As of 2020-04-07 04:25:05, hackers.town is rank 802
  31. mainebot                      0.59%      862,335 (units:    50)
  32. TerrorBite                    0.56%      824,811 (units:    17)
  33. Null                          0.56%      818,594 (units:    22)
- 34. Kyle                          0.49%      718,569 (units:    55)
+ 34. Kyle                          0.49%      726,112 (units:    56)
  35. TG                            0.47%      694,922 (units:   143)
  36. rfquerin                      0.47%      684,899 (units:    54)
  37. djsumdog                      0.46%      670,762 (units:    78)
