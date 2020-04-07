@@ -1,5 +1,5 @@
-As of 2020-04-07 03:25:23, hackers.town is rank 802
-   with 10,590 work units for 146,511,073 credits
+As of 2020-04-07 03:35:08, hackers.town is rank 802
+   with 10,593 work units for 146,517,628 credits
   1. wetdryvac                    14.68%   21,509,716 (units:   584)
   2. KemoNine                      9.77%   14,315,407 (units:   535)
   3. merimus                       9.41%   13,782,854 (units:   370)
@@ -12,7 +12,7 @@ As of 2020-04-07 03:25:23, hackers.town is rank 802
  10. SiinaCutie                    2.63%    3,850,081 (units:   206)
  11. FOOL                          2.50%    3,661,143 (units:   228)
  12. bhtooefr                      2.45%    3,595,777 (units:    91)
- 13. Calcifer                      2.45%    3,583,952 (units:    74)
+ 13. Calcifer                      2.45%    3,590,128 (units:    75)
  14. r000t                         1.89%    2,772,349 (units:    54)
  15. radicaledward                 1.78%    2,610,515 (units:    89)
  16. Mr.House                      1.53%    2,247,451 (units:   101)
@@ -70,14 +70,14 @@ As of 2020-04-07 03:25:23, hackers.town is rank 802
  68. JoshMulliken                  0.07%       97,080 (units:    23)
  69. RandyNose                     0.06%       83,060 (units:   104)
  70. piggo                         0.05%       75,350 (units:    15)
- 71. silksnep                      0.05%       71,636 (units:    98)
+ 71. silksnep                      0.05%       71,947 (units:    99)
  72. Imani                         0.05%       71,319 (units:   104)
  73. Murph                         0.05%       71,069 (units:    21)
  74. LordMathis                    0.05%       69,335 (units:    21)
  75. deowyth                       0.05%       68,655 (units:     5)
  76. Michael_Simkin                0.04%       61,958 (units:    27)
  77. gwozniak                      0.04%       61,812 (units:    91)
- 78. claudiom                      0.04%       61,116 (units:   404)
+ 78. claudiom                      0.04%       61,184 (units:   405)
  79. George_                       0.04%       59,802 (units:    11)
  80. tomatoefolding                0.04%       59,750 (units:     1)
  81. daum3ns                       0.04%       56,636 (units:     6)
