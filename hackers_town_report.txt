@@ -1,10 +1,10 @@
-As of 2020-04-07 17:35:21, hackers.town is rank 790
-   with 10,939 work units for 152,549,275 credits
+As of 2020-04-07 17:45:10, hackers.town is rank 790
+   with 10,942 work units for 152,554,449 credits
   1. wetdryvac                    14.43%   22,006,052 (units:   603)
   2. merimus                       9.59%   14,623,759 (units:   389)
   3. KemoNine                      9.53%   14,538,398 (units:   549)
   4. packetcat                     7.67%   11,705,240 (units:    97)
-  5. Freakazoid                    5.55%    8,471,660 (units:   302)
+  5. Freakazoid                    5.55%    8,473,657 (units:   303)
   6. dokuja                        4.87%    7,436,120 (units:   349)
   7. Polychrome                    4.45%    6,791,505 (units:   268)
   8. c0debabe                      3.07%    4,682,401 (units:   147)
@@ -15,7 +15,7 @@ As of 2020-04-07 17:35:21, hackers.town is rank 790
  13. Calcifer                      2.37%    3,617,895 (units:    83)
  14. r000t                         1.82%    2,772,349 (units:    54)
  15. radicaledward                 1.71%    2,610,515 (units:    89)
- 16. Mr.House                      1.50%    2,285,155 (units:   106)
+ 16. Mr.House                      1.50%    2,287,447 (units:   107)
  17. pfreak                        1.31%    1,996,770 (units:    48)
  18. dafuchs                       1.03%    1,564,827 (units:   103)
  19. mandibular joint dysfunction  1.01%    1,541,888 (units:   543)
@@ -29,7 +29,7 @@ As of 2020-04-07 17:35:21, hackers.town is rank 790
  27. qwazix                        0.76%    1,157,676 (units:   220)
  28. DJ_Sundog                     0.70%    1,069,689 (units:   209)
  29. Anonymous                     0.68%    1,039,674 (units:   360)
- 30. CookieMom                     0.64%      971,991 (units:    94)
+ 30. CookieMom                     0.64%      972,876 (units:    95)
  31. sungo                         0.63%      959,915 (units:   261)
  32. mainebot                      0.57%      862,335 (units:    50)
  33. TerrorBite                    0.54%      824,811 (units:    17)
