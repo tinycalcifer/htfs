@@ -1,7 +1,7 @@
-As of 2020-04-07 13:05:04, hackers.town is rank 792
-   with 10,830 work units for 150,730,506 credits
-  1. wetdryvac                    14.41%   21,712,839 (units:   594)
-  2. KemoNine                      9.65%   14,538,398 (units:   549)
+As of 2020-04-07 13:15:07, hackers.town is rank 790
+   with 10,834 work units for 150,737,541 credits
+  1. wetdryvac                    14.41%   21,713,803 (units:   595)
+  2. KemoNine                      9.64%   14,538,398 (units:   549)
   3. merimus                       9.46%   14,263,215 (units:   383)
   4. packetcat                     7.77%   11,705,240 (units:    97)
   5. Freakazoid                    5.59%    8,425,062 (units:   297)
@@ -50,7 +50,7 @@ As of 2020-04-07 13:05:04, hackers.town is rank 792
  48. LordBowlich                   0.23%      343,800 (units:    84)
  49. Logomancer                    0.22%      331,754 (units:   166)
  50. KitRedgrave                   0.21%      323,346 (units:    60)
- 51. The_Gibson(HTown)             0.21%      311,197 (units:    26)
+ 51. The_Gibson(HTown)             0.21%      315,958 (units:    27)
  52. Hany                          0.19%      289,769 (units:    78)
  53. jkl                           0.19%      279,724 (units:    85)
  54. debugninja                    0.18%      276,224 (units:    30)
@@ -95,12 +95,12 @@ As of 2020-04-07 13:05:04, hackers.town is rank 792
  93. Syrinx                        0.02%       27,905 (units:    62)
  94. julianaito                    0.02%       24,640 (units:    69)
  95. nuklearfiziks                 0.02%       23,903 (units:     5)
- 96. Seb                           0.02%       23,331 (units:    44)
+ 96. Seb                           0.02%       23,641 (units:    45)
  97. TMY                           0.02%       23,206 (units:    40)
  98. Bingo                         0.01%       22,233 (units:    37)
  99. murph                         0.01%       21,246 (units:    10)
-100. SJM                           0.01%       21,011 (units:     8)
-101. pmosetc                       0.01%       20,066 (units:    21)
+100. pmosetc                       0.01%       21,066 (units:    22)
+101. SJM                           0.01%       21,011 (units:     8)
 102. amsomniac                     0.01%       19,004 (units:    32)
 103. SteveTheDragon                0.01%       17,111 (units:    11)
 104. shellkr                       0.01%       16,190 (units:    14)
