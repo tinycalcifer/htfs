@@ -1,18 +1,18 @@
-As of 2020-04-08 21:04:42, hackers.town is rank 767
-   with 11,616 work units for 164,673,458 credits
+As of 2020-04-08 21:14:36, hackers.town is rank 767
+   with 11,618 work units for 164,692,053 credits
   1. wetdryvac                    14.11%   23,241,629 (units:   635)
-  2. merimus                       9.41%   15,489,066 (units:   400)
+  2. merimus                       9.40%   15,489,066 (units:   400)
   3. KemoNine                      8.99%   14,804,098 (units:   563)
   4. packetcat                     7.61%   12,532,206 (units:   104)
   5. Freakazoid                    5.56%    9,153,472 (units:   327)
   6. dokuja                        5.45%    8,980,267 (units:   367)
-  7. Polychrome                    4.23%    6,957,933 (units:   279)
+  7. Polychrome                    4.22%    6,957,933 (units:   279)
   8. c0debabe                      2.91%    4,800,136 (units:   153)
   9. Werekat                       2.78%    4,581,329 (units:   179)
  10. bhtooefr                      2.66%    4,387,683 (units:   105)
  11. Calcifer                      2.48%    4,090,850 (units:   104)
  12. FOOL                          2.45%    4,037,731 (units:   255)
- 13. SiinaCutie                    2.42%    3,981,358 (units:   209)
+ 13. SiinaCutie                    2.43%    3,994,261 (units:   210)
  14. r000t                         1.75%    2,882,457 (units:    55)
  15. radicaledward                 1.59%    2,610,515 (units:    89)
  16. Mr.House                      1.53%    2,522,466 (units:   118)
@@ -56,7 +56,7 @@ As of 2020-04-08 21:04:42, hackers.town is rank 767
  54. zx3                           0.17%      281,613 (units:    52)
  55. debugninja                    0.17%      276,224 (units:    30)
  56. m68k                          0.16%      256,405 (units:    74)
- 57. Canageek                      0.15%      245,844 (units:    81)
+ 57. Canageek                      0.15%      251,536 (units:    82)
  58. technolust                    0.14%      238,039 (units:   160)
  59. csrsuoeb                      0.14%      229,702 (units:    44)
  60. Kyresti                       0.14%      227,629 (units:    35)
