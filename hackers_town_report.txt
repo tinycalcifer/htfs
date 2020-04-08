@@ -1,14 +1,14 @@
-As of 2020-04-08 23:34:43, hackers.town is rank 767
-   with 11,668 work units for 165,551,322 credits
-  1. wetdryvac                    14.04%   23,241,629 (units:   635)
+As of 2020-04-08 23:44:50, hackers.town is rank 767
+   with 11,672 work units for 165,640,898 credits
+  1. wetdryvac                    14.03%   23,241,629 (units:   635)
   2. merimus                       9.40%   15,569,402 (units:   401)
   3. KemoNine                      8.94%   14,804,098 (units:   563)
   4. packetcat                     7.57%   12,532,206 (units:   104)
-  5. Freakazoid                    5.61%    9,282,974 (units:   330)
-  6. dokuja                        5.49%    9,082,945 (units:   368)
+  5. Freakazoid                    5.60%    9,282,974 (units:   330)
+  6. dokuja                        5.53%    9,164,806 (units:   369)
   7. Polychrome                    4.20%    6,960,326 (units:   280)
   8. c0debabe                      2.97%    4,911,377 (units:   155)
-  9. Werekat                       2.77%    4,581,329 (units:   179)
+  9. Werekat                       2.77%    4,587,824 (units:   180)
  10. bhtooefr                      2.69%    4,455,844 (units:   108)
  11. Calcifer                      2.47%    4,094,814 (units:   105)
  12. FOOL                          2.44%    4,042,744 (units:   256)
@@ -69,7 +69,7 @@ As of 2020-04-08 23:34:43, hackers.town is rank 767
  67. heliostatic                   0.06%      101,482 (units:    26)
  68. RandyNose                     0.06%       97,911 (units:   121)
  69. JoshMulliken                  0.06%       97,080 (units:    23)
- 70. silksnep                      0.05%       86,123 (units:   108)
+ 70. silksnep                      0.05%       86,343 (units:   109)
  71. LordMathis                    0.05%       83,415 (units:    23)
  72. Imani                         0.05%       79,457 (units:   115)
  73. piggo                         0.05%       75,350 (units:    15)
@@ -81,7 +81,7 @@ As of 2020-04-08 23:34:43, hackers.town is rank 767
  79. George_                       0.04%       59,802 (units:    11)
  80. tomatoefolding                0.04%       59,750 (units:     1)
  81. daum3ns                       0.03%       56,636 (units:     6)
- 82. Alteraner92                   0.03%       54,576 (units:    30)
+ 82. Alteraner92                   0.03%       55,576 (units:    31)
  83. neil                          0.03%       47,337 (units:    42)
  84. emelie                        0.03%       46,275 (units:     4)
  85. atinciona                     0.03%       43,477 (units:    73)
