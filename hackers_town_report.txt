@@ -1,5 +1,5 @@
-As of 2020-04-08 06:05:13, hackers.town is rank 783
-   with 11,272 work units for 158,329,813 credits
+As of 2020-04-08 06:25:20, hackers.town is rank 783
+   with 11,277 work units for 158,343,183 credits
   1. wetdryvac                    14.50%   22,962,122 (units:   622)
   2. merimus                       9.42%   14,908,597 (units:   392)
   3. KemoNine                      9.26%   14,667,654 (units:   561)
@@ -9,8 +9,8 @@ As of 2020-04-08 06:05:13, hackers.town is rank 783
   7. Polychrome                    4.37%    6,916,635 (units:   273)
   8. c0debabe                      2.96%    4,689,515 (units:   149)
   9. Werekat                       2.73%    4,321,708 (units:   170)
- 10. bhtooefr                      2.62%    4,140,654 (units:   100)
- 11. Calcifer                      2.56%    4,054,400 (units:    96)
+ 10. bhtooefr                      2.61%    4,140,654 (units:   100)
+ 11. Calcifer                      2.56%    4,058,930 (units:    97)
  12. SiinaCutie                    2.46%    3,902,597 (units:   208)
  13. FOOL                          2.44%    3,862,853 (units:   245)
  14. r000t                         1.75%    2,772,349 (units:    54)
@@ -28,8 +28,8 @@ As of 2020-04-08 06:05:13, hackers.town is rank 783
  26. paullindner                   0.77%    1,223,792 (units:   233)
  27. qwazix                        0.73%    1,157,676 (units:   220)
  28. DJ_Sundog                     0.70%    1,106,364 (units:   217)
- 29. Anonymous                     0.66%    1,051,929 (units:   376)
- 30. CookieMom                     0.63%    1,005,182 (units:    99)
+ 29. Anonymous                     0.66%    1,052,430 (units:   377)
+ 30. CookieMom                     0.64%    1,012,790 (units:   100)
  31. sungo                         0.61%      969,544 (units:   265)
  32. mainebot                      0.54%      862,335 (units:    50)
  33. TerrorBite                    0.52%      824,811 (units:    17)
@@ -69,8 +69,8 @@ As of 2020-04-08 06:05:13, hackers.town is rank 783
  67. heliostatic                   0.06%      101,482 (units:    26)
  68. JoshMulliken                  0.06%       97,080 (units:    23)
  69. RandyNose                     0.06%       94,286 (units:   116)
- 70. silksnep                      0.05%       77,948 (units:   103)
- 71. Imani                         0.05%       76,360 (units:   110)
+ 70. silksnep                      0.05%       78,368 (units:   104)
+ 71. Imani                         0.05%       76,671 (units:   111)
  72. piggo                         0.05%       75,350 (units:    15)
  73. Murph                         0.04%       71,069 (units:    21)
  74. LordMathis                    0.04%       69,335 (units:    21)
