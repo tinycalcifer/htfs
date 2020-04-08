@@ -1,14 +1,14 @@
-As of 2020-04-08 06:45:08, hackers.town is rank 783
-   with 11,282 work units for 158,358,072 credits
-  1. wetdryvac                    14.50%   22,962,122 (units:   622)
+As of 2020-04-08 06:55:06, hackers.town is rank 783
+   with 11,285 work units for 158,432,901 credits
+  1. wetdryvac                    14.49%   22,962,122 (units:   622)
   2. merimus                       9.41%   14,908,597 (units:   392)
   3. KemoNine                      9.26%   14,667,654 (units:   561)
   4. packetcat                     7.57%   11,989,893 (units:   100)
-  5. Freakazoid                    5.53%    8,758,526 (units:   313)
-  6. dokuja                        5.16%    8,165,855 (units:   357)
+  5. Freakazoid                    5.53%    8,761,316 (units:   314)
+  6. dokuja                        5.15%    8,165,855 (units:   357)
   7. Polychrome                    4.37%    6,916,635 (units:   273)
   8. c0debabe                      2.96%    4,689,515 (units:   149)
-  9. Werekat                       2.73%    4,321,708 (units:   170)
+  9. Werekat                       2.77%    4,385,624 (units:   171)
  10. bhtooefr                      2.61%    4,140,654 (units:   100)
  11. Calcifer                      2.56%    4,058,930 (units:    97)
  12. SiinaCutie                    2.46%    3,902,597 (units:   208)
@@ -34,7 +34,7 @@ As of 2020-04-08 06:45:08, hackers.town is rank 783
  32. mainebot                      0.54%      862,335 (units:    50)
  33. TerrorBite                    0.52%      824,811 (units:    17)
  34. Null                          0.52%      818,594 (units:    22)
- 35. rfquerin                      0.50%      799,101 (units:    58)
+ 35. rfquerin                      0.51%      807,224 (units:    59)
  36. Kyle                          0.48%      763,006 (units:    64)
  37. djsumdog                      0.44%      702,543 (units:    86)
  38. TG                            0.44%      694,922 (units:   143)
@@ -61,7 +61,7 @@ As of 2020-04-08 06:45:08, hackers.town is rank 783
  59. technolust                    0.13%      210,402 (units:   152)
  60. csrsuoeb                      0.13%      199,744 (units:    37)
  61. Brian                         0.11%      181,889 (units:    59)
- 62. Mnemonic                      0.11%      166,325 (units:    81)
+ 62. Mnemonic                      0.10%      166,325 (units:    81)
  63. Neue.City                     0.10%      160,069 (units:    38)
  64. arbu                          0.08%      125,499 (units:     7)
  65. BadGateway                    0.08%      122,694 (units:    64)
