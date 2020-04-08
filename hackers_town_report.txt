@@ -1,5 +1,5 @@
-As of 2020-04-08 05:55:25, hackers.town is rank 783
-   with 11,269 work units for 158,325,839 credits
+As of 2020-04-08 06:05:13, hackers.town is rank 783
+   with 11,272 work units for 158,329,813 credits
   1. wetdryvac                    14.50%   22,962,122 (units:   622)
   2. merimus                       9.42%   14,908,597 (units:   392)
   3. KemoNine                      9.26%   14,667,654 (units:   561)
@@ -38,7 +38,7 @@ As of 2020-04-08 05:55:25, hackers.town is rank 783
  36. Kyle                          0.48%      763,006 (units:    64)
  37. djsumdog                      0.44%      702,543 (units:    86)
  38. TG                            0.44%      694,922 (units:   143)
- 39. The_Gibson(HTown)             0.39%      620,908 (units:    41)
+ 39. The_Gibson(HTown)             0.39%      622,277 (units:    42)
  40. avolkov                       0.36%      565,700 (units:    47)
  41. tayo                          0.31%      497,485 (units:   150)
  42. drwho                         0.31%      485,447 (units:   318)
@@ -60,7 +60,7 @@ As of 2020-04-08 05:55:25, hackers.town is rank 783
  58. Kyresti                       0.14%      227,629 (units:    35)
  59. technolust                    0.13%      209,901 (units:   151)
  60. csrsuoeb                      0.13%      199,744 (units:    37)
- 61. Brian                         0.11%      180,284 (units:    58)
+ 61. Brian                         0.11%      181,889 (units:    59)
  62. Mnemonic                      0.11%      166,325 (units:    81)
  63. Neue.City                     0.10%      160,069 (units:    38)
  64. arbu                          0.08%      125,499 (units:     7)
@@ -124,8 +124,8 @@ As of 2020-04-08 05:55:25, hackers.town is rank 783
 122. teecee                        0.00%        7,506 (units:    10)
 123. dimazest                      0.00%        7,169 (units:     6)
 124. Azure                         0.00%        5,715 (units:     9)
-125. Koakuma                       0.00%        4,762 (units:    11)
-126. jerephil                      0.00%        4,043 (units:     6)
+125. jerephil                      0.00%        5,043 (units:     7)
+126. Koakuma                       0.00%        4,762 (units:    11)
 127. Toive8547                     0.00%        3,640 (units:     5)
 128. Arcans                        0.00%        3,414 (units:     7)
 129. cooper                        0.00%        3,285 (units:     9)
