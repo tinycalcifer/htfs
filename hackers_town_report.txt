@@ -1,7 +1,7 @@
-As of 2020-04-08 23:04:37, hackers.town is rank 767
-   with 11,656 work units for 165,327,815 credits
-  1. wetdryvac                    14.06%   23,241,629 (units:   635)
-  2. merimus                       9.37%   15,489,066 (units:   400)
+As of 2020-04-08 23:14:26, hackers.town is rank 767
+   with 11,657 work units for 165,408,151 credits
+  1. wetdryvac                    14.05%   23,241,629 (units:   635)
+  2. merimus                       9.41%   15,569,402 (units:   401)
   3. KemoNine                      8.95%   14,804,098 (units:   563)
   4. packetcat                     7.58%   12,532,206 (units:   104)
   5. Freakazoid                    5.61%    9,282,974 (units:   330)
@@ -9,10 +9,10 @@ As of 2020-04-08 23:04:37, hackers.town is rank 767
   7. Polychrome                    4.21%    6,960,326 (units:   280)
   8. c0debabe                      2.97%    4,911,377 (units:   155)
   9. Werekat                       2.77%    4,581,329 (units:   179)
- 10. bhtooefr                      2.66%    4,390,619 (units:   106)
+ 10. bhtooefr                      2.65%    4,390,619 (units:   106)
  11. Calcifer                      2.48%    4,094,814 (units:   105)
  12. FOOL                          2.44%    4,037,731 (units:   255)
- 13. SiinaCutie                    2.42%    3,994,261 (units:   210)
+ 13. SiinaCutie                    2.41%    3,994,261 (units:   210)
  14. r000t                         1.74%    2,882,457 (units:    55)
  15. radicaledward                 1.58%    2,610,515 (units:    89)
  16. Mr.House                      1.53%    2,529,555 (units:   119)
@@ -35,7 +35,7 @@ As of 2020-04-08 23:04:37, hackers.town is rank 767
  33. TerrorBite                    0.54%      892,169 (units:    22)
  34. rfquerin                      0.52%      864,754 (units:    60)
  35. mainebot                      0.52%      862,335 (units:    50)
- 36. Null                          0.50%      818,594 (units:    22)
+ 36. Null                          0.49%      818,594 (units:    22)
  37. Kyle                          0.48%      789,649 (units:    70)
  38. djsumdog                      0.42%      702,543 (units:    86)
  39. TG                            0.42%      694,922 (units:   143)
