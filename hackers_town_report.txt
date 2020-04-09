@@ -1,7 +1,7 @@
-As of 2020-04-09 14:14:45, hackers.town is rank 747
-   with 12,055 work units for 174,089,548 credits
+As of 2020-04-09 14:34:51, hackers.town is rank 747
+   with 12,059 work units for 174,099,631 credits
   1. wetdryvac                    13.79%   24,008,391 (units:   650)
-  2. merimus                       9.43%   16,411,531 (units:   424)
+  2. merimus                       9.43%   16,421,492 (units:   425)
   3. KemoNine                      8.62%   15,000,038 (units:   565)
   4. packetcat                     7.81%   13,590,003 (units:   112)
   5. dokuja                        5.65%    9,831,023 (units:   376)
@@ -13,7 +13,7 @@ As of 2020-04-09 14:14:45, hackers.town is rank 747
  11. Calcifer                      2.59%    4,506,000 (units:   109)
  12. FOOL                          2.37%    4,121,679 (units:   265)
  13. SiinaCutie                    2.32%    4,038,783 (units:   211)
- 14. skraelingjar                  1.83%    3,177,228 (units:    62)
+ 14. skraelingjar                  1.82%    3,177,228 (units:    62)
  15. r000t                         1.67%    2,903,261 (units:    57)
  16. felix                         1.65%    2,880,039 (units:   133)
  17. radicaledward                 1.50%    2,610,515 (units:    89)
@@ -49,7 +49,7 @@ As of 2020-04-09 14:14:45, hackers.town is rank 747
  47. Requiem                       0.24%      414,886 (units:   141)
  48. fl0wn                         0.22%      388,420 (units:    74)
  49. LordBowlich                   0.20%      356,139 (units:    88)
- 50. Logomancer                    0.19%      332,080 (units:   183)
+ 50. Logomancer                    0.19%      332,093 (units:   184)
  51. jkl                           0.19%      326,291 (units:    98)
  52. KitRedgrave                   0.19%      323,346 (units:    60)
  53. Hany                          0.18%      307,591 (units:    83)
@@ -76,7 +76,7 @@ As of 2020-04-09 14:14:45, hackers.town is rank 747
  74. Murph                         0.04%       71,069 (units:    21)
  75. Michael_Simkin                0.04%       70,687 (units:    29)
  76. deowyth                       0.04%       68,655 (units:     5)
- 77. claudiom                      0.04%       67,009 (units:   455)
+ 77. claudiom                      0.04%       67,118 (units:   457)
  78. gwozniak                      0.04%       64,514 (units:    97)
  79. neil                          0.03%       60,592 (units:    47)
  80. George_                       0.03%       59,802 (units:    11)
