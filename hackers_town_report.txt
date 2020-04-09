@@ -1,6 +1,6 @@
-As of 2020-04-09 00:04:36, hackers.town is rank 767
-   with 11,678 work units for 165,799,175 credits
-  1. wetdryvac                    14.02%   23,241,629 (units:   635)
+As of 2020-04-09 00:14:25, hackers.town is rank 767
+   with 11,679 work units for 165,855,727 credits
+  1. wetdryvac                    14.01%   23,241,629 (units:   635)
   2. merimus                       9.39%   15,569,402 (units:   401)
   3. KemoNine                      8.93%   14,804,098 (units:   563)
   4. packetcat                     7.56%   12,532,206 (units:   104)
@@ -17,10 +17,10 @@ As of 2020-04-09 00:04:36, hackers.town is rank 767
  15. radicaledward                 1.57%    2,610,515 (units:    89)
  16. Mr.House                      1.53%    2,534,101 (units:   120)
  17. felix                         1.47%    2,439,251 (units:   129)
- 18. skraelingjar                  1.46%    2,412,861 (units:    54)
+ 18. skraelingjar                  1.45%    2,412,861 (units:    54)
  19. pfreak                        1.20%    1,996,770 (units:    48)
  20. dafuchs                       1.07%    1,771,132 (units:   116)
- 21. elfgirlsarah                  0.99%    1,640,777 (units:    85)
+ 21. elfgirlsarah                  1.02%    1,697,329 (units:    86)
  22. ryen                          0.98%    1,632,927 (units:   143)
  23. mandibular joint dysfunction  0.98%    1,624,615 (units:   577)
  24. /dev/random                   0.93%    1,546,682 (units:   118)
@@ -50,7 +50,7 @@ As of 2020-04-09 00:04:36, hackers.town is rank 767
  48. fl0wn                         0.23%      388,420 (units:    74)
  49. LordBowlich                   0.21%      356,139 (units:    88)
  50. Logomancer                    0.20%      331,925 (units:   175)
- 51. KitRedgrave                   0.20%      323,346 (units:    60)
+ 51. KitRedgrave                   0.19%      323,346 (units:    60)
  52. jkl                           0.19%      315,120 (units:    94)
  53. Hany                          0.18%      293,560 (units:    79)
  54. zx3                           0.17%      281,613 (units:    52)
