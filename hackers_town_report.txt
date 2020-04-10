@@ -1,5 +1,5 @@
-As of 2020-04-10 08:11:51, hackers.town is rank 740
-   with 12,490 work units for 181,001,550 credits
+As of 2020-04-10 08:22:13, hackers.town is rank 737
+   with 12,493 work units for 181,007,335 credits
   1. wetdryvac                    13.74%   24,876,513 (units:   671)
   2. merimus                       9.41%   17,029,862 (units:   444)
   3. KemoNine                      8.38%   15,172,225 (units:   570)
@@ -8,7 +8,7 @@ As of 2020-04-10 08:11:51, hackers.town is rank 740
   6. Freakazoid                    5.55%   10,051,117 (units:   350)
   7. Polychrome                    3.91%    7,072,051 (units:   289)
   8. c0debabe                      2.95%    5,337,195 (units:   165)
-  9. Werekat                       2.83%    5,126,797 (units:   196)
+  9. Werekat                       2.83%    5,131,126 (units:   197)
  10. Calcifer                      2.76%    4,987,195 (units:   120)
  11. bhtooefr                      2.73%    4,937,172 (units:   119)
  12. FOOL                          2.40%    4,346,297 (units:   278)
@@ -105,9 +105,9 @@ As of 2020-04-10 08:11:51, hackers.town is rank 740
 103. SJM                           0.01%       21,011 (units:     8)
 104. amsomniac                     0.01%       20,046 (units:    37)
 105. L4NN-1312                     0.01%       17,251 (units:    26)
-106. shellkr                       0.01%       16,190 (units:    14)
-107. Twitter                       0.01%       16,044 (units:    19)
-108. Kirjis                        0.01%       15,995 (units:    36)
+106. Kirjis                        0.01%       16,950 (units:    37)
+107. shellkr                       0.01%       16,190 (units:    14)
+108. Twitter                       0.01%       16,044 (units:    19)
 109. neoninteger                   0.01%       15,446 (units:    19)
 110. the_gibson                    0.01%       15,396 (units:     1)
 111. electric.glowing.surf/        0.01%       15,321 (units:    19)
@@ -130,8 +130,8 @@ As of 2020-04-10 08:11:51, hackers.town is rank 740
 128. Koakuma                       0.00%        6,287 (units:    13)
 129. Azure                         0.00%        5,715 (units:     9)
 130. Kranfahrer                    0.00%        5,233 (units:    10)
-131. Arcans                        0.00%        4,607 (units:    10)
-132. HiRezCanDo                    0.00%        4,171 (units:     8)
+131. HiRezCanDo                    0.00%        4,672 (units:     9)
+132. Arcans                        0.00%        4,607 (units:    10)
 133. Toive8547                     0.00%        3,640 (units:     5)
 134. cooper                        0.00%        3,285 (units:     9)
 135. ratSprite                     0.00%        2,899 (units:     8)
