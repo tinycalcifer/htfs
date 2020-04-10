@@ -1,16 +1,16 @@
-As of 2020-04-10 14:22:15, hackers.town is rank 733
-   with 12,632 work units for 183,330,034 credits
+As of 2020-04-10 14:32:14, hackers.town is rank 733
+   with 12,635 work units for 183,335,720 credits
   1. wetdryvac                    13.78%   25,256,771 (units:   680)
   2. merimus                       9.37%   17,175,095 (units:   451)
   3. KemoNine                      8.30%   15,222,308 (units:   571)
   4. packetcat                     8.00%   14,659,186 (units:   119)
   5. dokuja                        6.00%   11,003,313 (units:   388)
-  6. Freakazoid                    5.63%   10,312,476 (units:   357)
+  6. Freakazoid                    5.62%   10,312,476 (units:   357)
   7. Polychrome                    3.86%    7,079,049 (units:   291)
   8. c0debabe                      2.92%    5,352,731 (units:   166)
   9. Werekat                       2.81%    5,143,874 (units:   200)
  10. bhtooefr                      2.80%    5,134,445 (units:   121)
- 11. Calcifer                      2.73%    4,999,144 (units:   122)
+ 11. Calcifer                      2.73%    5,003,847 (units:   123)
  12. FOOL                          2.39%    4,382,505 (units:   281)
  13. SiinaCutie                    2.27%    4,163,136 (units:   214)
  14. skraelingjar                  1.73%    3,177,228 (units:    62)
@@ -69,10 +69,10 @@ As of 2020-04-10 14:22:15, hackers.town is rank 733
  67. Nemesis                       0.06%      103,626 (units:    53)
  68. heliostatic                   0.06%      101,482 (units:    26)
  69. JoshMulliken                  0.05%       97,080 (units:    23)
- 70. neil                          0.05%       91,071 (units:    57)
+ 70. neil                          0.05%       91,291 (units:    58)
  71. silksnep                      0.05%       90,452 (units:   117)
  72. Imani                         0.05%       88,041 (units:   129)
- 73. LordMathis                    0.05%       83,415 (units:    23)
+ 73. LordMathis                    0.05%       84,178 (units:    24)
  74. piggo                         0.04%       76,841 (units:    18)
  75. Murph                         0.04%       71,069 (units:    21)
  76. Michael_Simkin                0.04%       70,687 (units:    29)
