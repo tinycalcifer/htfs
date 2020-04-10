@@ -1,5 +1,5 @@
-As of 2020-04-10 18:12:06, hackers.town is rank 727
-   with 12,726 work units for 184,538,360 credits
+As of 2020-04-10 18:22:26, hackers.town is rank 727
+   with 12,728 work units for 184,546,715 credits
   1. wetdryvac                    13.75%   25,380,240 (units:   685)
   2. merimus                       9.31%   17,175,095 (units:   451)
   3. KemoNine                      8.25%   15,222,308 (units:   571)
@@ -84,12 +84,12 @@ As of 2020-04-10 18:12:06, hackers.town is rank 727
  82. Alteraner92                   0.03%       57,462 (units:    34)
  83. daum3ns                       0.03%       56,636 (units:     6)
  84. atinciona                     0.03%       52,342 (units:    82)
- 85. Purple                        0.03%       46,450 (units:    30)
- 86. emelie                        0.03%       46,275 (units:     4)
- 87.                               0.02%       45,002 (units:    33)
- 88. tbn97                         0.02%       44,602 (units:    54)
- 89. RandomGeek                    0.02%       44,465 (units:     4)
- 90. Kranfahrer                    0.02%       40,023 (units:    19)
+ 85. Kranfahrer                    0.03%       47,708 (units:    20)
+ 86. Purple                        0.03%       46,450 (units:    30)
+ 87. emelie                        0.03%       46,275 (units:     4)
+ 88.                               0.02%       45,002 (units:    33)
+ 89. tbn97                         0.02%       44,602 (units:    54)
+ 90. RandomGeek                    0.02%       44,465 (units:     4)
  91. MaxAtCastleMalmeddy           0.02%       38,160 (units:    54)
  92. crc32                         0.02%       37,889 (units:    46)
  93. Seb                           0.02%       37,202 (units:    69)
@@ -99,8 +99,8 @@ As of 2020-04-10 18:12:06, hackers.town is rank 727
  97. Syrinx                        0.02%       31,060 (units:    73)
  98. pmosetc                       0.01%       27,320 (units:    32)
  99. julianaito                    0.01%       24,640 (units:    69)
-100. nuklearfiziks                 0.01%       23,903 (units:     5)
-101. socketwench                   0.01%       23,593 (units:    31)
+100. socketwench                   0.01%       24,263 (units:    32)
+101. nuklearfiziks                 0.01%       23,903 (units:     5)
 102. TMY                           0.01%       23,206 (units:    40)
 103. murph                         0.01%       21,246 (units:    10)
 104. SteveTheDragon                0.01%       21,033 (units:    14)
