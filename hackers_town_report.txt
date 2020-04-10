@@ -1,17 +1,17 @@
-As of 2020-04-10 01:02:04, hackers.town is rank 739
-   with 12,312 work units for 178,156,096 credits
+As of 2020-04-10 01:12:15, hackers.town is rank 739
+   with 12,315 work units for 178,170,136 credits
   1. wetdryvac                    13.76%   24,522,621 (units:   660)
   2. merimus                       9.30%   16,564,407 (units:   433)
-  3. KemoNine                      8.43%   15,019,121 (units:   566)
+  3. KemoNine                      8.44%   15,030,018 (units:   567)
   4. packetcat                     7.64%   13,605,242 (units:   113)
   5. dokuja                        5.88%   10,479,273 (units:   383)
   6. Freakazoid                    5.58%    9,938,651 (units:   347)
   7. Polychrome                    3.94%    7,021,292 (units:   287)
   8. c0debabe                      3.00%    5,337,195 (units:   165)
-  9. Werekat                       2.87%    5,104,252 (units:   192)
+  9. Werekat                       2.86%    5,104,252 (units:   192)
  10. Calcifer                      2.78%    4,960,117 (units:   116)
  11. bhtooefr                      2.69%    4,793,305 (units:   117)
- 12. FOOL                          2.43%    4,334,642 (units:   274)
+ 12. FOOL                          2.43%    4,336,766 (units:   275)
  13. SiinaCutie                    2.31%    4,117,353 (units:   212)
  14. skraelingjar                  1.78%    3,177,228 (units:    62)
  15. r000t                         1.63%    2,903,261 (units:    57)
@@ -19,7 +19,7 @@ As of 2020-04-10 01:02:04, hackers.town is rank 739
  17. radicaledward                 1.47%    2,610,515 (units:    89)
  18. Mr.House                      1.46%    2,603,613 (units:   132)
  19. dafuchs                       1.29%    2,302,395 (units:   139)
- 20. ryen                          1.16%    2,074,581 (units:   158)
+ 20. ryen                          1.16%    2,075,600 (units:   159)
  21. pfreak                        1.12%    1,996,770 (units:    48)
  22. elfgirlsarah                  1.10%    1,958,394 (units:    90)
  23. /dev/random                   0.95%    1,699,394 (units:   129)
