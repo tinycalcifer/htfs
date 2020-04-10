@@ -1,11 +1,11 @@
-As of 2020-04-10 13:22:10, hackers.town is rank 733
-   with 12,607 work units for 182,865,273 credits
+As of 2020-04-10 13:32:07, hackers.town is rank 733
+   with 12,610 work units for 182,898,107 credits
   1. wetdryvac                    13.73%   25,107,339 (units:   678)
   2. merimus                       9.39%   17,165,683 (units:   450)
   3. KemoNine                      8.32%   15,222,308 (units:   571)
-  4. packetcat                     8.02%   14,659,186 (units:   119)
+  4. packetcat                     8.01%   14,659,186 (units:   119)
   5. dokuja                        6.02%   11,003,313 (units:   388)
-  6. Freakazoid                    5.62%   10,274,321 (units:   355)
+  6. Freakazoid                    5.63%   10,305,405 (units:   356)
   7. Polychrome                    3.87%    7,079,049 (units:   291)
   8. c0debabe                      2.93%    5,352,731 (units:   166)
   9. Werekat                       2.81%    5,143,874 (units:   200)
@@ -23,7 +23,7 @@ As of 2020-04-10 13:22:10, hackers.town is rank 733
  21. elfgirlsarah                  1.14%    2,082,097 (units:    92)
  22. pfreak                        1.09%    1,996,770 (units:    48)
  23. /dev/random                   0.94%    1,726,847 (units:   139)
- 24. mandibular joint dysfunction  0.91%    1,665,608 (units:   620)
+ 24. mandibular joint dysfunction  0.91%    1,667,048 (units:   621)
  25. The_Gibson(HTown)             0.89%    1,633,365 (units:    88)
  26. paullindner                   0.75%    1,367,320 (units:   262)
  27. kusuriya                      0.72%    1,314,054 (units:    65)
@@ -50,7 +50,7 @@ As of 2020-04-10 13:22:10, hackers.town is rank 733
  48. fl0wn                         0.21%      388,420 (units:    74)
  49. LordBowlich                   0.19%      356,139 (units:    88)
  50. jkl                           0.19%      346,173 (units:   105)
- 51. technolust                    0.18%      335,924 (units:   194)
+ 51. technolust                    0.18%      336,234 (units:   195)
  52. Hany                          0.18%      334,331 (units:    87)
  53. Logomancer                    0.18%      332,110 (units:   185)
  54. KitRedgrave                   0.18%      323,346 (units:    60)
