@@ -1,11 +1,11 @@
-As of 2020-04-11 14:32:17, hackers.town is rank 713
-   with 13,253 work units for 192,442,203 credits
-  1. wetdryvac                    13.41%   25,800,548 (units:   705)
+As of 2020-04-11 14:42:10, hackers.town is rank 713
+   with 13,256 work units for 192,471,468 credits
+  1. wetdryvac                    13.40%   25,800,548 (units:   705)
   2. merimus                       9.36%   18,012,633 (units:   475)
   3. packetcat                     8.58%   16,506,603 (units:   131)
   4. KemoNine                      8.14%   15,659,225 (units:   580)
   5. dokuja                        6.32%   12,159,091 (units:   399)
-  6. Freakazoid                    5.76%   11,081,532 (units:   386)
+  6. Freakazoid                    5.77%   11,107,612 (units:   387)
   7. Polychrome                    3.84%    7,387,956 (units:   302)
   8. c0debabe                      2.94%    5,650,350 (units:   174)
   9. bhtooefr                      2.77%    5,324,402 (units:   128)
@@ -33,7 +33,7 @@ As of 2020-04-11 14:32:17, hackers.town is rank 713
  31. Anonymous                     0.57%    1,102,888 (units:   426)
  32. TerrorBite                    0.56%    1,085,432 (units:    36)
  33. rfquerin                      0.55%    1,050,205 (units:    70)
- 34. sungo                         0.53%    1,017,120 (units:   280)
+ 34. sungo                         0.53%    1,019,804 (units:   281)
  35. Kyle                          0.45%      871,508 (units:    86)
  36. mainebot                      0.45%      862,335 (units:    50)
  37. Null                          0.43%      818,594 (units:    22)
@@ -108,8 +108,8 @@ As of 2020-04-11 14:32:17, hackers.town is rank 713
 106. SteveTheDragon                0.01%       23,005 (units:    15)
 107. murph                         0.01%       21,246 (units:    10)
 108. SJM                           0.01%       21,011 (units:     8)
-109. amsomniac                     0.01%       20,046 (units:    37)
-110. HiRezCanDo                    0.01%       19,696 (units:    23)
+109. HiRezCanDo                    0.01%       20,197 (units:    24)
+110. amsomniac                     0.01%       20,046 (units:    37)
 111. L4NN-1312                     0.01%       18,494 (units:    28)
 112. pixelpaperyarn                0.01%       17,781 (units:    28)
 113. neoninteger                   0.01%       17,180 (units:    20)
