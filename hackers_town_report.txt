@@ -1,11 +1,11 @@
-As of 2020-04-11 12:22:13, hackers.town is rank 713
-   with 13,199 work units for 191,679,458 credits
+As of 2020-04-11 12:32:17, hackers.town is rank 713
+   with 13,203 work units for 191,690,515 credits
   1. wetdryvac                    13.45%   25,788,576 (units:   702)
   2. merimus                       9.33%   17,876,317 (units:   473)
   3. packetcat                     8.53%   16,342,251 (units:   130)
   4. KemoNine                      8.17%   15,659,225 (units:   580)
   5. dokuja                        6.25%   11,976,551 (units:   397)
-  6. Freakazoid                    5.77%   11,063,664 (units:   382)
+  6. Freakazoid                    5.78%   11,074,015 (units:   384)
   7. Polychrome                    3.85%    7,377,342 (units:   300)
   8. c0debabe                      2.91%    5,574,931 (units:   173)
   9. bhtooefr                      2.78%    5,324,402 (units:   128)
@@ -86,7 +86,7 @@ As of 2020-04-11 12:22:13, hackers.town is rank 713
  84. daum3ns                       0.03%       56,636 (units:     6)
  85. atinciona                     0.03%       56,234 (units:    90)
  86. tbn97                         0.03%       48,857 (units:    58)
- 87. Purple                        0.03%       48,120 (units:    33)
+ 87. Purple                        0.03%       48,540 (units:    34)
  88. emelie                        0.02%       46,275 (units:     4)
  89. RandomGeek                    0.02%       45,301 (units:     6)
  90.                               0.02%       45,002 (units:    33)
@@ -94,7 +94,7 @@ As of 2020-04-11 12:22:13, hackers.town is rank 713
  92. crc32                         0.02%       38,390 (units:    47)
  93. MaxAtCastleMalmeddy           0.02%       38,160 (units:    54)
  94. Bingo                         0.02%       36,640 (units:    58)
- 95. jerephil                      0.02%       36,128 (units:    30)
+ 95. jerephil                      0.02%       36,414 (units:    31)
  96. Tool_Man                      0.02%       35,354 (units:    53)
  97. Syrinx                        0.02%       32,060 (units:    74)
  98. Phlox                         0.02%       32,011 (units:     2)
