@@ -1,5 +1,5 @@
-As of 2020-04-11 16:51:54, hackers.town is rank 713
-   with 13,290 work units for 193,015,021 credits
+As of 2020-04-11 17:02:17, hackers.town is rank 713
+   with 13,293 work units for 193,021,252 credits
   1. wetdryvac                    13.41%   25,882,924 (units:   706)
   2. merimus                       9.33%   18,012,633 (units:   475)
   3. packetcat                     8.55%   16,506,603 (units:   131)
@@ -34,7 +34,7 @@ As of 2020-04-11 16:51:54, hackers.town is rank 713
  32. TerrorBite                    0.56%    1,085,432 (units:    36)
  33. rfquerin                      0.54%    1,050,205 (units:    70)
  34. sungo                         0.53%    1,023,796 (units:   282)
- 35. Kyle                          0.45%      871,508 (units:    86)
+ 35. Kyle                          0.45%      876,666 (units:    87)
  36. mainebot                      0.45%      862,335 (units:    50)
  37. Null                          0.42%      818,594 (units:    22)
  38. djsumdog                      0.36%      702,543 (units:    86)
@@ -78,7 +78,7 @@ As of 2020-04-11 16:51:54, hackers.town is rank 713
  76. gwozniak                      0.04%       73,385 (units:   112)
  77. Murph                         0.04%       71,069 (units:    21)
  78. Michael_Simkin                0.04%       70,687 (units:    29)
- 79. claudiom                      0.04%       69,171 (units:   465)
+ 79. claudiom                      0.04%       69,244 (units:   466)
  80. deowyth                       0.04%       68,655 (units:     5)
  81. George_                       0.03%       59,802 (units:    11)
  82. tomatoefolding                0.03%       59,750 (units:     1)
@@ -93,8 +93,8 @@ As of 2020-04-11 16:51:54, hackers.town is rank 713
  91. Seb                           0.02%       40,087 (units:    72)
  92. crc32                         0.02%       38,690 (units:    48)
  93. MaxAtCastleMalmeddy           0.02%       38,160 (units:    54)
- 94. Bingo                         0.02%       37,141 (units:    59)
- 95. jerephil                      0.02%       36,414 (units:    31)
+ 94. jerephil                      0.02%       37,414 (units:    32)
+ 95. Bingo                         0.02%       37,141 (units:    59)
  96. Tool_Man                      0.02%       35,354 (units:    53)
  97. Syrinx                        0.02%       32,060 (units:    74)
  98. Phlox                         0.02%       32,011 (units:     2)
