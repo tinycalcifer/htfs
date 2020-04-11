@@ -1,5 +1,5 @@
-As of 2020-04-11 15:52:11, hackers.town is rank 713
-   with 13,277 work units for 192,764,008 credits
+As of 2020-04-11 16:12:04, hackers.town is rank 713
+   with 13,280 work units for 192,771,561 credits
   1. wetdryvac                    13.43%   25,882,924 (units:   706)
   2. merimus                       9.34%   18,012,633 (units:   475)
   3. packetcat                     8.56%   16,506,603 (units:   131)
@@ -7,12 +7,12 @@ As of 2020-04-11 15:52:11, hackers.town is rank 713
   5. dokuja                        6.33%   12,211,229 (units:   400)
   6. Freakazoid                    5.80%   11,179,553 (units:   390)
   7. Polychrome                    3.83%    7,387,956 (units:   302)
-  8. c0debabe                      2.93%    5,650,350 (units:   174)
+  8. c0debabe                      2.93%    5,656,268 (units:   175)
   9. bhtooefr                      2.76%    5,324,402 (units:   128)
  10. Werekat                       2.75%    5,307,631 (units:   214)
  11. Calcifer                      2.63%    5,064,914 (units:   135)
  12. FOOL                          2.30%    4,431,760 (units:   290)
- 13. SiinaCutie                    2.19%    4,212,033 (units:   216)
+ 13. SiinaCutie                    2.18%    4,212,033 (units:   216)
  14. felix                         1.68%    3,232,149 (units:   144)
  15. skraelingjar                  1.65%    3,177,228 (units:    62)
  16. r000t                         1.53%    2,943,454 (units:    63)
@@ -44,7 +44,7 @@ As of 2020-04-11 15:52:11, hackers.town is rank 713
  42. drwho                         0.28%      536,185 (units:   365)
  43. tayo                          0.26%      497,485 (units:   150)
  44. HolSta                        0.24%      462,170 (units:    57)
- 45. Requiem                       0.23%      440,620 (units:   150)
+ 45. Requiem                       0.23%      442,196 (units:   151)
  46. protospork                    0.22%      423,894 (units:    59)
  47. synfinner                     0.22%      420,975 (units:    13)
  48. Hany                          0.20%      390,229 (units:    97)
@@ -78,7 +78,7 @@ As of 2020-04-11 15:52:11, hackers.town is rank 713
  76. gwozniak                      0.04%       73,385 (units:   112)
  77. Murph                         0.04%       71,069 (units:    21)
  78. Michael_Simkin                0.04%       70,687 (units:    29)
- 79. claudiom                      0.04%       68,988 (units:   462)
+ 79. claudiom                      0.04%       69,047 (units:   463)
  80. deowyth                       0.04%       68,655 (units:     5)
  81. George_                       0.03%       59,802 (units:    11)
  82. tomatoefolding                0.03%       59,750 (units:     1)
