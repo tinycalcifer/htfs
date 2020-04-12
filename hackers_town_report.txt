@@ -1,5 +1,5 @@
-As of 2020-04-12 04:12:14, hackers.town is rank 708
-   with 13,512 work units for 196,274,343 credits
+As of 2020-04-12 04:32:34, hackers.town is rank 708
+   with 13,516 work units for 196,282,730 credits
   1. wetdryvac                    13.49%   26,470,143 (units:   726)
   2. merimus                       9.21%   18,070,269 (units:   477)
   3. packetcat                     8.47%   16,616,350 (units:   132)
@@ -19,10 +19,10 @@ As of 2020-04-12 04:12:14, hackers.town is rank 708
  17. dafuchs                       1.46%    2,860,333 (units:   158)
  18. Mr.House                      1.37%    2,680,081 (units:   144)
  19. radicaledward                 1.33%    2,610,515 (units:    89)
- 20. ryen                          1.31%    2,568,084 (units:   182)
+ 20. ryen                          1.31%    2,571,072 (units:   183)
  21. elfgirlsarah                  1.24%    2,443,353 (units:   109)
  22. pfreak                        1.02%    1,996,770 (units:    48)
- 23. The_Gibson(HTown)             0.98%    1,916,184 (units:   130)
+ 23. The_Gibson(HTown)             0.98%    1,920,563 (units:   131)
  24. /dev/random                   0.91%    1,792,107 (units:   161)
  25. mandibular joint dysfunction  0.88%    1,732,603 (units:   658)
  26. paullindner                   0.78%    1,536,289 (units:   297)
@@ -90,7 +90,7 @@ As of 2020-04-12 04:12:14, hackers.town is rank 708
  88. emelie                        0.02%       46,275 (units:     4)
  89. RandomGeek                    0.02%       45,301 (units:     6)
  90.                               0.02%       45,002 (units:    33)
- 91. Seb                           0.02%       40,924 (units:    75)
+ 91. Seb                           0.02%       41,144 (units:    76)
  92. crc32                         0.02%       39,434 (units:    50)
  93. jerephil                      0.02%       38,458 (units:    35)
  94. Bingo                         0.02%       38,361 (units:    61)
@@ -98,7 +98,7 @@ As of 2020-04-12 04:12:14, hackers.town is rank 708
  96. Tool_Man                      0.02%       35,354 (units:    53)
  97. ZenCoder                      0.02%       35,004 (units:    14)
  98. Kirjis                        0.02%       33,698 (units:    50)
- 99. Syrinx                        0.02%       32,060 (units:    74)
+ 99. Syrinx                        0.02%       32,860 (units:    75)
 100. Phlox                         0.02%       32,011 (units:     2)
 101. pmosetc                       0.02%       31,960 (units:    40)
 102. socketwench                   0.01%       24,963 (units:    33)
