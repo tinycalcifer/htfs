@@ -1,14 +1,14 @@
-As of 2020-04-12 00:51:56, hackers.town is rank 708
-   with 13,459 work units for 195,378,115 credits
+As of 2020-04-12 01:02:00, hackers.town is rank 708
+   with 13,463 work units for 195,385,381 credits
   1. wetdryvac                    13.53%   26,432,182 (units:   721)
   2. merimus                       9.22%   18,014,808 (units:   476)
   3. packetcat                     8.50%   16,616,350 (units:   132)
   4. KemoNine                      8.10%   15,820,111 (units:   582)
   5. dokuja                        6.46%   12,615,520 (units:   404)
-  6. Freakazoid                    5.80%   11,336,081 (units:   398)
+  6. Freakazoid                    5.80%   11,338,740 (units:   399)
   7. Polychrome                    3.78%    7,391,293 (units:   304)
   8. c0debabe                      2.98%    5,814,126 (units:   180)
-  9. bhtooefr                      2.76%    5,386,993 (units:   132)
+  9. bhtooefr                      2.76%    5,389,430 (units:   133)
  10. Werekat                       2.73%    5,331,874 (units:   219)
  11. Calcifer                      2.59%    5,068,892 (units:   136)
  12. FOOL                          2.30%    4,495,487 (units:   294)
@@ -24,12 +24,12 @@ As of 2020-04-12 00:51:56, hackers.town is rank 708
  22. pfreak                        1.02%    1,996,770 (units:    48)
  23. The_Gibson(HTown)             0.98%    1,916,184 (units:   130)
  24. /dev/random                   0.92%    1,792,107 (units:   161)
- 25. mandibular joint dysfunction  0.89%    1,731,372 (units:   656)
+ 25. mandibular joint dysfunction  0.89%    1,732,102 (units:   657)
  26. paullindner                   0.78%    1,523,053 (units:   294)
  27. kusuriya                      0.67%    1,314,054 (units:    65)
  28. DJ_Sundog                     0.64%    1,242,227 (units:   252)
  29. qwazix                        0.59%    1,157,676 (units:   220)
- 30. CookieMom                     0.57%    1,121,023 (units:   140)
+ 30. CookieMom                     0.57%    1,122,463 (units:   141)
  31. Anonymous                     0.56%    1,102,888 (units:   426)
  32. TerrorBite                    0.56%    1,085,432 (units:    36)
  33. rfquerin                      0.54%    1,050,205 (units:    70)
