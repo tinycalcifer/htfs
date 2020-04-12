@@ -1,5 +1,5 @@
-As of 2020-04-12 11:32:05, hackers.town is rank 700
-   with 13,648 work units for 199,468,075 credits
+As of 2020-04-12 11:52:04, hackers.town is rank 700
+   with 13,651 work units for 199,474,055 credits
   1. wetdryvac                    13.45%   26,823,608 (units:   736)
   2. merimus                       9.18%   18,307,792 (units:   481)
   3. packetcat                     8.50%   16,954,897 (units:   134)
@@ -7,7 +7,7 @@ As of 2020-04-12 11:32:05, hackers.town is rank 700
   5. dokuja                        6.57%   13,112,521 (units:   409)
   6. Freakazoid                    5.75%   11,464,117 (units:   410)
   7. Polychrome                    3.83%    7,634,103 (units:   309)
-  8. c0debabe                      2.91%    5,814,126 (units:   180)
+  8. c0debabe                      2.92%    5,816,552 (units:   181)
   9. bhtooefr                      2.78%    5,540,674 (units:   138)
  10. Werekat                       2.68%    5,354,570 (units:   224)
  11. Calcifer                      2.64%    5,258,713 (units:   137)
@@ -27,7 +27,7 @@ As of 2020-04-12 11:32:05, hackers.town is rank 700
  25. mandibular joint dysfunction  0.87%    1,736,365 (units:   665)
  26. paullindner                   0.77%    1,544,307 (units:   299)
  27. kusuriya                      0.66%    1,314,054 (units:    65)
- 28. DJ_Sundog                     0.64%    1,267,845 (units:   260)
+ 28. DJ_Sundog                     0.64%    1,270,075 (units:   261)
  29. qwazix                        0.58%    1,157,676 (units:   220)
  30. CookieMom                     0.56%    1,124,647 (units:   144)
  31. Anonymous                     0.56%    1,121,048 (units:   429)
@@ -40,7 +40,7 @@ As of 2020-04-12 11:32:05, hackers.town is rank 700
  38. djsumdog                      0.35%      702,543 (units:    86)
  39. rmgr                          0.35%      700,755 (units:    31)
  40. TG                            0.35%      694,922 (units:   143)
- 41. drwho                         0.34%      676,410 (units:   382)
+ 41. drwho                         0.34%      677,734 (units:   383)
  42. avolkov                       0.32%      636,618 (units:    60)
  43. tayo                          0.25%      497,485 (units:   150)
  44. HolSta                        0.23%      462,170 (units:    57)
