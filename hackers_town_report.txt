@@ -1,5 +1,5 @@
-As of 2020-04-12 08:12:20, hackers.town is rank 700
-   with 13,588 work units for 198,170,492 credits
+As of 2020-04-12 08:32:14, hackers.town is rank 700
+   with 13,591 work units for 198,172,389 credits
   1. wetdryvac                    13.48%   26,706,170 (units:   731)
   2. merimus                       9.23%   18,293,838 (units:   480)
   3. packetcat                     8.56%   16,954,897 (units:   134)
@@ -62,10 +62,10 @@ As of 2020-04-12 08:12:20, hackers.town is rank 700
  60. debugninja                    0.14%      276,224 (units:    30)
  61. Kyresti                       0.11%      227,629 (units:    35)
  62. Brian                         0.11%      212,669 (units:    68)
- 63. Kranfahrer                    0.09%      181,883 (units:    47)
+ 63. Kranfahrer                    0.09%      182,613 (units:    48)
  64. Neue.City                     0.08%      160,069 (units:    38)
  65. LordMathis                    0.08%      159,767 (units:    26)
- 66. neil                          0.07%      141,753 (units:    71)
+ 66. neil                          0.07%      142,190 (units:    72)
  67. BadGateway                    0.06%      126,356 (units:    71)
  68. arbu                          0.06%      125,499 (units:     7)
  69. RandyNose                     0.06%      120,877 (units:   149)
@@ -93,8 +93,8 @@ As of 2020-04-12 08:12:20, hackers.town is rank 700
  91. ZenCoder                      0.02%       41,930 (units:    15)
  92. Seb                           0.02%       41,144 (units:    76)
  93. crc32                         0.02%       39,434 (units:    50)
- 94. jerephil                      0.02%       38,458 (units:    35)
- 95. Bingo                         0.02%       38,361 (units:    61)
+ 94. Bingo                         0.02%       39,091 (units:    62)
+ 95. jerephil                      0.02%       38,458 (units:    35)
  96. MaxAtCastleMalmeddy           0.02%       38,160 (units:    54)
  97. Tool_Man                      0.02%       35,354 (units:    53)
  98. Kirjis                        0.02%       34,309 (units:    52)
