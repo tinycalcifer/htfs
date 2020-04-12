@@ -1,17 +1,17 @@
-As of 2020-04-12 11:22:04, hackers.town is rank 700
-   with 13,644 work units for 199,447,214 credits
-  1. wetdryvac                    13.45%   26,818,423 (units:   735)
-  2. merimus                       9.17%   18,293,838 (units:   480)
+As of 2020-04-12 11:32:05, hackers.town is rank 700
+   with 13,648 work units for 199,468,075 credits
+  1. wetdryvac                    13.45%   26,823,608 (units:   736)
+  2. merimus                       9.18%   18,307,792 (units:   481)
   3. packetcat                     8.50%   16,954,897 (units:   134)
   4. KemoNine                      7.96%   15,878,468 (units:   584)
   5. dokuja                        6.57%   13,112,521 (units:   409)
   6. Freakazoid                    5.75%   11,464,117 (units:   410)
   7. Polychrome                    3.83%    7,634,103 (units:   309)
-  8. c0debabe                      2.92%    5,814,126 (units:   180)
+  8. c0debabe                      2.91%    5,814,126 (units:   180)
   9. bhtooefr                      2.78%    5,540,674 (units:   138)
  10. Werekat                       2.68%    5,354,570 (units:   224)
  11. Calcifer                      2.64%    5,258,713 (units:   137)
- 12. FOOL                          2.33%    4,654,304 (units:   298)
+ 12. FOOL                          2.33%    4,655,806 (units:   299)
  13. SiinaCutie                    2.32%    4,634,282 (units:   221)
  14. felix                         1.92%    3,821,540 (units:   149)
  15. skraelingjar                  1.59%    3,177,228 (units:    62)
@@ -96,7 +96,7 @@ As of 2020-04-12 11:22:04, hackers.town is rank 700
  94. Bingo                         0.02%       39,391 (units:    63)
  95. jerephil                      0.02%       38,458 (units:    35)
  96. MaxAtCastleMalmeddy           0.02%       38,160 (units:    54)
- 97. Kirjis                        0.02%       36,169 (units:    54)
+ 97. Kirjis                        0.02%       36,389 (units:    55)
  98. Tool_Man                      0.02%       35,354 (units:    53)
  99. Syrinx                        0.02%       32,860 (units:    75)
 100. pmosetc                       0.02%       32,270 (units:    41)
