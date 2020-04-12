@@ -1,10 +1,10 @@
-As of 2020-04-12 02:12:03, hackers.town is rank 708
-   with 13,477 work units for 195,703,433 credits
-  1. wetdryvac                    13.51%   26,446,255 (units:   722)
-  2. merimus                       9.21%   18,014,808 (units:   476)
+As of 2020-04-12 02:23:28, hackers.town is rank 708
+   with 13,481 work units for 195,792,549 credits
+  1. wetdryvac                    13.51%   26,451,413 (units:   723)
+  2. merimus                       9.23%   18,070,269 (units:   477)
   3. packetcat                     8.49%   16,616,350 (units:   132)
-  4. KemoNine                      8.08%   15,820,111 (units:   582)
-  5. dokuja                        6.45%   12,615,520 (units:   404)
+  4. KemoNine                      8.09%   15,847,808 (units:   583)
+  5. dokuja                        6.44%   12,615,520 (units:   404)
   6. Freakazoid                    5.83%   11,409,548 (units:   401)
   7. Polychrome                    3.78%    7,391,293 (units:   304)
   8. c0debabe                      2.97%    5,814,126 (units:   180)
@@ -24,7 +24,7 @@ As of 2020-04-12 02:12:03, hackers.town is rank 708
  22. pfreak                        1.02%    1,996,770 (units:    48)
  23. The_Gibson(HTown)             0.98%    1,916,184 (units:   130)
  24. /dev/random                   0.92%    1,792,107 (units:   161)
- 25. mandibular joint dysfunction  0.89%    1,732,102 (units:   657)
+ 25. mandibular joint dysfunction  0.88%    1,732,102 (units:   657)
  26. paullindner                   0.78%    1,526,703 (units:   295)
  27. kusuriya                      0.67%    1,314,054 (units:    65)
  28. DJ_Sundog                     0.64%    1,244,959 (units:   253)
@@ -39,7 +39,7 @@ As of 2020-04-12 02:12:03, hackers.town is rank 708
  37. Null                          0.42%      818,594 (units:    22)
  38. djsumdog                      0.36%      702,543 (units:    86)
  39. rmgr                          0.36%      700,755 (units:    31)
- 40. TG                            0.36%      694,922 (units:   143)
+ 40. TG                            0.35%      694,922 (units:   143)
  41. avolkov                       0.31%      610,018 (units:    59)
  42. drwho                         0.28%      545,813 (units:   378)
  43. tayo                          0.25%      497,485 (units:   150)
@@ -71,7 +71,7 @@ As of 2020-04-12 02:12:03, hackers.town is rank 708
  69. RandyNose                     0.06%      120,177 (units:   148)
  70. Nemesis                       0.05%      103,626 (units:    53)
  71. heliostatic                   0.05%      101,482 (units:    26)
- 72. silksnep                      0.05%       97,819 (units:   127)
+ 72. silksnep                      0.05%       98,619 (units:   128)
  73. JoshMulliken                  0.05%       97,080 (units:    23)
  74. Imani                         0.05%       95,054 (units:   141)
  75. piggo                         0.04%       76,841 (units:    18)
