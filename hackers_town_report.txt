@@ -1,11 +1,11 @@
-As of 2020-04-12 16:12:07, hackers.town is rank 697
-   with 13,733 work units for 200,873,019 credits
+As of 2020-04-12 16:22:20, hackers.town is rank 696
+   with 13,736 work units for 200,880,313 credits
   1. wetdryvac                    13.46%   27,030,993 (units:   740)
   2. merimus                       9.12%   18,321,262 (units:   483)
   3. packetcat                     8.44%   16,954,897 (units:   134)
   4. KemoNine                      7.92%   15,905,317 (units:   585)
   5. dokuja                        6.61%   13,269,343 (units:   411)
-  6. Freakazoid                    5.72%   11,479,964 (units:   411)
+  6. Freakazoid                    5.71%   11,479,964 (units:   411)
   7. Polychrome                    3.85%    7,741,120 (units:   310)
   8. c0debabe                      2.95%    5,935,514 (units:   184)
   9. bhtooefr                      2.76%    5,546,679 (units:   139)
@@ -42,10 +42,10 @@ As of 2020-04-12 16:12:07, hackers.town is rank 697
  40. rmgr                          0.35%      700,755 (units:    31)
  41. TG                            0.35%      694,922 (units:   143)
  42. avolkov                       0.32%      644,303 (units:    61)
- 43. Kranfahrer                    0.29%      574,909 (units:    57)
+ 43. Kranfahrer                    0.29%      578,992 (units:    58)
  44. tayo                          0.25%      497,485 (units:   150)
  45. HolSta                        0.23%      470,021 (units:    59)
- 46. Requiem                       0.22%      447,979 (units:   153)
+ 46. Requiem                       0.22%      450,490 (units:   154)
  47. protospork                    0.21%      423,894 (units:    59)
  48. synfinner                     0.21%      420,975 (units:    13)
  49. LordBowlich                   0.20%      392,188 (units:    99)
@@ -92,8 +92,8 @@ As of 2020-04-12 16:12:07, hackers.town is rank 697
  90. emelie                        0.02%       46,275 (units:     4)
  91.                               0.02%       45,002 (units:    33)
  92. crc32                         0.02%       43,034 (units:    51)
- 93. Bingo                         0.02%       42,479 (units:    66)
- 94. Seb                           0.02%       41,844 (units:    77)
+ 93. Seb                           0.02%       42,544 (units:    78)
+ 94. Bingo                         0.02%       42,479 (units:    66)
  95. jerephil                      0.02%       38,458 (units:    35)
  96. MaxAtCastleMalmeddy           0.02%       38,160 (units:    54)
  97. Kirjis                        0.02%       38,059 (units:    58)
