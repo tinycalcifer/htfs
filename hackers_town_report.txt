@@ -1,12 +1,12 @@
-As of 2020-04-13 14:11:57, hackers.town is rank 686
-   with 14,176 work units for 208,053,804 credits
+As of 2020-04-13 14:32:13, hackers.town is rank 686
+   with 14,179 work units for 208,057,249 credits
   1. wetdryvac                    13.33%   27,730,813 (units:   765)
   2. merimus                       9.10%   18,923,526 (units:   493)
   3. packetcat                     8.39%   17,447,158 (units:   136)
   4. KemoNine                      7.77%   16,166,539 (units:   589)
   5. dokuja                        6.80%   14,143,439 (units:   423)
   6. Freakazoid                    5.70%   11,864,853 (units:   422)
-  7. Polychrome                    3.76%    7,817,009 (units:   311)
+  7. Polychrome                    3.76%    7,818,542 (units:   312)
   8. bhtooefr                      2.90%    6,026,984 (units:   149)
   9. Calcifer                      2.88%    5,988,387 (units:   145)
  10. c0debabe                      2.86%    5,945,069 (units:   191)
@@ -45,7 +45,7 @@ As of 2020-04-13 14:11:57, hackers.town is rank 686
  43. avolkov                       0.32%      660,918 (units:    62)
  44. HolSta                        0.27%      554,871 (units:    76)
  45. tayo                          0.24%      497,485 (units:   150)
- 46. Requiem                       0.24%      495,954 (units:   172)
+ 46. Requiem                       0.24%      497,365 (units:   173)
  47. protospork                    0.20%      423,894 (units:    59)
  48. synfinner                     0.20%      420,975 (units:    13)
  49. LordBowlich                   0.20%      409,707 (units:   104)
@@ -102,7 +102,7 @@ As of 2020-04-13 14:11:57, hackers.town is rank 686
 100. socketwench                   0.02%       34,158 (units:    37)
 101. Syrinx                        0.02%       33,372 (units:    76)
 102. Phlox                         0.02%       32,011 (units:     2)
-103. Neil                          0.02%       31,419 (units:     4)
+103. Neil                          0.02%       31,920 (units:     5)
 104. SteveTheDragon                0.01%       26,464 (units:    18)
 105. murph                         0.01%       25,047 (units:    11)
 106. julianaito                    0.01%       24,640 (units:    69)
