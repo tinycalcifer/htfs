@@ -1,5 +1,5 @@
-As of 2020-04-13 19:42:13, hackers.town is rank 683
-   with 14,306 work units for 210,220,315 credits
+As of 2020-04-13 20:02:17, hackers.town is rank 683
+   with 14,310 work units for 210,222,985 credits
   1. wetdryvac                    13.35%   28,055,821 (units:   778)
   2. merimus                       9.00%   18,923,526 (units:   493)
   3. packetcat                     8.30%   17,447,158 (units:   136)
@@ -35,7 +35,7 @@ As of 2020-04-13 19:42:13, hackers.town is rank 683
  33. TerrorBite                    0.52%    1,085,432 (units:    36)
  34. sungo                         0.52%    1,083,896 (units:   299)
  35. rfquerin                      0.50%    1,055,825 (units:    73)
- 36. drwho                         0.45%      940,730 (units:   398)
+ 36. drwho                         0.45%      941,837 (units:   399)
  37. Kyle                          0.44%      918,067 (units:    98)
  38. mainebot                      0.41%      862,335 (units:    50)
  39. Null                          0.39%      818,594 (units:    22)
@@ -67,7 +67,7 @@ As of 2020-04-13 19:42:13, hackers.town is rank 683
  65. Neue.City                     0.08%      160,069 (units:    38)
  66. LordMathis                    0.08%      159,767 (units:    26)
  67. BadGateway                    0.07%      144,126 (units:    76)
- 68. RandyNose                     0.06%      130,497 (units:   162)
+ 68. RandyNose                     0.06%      131,397 (units:   163)
  69. arbu                          0.06%      125,499 (units:     7)
  70. piggo                         0.05%      107,281 (units:    22)
  71. silksnep                      0.05%      106,777 (units:   140)
@@ -89,7 +89,7 @@ As of 2020-04-13 19:42:13, hackers.town is rank 683
  87. Alteraner92                   0.03%       58,802 (units:    36)
  88. daum3ns                       0.03%       56,636 (units:     6)
  89.                               0.03%       55,633 (units:    34)
- 90. Purple                        0.03%       55,095 (units:    43)
+ 90. Purple                        0.03%       55,338 (units:    44)
  91. Kirjis                        0.03%       53,323 (units:    69)
  92. crc32                         0.02%       48,377 (units:    62)
  93. Bingo                         0.02%       46,793 (units:    76)
@@ -99,7 +99,7 @@ As of 2020-04-13 19:42:13, hackers.town is rank 683
  97. MaxAtCastleMalmeddy           0.02%       38,160 (units:    54)
  98. pmosetc                       0.02%       36,536 (units:    49)
  99. Tool_Man                      0.02%       35,354 (units:    53)
-100. socketwench                   0.02%       34,858 (units:    38)
+100. socketwench                   0.02%       35,278 (units:    39)
 101. Syrinx                        0.02%       33,822 (units:    77)
 102. Neil                          0.02%       32,421 (units:     6)
 103. Phlox                         0.02%       32,011 (units:     2)
