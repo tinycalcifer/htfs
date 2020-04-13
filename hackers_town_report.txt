@@ -1,9 +1,9 @@
-As of 2020-04-13 04:52:04, hackers.town is rank 688
-   with 14,004 work units for 204,989,757 credits
+As of 2020-04-13 05:02:06, hackers.town is rank 688
+   with 14,007 work units for 205,006,701 credits
   1. wetdryvac                    13.52%   27,718,477 (units:   763)
   2. merimus                       9.03%   18,519,333 (units:   489)
   3. packetcat                     8.27%   16,954,897 (units:   134)
-  4. KemoNine                      7.82%   16,033,675 (units:   587)
+  4. KemoNine                      7.83%   16,046,385 (units:   588)
   5. dokuja                        6.72%   13,781,249 (units:   419)
   6. Freakazoid                    5.68%   11,639,685 (units:   416)
   7. Polychrome                    3.78%    7,741,120 (units:   310)
@@ -12,7 +12,7 @@ As of 2020-04-13 04:52:04, hackers.town is rank 688
  10. bhtooefr                      2.85%    5,833,175 (units:   146)
  11. Werekat                       2.62%    5,363,736 (units:   227)
  12. SiinaCutie                    2.30%    4,723,752 (units:   224)
- 13. FOOL                          2.28%    4,665,360 (units:   305)
+ 13. FOOL                          2.28%    4,667,894 (units:   306)
  14. felix                         2.16%    4,418,689 (units:   156)
  15. skraelingjar                  1.55%    3,177,228 (units:    62)
  16. r000t                         1.44%    2,949,295 (units:    66)
@@ -56,7 +56,7 @@ As of 2020-04-13 04:52:04, hackers.town is rank 688
  54. Logomancer                    0.16%      332,161 (units:   188)
  55. KitRedgrave                   0.16%      323,346 (units:    60)
  56. csrsuoeb                      0.15%      300,915 (units:    59)
- 57. Mnemonic                      0.15%      299,094 (units:   114)
+ 57. Mnemonic                      0.15%      300,794 (units:   115)
  58. Canageek                      0.14%      296,880 (units:    98)
  59. m68k                          0.14%      292,022 (units:    82)
  60. zx3                           0.14%      282,114 (units:    53)
