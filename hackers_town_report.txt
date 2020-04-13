@@ -1,6 +1,6 @@
-As of 2020-04-13 13:42:18, hackers.town is rank 686
-   with 14,170 work units for 208,034,922 credits
-  1. wetdryvac                    13.33%   27,728,772 (units:   764)
+As of 2020-04-13 14:02:10, hackers.town is rank 686
+   with 14,174 work units for 208,038,961 credits
+  1. wetdryvac                    13.33%   27,730,813 (units:   765)
   2. merimus                       9.10%   18,923,526 (units:   493)
   3. packetcat                     8.39%   17,447,158 (units:   136)
   4. KemoNine                      7.77%   16,166,539 (units:   589)
@@ -55,7 +55,7 @@ As of 2020-04-13 13:42:18, hackers.town is rank 686
  53. technolust                    0.16%      338,674 (units:   199)
  54. Logomancer                    0.16%      332,161 (units:   188)
  55. KitRedgrave                   0.16%      323,346 (units:    60)
- 56. Mnemonic                      0.15%      308,366 (units:   118)
+ 56. Mnemonic                      0.15%      309,833 (units:   119)
  57. Canageek                      0.15%      305,037 (units:   100)
  58. csrsuoeb                      0.14%      301,615 (units:    60)
  59. m68k                          0.14%      301,081 (units:    86)
@@ -113,7 +113,7 @@ As of 2020-04-13 13:42:18, hackers.town is rank 686
 111. SJM                           0.01%       21,011 (units:     8)
 112. amsomniac                     0.01%       20,046 (units:    37)
 113. pixelpaperyarn                0.01%       19,221 (units:    29)
-114. grasshopper                   0.01%       18,641 (units:    23)
+114. grasshopper                   0.01%       18,952 (units:    24)
 115. L4NN-1312                     0.01%       18,494 (units:    28)
 116. electric.glowing.surf/        0.01%       16,843 (units:    20)
 117. shellkr                       0.01%       16,190 (units:    14)
@@ -124,9 +124,9 @@ As of 2020-04-13 13:42:18, hackers.town is rank 686
 122. dctrud                        0.01%       14,635 (units:     8)
 123. LunaLapin                     0.01%       13,339 (units:    18)
 124. imacrea                       0.01%       12,909 (units:    20)
-125. flipactual                    0.01%       12,401 (units:    25)
-126. ASBJORN                       0.01%       12,368 (units:    19)
-127. folding_with_gibson           0.01%       12,291 (units:     9)
+125. folding_with_gibson           0.01%       12,511 (units:    10)
+126. flipactual                    0.01%       12,401 (units:    25)
+127. ASBJORN                       0.01%       12,368 (units:    19)
 128. Data                          0.01%       11,812 (units:    15)
 129. Mathis                        0.00%        9,105 (units:     7)
 130. OldRedSun                     0.00%        9,054 (units:     1)
