@@ -1,5 +1,5 @@
-As of 2020-04-13 04:22:25, hackers.town is rank 688
-   with 13,994 work units for 204,757,535 credits
+As of 2020-04-13 04:32:03, hackers.town is rank 688
+   with 13,997 work units for 204,769,122 credits
   1. wetdryvac                    13.53%   27,708,162 (units:   762)
   2. merimus                       9.04%   18,519,333 (units:   489)
   3. packetcat                     8.28%   16,954,897 (units:   134)
@@ -22,7 +22,7 @@ As of 2020-04-13 04:22:25, hackers.town is rank 688
  20. Mr.House                      1.31%    2,680,081 (units:   144)
  21. radicaledward                 1.27%    2,610,515 (units:    89)
  22. pfreak                        0.98%    1,996,770 (units:    48)
- 23. The_Gibson(HTown)             0.96%    1,966,205 (units:   144)
+ 23. The_Gibson(HTown)             0.96%    1,970,477 (units:   145)
  24. /dev/random                   0.88%    1,792,107 (units:   161)
  25. mandibular joint dysfunction  0.85%    1,744,968 (units:   679)
  26. paullindner                   0.76%    1,558,049 (units:   302)
@@ -34,9 +34,9 @@ As of 2020-04-13 04:22:25, hackers.town is rank 688
  32. TerrorBite                    0.53%    1,085,432 (units:    36)
  33. sungo                         0.51%    1,051,934 (units:   290)
  34. rfquerin                      0.51%    1,050,205 (units:    70)
- 35. drwho                         0.46%      931,678 (units:   392)
- 36. Kyle                          0.44%      897,046 (units:    93)
- 37. Kranfahrer                    0.44%      894,973 (units:    75)
+ 35. drwho                         0.45%      931,678 (units:   392)
+ 36. Kranfahrer                    0.44%      902,002 (units:    76)
+ 37. Kyle                          0.44%      897,046 (units:    93)
  38. mainebot                      0.42%      862,335 (units:    50)
  39. Null                          0.40%      818,594 (units:    22)
  40. djsumdog                      0.34%      702,543 (units:    86)
@@ -88,7 +88,7 @@ As of 2020-04-13 04:22:25, hackers.town is rank 688
  86. ZenCoder                      0.03%       57,551 (units:    22)
  87. daum3ns                       0.03%       56,636 (units:     6)
  88. tbn97                         0.03%       55,819 (units:    63)
- 89. Purple                        0.03%       52,109 (units:    41)
+ 89. Purple                        0.03%       52,395 (units:    42)
  90. Kirjis                        0.02%       47,251 (units:    65)
  91. emelie                        0.02%       46,275 (units:     4)
  92. crc32                         0.02%       45,897 (units:    58)
