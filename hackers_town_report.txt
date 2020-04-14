@@ -1,6 +1,6 @@
-As of 2020-04-14 19:52:04, hackers.town is rank 676
-   with 14,862 work units for 217,630,082 credits
-  1. wetdryvac                    13.41%   29,194,115 (units:   812)
+As of 2020-04-14 20:02:23, hackers.town is rank 676
+   with 14,866 work units for 217,633,981 credits
+  1. wetdryvac                    13.41%   29,195,550 (units:   813)
   2. merimus                       8.74%   19,017,906 (units:   495)
   3. packetcat                     8.36%   18,187,017 (units:   141)
   4. KemoNine                      7.90%   17,188,344 (units:   603)
@@ -31,7 +31,7 @@ As of 2020-04-14 19:52:04, hackers.town is rank 676
  29. kusuriya                      0.60%    1,314,054 (units:    65)
  30. CookieMom                     0.57%    1,250,731 (units:   169)
  31. qwazix                        0.53%    1,157,676 (units:   220)
- 32. sungo                         0.52%    1,136,492 (units:   314)
+ 32. sungo                         0.52%    1,138,543 (units:   315)
  33. Anonymous                     0.52%    1,130,323 (units:   434)
  34. rfquerin                      0.51%    1,117,117 (units:    83)
  35. TerrorBite                    0.50%    1,085,432 (units:    36)
@@ -63,7 +63,7 @@ As of 2020-04-14 19:52:04, hackers.town is rank 676
  61. debugninja                    0.13%      276,224 (units:    30)
  62. Kyresti                       0.11%      244,244 (units:    36)
  63. Brian                         0.11%      229,459 (units:    75)
- 64. neil                          0.09%      199,944 (units:    90)
+ 64. neil                          0.09%      200,164 (units:    91)
  65. Neue.City                     0.09%      192,610 (units:    42)
  66. BadGateway                    0.07%      161,410 (units:    83)
  67. LordMathis                    0.07%      159,767 (units:    26)
@@ -77,7 +77,7 @@ As of 2020-04-14 19:52:04, hackers.town is rank 676
  75. JoshMulliken                  0.04%       97,080 (units:    23)
  76. RandomGeek                    0.04%       91,652 (units:    13)
  77. claudiom                      0.03%       74,387 (units:   496)
- 78. gwozniak                      0.03%       73,785 (units:   113)
+ 78. gwozniak                      0.03%       73,978 (units:   114)
  79. ZenCoder                      0.03%       73,105 (units:    26)
  80. Murph                         0.03%       71,069 (units:    21)
  81. Michael_Simkin                0.03%       70,687 (units:    29)
