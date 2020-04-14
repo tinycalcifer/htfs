@@ -1,8 +1,8 @@
-As of 2020-04-14 01:52:05, hackers.town is rank 681
-   with 14,466 work units for 212,307,532 credits
-  1. wetdryvac                    13.33%   28,308,530 (units:   789)
-  2. merimus                       8.92%   18,927,806 (units:   494)
-  3. packetcat                     8.22%   17,447,158 (units:   136)
+As of 2020-04-14 02:02:18, hackers.town is rank 681
+   with 14,468 work units for 212,395,282 credits
+  1. wetdryvac                    13.37%   28,395,779 (units:   790)
+  2. merimus                       8.91%   18,927,806 (units:   494)
+  3. packetcat                     8.21%   17,447,158 (units:   136)
   4. KemoNine                      7.81%   16,588,052 (units:   596)
   5. dokuja                        6.95%   14,765,645 (units:   431)
   6. Freakazoid                    5.59%   11,871,151 (units:   424)
@@ -61,7 +61,7 @@ As of 2020-04-14 01:52:05, hackers.town is rank 681
  59. m68k                          0.14%      301,301 (units:    87)
  60. zx3                           0.13%      282,114 (units:    53)
  61. debugninja                    0.13%      276,224 (units:    30)
- 62. Kyresti                       0.12%      244,244 (units:    36)
+ 62. Kyresti                       0.11%      244,244 (units:    36)
  63. Brian                         0.10%      222,009 (units:    73)
  64. neil                          0.08%      172,070 (units:    83)
  65. Neue.City                     0.08%      160,069 (units:    38)
@@ -71,7 +71,7 @@ As of 2020-04-14 01:52:05, hackers.town is rank 681
  69. arbu                          0.06%      125,499 (units:     7)
  70. silksnep                      0.05%      109,800 (units:   145)
  71. piggo                         0.05%      107,281 (units:    22)
- 72. Imani                         0.05%      103,834 (units:   160)
+ 72. Imani                         0.05%      104,335 (units:   161)
  73. Nemesis                       0.05%      103,626 (units:    53)
  74. heliostatic                   0.05%      101,482 (units:    26)
  75. JoshMulliken                  0.05%       97,080 (units:    23)
