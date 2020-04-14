@@ -1,12 +1,12 @@
-As of 2020-04-14 00:22:31, hackers.town is rank 681
-   with 14,421 work units for 211,721,066 credits
-  1. wetdryvac                    13.36%   28,290,869 (units:   785)
+As of 2020-04-14 00:32:07, hackers.town is rank 681
+   with 14,425 work units for 211,731,380 credits
+  1. wetdryvac                    13.36%   28,297,030 (units:   786)
   2. merimus                       8.94%   18,927,806 (units:   494)
   3. packetcat                     8.24%   17,447,158 (units:   136)
   4. KemoNine                      7.79%   16,502,190 (units:   594)
   5. dokuja                        6.97%   14,765,645 (units:   431)
   6. Freakazoid                    5.61%   11,871,151 (units:   424)
-  7. Polychrome                    3.76%    7,957,262 (units:   314)
+  7. Polychrome                    3.76%    7,959,390 (units:   315)
   8. Calcifer                      2.98%    6,307,930 (units:   152)
   9. bhtooefr                      2.93%    6,197,041 (units:   154)
  10. c0debabe                      2.85%    6,036,530 (units:   197)
@@ -44,7 +44,7 @@ As of 2020-04-14 00:22:31, hackers.town is rank 681
  42. TG                            0.33%      694,922 (units:   143)
  43. avolkov                       0.31%      660,918 (units:    62)
  44. HolSta                        0.26%      558,171 (units:    79)
- 45. Requiem                       0.24%      518,563 (units:   181)
+ 45. Requiem                       0.25%      520,151 (units:   182)
  46. tayo                          0.23%      497,485 (units:   150)
  47. protospork                    0.20%      423,894 (units:    59)
  48. synfinner                     0.20%      420,975 (units:    13)
@@ -88,8 +88,8 @@ As of 2020-04-14 00:22:31, hackers.town is rank 681
  86. tomatoefolding                0.03%       59,750 (units:     1)
  87. Alteraner92                   0.03%       58,802 (units:    36)
  88. daum3ns                       0.03%       56,636 (units:     6)
- 89.                               0.03%       55,633 (units:    34)
- 90. Purple                        0.03%       55,338 (units:    44)
+ 89. Purple                        0.03%       55,775 (units:    45)
+ 90.                               0.03%       55,633 (units:    34)
  91. Kirjis                        0.03%       54,110 (units:    71)
  92. crc32                         0.02%       49,234 (units:    64)
  93. Bingo                         0.02%       47,013 (units:    77)
