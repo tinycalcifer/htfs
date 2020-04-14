@@ -1,5 +1,5 @@
-As of 2020-04-14 23:22:28, hackers.town is rank 676
-   with 14,928 work units for 218,236,992 credits
+As of 2020-04-14 23:32:47, hackers.town is rank 676
+   with 14,932 work units for 218,246,812 credits
   1. wetdryvac                    13.42%   29,296,562 (units:   817)
   2. merimus                       8.71%   19,017,906 (units:   495)
   3. packetcat                     8.33%   18,187,017 (units:   141)
@@ -21,10 +21,10 @@ As of 2020-04-14 23:22:28, hackers.town is rank 676
  19. ryen                          1.35%    2,936,587 (units:   208)
  20. Mr.House                      1.23%    2,680,081 (units:   144)
  21. radicaledward                 1.20%    2,610,515 (units:    89)
- 22. Kranfahrer                    0.99%    2,170,804 (units:   128)
+ 22. Kranfahrer                    1.00%    2,179,673 (units:   130)
  23. The_Gibson(HTown)             0.95%    2,071,690 (units:   177)
  24. pfreak                        0.91%    1,996,770 (units:    48)
- 25. mandibular joint dysfunction  0.85%    1,860,574 (units:   733)
+ 25. mandibular joint dysfunction  0.85%    1,861,075 (units:   734)
  26. /dev/random                   0.82%    1,797,551 (units:   167)
  27. paullindner                   0.75%    1,642,811 (units:   317)
  28. DJ_Sundog                     0.63%    1,364,520 (units:   285)
@@ -53,7 +53,7 @@ As of 2020-04-14 23:22:28, hackers.town is rank 676
  51. Hany                          0.18%      390,229 (units:    97)
  52. fl0wn                         0.18%      388,420 (units:    74)
  53. Mnemonic                      0.17%      362,397 (units:   136)
- 54. technolust                    0.16%      355,827 (units:   220)
+ 54. technolust                    0.16%      356,277 (units:   221)
  55. Logomancer                    0.15%      332,161 (units:   188)
  56. KitRedgrave                   0.15%      323,346 (units:    60)
  57. csrsuoeb                      0.15%      318,788 (units:    65)
