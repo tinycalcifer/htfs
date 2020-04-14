@@ -1,5 +1,5 @@
-As of 2020-04-14 10:02:17, hackers.town is rank 679
-   with 14,657 work units for 215,377,476 credits
+As of 2020-04-14 10:12:10, hackers.town is rank 679
+   with 14,661 work units for 215,380,934 credits
   1. wetdryvac                    13.36%   28,771,261 (units:   803)
   2. merimus                       8.83%   19,017,906 (units:   495)
   3. packetcat                     8.20%   17,664,880 (units:   138)
@@ -25,7 +25,7 @@ As of 2020-04-14 10:02:17, hackers.town is rank 679
  23. The_Gibson(HTown)             0.96%    2,063,366 (units:   168)
  24. pfreak                        0.93%    1,996,770 (units:    48)
  25. /dev/random                   0.83%    1,795,894 (units:   166)
- 26. mandibular joint dysfunction  0.83%    1,782,346 (units:   713)
+ 26. mandibular joint dysfunction  0.83%    1,783,236 (units:   715)
  27. paullindner                   0.75%    1,616,756 (units:   309)
  28. DJ_Sundog                     0.63%    1,348,957 (units:   282)
  29. kusuriya                      0.61%    1,314,054 (units:    65)
@@ -53,7 +53,7 @@ As of 2020-04-14 10:02:17, hackers.town is rank 679
  51. fl0wn                         0.18%      388,420 (units:    74)
  52. jkl                           0.18%      387,819 (units:   117)
  53. technolust                    0.16%      350,371 (units:   207)
- 54. Mnemonic                      0.16%      335,331 (units:   129)
+ 54. Mnemonic                      0.16%      337,007 (units:   130)
  55. Logomancer                    0.15%      332,161 (units:   188)
  56. KitRedgrave                   0.15%      323,346 (units:    60)
  57. csrsuoeb                      0.15%      318,788 (units:    65)
@@ -87,7 +87,7 @@ As of 2020-04-14 10:02:17, hackers.town is rank 679
  85. George_                       0.03%       59,802 (units:    11)
  86. tomatoefolding                0.03%       59,750 (units:     1)
  87. Alteraner92                   0.03%       58,802 (units:    36)
- 88. Kirjis                        0.03%       56,960 (units:    76)
+ 88. Kirjis                        0.03%       57,852 (units:    77)
  89. daum3ns                       0.03%       56,636 (units:     6)
  90. Purple                        0.03%       56,481 (units:    47)
  91.                               0.03%       55,633 (units:    34)
