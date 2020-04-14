@@ -1,8 +1,8 @@
-As of 2020-04-14 09:02:11, hackers.town is rank 679
-   with 14,640 work units for 214,840,465 credits
+As of 2020-04-14 09:12:15, hackers.town is rank 679
+   with 14,643 work units for 214,846,262 credits
   1. wetdryvac                    13.39%   28,766,352 (units:   802)
   2. merimus                       8.85%   19,017,906 (units:   495)
-  3. packetcat                     8.18%   17,563,592 (units:   137)
+  3. packetcat                     8.17%   17,563,592 (units:   137)
   4. KemoNine                      7.78%   16,705,061 (units:   597)
   5. dokuja                        7.06%   15,163,435 (units:   436)
   6. Freakazoid                    5.53%   11,874,321 (units:   425)
@@ -25,8 +25,8 @@ As of 2020-04-14 09:02:11, hackers.town is rank 679
  23. The_Gibson(HTown)             0.96%    2,063,366 (units:   168)
  24. pfreak                        0.93%    1,996,770 (units:    48)
  25. /dev/random                   0.84%    1,795,894 (units:   166)
- 26. mandibular joint dysfunction  0.83%    1,780,756 (units:   711)
- 27. paullindner                   0.75%    1,612,239 (units:   308)
+ 26. mandibular joint dysfunction  0.83%    1,781,616 (units:   712)
+ 27. paullindner                   0.75%    1,616,756 (units:   309)
  28. DJ_Sundog                     0.63%    1,348,957 (units:   282)
  29. kusuriya                      0.61%    1,314,054 (units:    65)
  30. CookieMom                     0.58%    1,248,870 (units:   165)
@@ -67,7 +67,7 @@ As of 2020-04-14 09:02:11, hackers.town is rank 679
  65. Neue.City                     0.07%      160,069 (units:    38)
  66. LordMathis                    0.07%      159,767 (units:    26)
  67. BadGateway                    0.07%      153,262 (units:    80)
- 68. RandyNose                     0.06%      132,928 (units:   167)
+ 68. RandyNose                     0.06%      133,348 (units:   168)
  69. arbu                          0.06%      125,499 (units:     7)
  70. silksnep                      0.05%      109,800 (units:   145)
  71. piggo                         0.05%      107,281 (units:    22)
