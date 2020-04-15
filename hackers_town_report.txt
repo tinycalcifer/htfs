@@ -1,9 +1,9 @@
-As of 2020-04-15 03:12:10, hackers.town is rank 676
-   with 14,998 work units for 218,907,836 credits
+As of 2020-04-15 03:22:10, hackers.town is rank 676
+   with 15,000 work units for 218,959,220 credits
   1. wetdryvac                    13.39%   29,311,258 (units:   819)
   2. merimus                       8.70%   19,039,001 (units:   498)
   3. packetcat                     8.31%   18,187,017 (units:   141)
-  4. KemoNine                      7.89%   17,273,363 (units:   604)
+  4. KemoNine                      7.91%   17,324,461 (units:   605)
   5. dokuja                        7.13%   15,618,680 (units:   441)
   6. Freakazoid                    5.44%   11,912,344 (units:   436)
   7. Polychrome                    3.81%    8,335,094 (units:   327)
@@ -74,7 +74,7 @@ As of 2020-04-15 03:12:10, hackers.town is rank 676
  72. Imani                         0.05%      107,698 (units:   168)
  73. Nemesis                       0.05%      103,626 (units:    53)
  74. heliostatic                   0.05%      101,482 (units:    26)
- 75. RandomGeek                    0.05%       99,337 (units:    14)
+ 75. RandomGeek                    0.05%       99,623 (units:    15)
  76. JoshMulliken                  0.04%       97,080 (units:    23)
  77. claudiom                      0.03%       75,087 (units:   497)
  78. ZenCoder                      0.03%       74,502 (units:    27)
@@ -149,7 +149,7 @@ As of 2020-04-15 03:12:10, hackers.town is rank 676
 147. huobijubajeebajoba            0.00%          622 (units:     2)
 148. Sean_Lynch                    0.00%          511 (units:     5)
 149. Hactar                        0.00%          286 (units:     1)
-150. 11backslashes                 0.00%          220 (units:     1)
-151. rev. vulgo virus              0.00%          220 (units:     1)
+150. rev. vulgo virus              0.00%          220 (units:     1)
+151. 11backslashes                 0.00%          220 (units:     1)
 152. NoraCodes                     0.00%          145 (units:    12)
 153. cyberia                       0.00%           27 (units:     1)
