@@ -1,7 +1,7 @@
-As of 2020-04-15 18:52:12, hackers.town is rank 670
-   with 15,307 work units for 222,882,883 credits
+As of 2020-04-15 19:12:20, hackers.town is rank 670
+   with 15,310 work units for 222,892,166 credits
   1. wetdryvac                    13.36%   29,769,592 (units:   839)
-  2. merimus                       8.57%   19,090,247 (units:   505)
+  2. merimus                       8.56%   19,090,247 (units:   505)
   3. packetcat                     8.48%   18,903,917 (units:   147)
   4. KemoNine                      7.88%   17,571,371 (units:   609)
   5. dokuja                        7.31%   16,286,859 (units:   450)
@@ -21,12 +21,12 @@ As of 2020-04-15 18:52:12, hackers.town is rank 670
  19. ryen                          1.32%    2,936,587 (units:   208)
  20. Mr.House                      1.20%    2,680,081 (units:   144)
  21. radicaledward                 1.17%    2,610,515 (units:    89)
- 22. Kranfahrer                    1.05%    2,331,569 (units:   147)
+ 22. Kranfahrer                    1.05%    2,337,530 (units:   148)
  23. The_Gibson(HTown)             0.97%    2,153,805 (units:   184)
  24. pfreak                        0.90%    1,996,770 (units:    48)
  25. mandibular joint dysfunction  0.88%    1,957,619 (units:   759)
  26. /dev/random                   0.82%    1,837,395 (units:   177)
- 27. paullindner                   0.76%    1,689,986 (units:   333)
+ 27. paullindner                   0.76%    1,692,578 (units:   334)
  28. DJ_Sundog                     0.62%    1,391,463 (units:   292)
  29. kusuriya                      0.59%    1,314,054 (units:    65)
  30. CookieMom                     0.56%    1,252,416 (units:   171)
@@ -44,7 +44,7 @@ As of 2020-04-15 18:52:12, hackers.town is rank 670
  42. TG                            0.31%      694,922 (units:   143)
  43. avolkov                       0.30%      660,918 (units:    62)
  44. Requiem                       0.29%      636,702 (units:   218)
- 45. HolSta                        0.25%      563,323 (units:    85)
+ 45. HolSta                        0.25%      564,053 (units:    86)
  46. tayo                          0.22%      497,485 (units:   150)
  47. LordBowlich                   0.19%      431,135 (units:   116)
  48. protospork                    0.19%      423,894 (units:    59)
