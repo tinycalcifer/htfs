@@ -1,5 +1,5 @@
-As of 2020-04-15 21:02:15, hackers.town is rank 669
-   with 15,343 work units for 223,325,699 credits
+As of 2020-04-15 21:22:13, hackers.town is rank 669
+   with 15,347 work units for 223,329,360 credits
   1. wetdryvac                    13.44%   30,004,563 (units:   841)
   2. merimus                       8.55%   19,090,247 (units:   505)
   3. packetcat                     8.46%   18,903,917 (units:   147)
@@ -9,7 +9,7 @@ As of 2020-04-15 21:02:15, hackers.town is rank 669
   7. Polychrome                    3.78%    8,443,453 (units:   337)
   8. Calcifer                      3.21%    7,174,235 (units:   170)
   9. bhtooefr                      3.03%    6,756,333 (units:   168)
- 10. c0debabe                      2.76%    6,161,468 (units:   212)
+ 10. c0debabe                      2.76%    6,164,579 (units:   213)
  11. Werekat                       2.53%    5,655,754 (units:   246)
  12. FOOL                          2.20%    4,924,096 (units:   330)
  13. SiinaCutie                    2.17%    4,840,625 (units:   228)
@@ -54,7 +54,7 @@ As of 2020-04-15 21:02:15, hackers.town is rank 669
  52. fl0wn                         0.17%      388,420 (units:    74)
  53. Mnemonic                      0.17%      381,382 (units:   145)
  54. technolust                    0.16%      364,686 (units:   224)
- 55. Logomancer                    0.15%      332,192 (units:   189)
+ 55. Logomancer                    0.15%      332,217 (units:   191)
  56. m68k                          0.15%      331,563 (units:    97)
  57. KitRedgrave                   0.14%      323,346 (units:    60)
  58. csrsuoeb                      0.14%      318,788 (units:    65)
@@ -138,10 +138,10 @@ As of 2020-04-15 21:02:15, hackers.town is rank 669
 136. Arcans                        0.00%        5,328 (units:    12)
 137. Toive8547                     0.00%        3,640 (units:     5)
 138. cooper                        0.00%        3,285 (units:     9)
-139. ratSprite                     0.00%        2,899 (units:     8)
-140. Max                           0.00%        2,835 (units:     5)
-141. wizzwizz4                     0.00%        2,668 (units:     5)
-142. huobijubajeebajoba            0.00%        2,575 (units:     6)
+139. huobijubajeebajoba            0.00%        3,100 (units:     7)
+140. ratSprite                     0.00%        2,899 (units:     8)
+141. Max                           0.00%        2,835 (units:     5)
+142. wizzwizz4                     0.00%        2,668 (units:     5)
 143. 1g0rb                         0.00%        2,490 (units:     4)
 144. gueorgui                      0.00%        2,321 (units:     9)
 145. m4iler                        0.00%        2,020 (units:     3)
