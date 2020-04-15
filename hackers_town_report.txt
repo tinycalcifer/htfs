@@ -1,5 +1,5 @@
-As of 2020-04-15 11:02:08, hackers.town is rank 674
-   with 15,154 work units for 221,253,588 credits
+As of 2020-04-15 11:22:17, hackers.town is rank 674
+   with 15,157 work units for 221,257,217 credits
   1. wetdryvac                    13.30%   29,426,523 (units:   826)
   2. merimus                       8.63%   19,090,247 (units:   505)
   3. packetcat                     8.54%   18,903,917 (units:   147)
@@ -8,7 +8,7 @@ As of 2020-04-15 11:02:08, hackers.town is rank 674
   6. Freakazoid                    5.44%   12,039,328 (units:   440)
   7. Polychrome                    3.81%    8,429,997 (units:   333)
   8. Calcifer                      3.14%    6,950,418 (units:   166)
-  9. bhtooefr                      2.99%    6,618,594 (units:   165)
+  9. bhtooefr                      2.99%    6,621,693 (units:   166)
  10. c0debabe                      2.78%    6,160,021 (units:   209)
  11. Werekat                       2.55%    5,645,644 (units:   243)
  12. FOOL                          2.23%    4,924,096 (units:   330)
@@ -46,7 +46,7 @@ As of 2020-04-15 11:02:08, hackers.town is rank 674
  44. Requiem                       0.28%      624,056 (units:   213)
  45. HolSta                        0.25%      561,843 (units:    83)
  46. tayo                          0.22%      497,485 (units:   150)
- 47. LordBowlich                   0.19%      430,515 (units:   114)
+ 47. LordBowlich                   0.19%      430,825 (units:   115)
  48. protospork                    0.19%      423,894 (units:    59)
  49. synfinner                     0.19%      420,975 (units:    13)
  50. jkl                           0.18%      406,420 (units:   121)
@@ -135,7 +135,7 @@ As of 2020-04-15 11:02:08, hackers.town is rank 674
 133. dimazest                      0.00%        7,169 (units:     6)
 134. Azure                         0.00%        5,715 (units:     9)
 135. Arcans                        0.00%        5,108 (units:    11)
-136. 11backslashes                 0.00%        4,850 (units:     6)
+136. 11backslashes                 0.00%        5,070 (units:     7)
 137. Toive8547                     0.00%        3,640 (units:     5)
 138. cooper                        0.00%        3,285 (units:     9)
 139. ratSprite                     0.00%        2,899 (units:     8)
