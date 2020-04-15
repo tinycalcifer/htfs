@@ -1,6 +1,6 @@
-As of 2020-04-15 21:22:13, hackers.town is rank 669
-   with 15,347 work units for 223,329,360 credits
-  1. wetdryvac                    13.44%   30,004,563 (units:   841)
+As of 2020-04-15 21:32:19, hackers.town is rank 669
+   with 15,354 work units for 223,334,084 credits
+  1. wetdryvac                    13.43%   30,004,563 (units:   841)
   2. merimus                       8.55%   19,090,247 (units:   505)
   3. packetcat                     8.46%   18,903,917 (units:   147)
   4. KemoNine                      7.87%   17,571,371 (units:   609)
@@ -26,7 +26,7 @@ As of 2020-04-15 21:22:13, hackers.town is rank 669
  24. pfreak                        0.89%    1,996,770 (units:    48)
  25. mandibular joint dysfunction  0.88%    1,957,619 (units:   759)
  26. /dev/random                   0.82%    1,840,649 (units:   178)
- 27. paullindner                   0.76%    1,696,712 (units:   335)
+ 27. paullindner                   0.76%    1,699,701 (units:   336)
  28. DJ_Sundog                     0.62%    1,393,359 (units:   293)
  29. kusuriya                      0.59%    1,314,054 (units:    65)
  30. CookieMom                     0.56%    1,252,702 (units:   172)
@@ -52,9 +52,9 @@ As of 2020-04-15 21:22:13, hackers.town is rank 669
  50. jkl                           0.18%      410,782 (units:   123)
  51. Hany                          0.17%      390,229 (units:    97)
  52. fl0wn                         0.17%      388,420 (units:    74)
- 53. Mnemonic                      0.17%      381,382 (units:   145)
+ 53. Mnemonic                      0.17%      382,808 (units:   146)
  54. technolust                    0.16%      364,686 (units:   224)
- 55. Logomancer                    0.15%      332,217 (units:   191)
+ 55. Logomancer                    0.15%      332,283 (units:   195)
  56. m68k                          0.15%      331,563 (units:    97)
  57. KitRedgrave                   0.14%      323,346 (units:    60)
  58. csrsuoeb                      0.14%      318,788 (units:    65)
@@ -90,7 +90,7 @@ As of 2020-04-15 21:22:13, hackers.town is rank 669
  88.                               0.03%       59,841 (units:    36)
  89. George_                       0.03%       59,802 (units:    11)
  90. tomatoefolding                0.03%       59,750 (units:     1)
- 91. Purple                        0.03%       58,482 (units:    50)
+ 91. Purple                        0.03%       58,725 (units:    51)
  92. daum3ns                       0.03%       56,636 (units:     6)
  93. crc32                         0.02%       52,871 (units:    70)
  94. Bingo                         0.02%       52,755 (units:    93)
