@@ -1,5 +1,5 @@
-As of 2020-04-15 22:51:59, hackers.town is rank 669
-   with 15,384 work units for 223,627,936 credits
+As of 2020-04-15 23:02:20, hackers.town is rank 669
+   with 15,387 work units for 223,639,206 credits
   1. wetdryvac                    13.42%   30,011,978 (units:   842)
   2. merimus                       8.54%   19,090,247 (units:   505)
   3. packetcat                     8.45%   18,903,917 (units:   147)
@@ -52,7 +52,7 @@ As of 2020-04-15 22:51:59, hackers.town is rank 669
  50. jkl                           0.18%      410,782 (units:   123)
  51. Hany                          0.17%      390,229 (units:    97)
  52. fl0wn                         0.17%      388,420 (units:    74)
- 53. Mnemonic                      0.17%      382,808 (units:   146)
+ 53. Mnemonic                      0.17%      383,973 (units:   147)
  54. technolust                    0.16%      364,686 (units:   224)
  55. Logomancer                    0.15%      332,329 (units:   198)
  56. m68k                          0.15%      331,563 (units:    97)
@@ -70,8 +70,8 @@ As of 2020-04-15 22:51:59, hackers.town is rank 669
  68. RandyNose                     0.06%      137,637 (units:   173)
  69. arbu                          0.06%      125,499 (units:     7)
  70. silksnep                      0.05%      119,153 (units:   151)
- 71. Imani                         0.05%      113,198 (units:   169)
- 72. Neil                          0.05%      108,727 (units:    21)
+ 71. Neil                          0.05%      118,132 (units:    22)
+ 72. Imani                         0.05%      113,198 (units:   169)
  73. piggo                         0.05%      108,091 (units:    23)
  74. Nemesis                       0.05%      103,626 (units:    53)
  75. heliostatic                   0.05%      101,482 (units:    26)
@@ -131,8 +131,8 @@ As of 2020-04-15 22:51:59, hackers.town is rank 669
 129. Koakuma                       0.00%        9,492 (units:    18)
 130. Mathis                        0.00%        9,105 (units:     7)
 131. OldRedSun                     0.00%        9,054 (units:     1)
-132. teecee                        0.00%        7,506 (units:    10)
-133. 11backslashes                 0.00%        7,311 (units:    13)
+132. 11backslashes                 0.00%        8,011 (units:    14)
+133. teecee                        0.00%        7,506 (units:    10)
 134. dimazest                      0.00%        7,169 (units:     6)
 135. Azure                         0.00%        5,715 (units:     9)
 136. Arcans                        0.00%        5,328 (units:    12)
