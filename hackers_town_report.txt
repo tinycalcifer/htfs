@@ -1,5 +1,5 @@
-As of 2020-04-15 19:12:20, hackers.town is rank 670
-   with 15,310 work units for 222,892,166 credits
+As of 2020-04-15 19:22:12, hackers.town is rank 670
+   with 15,314 work units for 222,901,197 credits
   1. wetdryvac                    13.36%   29,769,592 (units:   839)
   2. merimus                       8.56%   19,090,247 (units:   505)
   3. packetcat                     8.48%   18,903,917 (units:   147)
@@ -29,7 +29,7 @@ As of 2020-04-15 19:12:20, hackers.town is rank 670
  27. paullindner                   0.76%    1,692,578 (units:   334)
  28. DJ_Sundog                     0.62%    1,391,463 (units:   292)
  29. kusuriya                      0.59%    1,314,054 (units:    65)
- 30. CookieMom                     0.56%    1,252,416 (units:   171)
+ 30. CookieMom                     0.56%    1,252,702 (units:   172)
  31. rfquerin                      0.55%    1,232,781 (units:    88)
  32. sungo                         0.53%    1,176,202 (units:   324)
  33. drwho                         0.53%    1,171,083 (units:   417)
@@ -43,7 +43,7 @@ As of 2020-04-15 19:12:20, hackers.town is rank 670
  41. rmgr                          0.31%      700,755 (units:    31)
  42. TG                            0.31%      694,922 (units:   143)
  43. avolkov                       0.30%      660,918 (units:    62)
- 44. Requiem                       0.29%      636,702 (units:   218)
+ 44. Requiem                       0.29%      642,691 (units:   219)
  45. HolSta                        0.25%      564,053 (units:    86)
  46. tayo                          0.22%      497,485 (units:   150)
  47. LordBowlich                   0.19%      431,135 (units:   116)
@@ -52,9 +52,9 @@ As of 2020-04-15 19:12:20, hackers.town is rank 670
  50. jkl                           0.18%      410,782 (units:   123)
  51. Hany                          0.18%      390,229 (units:    97)
  52. fl0wn                         0.17%      388,420 (units:    74)
- 53. Mnemonic                      0.17%      378,657 (units:   144)
+ 53. Mnemonic                      0.17%      381,382 (units:   145)
  54. technolust                    0.16%      364,686 (units:   224)
- 55. Logomancer                    0.15%      332,161 (units:   188)
+ 55. Logomancer                    0.15%      332,192 (units:   189)
  56. m68k                          0.15%      331,563 (units:    97)
  57. KitRedgrave                   0.15%      323,346 (units:    60)
  58. csrsuoeb                      0.14%      318,788 (units:    65)
