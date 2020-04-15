@@ -1,12 +1,12 @@
-As of 2020-04-15 03:42:13, hackers.town is rank 676
-   with 15,006 work units for 219,097,933 credits
-  1. wetdryvac                    13.38%   29,311,258 (units:   819)
+As of 2020-04-15 03:52:11, hackers.town is rank 676
+   with 15,009 work units for 219,201,343 credits
+  1. wetdryvac                    13.37%   29,311,258 (units:   819)
   2. merimus                       8.69%   19,039,001 (units:   498)
   3. packetcat                     8.30%   18,187,017 (units:   141)
-  4. KemoNine                      7.91%   17,324,461 (units:   605)
+  4. KemoNine                      7.92%   17,351,496 (units:   606)
   5. dokuja                        7.13%   15,618,680 (units:   441)
-  6. Freakazoid                    5.44%   11,912,344 (units:   436)
-  7. Polychrome                    3.81%    8,343,364 (units:   328)
+  6. Freakazoid                    5.43%   11,912,344 (units:   436)
+  7. Polychrome                    3.84%    8,416,817 (units:   329)
   8. Calcifer                      3.17%    6,947,419 (units:   165)
   9. bhtooefr                      3.02%    6,618,594 (units:   165)
  10. c0debabe                      2.81%    6,158,651 (units:   207)
@@ -16,7 +16,7 @@ As of 2020-04-15 03:42:13, hackers.town is rank 676
  14. felix                         2.11%    4,617,966 (units:   164)
  15. dafuchs                       1.52%    3,332,164 (units:   182)
  16. skraelingjar                  1.45%    3,177,228 (units:    62)
- 17. elfgirlsarah                  1.43%    3,122,442 (units:   128)
+ 17. elfgirlsarah                  1.42%    3,122,442 (units:   128)
  18. r000t                         1.35%    2,949,295 (units:    66)
  19. ryen                          1.34%    2,936,587 (units:   208)
  20. Mr.House                      1.22%    2,680,081 (units:   144)
@@ -43,7 +43,7 @@ As of 2020-04-15 03:42:13, hackers.town is rank 676
  41. rmgr                          0.32%      700,755 (units:    31)
  42. TG                            0.32%      694,922 (units:   143)
  43. avolkov                       0.30%      660,918 (units:    62)
- 44. Requiem                       0.27%      601,389 (units:   206)
+ 44. Requiem                       0.28%      604,311 (units:   207)
  45. HolSta                        0.26%      560,411 (units:    81)
  46. tayo                          0.23%      497,485 (units:   150)
  47. LordBowlich                   0.20%      427,765 (units:   113)
