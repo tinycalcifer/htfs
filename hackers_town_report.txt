@@ -1,5 +1,5 @@
-As of 2020-04-16 16:32:20, hackers.town is rank 662
-   with 15,940 work units for 233,121,461 credits
+As of 2020-04-16 16:42:20, hackers.town is rank 662
+   with 15,943 work units for 233,122,064 credits
   1. wetdryvac                    13.31%   31,037,369 (units:   868)
   2. merimus                       8.72%   20,327,742 (units:   532)
   3. packetcat                     8.46%   19,727,388 (units:   152)
@@ -23,7 +23,7 @@ As of 2020-04-16 16:32:20, hackers.town is rank 662
  21. radicaledward                 1.17%    2,717,086 (units:    90)
  22. Kranfahrer                    1.06%    2,477,473 (units:   168)
  23. The_Gibson(HTown)             0.97%    2,269,959 (units:   194)
- 24. mandibular joint dysfunction  0.86%    2,005,271 (units:   785)
+ 24. mandibular joint dysfunction  0.86%    2,005,581 (units:   786)
  25. pfreak                        0.86%    1,996,770 (units:    48)
  26. /dev/random                   0.84%    1,954,543 (units:   194)
  27. paullindner                   0.75%    1,751,016 (units:   349)
@@ -97,7 +97,7 @@ As of 2020-04-16 16:32:20, hackers.town is rank 662
  95. Seb                           0.02%       50,377 (units:    93)
  96. jerephil                      0.02%       49,711 (units:    43)
  97. emelie                        0.02%       46,275 (units:     4)
- 98. pmosetc                       0.02%       43,625 (units:    62)
+ 98. pmosetc                       0.02%       43,845 (units:    63)
  99. socketwench                   0.02%       42,901 (units:    44)
 100. MaxAtCastleMalmeddy           0.02%       41,229 (units:    61)
 101. Syrinx                        0.02%       35,530 (units:    82)
@@ -128,7 +128,7 @@ As of 2020-04-16 16:32:20, hackers.town is rank 662
 126. flipactual                    0.01%       12,401 (units:    26)
 127. ASBJORN                       0.01%       12,368 (units:    19)
 128. Data                          0.01%       11,812 (units:    15)
-129. 11backslashes                 0.00%       11,238 (units:    21)
+129. 11backslashes                 0.00%       11,311 (units:    22)
 130. Koakuma                       0.00%        9,992 (units:    19)
 131. Mathis                        0.00%        9,105 (units:     7)
 132. OldRedSun                     0.00%        9,054 (units:     1)
