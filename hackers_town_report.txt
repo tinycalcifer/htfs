@@ -1,5 +1,5 @@
-As of 2020-04-16 06:42:33, hackers.town is rank 663
-   with 15,710 work units for 230,951,526 credits
+As of 2020-04-16 07:02:00, hackers.town is rank 663
+   with 15,713 work units for 230,953,611 credits
   1. wetdryvac                    13.40%   30,940,704 (units:   864)
   2. merimus                       8.68%   20,047,760 (units:   520)
   3. packetcat                     8.47%   19,564,498 (units:   151)
@@ -67,7 +67,7 @@ As of 2020-04-16 06:42:33, hackers.town is rank 663
  65. Neue.City                     0.10%      223,805 (units:    45)
  66. BadGateway                    0.07%      161,439 (units:    84)
  67. LordMathis                    0.07%      159,767 (units:    26)
- 68. RandyNose                     0.06%      138,677 (units:   175)
+ 68. RandyNose                     0.06%      139,097 (units:   176)
  69. arbu                          0.05%      125,499 (units:     7)
  70. silksnep                      0.05%      125,103 (units:   158)
  71. Neil                          0.05%      119,582 (units:    24)
@@ -92,7 +92,7 @@ As of 2020-04-16 06:42:33, hackers.town is rank 663
  90.                               0.03%       61,221 (units:    37)
  91. tomatoefolding                0.03%       59,750 (units:     1)
  92. daum3ns                       0.02%       56,636 (units:     6)
- 93. Bingo                         0.02%       53,418 (units:    95)
+ 93. Bingo                         0.02%       54,303 (units:    96)
  94. crc32                         0.02%       52,871 (units:    70)
  95. Seb                           0.02%       48,947 (units:    91)
  96. jerephil                      0.02%       47,540 (units:    40)
@@ -104,9 +104,9 @@ As of 2020-04-16 06:42:33, hackers.town is rank 663
 102. Tool_Man                      0.02%       35,407 (units:    54)
 103. Phlox                         0.01%       32,011 (units:     2)
 104. neoninteger                   0.01%       28,807 (units:    27)
-105. amsomniac                     0.01%       28,518 (units:    40)
-106. SteveTheDragon                0.01%       28,289 (units:    19)
-107. grasshopper                   0.01%       27,820 (units:    37)
+105. grasshopper                   0.01%       28,600 (units:    38)
+106. amsomniac                     0.01%       28,518 (units:    40)
+107. SteveTheDragon                0.01%       28,289 (units:    19)
 108. HiRezCanDo                    0.01%       27,235 (units:    37)
 109. folding_with_gibson           0.01%       25,298 (units:    32)
 110. murph                         0.01%       25,047 (units:    11)
