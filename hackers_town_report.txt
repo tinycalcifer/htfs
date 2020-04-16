@@ -1,5 +1,5 @@
-As of 2020-04-16 23:12:14, hackers.town is rank 662
-   with 16,080 work units for 234,875,252 credits
+As of 2020-04-16 23:22:09, hackers.town is rank 662
+   with 16,083 work units for 234,879,793 credits
   1. wetdryvac                    13.33%   31,315,961 (units:   873)
   2. merimus                       8.71%   20,448,922 (units:   537)
   3. packetcat                     8.40%   19,727,388 (units:   152)
@@ -26,7 +26,7 @@ As of 2020-04-16 23:12:14, hackers.town is rank 662
  24. /dev/random                   0.90%    2,112,825 (units:   198)
  25. mandibular joint dysfunction  0.85%    2,007,892 (units:   790)
  26. pfreak                        0.85%    1,996,770 (units:    48)
- 27. paullindner                   0.75%    1,755,330 (units:   350)
+ 27. paullindner                   0.75%    1,759,564 (units:   351)
  28. DJ_Sundog                     0.61%    1,428,691 (units:   305)
  29. rfquerin                      0.60%    1,411,100 (units:    95)
  30. kusuriya                      0.56%    1,314,178 (units:    68)
@@ -53,7 +53,7 @@ As of 2020-04-16 23:12:14, hackers.town is rank 662
  51. Hany                          0.18%      421,021 (units:    99)
  52. Mnemonic                      0.17%      407,382 (units:   152)
  53. fl0wn                         0.17%      388,420 (units:    74)
- 54. Logomancer                    0.16%      378,692 (units:   204)
+ 54. Logomancer                    0.16%      378,699 (units:   205)
  55. technolust                    0.16%      374,532 (units:   243)
  56. m68k                          0.15%      348,687 (units:   101)
  57. Canageek                      0.14%      325,931 (units:   106)
@@ -91,7 +91,7 @@ As of 2020-04-16 23:12:14, hackers.town is rank 662
  89. Purple                        0.03%       63,965 (units:    57)
  90.                               0.03%       63,008 (units:    38)
  91. tomatoefolding                0.03%       59,750 (units:     1)
- 92. Bingo                         0.02%       57,320 (units:   101)
+ 92. Bingo                         0.02%       57,620 (units:   102)
  93. daum3ns                       0.02%       56,636 (units:     6)
  94. crc32                         0.02%       54,157 (units:    72)
  95. jerephil                      0.02%       51,131 (units:    45)
