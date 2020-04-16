@@ -1,5 +1,5 @@
-As of 2020-04-16 21:42:33, hackers.town is rank 662
-   with 16,045 work units for 234,343,383 credits
+As of 2020-04-16 21:52:24, hackers.town is rank 662
+   with 16,048 work units for 234,347,187 credits
   1. wetdryvac                    13.32%   31,225,389 (units:   871)
   2. merimus                       8.73%   20,448,922 (units:   537)
   3. packetcat                     8.42%   19,727,388 (units:   152)
@@ -14,7 +14,7 @@ As of 2020-04-16 21:42:33, hackers.town is rank 662
  12. SiinaCutie                    2.14%    5,012,148 (units:   231)
  13. FOOL                          2.10%    4,924,210 (units:   332)
  14. felix                         2.07%    4,845,231 (units:   174)
- 15. dafuchs                       1.62%    3,791,899 (units:   205)
+ 15. dafuchs                       1.62%    3,794,893 (units:   206)
  16. skraelingjar                  1.43%    3,352,989 (units:    64)
  17. r000t                         1.43%    3,342,489 (units:    73)
  18. elfgirlsarah                  1.41%    3,313,217 (units:   140)
@@ -24,7 +24,7 @@ As of 2020-04-16 21:42:33, hackers.town is rank 662
  22. Kranfahrer                    1.07%    2,512,307 (units:   175)
  23. The_Gibson(HTown)             0.97%    2,277,129 (units:   196)
  24. /dev/random                   0.90%    2,108,643 (units:   197)
- 25. mandibular joint dysfunction  0.86%    2,007,392 (units:   789)
+ 25. mandibular joint dysfunction  0.86%    2,007,892 (units:   790)
  26. pfreak                        0.85%    1,996,770 (units:    48)
  27. paullindner                   0.75%    1,755,330 (units:   350)
  28. DJ_Sundog                     0.61%    1,428,691 (units:   305)
@@ -68,7 +68,7 @@ As of 2020-04-16 21:42:33, hackers.town is rank 662
  66. BadGateway                    0.07%      161,439 (units:    84)
  67. LordMathis                    0.07%      159,767 (units:    26)
  68. RandyNose                     0.06%      140,576 (units:   181)
- 69. silksnep                      0.06%      133,076 (units:   165)
+ 69. silksnep                      0.06%      133,386 (units:   166)
  70. arbu                          0.05%      125,499 (units:     7)
  71. Neil                          0.05%      121,819 (units:    28)
  72. Imani                         0.05%      116,224 (units:   174)
