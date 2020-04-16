@@ -1,5 +1,5 @@
-As of 2020-04-16 09:32:22, hackers.town is rank 664
-   with 15,769 work units for 231,451,956 credits
+As of 2020-04-16 09:42:32, hackers.town is rank 664
+   with 15,772 work units for 231,458,169 credits
   1. wetdryvac                    13.37%   30,940,704 (units:   864)
   2. merimus                       8.67%   20,070,721 (units:   523)
   3. packetcat                     8.45%   19,564,498 (units:   151)
@@ -23,11 +23,11 @@ As of 2020-04-16 09:32:22, hackers.town is rank 664
  21. radicaledward                 1.17%    2,717,086 (units:    90)
  22. Kranfahrer                    1.05%    2,426,170 (units:   160)
  23. The_Gibson(HTown)             0.97%    2,251,590 (units:   189)
- 24. mandibular joint dysfunction  0.86%    2,001,078 (units:   778)
+ 24. mandibular joint dysfunction  0.86%    2,001,878 (units:   779)
  25. pfreak                        0.86%    1,996,770 (units:    48)
  26. /dev/random                   0.81%    1,867,329 (units:   187)
- 27. paullindner                   0.75%    1,738,029 (units:   346)
- 28. DJ_Sundog                     0.61%    1,405,058 (units:   298)
+ 27. paullindner                   0.75%    1,740,807 (units:   347)
+ 28. DJ_Sundog                     0.61%    1,407,693 (units:   299)
  29. rfquerin                      0.57%    1,324,691 (units:    91)
  30. kusuriya                      0.57%    1,314,178 (units:    68)
  31. CookieMom                     0.56%    1,296,580 (units:   180)
