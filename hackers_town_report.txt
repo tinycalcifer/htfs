@@ -1,5 +1,5 @@
-As of 2020-04-17 07:52:23, hackers.town is rank 658
-   with 16,308 work units for 238,437,392 credits
+As of 2020-04-17 08:02:36, hackers.town is rank 658
+   with 16,311 work units for 238,445,291 credits
   1. wetdryvac                    13.42%   32,005,459 (units:   882)
   2. merimus                       8.60%   20,510,657 (units:   545)
   3. packetcat                     8.27%   19,727,388 (units:   152)
@@ -41,7 +41,7 @@ As of 2020-04-17 07:52:23, hackers.town is rank 658
  39. mainebot                      0.42%      990,019 (units:    52)
  40. Null                          0.34%      818,594 (units:    22)
  41. avolkov                       0.33%      779,789 (units:    71)
- 42. Requiem                       0.30%      710,590 (units:   245)
+ 42. Requiem                       0.30%      714,815 (units:   246)
  43. djsumdog                      0.29%      702,772 (units:    90)
  44. TG                            0.29%      694,922 (units:   143)
  45. HolSta                        0.26%      609,578 (units:   104)
@@ -83,8 +83,8 @@ As of 2020-04-17 07:52:23, hackers.town is rank 658
  81. Kirjis                        0.03%       77,351 (units:   103)
  82. George_                       0.03%       75,198 (units:    12)
  83. atinciona                     0.03%       74,301 (units:   111)
- 84. Murph                         0.03%       71,069 (units:    21)
- 85. tbn97                         0.03%       70,882 (units:    75)
+ 84. tbn97                         0.03%       73,871 (units:    76)
+ 85. Murph                         0.03%       71,069 (units:    21)
  86. Michael_Simkin                0.03%       70,687 (units:    29)
  87. deowyth                       0.03%       68,655 (units:     5)
  88. Alteraner92                   0.03%       66,432 (units:    40)
@@ -98,7 +98,7 @@ As of 2020-04-17 07:52:23, hackers.town is rank 658
  96. jerephil                      0.02%       52,586 (units:    47)
  97. Seb                           0.02%       52,572 (units:    95)
  98. emelie                        0.02%       46,275 (units:     4)
- 99. pmosetc                       0.02%       45,195 (units:    65)
+ 99. pmosetc                       0.02%       45,880 (units:    66)
 100. socketwench                   0.02%       42,901 (units:    44)
 101. MaxAtCastleMalmeddy           0.02%       41,229 (units:    61)
 102. Syrinx                        0.01%       35,530 (units:    82)
