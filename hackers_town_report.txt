@@ -1,11 +1,11 @@
-As of 2020-04-17 07:22:19, hackers.town is rank 658
-   with 16,295 work units for 238,177,451 credits
+As of 2020-04-17 07:32:29, hackers.town is rank 658
+   with 16,298 work units for 238,192,120 credits
   1. wetdryvac                    13.44%   32,005,459 (units:   882)
   2. merimus                       8.61%   20,510,657 (units:   545)
   3. packetcat                     8.28%   19,727,388 (units:   152)
   4. KemoNine                      7.80%   18,569,748 (units:   623)
-  5. dokuja                        7.40%   17,613,298 (units:   469)
-  6. Freakazoid                    5.50%   13,101,105 (units:   482)
+  5. dokuja                        7.39%   17,613,298 (units:   469)
+  6. Freakazoid                    5.50%   13,105,684 (units:   483)
   7. Polychrome                    3.66%    8,726,178 (units:   352)
   8. Calcifer                      3.11%    7,402,212 (units:   186)
   9. bhtooefr                      3.11%    7,402,073 (units:   185)
@@ -40,7 +40,7 @@ As of 2020-04-17 07:22:19, hackers.town is rank 658
  38. mainebot                      0.42%      990,019 (units:    52)
  39. rmgr                          0.39%      920,499 (units:    37)
  40. Null                          0.34%      818,594 (units:    22)
- 41. avolkov                       0.32%      770,384 (units:    70)
+ 41. avolkov                       0.33%      779,789 (units:    71)
  42. Requiem                       0.30%      705,746 (units:   244)
  43. djsumdog                      0.30%      702,772 (units:    90)
  44. TG                            0.29%      694,922 (units:   143)
@@ -89,8 +89,8 @@ As of 2020-04-17 07:22:19, hackers.town is rank 658
  87. deowyth                       0.03%       68,655 (units:     5)
  88. Alteraner92                   0.03%       66,432 (units:    40)
  89. Purple                        0.03%       63,965 (units:    57)
- 90.                               0.03%       63,008 (units:    38)
- 91. folding_with_gibson           0.03%       62,707 (units:    35)
+ 90. folding_with_gibson           0.03%       63,392 (units:    36)
+ 91.                               0.03%       63,008 (units:    38)
  92. tomatoefolding                0.03%       59,750 (units:     1)
  93. Bingo                         0.02%       58,380 (units:   104)
  94. daum3ns                       0.02%       56,636 (units:     6)
