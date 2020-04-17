@@ -1,9 +1,9 @@
-As of 2020-04-17 03:02:26, hackers.town is rank 661
-   with 16,180 work units for 236,309,142 credits
+As of 2020-04-17 03:12:23, hackers.town is rank 661
+   with 16,183 work units for 236,316,355 credits
   1. wetdryvac                    13.44%   31,754,874 (units:   879)
   2. merimus                       8.67%   20,478,369 (units:   542)
   3. packetcat                     8.35%   19,727,388 (units:   152)
-  4. KemoNine                      7.80%   18,420,396 (units:   621)
+  4. KemoNine                      7.79%   18,420,396 (units:   621)
   5. dokuja                        7.34%   17,354,073 (units:   466)
   6. Freakazoid                    5.43%   12,826,867 (units:   478)
   7. Polychrome                    3.69%    8,723,955 (units:   351)
@@ -18,16 +18,16 @@ As of 2020-04-17 03:02:26, hackers.town is rank 661
  16. elfgirlsarah                  1.45%    3,438,211 (units:   143)
  17. skraelingjar                  1.42%    3,352,989 (units:    64)
  18. r000t                         1.41%    3,342,489 (units:    73)
- 19. Kranfahrer                    1.25%    2,947,981 (units:   183)
+ 19. Kranfahrer                    1.25%    2,951,220 (units:   184)
  20. ryen                          1.24%    2,936,587 (units:   208)
  21. Mr.House                      1.18%    2,778,307 (units:   147)
  22. radicaledward                 1.15%    2,717,086 (units:    90)
  23. The_Gibson(HTown)             0.97%    2,294,264 (units:   200)
  24. /dev/random                   0.90%    2,116,226 (units:   199)
- 25. mandibular joint dysfunction  0.85%    2,011,115 (units:   793)
+ 25. mandibular joint dysfunction  0.85%    2,012,115 (units:   794)
  26. pfreak                        0.84%    1,996,770 (units:    48)
  27. paullindner                   0.75%    1,765,496 (units:   352)
- 28. DJ_Sundog                     0.61%    1,433,130 (units:   306)
+ 28. DJ_Sundog                     0.61%    1,436,104 (units:   307)
  29. rfquerin                      0.60%    1,413,371 (units:    96)
  30. kusuriya                      0.56%    1,314,178 (units:    68)
  31. CookieMom                     0.55%    1,301,549 (units:   187)
