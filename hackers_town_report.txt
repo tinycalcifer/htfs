@@ -1,5 +1,5 @@
-As of 2020-04-17 05:32:36, hackers.town is rank 658
-   with 16,251 work units for 237,433,918 credits
+As of 2020-04-17 05:42:31, hackers.town is rank 658
+   with 16,255 work units for 237,441,182 credits
   1. wetdryvac                    13.42%   31,858,516 (units:   881)
   2. merimus                       8.64%   20,507,172 (units:   544)
   3. packetcat                     8.31%   19,727,388 (units:   152)
@@ -23,11 +23,11 @@ As of 2020-04-17 05:32:36, hackers.town is rank 658
  21. Mr.House                      1.17%    2,778,307 (units:   147)
  22. radicaledward                 1.14%    2,717,086 (units:    90)
  23. The_Gibson(HTown)             0.97%    2,299,232 (units:   203)
- 24. /dev/random                   0.89%    2,116,226 (units:   199)
+ 24. /dev/random                   0.89%    2,119,666 (units:   200)
  25. mandibular joint dysfunction  0.85%    2,014,530 (units:   797)
  26. pfreak                        0.84%    1,996,770 (units:    48)
  27. paullindner                   0.75%    1,775,337 (units:   354)
- 28. DJ_Sundog                     0.61%    1,441,876 (units:   308)
+ 28. DJ_Sundog                     0.61%    1,445,453 (units:   309)
  29. rfquerin                      0.60%    1,416,352 (units:    97)
  30. kusuriya                      0.55%    1,314,178 (units:    68)
  31. CookieMom                     0.55%    1,302,835 (units:   189)
@@ -107,7 +107,7 @@ As of 2020-04-17 05:32:36, hackers.town is rank 658
 105. Phlox                         0.01%       32,011 (units:     2)
 106. grasshopper                   0.01%       31,848 (units:    44)
 107. L4NN-1312                     0.01%       29,922 (units:    35)
-108. neoninteger                   0.01%       28,895 (units:    29)
+108. neoninteger                   0.01%       28,899 (units:    30)
 109. amsomniac                     0.01%       28,518 (units:    40)
 110. SteveTheDragon                0.01%       28,289 (units:    19)
 111. HiRezCanDo                    0.01%       27,935 (units:    38)
@@ -117,7 +117,7 @@ As of 2020-04-17 05:32:36, hackers.town is rank 658
 115. TMY                           0.01%       23,206 (units:    40)
 116. SJM                           0.01%       22,862 (units:     9)
 117. pixelpaperyarn                0.01%       19,221 (units:    29)
-118. imacrea                       0.01%       18,667 (units:    33)
+118. imacrea                       0.01%       18,910 (units:    34)
 119. technoid_                     0.01%       18,231 (units:    24)
 120. electric.glowing.surf/        0.01%       17,368 (units:    21)
 121. shellkr                       0.01%       16,190 (units:    14)
