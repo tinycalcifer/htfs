@@ -1,11 +1,11 @@
-As of 2020-04-17 19:42:20, hackers.town is rank 657
-   with 16,565 work units for 240,879,356 credits
+As of 2020-04-17 19:52:25, hackers.town is rank 657
+   with 16,568 work units for 240,886,132 credits
   1. wetdryvac                    13.35%   32,147,218 (units:   887)
   2. merimus                       8.55%   20,589,421 (units:   553)
   3. packetcat                     8.19%   19,727,388 (units:   152)
   4. KemoNine                      7.77%   18,705,527 (units:   625)
   5. dokuja                        7.52%   18,104,692 (units:   474)
-  6. Freakazoid                    5.51%   13,264,176 (units:   495)
+  6. Freakazoid                    5.51%   13,268,660 (units:   496)
   7. Polychrome                    3.62%    8,728,332 (units:   353)
   8. Calcifer                      3.19%    7,675,867 (units:   192)
   9. bhtooefr                      3.18%    7,652,098 (units:   192)
@@ -33,7 +33,7 @@ As of 2020-04-17 19:42:20, hackers.town is rank 657
  31. CookieMom                     0.54%    1,306,020 (units:   192)
  32. sungo                         0.53%    1,278,485 (units:   348)
  33. Kyle                          0.50%    1,199,739 (units:   139)
- 34. drwho                         0.50%    1,195,180 (units:   441)
+ 34. drwho                         0.50%    1,197,162 (units:   442)
  35. Anonymous                     0.49%    1,175,424 (units:   448)
  36. qwazix                        0.48%    1,157,676 (units:   220)
  37. TerrorBite                    0.45%    1,085,432 (units:    36)
@@ -102,7 +102,7 @@ As of 2020-04-17 19:42:20, hackers.town is rank 657
 100. emelie                        0.02%       46,275 (units:     4)
 101. MaxAtCastleMalmeddy           0.02%       42,229 (units:    62)
 102. huobijubajeebajoba            0.02%       38,451 (units:    15)
-103. grasshopper                   0.01%       35,701 (units:    50)
+103. grasshopper                   0.01%       36,011 (units:    51)
 104. Syrinx                        0.01%       35,530 (units:    82)
 105. Tool_Man                      0.01%       35,407 (units:    54)
 106. Phlox                         0.01%       32,011 (units:     2)
