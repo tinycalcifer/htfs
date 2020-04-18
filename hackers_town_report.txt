@@ -1,5 +1,5 @@
-As of 2020-04-18 09:12:14, hackers.town is rank 660
-   with 16,787 work units for 242,533,675 credits
+As of 2020-04-18 09:32:19, hackers.town is rank 660
+   with 16,790 work units for 242,539,724 credits
   1. wetdryvac                    13.26%   32,148,675 (units:   888)
   2. merimus                       8.49%   20,589,421 (units:   553)
   3. packetcat                     8.18%   19,829,617 (units:   153)
@@ -7,7 +7,7 @@ As of 2020-04-18 09:12:14, hackers.town is rank 660
   5. dokuja                        7.46%   18,104,692 (units:   474)
   6. Freakazoid                    5.51%   13,369,553 (units:   506)
   7. Polychrome                    3.60%    8,733,809 (units:   355)
-  8. bhtooefr                      3.27%    7,932,152 (units:   197)
+  8. bhtooefr                      3.27%    7,935,001 (units:   198)
   9. Calcifer                      3.22%    7,802,361 (units:   193)
  10. c0debabe                      2.98%    7,224,123 (units:   245)
  11. Werekat                       2.49%    6,041,683 (units:   256)
@@ -30,7 +30,7 @@ As of 2020-04-18 09:12:14, hackers.town is rank 660
  28. rfquerin                      0.67%    1,633,097 (units:   105)
  29. DJ_Sundog                     0.61%    1,478,178 (units:   319)
  30. kusuriya                      0.54%    1,314,178 (units:    68)
- 31. CookieMom                     0.54%    1,309,075 (units:   196)
+ 31. CookieMom                     0.54%    1,309,775 (units:   197)
  32. sungo                         0.53%    1,289,651 (units:   352)
  33. drwho                         0.52%    1,262,447 (units:   446)
  34. rmgr                          0.50%    1,212,035 (units:    43)
@@ -72,7 +72,7 @@ As of 2020-04-18 09:12:14, hackers.town is rank 660
  70. arbu                          0.05%      125,499 (units:     7)
  71. Imani                         0.05%      125,433 (units:   186)
  72. Neil                          0.05%      124,874 (units:    32)
- 73. ZenCoder                      0.05%      118,184 (units:    42)
+ 73. ZenCoder                      0.05%      120,684 (units:    43)
  74. piggo                         0.04%      108,091 (units:    23)
  75. Nemesis                       0.04%      103,626 (units:    53)
  76. heliostatic                   0.04%      101,482 (units:    26)
