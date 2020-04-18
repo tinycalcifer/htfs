@@ -1,5 +1,5 @@
-As of 2020-04-18 03:32:16, hackers.town is rank 660
-   with 16,698 work units for 241,954,911 credits
+As of 2020-04-18 03:42:16, hackers.town is rank 660
+   with 16,701 work units for 241,961,936 credits
   1. wetdryvac                    13.29%   32,148,675 (units:   888)
   2. merimus                       8.51%   20,589,421 (units:   553)
   3. packetcat                     8.15%   19,727,388 (units:   152)
@@ -13,7 +13,7 @@ As of 2020-04-18 03:32:16, hackers.town is rank 660
  11. Werekat                       2.49%    6,028,835 (units:   254)
  12. SiinaCutie                    2.09%    5,048,895 (units:   232)
  13. FOOL                          2.04%    4,925,021 (units:   333)
- 14. felix                         2.01%    4,858,230 (units:   177)
+ 14. felix                         2.01%    4,863,229 (units:   178)
  15. dafuchs                       1.77%    4,283,961 (units:   224)
  16. elfgirlsarah                  1.48%    3,590,241 (units:   161)
  17. r000t                         1.40%    3,380,967 (units:    75)
@@ -36,7 +36,7 @@ As of 2020-04-18 03:32:16, hackers.town is rank 660
  34. drwho                         0.50%    1,203,780 (units:   445)
  35. Anonymous                     0.49%    1,183,498 (units:   453)
  36. qwazix                        0.48%    1,157,676 (units:   220)
- 37. rmgr                          0.47%    1,137,786 (units:    40)
+ 37. rmgr                          0.47%    1,139,112 (units:    41)
  38. TerrorBite                    0.45%    1,085,432 (units:    36)
  39. mainebot                      0.41%      990,537 (units:    53)
  40. Null                          0.34%      818,594 (units:    22)
@@ -63,7 +63,7 @@ As of 2020-04-18 03:32:16, hackers.town is rank 660
  61. debugninja                    0.11%      277,085 (units:    31)
  62. Kyresti                       0.11%      262,134 (units:    39)
  63. Brian                         0.10%      251,626 (units:    80)
- 64. neil                          0.10%      235,766 (units:   109)
+ 64. neil                          0.10%      236,466 (units:   110)
  65. Neue.City                     0.09%      224,805 (units:    46)
  66. BadGateway                    0.07%      161,439 (units:    84)
  67. LordMathis                    0.07%      159,767 (units:    26)
