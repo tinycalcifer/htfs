@@ -1,5 +1,5 @@
-As of 2020-04-18 06:02:26, hackers.town is rank 660
-   with 16,740 work units for 242,271,722 credits
+As of 2020-04-18 06:12:26, hackers.town is rank 660
+   with 16,743 work units for 242,276,633 credits
   1. wetdryvac                    13.27%   32,148,675 (units:   888)
   2. merimus                       8.50%   20,589,421 (units:   553)
   3. packetcat                     8.18%   19,829,617 (units:   153)
@@ -41,7 +41,7 @@ As of 2020-04-18 06:02:26, hackers.town is rank 660
  39. mainebot                      0.41%      990,537 (units:    53)
  40. Null                          0.34%      818,594 (units:    22)
  41. avolkov                       0.33%      795,005 (units:    73)
- 42. Requiem                       0.32%      773,902 (units:   265)
+ 42. Requiem                       0.32%      777,113 (units:   266)
  43. djsumdog                      0.29%      712,036 (units:    93)
  44. TG                            0.29%      694,922 (units:   143)
  45. HolSta                        0.25%      614,460 (units:   108)
@@ -52,7 +52,7 @@ As of 2020-04-18 06:02:26, hackers.town is rank 660
  50. Mnemonic                      0.18%      430,346 (units:   161)
  51. protospork                    0.17%      423,894 (units:    59)
  52. Hany                          0.17%      421,021 (units:    99)
- 53. technolust                    0.16%      394,279 (units:   264)
+ 53. technolust                    0.16%      395,279 (units:   265)
  54. fl0wn                         0.16%      388,420 (units:    74)
  55. Logomancer                    0.16%      378,888 (units:   213)
  56. m68k                          0.15%      366,021 (units:   103)
@@ -102,7 +102,7 @@ As of 2020-04-18 06:02:26, hackers.town is rank 660
 100. emelie                        0.02%       46,275 (units:     4)
 101. MaxAtCastleMalmeddy           0.02%       43,929 (units:    64)
 102. huobijubajeebajoba            0.02%       38,451 (units:    15)
-103. grasshopper                   0.02%       36,461 (units:    52)
+103. grasshopper                   0.02%       37,161 (units:    53)
 104. Syrinx                        0.01%       35,530 (units:    82)
 105. Tool_Man                      0.01%       35,407 (units:    54)
 106. neoninteger                   0.01%       33,504 (units:    34)
