@@ -1,5 +1,5 @@
-As of 2020-04-19 01:32:13, hackers.town is rank 660
-   with 16,994 work units for 243,876,312 credits
+As of 2020-04-19 01:52:22, hackers.town is rank 660
+   with 16,999 work units for 243,888,877 credits
   1. wetdryvac                    13.18%   32,148,675 (units:   888)
   2. merimus                       8.44%   20,589,421 (units:   553)
   3. packetcat                     8.13%   19,829,617 (units:   153)
@@ -15,7 +15,7 @@ As of 2020-04-19 01:32:13, hackers.town is rank 660
  13. FOOL                          2.03%    4,940,570 (units:   335)
  14. felix                         2.00%    4,869,846 (units:   179)
  15. dafuchs                       1.87%    4,554,297 (units:   237)
- 16. elfgirlsarah                  1.50%    3,668,894 (units:   191)
+ 16. elfgirlsarah                  1.51%    3,672,566 (units:   193)
  17. r000t                         1.39%    3,385,886 (units:    76)
  18. skraelingjar                  1.37%    3,352,989 (units:    64)
  19. Kranfahrer                    1.24%    3,024,932 (units:   201)
@@ -70,16 +70,16 @@ As of 2020-04-19 01:32:13, hackers.town is rank 660
  68. RandyNose                     0.06%      157,358 (units:   204)
  69. silksnep                      0.06%      141,111 (units:   176)
  70. Imani                         0.05%      128,774 (units:   190)
- 71. arbu                          0.05%      125,499 (units:     7)
- 72. Neil                          0.05%      124,874 (units:    32)
- 73. ZenCoder                      0.05%      124,564 (units:    45)
+ 71. ZenCoder                      0.05%      126,957 (units:    46)
+ 72. arbu                          0.05%      125,499 (units:     7)
+ 73. Neil                          0.05%      124,874 (units:    32)
  74. piggo                         0.04%      108,091 (units:    23)
  75. Nemesis                       0.04%      103,626 (units:    53)
  76. heliostatic                   0.04%      101,482 (units:    26)
  77. RandomGeek                    0.04%       99,623 (units:    15)
  78. JoshMulliken                  0.04%       97,080 (units:    23)
- 79. folding_with_gibson           0.04%       90,168 (units:    51)
- 80. gwozniak                      0.04%       88,737 (units:   132)
+ 79. gwozniak                      0.04%       94,237 (units:   133)
+ 80. folding_with_gibson           0.04%       91,168 (units:    52)
  81. tbn97                         0.03%       84,864 (units:    83)
  82. claudiom                      0.03%       82,826 (units:   541)
  83. atinciona                     0.03%       82,297 (units:   125)
