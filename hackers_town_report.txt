@@ -1,5 +1,5 @@
-As of 2020-04-19 02:32:26, hackers.town is rank 660
-   with 17,011 work units for 243,906,932 credits
+As of 2020-04-19 02:52:14, hackers.town is rank 660
+   with 17,016 work units for 243,914,157 credits
   1. wetdryvac                    13.18%   32,148,675 (units:   888)
   2. merimus                       8.44%   20,589,421 (units:   553)
   3. packetcat                     8.13%   19,829,617 (units:   153)
@@ -15,7 +15,7 @@ As of 2020-04-19 02:32:26, hackers.town is rank 660
  13. FOOL                          2.03%    4,940,570 (units:   335)
  14. felix                         2.00%    4,869,846 (units:   179)
  15. dafuchs                       1.87%    4,554,297 (units:   237)
- 16. elfgirlsarah                  1.51%    3,675,454 (units:   195)
+ 16. elfgirlsarah                  1.51%    3,675,816 (units:   196)
  17. r000t                         1.39%    3,385,886 (units:    76)
  18. skraelingjar                  1.37%    3,352,989 (units:    64)
  19. Kranfahrer                    1.24%    3,024,932 (units:   201)
@@ -26,7 +26,7 @@ As of 2020-04-19 02:32:26, hackers.town is rank 660
  24. /dev/random                   0.88%    2,135,335 (units:   204)
  25. mandibular joint dysfunction  0.84%    2,042,179 (units:   829)
  26. pfreak                        0.82%    1,996,770 (units:    48)
- 27. paullindner                   0.79%    1,916,505 (units:   387)
+ 27. paullindner                   0.79%    1,922,757 (units:   389)
  28. drwho                         0.67%    1,640,704 (units:   454)
  29. rfquerin                      0.67%    1,638,770 (units:   107)
  30. DJ_Sundog                     0.61%    1,480,486 (units:   320)
@@ -48,7 +48,7 @@ As of 2020-04-19 02:32:26, hackers.town is rank 660
  46. synfinner                     0.22%      527,623 (units:    14)
  47. tayo                          0.20%      497,485 (units:   150)
  48. jkl                           0.19%      471,324 (units:   141)
- 49. LordBowlich                   0.18%      448,077 (units:   129)
+ 49. LordBowlich                   0.18%      448,388 (units:   130)
  50. Mnemonic                      0.18%      430,346 (units:   161)
  51. protospork                    0.17%      423,894 (units:    59)
  52. Hany                          0.17%      421,021 (units:    99)
@@ -101,7 +101,7 @@ As of 2020-04-19 02:32:26, hackers.town is rank 660
  99. pmosetc                       0.02%       47,111 (units:    69)
 100. emelie                        0.02%       46,275 (units:     4)
 101. MaxAtCastleMalmeddy           0.02%       43,929 (units:    64)
-102. grasshopper                   0.02%       39,170 (units:    56)
+102. grasshopper                   0.02%       39,470 (units:    57)
 103. huobijubajeebajoba            0.02%       38,451 (units:    15)
 104. Syrinx                        0.01%       35,530 (units:    82)
 105. neoninteger                   0.01%       35,468 (units:    35)
