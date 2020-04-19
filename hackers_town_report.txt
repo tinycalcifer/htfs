@@ -1,5 +1,5 @@
-As of 2020-04-19 17:32:06, hackers.town is rank 661
-   with 17,166 work units for 244,800,236 credits
+As of 2020-04-19 18:12:31, hackers.town is rank 661
+   with 17,170 work units for 244,809,679 credits
   1. wetdryvac                    13.13%   32,148,675 (units:   888)
   2. merimus                       8.41%   20,589,421 (units:   553)
   3. packetcat                     8.10%   19,829,617 (units:   153)
@@ -15,7 +15,7 @@ As of 2020-04-19 17:32:06, hackers.town is rank 661
  13. FOOL                          2.02%    4,943,172 (units:   336)
  14. felix                         1.99%    4,869,846 (units:   179)
  15. dafuchs                       1.88%    4,597,830 (units:   242)
- 16. elfgirlsarah                  1.52%    3,726,722 (units:   212)
+ 16. elfgirlsarah                  1.52%    3,731,934 (units:   214)
  17. r000t                         1.38%    3,385,886 (units:    76)
  18. skraelingjar                  1.37%    3,352,989 (units:    64)
  19. Kranfahrer                    1.24%    3,024,932 (units:   201)
@@ -24,7 +24,7 @@ As of 2020-04-19 17:32:06, hackers.town is rank 661
  22. radicaledward                 1.11%    2,717,086 (units:    90)
  23. The_Gibson(HTown)             0.95%    2,330,035 (units:   212)
  24. /dev/random                   0.87%    2,135,335 (units:   204)
- 25. drwho                         0.85%    2,069,286 (units:   462)
+ 25. drwho                         0.85%    2,073,016 (units:   463)
  26. mandibular joint dysfunction  0.83%    2,042,179 (units:   829)
  27. pfreak                        0.82%    1,996,770 (units:    48)
  28. paullindner                   0.80%    1,960,359 (units:   398)
@@ -69,7 +69,7 @@ As of 2020-04-19 17:32:06, hackers.town is rank 661
  67. BadGateway                    0.07%      161,439 (units:    84)
  68. RandyNose                     0.07%      161,427 (units:   209)
  69. silksnep                      0.06%      141,111 (units:   176)
- 70. Imani                         0.05%      132,211 (units:   194)
+ 70. Imani                         0.05%      132,712 (units:   195)
  71. ZenCoder                      0.05%      128,922 (units:    47)
  72. arbu                          0.05%      125,499 (units:     7)
  73. Neil                          0.05%      124,874 (units:    32)
