@@ -1,5 +1,5 @@
-As of 2020-04-19 11:22:45, hackers.town is rank 661
-   with 17,111 work units for 244,552,197 credits
+As of 2020-04-19 11:42:10, hackers.town is rank 661
+   with 17,114 work units for 244,556,039 credits
   1. wetdryvac                    13.15%   32,148,675 (units:   888)
   2. merimus                       8.42%   20,589,421 (units:   553)
   3. packetcat                     8.11%   19,829,617 (units:   153)
@@ -27,12 +27,12 @@ As of 2020-04-19 11:22:45, hackers.town is rank 661
  25. mandibular joint dysfunction  0.84%    2,042,179 (units:   829)
  26. pfreak                        0.82%    1,996,770 (units:    48)
  27. paullindner                   0.80%    1,946,072 (units:   395)
- 28. drwho                         0.80%    1,944,218 (units:   457)
+ 28. drwho                         0.79%    1,944,218 (units:   457)
  29. rfquerin                      0.67%    1,638,770 (units:   107)
  30. DJ_Sundog                     0.61%    1,482,229 (units:   321)
- 31. CookieMom                     0.54%    1,317,640 (units:   206)
+ 31. CookieMom                     0.54%    1,318,460 (units:   207)
  32. kusuriya                      0.54%    1,314,178 (units:    68)
- 33. sungo                         0.53%    1,300,368 (units:   355)
+ 33. sungo                         0.53%    1,303,079 (units:   356)
  34. Kyle                          0.51%    1,254,209 (units:   147)
  35. Anonymous                     0.50%    1,224,909 (units:   465)
  36. rmgr                          0.50%    1,215,291 (units:    44)
@@ -135,7 +135,7 @@ As of 2020-04-19 11:22:45, hackers.town is rank 661
 133. OldRedSun                     0.00%        9,054 (units:     1)
 134. teecee                        0.00%        7,506 (units:    10)
 135. dimazest                      0.00%        7,169 (units:     6)
-136. Arcans                        0.00%        6,030 (units:    13)
+136. Arcans                        0.00%        6,341 (units:    14)
 137. Azure                         0.00%        5,715 (units:     9)
 138. Toive8547                     0.00%        3,640 (units:     5)
 139. cooper                        0.00%        3,285 (units:     9)
