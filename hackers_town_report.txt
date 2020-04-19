@@ -1,11 +1,11 @@
-As of 2020-04-18 23:52:31, hackers.town is rank 660
-   with 16,971 work units for 243,773,324 credits
+As of 2020-04-19 00:02:16, hackers.town is rank 660
+   with 16,974 work units for 243,778,820 credits
   1. wetdryvac                    13.19%   32,148,675 (units:   888)
   2. merimus                       8.45%   20,589,421 (units:   553)
   3. packetcat                     8.13%   19,829,617 (units:   153)
   4. KemoNine                      7.67%   18,705,527 (units:   625)
   5. dokuja                        7.43%   18,104,692 (units:   474)
-  6. Freakazoid                    5.50%   13,415,297 (units:   510)
+  6. Freakazoid                    5.50%   13,418,593 (units:   511)
   7. Polychrome                    3.58%    8,738,300 (units:   357)
   8. bhtooefr                      3.33%    8,128,714 (units:   201)
   9. Calcifer                      3.20%    7,802,361 (units:   193)
@@ -52,7 +52,7 @@ As of 2020-04-18 23:52:31, hackers.town is rank 660
  50. Mnemonic                      0.18%      430,346 (units:   161)
  51. protospork                    0.17%      423,894 (units:    59)
  52. Hany                          0.17%      421,021 (units:    99)
- 53. technolust                    0.17%      404,880 (units:   279)
+ 53. technolust                    0.17%      405,580 (units:   280)
  54. fl0wn                         0.16%      388,420 (units:    74)
  55. Logomancer                    0.16%      378,974 (units:   219)
  56. m68k                          0.15%      373,471 (units:   107)
@@ -93,9 +93,9 @@ As of 2020-04-18 23:52:31, hackers.town is rank 660
  91.                               0.03%       65,445 (units:    39)
  92. Bingo                         0.03%       63,163 (units:   113)
  93. tomatoefolding                0.02%       59,750 (units:     1)
- 94. jerephil                      0.02%       56,814 (units:    54)
- 95. daum3ns                       0.02%       56,636 (units:     6)
- 96. Seb                           0.02%       56,587 (units:   100)
+ 94. Seb                           0.02%       58,087 (units:   101)
+ 95. jerephil                      0.02%       56,814 (units:    54)
+ 96. daum3ns                       0.02%       56,636 (units:     6)
  97. crc32                         0.02%       55,427 (units:    74)
  98. socketwench                   0.02%       47,849 (units:    49)
  99. pmosetc                       0.02%       46,691 (units:    68)
