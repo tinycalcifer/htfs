@@ -1,8 +1,8 @@
-As of 2020-04-19 13:42:20, hackers.town is rank 661
-   with 17,130 work units for 244,653,853 credits
+As of 2020-04-19 13:52:19, hackers.town is rank 661
+   with 17,133 work units for 244,659,230 credits
   1. wetdryvac                    13.14%   32,148,675 (units:   888)
   2. merimus                       8.42%   20,589,421 (units:   553)
-  3. packetcat                     8.11%   19,829,617 (units:   153)
+  3. packetcat                     8.10%   19,829,617 (units:   153)
   4. KemoNine                      7.65%   18,705,527 (units:   625)
   5. dokuja                        7.40%   18,104,692 (units:   474)
   6. Freakazoid                    5.50%   13,458,930 (units:   516)
@@ -33,7 +33,7 @@ As of 2020-04-19 13:42:20, hackers.town is rank 661
  31. CookieMom                     0.54%    1,318,460 (units:   207)
  32. kusuriya                      0.54%    1,314,178 (units:    68)
  33. sungo                         0.53%    1,303,079 (units:   356)
- 34. Kyle                          0.51%    1,254,209 (units:   147)
+ 34. Kyle                          0.51%    1,257,965 (units:   148)
  35. Anonymous                     0.50%    1,228,457 (units:   466)
  36. rmgr                          0.50%    1,215,291 (units:    44)
  37. qwazix                        0.47%    1,157,676 (units:   220)
@@ -81,7 +81,7 @@ As of 2020-04-19 13:42:20, hackers.town is rank 661
  79. folding_with_gibson           0.04%       95,269 (units:    54)
  80. gwozniak                      0.04%       95,129 (units:   134)
  81. tbn97                         0.04%       86,314 (units:    85)
- 82. claudiom                      0.03%       83,602 (units:   543)
+ 82. claudiom                      0.03%       83,794 (units:   544)
  83. atinciona                     0.03%       82,297 (units:   125)
  84. Kirjis                        0.03%       79,781 (units:   106)
  85. George_                       0.03%       75,198 (units:    12)
@@ -92,8 +92,8 @@ As of 2020-04-19 13:42:20, hackers.town is rank 661
  90. deowyth                       0.03%       68,655 (units:     5)
  91. Bingo                         0.03%       65,498 (units:   116)
  92.                               0.03%       65,445 (units:    39)
- 93. tomatoefolding                0.02%       59,750 (units:     1)
- 94. jerephil                      0.02%       59,094 (units:    57)
+ 93. jerephil                      0.02%       60,523 (units:    58)
+ 94. tomatoefolding                0.02%       59,750 (units:     1)
  95. Seb                           0.02%       58,806 (units:   102)
  96. daum3ns                       0.02%       56,636 (units:     6)
  97. crc32                         0.02%       55,427 (units:    74)
