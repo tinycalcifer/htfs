@@ -1,5 +1,5 @@
-As of 2020-04-20 16:42:35, hackers.town is rank 661
-   with 17,445 work units for 246,392,173 credits
+As of 2020-04-20 17:02:23, hackers.town is rank 661
+   with 17,448 work units for 246,398,818 credits
   1. wetdryvac                    13.05%   32,148,675 (units:   888)
   2. merimus                       8.36%   20,589,421 (units:   553)
   3. packetcat                     8.05%   19,829,617 (units:   153)
@@ -30,7 +30,7 @@ As of 2020-04-20 16:42:35, hackers.town is rank 661
  28. pfreak                        0.81%    1,996,770 (units:    48)
  29. rfquerin                      0.67%    1,638,770 (units:   107)
  30. DJ_Sundog                     0.61%    1,506,405 (units:   324)
- 31. CookieMom                     0.54%    1,326,820 (units:   217)
+ 31. CookieMom                     0.54%    1,327,820 (units:   218)
  32. sungo                         0.54%    1,320,104 (units:   363)
  33. kusuriya                      0.53%    1,314,178 (units:    68)
  34. Kyle                          0.53%    1,293,761 (units:   153)
@@ -46,7 +46,7 @@ As of 2020-04-20 16:42:35, hackers.town is rank 661
  44. TG                            0.28%      694,922 (units:   143)
  45. HolSta                        0.25%      614,460 (units:   108)
  46. synfinner                     0.21%      527,623 (units:    14)
- 47. jkl                           0.20%      502,709 (units:   148)
+ 47. jkl                           0.21%      506,044 (units:   149)
  48. tayo                          0.20%      497,485 (units:   150)
  49. LordBowlich                   0.18%      449,488 (units:   132)
  50. Mnemonic                      0.17%      430,346 (units:   161)
@@ -68,7 +68,7 @@ As of 2020-04-20 16:42:35, hackers.town is rank 661
  66. LordMathis                    0.07%      167,847 (units:    28)
  67. RandyNose                     0.07%      162,127 (units:   210)
  68. BadGateway                    0.07%      161,439 (units:    84)
- 69. ZenCoder                      0.06%      143,495 (units:    52)
+ 69. ZenCoder                      0.06%      145,805 (units:    53)
  70. silksnep                      0.06%      141,111 (units:   176)
  71. Imani                         0.06%      136,832 (units:   203)
  72. arbu                          0.05%      125,499 (units:     7)
