@@ -1,5 +1,5 @@
-As of 2020-04-20 00:22:14, hackers.town is rank 660
-   with 17,246 work units for 245,329,473 credits
+As of 2020-04-20 00:42:39, hackers.town is rank 660
+   with 17,249 work units for 245,449,871 credits
   1. wetdryvac                    13.10%   32,148,675 (units:   888)
   2. merimus                       8.39%   20,589,421 (units:   553)
   3. packetcat                     8.08%   19,829,617 (units:   153)
@@ -10,11 +10,11 @@ As of 2020-04-20 00:22:14, hackers.town is rank 660
   8. bhtooefr                      3.38%    8,287,917 (units:   212)
   9. Calcifer                      3.18%    7,802,361 (units:   193)
  10. c0debabe                      2.94%    7,224,123 (units:   245)
- 11. Werekat                       2.54%    6,237,040 (units:   278)
+ 11. Werekat                       2.56%    6,294,871 (units:   279)
  12. SiinaCutie                    2.06%    5,048,895 (units:   232)
  13. FOOL                          2.01%    4,943,172 (units:   336)
  14. felix                         1.99%    4,880,228 (units:   181)
- 15. dafuchs                       1.90%    4,664,934 (units:   246)
+ 15. dafuchs                       1.93%    4,727,501 (units:   248)
  16. elfgirlsarah                  1.53%    3,751,445 (units:   225)
  17. r000t                         1.38%    3,385,886 (units:    76)
  18. skraelingjar                  1.37%    3,352,989 (units:    64)
@@ -45,7 +45,7 @@ As of 2020-04-20 00:22:14, hackers.town is rank 660
  43. djsumdog                      0.29%      712,036 (units:    93)
  44. TG                            0.28%      694,922 (units:   143)
  45. HolSta                        0.25%      614,460 (units:   108)
- 46. synfinner                     0.22%      527,623 (units:    14)
+ 46. synfinner                     0.21%      527,623 (units:    14)
  47. tayo                          0.20%      497,485 (units:   150)
  48. jkl                           0.20%      489,938 (units:   145)
  49. LordBowlich                   0.18%      449,488 (units:   132)
