@@ -1,5 +1,5 @@
-As of 2020-04-20 03:02:14, hackers.town is rank 660
-   with 17,276 work units for 245,637,819 credits
+As of 2020-04-20 03:12:38, hackers.town is rank 660
+   with 17,278 work units for 245,640,233 credits
   1. wetdryvac                    13.09%   32,148,675 (units:   888)
   2. merimus                       8.38%   20,589,421 (units:   553)
   3. packetcat                     8.07%   19,829,617 (units:   153)
@@ -17,7 +17,7 @@ As of 2020-04-20 03:02:14, hackers.town is rank 660
  15. dafuchs                       1.93%    4,731,160 (units:   249)
  16. elfgirlsarah                  1.53%    3,761,568 (units:   227)
  17. r000t                         1.38%    3,385,886 (units:    76)
- 18. skraelingjar                  1.37%    3,352,989 (units:    64)
+ 18. skraelingjar                  1.36%    3,352,989 (units:    64)
  19. Kranfahrer                    1.23%    3,024,932 (units:   201)
  20. ryen                          1.20%    2,936,587 (units:   208)
  21. Mr.House                      1.13%    2,778,307 (units:   147)
@@ -35,7 +35,7 @@ As of 2020-04-20 03:02:14, hackers.town is rank 660
  33. sungo                         0.53%    1,310,236 (units:   359)
  34. rmgr                          0.52%    1,287,908 (units:    46)
  35. Kyle                          0.52%    1,274,240 (units:   149)
- 36. Anonymous                     0.50%    1,232,233 (units:   467)
+ 36. Anonymous                     0.50%    1,233,692 (units:   468)
  37. qwazix                        0.47%    1,157,676 (units:   220)
  38. TerrorBite                    0.44%    1,085,432 (units:    36)
  39. mainebot                      0.40%      990,537 (units:    53)
@@ -93,7 +93,7 @@ As of 2020-04-20 03:02:14, hackers.town is rank 660
  91. Bingo                         0.03%       66,390 (units:   117)
  92.                               0.03%       65,445 (units:    39)
  93. jerephil                      0.03%       62,523 (units:    61)
- 94. Seb                           0.02%       59,926 (units:   104)
+ 94. Seb                           0.02%       60,881 (units:   105)
  95. tomatoefolding                0.02%       59,750 (units:     1)
  96. daum3ns                       0.02%       56,636 (units:     6)
  97. crc32                         0.02%       55,952 (units:    75)
