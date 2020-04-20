@@ -1,11 +1,11 @@
-As of 2020-04-20 10:32:06, hackers.town is rank 661
-   with 17,362 work units for 246,075,053 credits
+As of 2020-04-20 10:42:24, hackers.town is rank 661
+   with 17,365 work units for 246,104,865 credits
   1. wetdryvac                    13.06%   32,148,675 (units:   888)
   2. merimus                       8.37%   20,589,421 (units:   553)
   3. packetcat                     8.06%   19,829,617 (units:   153)
   4. KemoNine                      7.60%   18,705,527 (units:   625)
   5. dokuja                        7.36%   18,104,692 (units:   474)
-  6. Freakazoid                    5.50%   13,522,957 (units:   521)
+  6. Freakazoid                    5.49%   13,522,957 (units:   521)
   7. Polychrome                    3.57%    8,784,950 (units:   366)
   8. bhtooefr                      3.41%    8,383,596 (units:   216)
   9. Calcifer                      3.17%    7,802,361 (units:   193)
@@ -16,7 +16,7 @@ As of 2020-04-20 10:32:06, hackers.town is rank 661
  14. felix                         1.99%    4,901,391 (units:   185)
  15. dafuchs                       1.96%    4,819,313 (units:   253)
  16. elfgirlsarah                  1.54%    3,790,669 (units:   232)
- 17. r000t                         1.38%    3,386,306 (units:    77)
+ 17. r000t                         1.39%    3,412,524 (units:    78)
  18. skraelingjar                  1.36%    3,352,989 (units:    64)
  19. Kranfahrer                    1.23%    3,024,932 (units:   201)
  20. ryen                          1.19%    2,936,587 (units:   208)
@@ -31,7 +31,7 @@ As of 2020-04-20 10:32:06, hackers.town is rank 661
  29. rfquerin                      0.67%    1,638,770 (units:   107)
  30. DJ_Sundog                     0.61%    1,506,405 (units:   324)
  31. CookieMom                     0.54%    1,325,510 (units:   215)
- 32. sungo                         0.53%    1,314,662 (units:   361)
+ 32. sungo                         0.54%    1,317,256 (units:   362)
  33. kusuriya                      0.53%    1,314,178 (units:    68)
  34. rmgr                          0.52%    1,290,558 (units:    47)
  35. Kyle                          0.52%    1,283,935 (units:   151)
@@ -56,7 +56,7 @@ As of 2020-04-20 10:32:06, hackers.town is rank 661
  54. fl0wn                         0.16%      388,420 (units:    74)
  55. Canageek                      0.16%      384,936 (units:   123)
  56. Logomancer                    0.15%      379,169 (units:   227)
- 57. m68k                          0.15%      374,471 (units:   108)
+ 57. m68k                          0.15%      375,471 (units:   109)
  58. csrsuoeb                      0.13%      330,048 (units:    69)
  59. KitRedgrave                   0.13%      325,409 (units:    68)
  60. neil                          0.12%      292,536 (units:   119)
