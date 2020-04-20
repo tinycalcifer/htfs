@@ -1,5 +1,5 @@
-As of 2020-04-20 01:02:18, hackers.town is rank 660
-   with 17,252 work units for 245,450,878 credits
+As of 2020-04-20 01:32:06, hackers.town is rank 660
+   with 17,255 work units for 245,457,532 credits
   1. wetdryvac                    13.10%   32,148,675 (units:   888)
   2. merimus                       8.39%   20,589,421 (units:   553)
   3. packetcat                     8.08%   19,829,617 (units:   153)
@@ -15,7 +15,7 @@ As of 2020-04-20 01:02:18, hackers.town is rank 660
  13. FOOL                          2.01%    4,943,172 (units:   336)
  14. felix                         1.99%    4,880,228 (units:   181)
  15. dafuchs                       1.93%    4,727,501 (units:   248)
- 16. elfgirlsarah                  1.53%    3,751,445 (units:   225)
+ 16. elfgirlsarah                  1.53%    3,756,962 (units:   226)
  17. r000t                         1.38%    3,385,886 (units:    76)
  18. skraelingjar                  1.37%    3,352,989 (units:    64)
  19. Kranfahrer                    1.23%    3,024,932 (units:   201)
@@ -92,7 +92,7 @@ As of 2020-04-20 01:02:18, hackers.town is rank 660
  90. deowyth                       0.03%       68,655 (units:     5)
  91. Bingo                         0.03%       66,390 (units:   117)
  92.                               0.03%       65,445 (units:    39)
- 93. jerephil                      0.03%       61,823 (units:    60)
+ 93. jerephil                      0.03%       62,523 (units:    61)
  94. Seb                           0.02%       59,926 (units:   104)
  95. tomatoefolding                0.02%       59,750 (units:     1)
  96. daum3ns                       0.02%       56,636 (units:     6)
@@ -145,7 +145,7 @@ As of 2020-04-20 01:02:18, hackers.town is rank 660
 143. wizzwizz4                     0.00%        2,668 (units:     5)
 144. 1g0rb                         0.00%        2,490 (units:     4)
 145. gueorgui                      0.00%        2,321 (units:     9)
-146.                               0.00%        1,500 (units:     2)
+146.                               0.00%        1,937 (units:     3)
 147. smitso                        0.00%        1,280 (units:     4)
 148. micmac                        0.00%        1,270 (units:     2)
 149. shitposter.club               0.00%        1,160 (units:     2)
