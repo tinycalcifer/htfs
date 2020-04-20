@@ -1,5 +1,5 @@
-As of 2020-04-20 17:12:39, hackers.town is rank 661
-   with 17,450 work units for 246,407,128 credits
+As of 2020-04-20 17:42:43, hackers.town is rank 661
+   with 17,453 work units for 246,408,064 credits
   1. wetdryvac                    13.05%   32,148,675 (units:   888)
   2. merimus                       8.36%   20,589,421 (units:   553)
   3. packetcat                     8.05%   19,829,617 (units:   153)
@@ -29,7 +29,7 @@ As of 2020-04-20 17:12:39, hackers.town is rank 661
  27. paullindner                   0.83%    2,035,544 (units:   413)
  28. pfreak                        0.81%    1,996,770 (units:    48)
  29. rfquerin                      0.67%    1,638,770 (units:   107)
- 30. DJ_Sundog                     0.61%    1,506,405 (units:   324)
+ 30. DJ_Sundog                     0.61%    1,506,530 (units:   325)
  31. CookieMom                     0.54%    1,327,820 (units:   218)
  32. sungo                         0.54%    1,320,104 (units:   363)
  33. kusuriya                      0.53%    1,314,178 (units:    68)
@@ -81,7 +81,7 @@ As of 2020-04-20 17:12:39, hackers.town is rank 661
  79. RandomGeek                    0.04%       99,623 (units:    15)
  80. JoshMulliken                  0.04%       97,080 (units:    23)
  81. tbn97                         0.04%       86,314 (units:    85)
- 82. atinciona                     0.03%       85,624 (units:   132)
+ 82. atinciona                     0.03%       86,149 (units:   133)
  83. claudiom                      0.03%       83,794 (units:   544)
  84. Kirjis                        0.03%       79,781 (units:   106)
  85. George_                       0.03%       75,198 (units:    12)
@@ -92,7 +92,7 @@ As of 2020-04-20 17:12:39, hackers.town is rank 661
  90. deowyth                       0.03%       68,655 (units:     5)
  91. Bingo                         0.03%       68,563 (units:   121)
  92.                               0.03%       65,445 (units:    39)
- 93. jerephil                      0.03%       64,692 (units:    65)
+ 93. jerephil                      0.03%       64,978 (units:    66)
  94. Seb                           0.03%       62,280 (units:   106)
  95. tomatoefolding                0.02%       59,750 (units:     1)
  96. pmosetc                       0.02%       59,360 (units:    76)
