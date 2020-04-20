@@ -1,5 +1,5 @@
-As of 2020-04-20 02:32:12, hackers.town is rank 660
-   with 17,267 work units for 245,570,567 credits
+As of 2020-04-20 02:42:08, hackers.town is rank 660
+   with 17,270 work units for 245,577,027 credits
   1. wetdryvac                    13.09%   32,148,675 (units:   888)
   2. merimus                       8.38%   20,589,421 (units:   553)
   3. packetcat                     8.07%   19,829,617 (units:   153)
@@ -52,7 +52,7 @@ As of 2020-04-20 02:32:12, hackers.town is rank 660
  50. Mnemonic                      0.18%      430,346 (units:   161)
  51. protospork                    0.17%      423,894 (units:    59)
  52. Hany                          0.17%      421,021 (units:    99)
- 53. technolust                    0.17%      415,142 (units:   298)
+ 53. technolust                    0.17%      419,618 (units:   299)
  54. fl0wn                         0.16%      388,420 (units:    74)
  55. Logomancer                    0.15%      379,169 (units:   227)
  56. Canageek                      0.15%      374,531 (units:   121)
@@ -69,7 +69,7 @@ As of 2020-04-20 02:32:12, hackers.town is rank 660
  67. RandyNose                     0.07%      162,127 (units:   210)
  68. BadGateway                    0.07%      161,439 (units:    84)
  69. silksnep                      0.06%      141,111 (units:   176)
- 70. ZenCoder                      0.06%      136,553 (units:    48)
+ 70. ZenCoder                      0.06%      138,012 (units:    49)
  71. Imani                         0.05%      134,393 (units:   198)
  72. arbu                          0.05%      125,499 (units:     7)
  73. Neil                          0.05%      124,874 (units:    32)
@@ -96,7 +96,7 @@ As of 2020-04-20 02:32:12, hackers.town is rank 660
  94. Seb                           0.02%       59,926 (units:   104)
  95. tomatoefolding                0.02%       59,750 (units:     1)
  96. daum3ns                       0.02%       56,636 (units:     6)
- 97. crc32                         0.02%       55,427 (units:    74)
+ 97. crc32                         0.02%       55,952 (units:    75)
  98. pmosetc                       0.02%       49,571 (units:    72)
  99. socketwench                   0.02%       47,849 (units:    49)
 100. emelie                        0.02%       46,275 (units:     4)
