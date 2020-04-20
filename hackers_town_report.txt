@@ -1,5 +1,5 @@
-As of 2020-04-20 14:12:31, hackers.town is rank 661
-   with 17,413 work units for 246,199,634 credits
+As of 2020-04-20 14:32:15, hackers.town is rank 661
+   with 17,416 work units for 246,202,189 credits
   1. wetdryvac                    13.06%   32,148,675 (units:   888)
   2. merimus                       8.36%   20,589,421 (units:   553)
   3. packetcat                     8.05%   19,829,617 (units:   153)
@@ -50,7 +50,7 @@ As of 2020-04-20 14:12:31, hackers.town is rank 661
  48. tayo                          0.20%      497,485 (units:   150)
  49. LordBowlich                   0.18%      449,488 (units:   132)
  50. Mnemonic                      0.17%      430,346 (units:   161)
- 51. technolust                    0.17%      425,899 (units:   308)
+ 51. technolust                    0.17%      426,499 (units:   309)
  52. protospork                    0.17%      423,894 (units:    59)
  53. Hany                          0.17%      421,021 (units:    99)
  54. fl0wn                         0.16%      388,420 (units:    74)
@@ -81,7 +81,7 @@ As of 2020-04-20 14:12:31, hackers.town is rank 661
  79. RandomGeek                    0.04%       99,623 (units:    15)
  80. JoshMulliken                  0.04%       97,080 (units:    23)
  81. tbn97                         0.04%       86,314 (units:    85)
- 82. atinciona                     0.03%       84,624 (units:   131)
+ 82. atinciona                     0.03%       85,624 (units:   132)
  83. claudiom                      0.03%       83,794 (units:   544)
  84. Kirjis                        0.03%       79,781 (units:   106)
  85. George_                       0.03%       75,198 (units:    12)
@@ -115,8 +115,8 @@ As of 2020-04-20 14:12:31, hackers.town is rank 661
 113. julianaito                    0.01%       24,640 (units:    69)
 114. nuklearfiziks                 0.01%       23,903 (units:     5)
 115. TMY                           0.01%       23,206 (units:    40)
-116. SJM                           0.01%       22,862 (units:     9)
-117. 11backslashes                 0.01%       22,059 (units:    40)
+116. 11backslashes                 0.01%       23,014 (units:    41)
+117. SJM                           0.01%       22,862 (units:     9)
 118. imacrea                       0.01%       22,020 (units:    39)
 119. technoid_                     0.01%       20,861 (units:    28)
 120. pixelpaperyarn                0.01%       19,221 (units:    29)
