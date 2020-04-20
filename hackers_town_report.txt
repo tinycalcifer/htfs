@@ -1,7 +1,7 @@
-As of 2020-04-20 18:12:22, hackers.town is rank 661
-   with 17,464 work units for 246,427,540 credits
+As of 2020-04-20 18:32:43, hackers.town is rank 661
+   with 17,466 work units for 246,435,618 credits
   1. wetdryvac                    13.05%   32,148,675 (units:   888)
-  2. merimus                       8.36%   20,589,421 (units:   553)
+  2. merimus                       8.35%   20,589,421 (units:   553)
   3. packetcat                     8.05%   19,829,617 (units:   153)
   4. KemoNine                      7.59%   18,705,527 (units:   625)
   5. dokuja                        7.35%   18,104,692 (units:   474)
@@ -28,18 +28,18 @@ As of 2020-04-20 18:12:22, hackers.town is rank 661
  26. mandibular joint dysfunction  0.83%    2,042,179 (units:   829)
  27. paullindner                   0.83%    2,038,029 (units:   414)
  28. pfreak                        0.81%    1,996,770 (units:    48)
- 29. rfquerin                      0.67%    1,638,770 (units:   107)
+ 29. rfquerin                      0.66%    1,638,770 (units:   107)
  30. DJ_Sundog                     0.61%    1,506,530 (units:   325)
  31. CookieMom                     0.54%    1,328,130 (units:   219)
  32. sungo                         0.54%    1,320,104 (units:   363)
  33. kusuriya                      0.53%    1,314,178 (units:    68)
- 34. Kyle                          0.53%    1,293,761 (units:   153)
+ 34. Kyle                          0.53%    1,297,640 (units:   154)
  35. rmgr                          0.52%    1,290,558 (units:    47)
  36. Anonymous                     0.50%    1,237,471 (units:   469)
  37. qwazix                        0.47%    1,157,676 (units:   220)
  38. TerrorBite                    0.44%    1,085,432 (units:    36)
  39. mainebot                      0.40%      990,537 (units:    53)
- 40. Requiem                       0.34%      836,067 (units:   281)
+ 40. Requiem                       0.34%      840,266 (units:   282)
  41. Null                          0.33%      818,594 (units:    22)
  42. avolkov                       0.32%      795,005 (units:    73)
  43. djsumdog                      0.29%      723,613 (units:    96)
