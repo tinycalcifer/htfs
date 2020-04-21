@@ -1,11 +1,11 @@
-As of 2020-04-21 08:02:03, hackers.town is rank 661
-   with 17,648 work units for 247,387,589 credits
-  1. wetdryvac                    13.00%   32,148,675 (units:   888)
+As of 2020-04-21 08:22:09, hackers.town is rank 661
+   with 17,651 work units for 247,393,044 credits
+  1. wetdryvac                    12.99%   32,148,675 (units:   888)
   2. merimus                       8.32%   20,589,421 (units:   553)
   3. packetcat                     8.02%   19,829,617 (units:   153)
   4. KemoNine                      7.56%   18,705,527 (units:   625)
   5. dokuja                        7.32%   18,104,692 (units:   474)
-  6. Freakazoid                    5.49%   13,587,017 (units:   528)
+  6. Freakazoid                    5.49%   13,588,993 (units:   529)
   7. Polychrome                    3.66%    9,051,588 (units:   379)
   8. bhtooefr                      3.40%    8,410,592 (units:   224)
   9. Calcifer                      3.15%    7,802,361 (units:   193)
@@ -15,7 +15,7 @@ As of 2020-04-21 08:02:03, hackers.town is rank 661
  13. dafuchs                       2.06%    5,098,701 (units:   265)
  14. FOOL                          2.00%    4,952,100 (units:   340)
  15. felix                         1.98%    4,901,391 (units:   185)
- 16. elfgirlsarah                  1.57%    3,872,996 (units:   273)
+ 16. elfgirlsarah                  1.57%    3,875,963 (units:   274)
  17. r000t                         1.43%    3,532,454 (units:    82)
  18. skraelingjar                  1.36%    3,352,989 (units:    64)
  19. Kranfahrer                    1.22%    3,024,932 (units:   201)
@@ -99,8 +99,8 @@ As of 2020-04-21 08:02:03, hackers.town is rank 661
  97. crc32                         0.02%       57,412 (units:    78)
  98. daum3ns                       0.02%       56,636 (units:     6)
  99. socketwench                   0.02%       47,849 (units:    49)
-100. emelie                        0.02%       46,275 (units:     4)
-101. grasshopper                   0.02%       45,976 (units:    67)
+100. grasshopper                   0.02%       46,488 (units:    68)
+101. emelie                        0.02%       46,275 (units:     4)
 102. MaxAtCastleMalmeddy           0.02%       44,872 (units:    66)
 103. huobijubajeebajoba            0.02%       38,451 (units:    15)
 104. neoninteger                   0.02%       38,357 (units:    36)
