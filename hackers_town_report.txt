@@ -1,5 +1,5 @@
-As of 2020-04-21 03:22:28, hackers.town is rank 662
-   with 17,589 work units for 247,043,665 credits
+As of 2020-04-21 03:32:21, hackers.town is rank 662
+   with 17,593 work units for 247,048,804 credits
   1. wetdryvac                    13.01%   32,148,675 (units:   888)
   2. merimus                       8.33%   20,589,421 (units:   553)
   3. packetcat                     8.03%   19,829,617 (units:   153)
@@ -15,7 +15,7 @@ As of 2020-04-21 03:22:28, hackers.town is rank 662
  13. dafuchs                       2.05%    5,069,604 (units:   262)
  14. FOOL                          2.00%    4,952,100 (units:   340)
  15. felix                         1.98%    4,901,391 (units:   185)
- 16. elfgirlsarah                  1.56%    3,842,374 (units:   269)
+ 16. elfgirlsarah                  1.56%    3,842,489 (units:   270)
  17. r000t                         1.43%    3,531,723 (units:    81)
  18. skraelingjar                  1.36%    3,352,989 (units:    64)
  19. Kranfahrer                    1.22%    3,024,932 (units:   201)
@@ -46,7 +46,7 @@ As of 2020-04-21 03:22:28, hackers.town is rank 662
  44. TG                            0.28%      694,922 (units:   143)
  45. HolSta                        0.25%      614,460 (units:   108)
  46. synfinner                     0.21%      527,623 (units:    14)
- 47. jkl                           0.21%      510,793 (units:   151)
+ 47. jkl                           0.21%      513,677 (units:   152)
  48. tayo                          0.20%      497,485 (units:   150)
  49. LordBowlich                   0.18%      449,488 (units:   132)
  50. technolust                    0.18%      433,561 (units:   319)
@@ -75,7 +75,7 @@ As of 2020-04-21 03:22:28, hackers.town is rank 662
  73. Neil                          0.05%      124,874 (units:    32)
  74. folding_with_gibson           0.05%      118,653 (units:    63)
  75. piggo                         0.04%      108,091 (units:    23)
- 76. gwozniak                      0.04%      103,999 (units:   149)
+ 76. gwozniak                      0.04%      105,439 (units:   150)
  77. Nemesis                       0.04%      103,626 (units:    53)
  78. heliostatic                   0.04%      101,482 (units:    26)
  79. RandomGeek                    0.04%       99,623 (units:    15)
@@ -89,7 +89,7 @@ As of 2020-04-21 03:22:28, hackers.town is rank 662
  87. Murph                         0.03%       71,069 (units:    21)
  88. Alteraner92                   0.03%       70,864 (units:    47)
  89. Michael_Simkin                0.03%       70,687 (units:    29)
- 90. Bingo                         0.03%       69,000 (units:   122)
+ 90. Bingo                         0.03%       69,700 (units:   123)
  91. deowyth                       0.03%       68,655 (units:     5)
  92. jerephil                      0.03%       66,274 (units:    69)
  93.                               0.03%       65,445 (units:    39)
