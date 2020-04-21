@@ -1,5 +1,5 @@
-As of 2020-04-21 19:52:24, hackers.town is rank 663
-   with 17,779 work units for 247,873,657 credits
+As of 2020-04-21 20:12:24, hackers.town is rank 663
+   with 17,782 work units for 247,876,927 credits
   1. wetdryvac                    12.97%   32,148,675 (units:   888)
   2. merimus                       8.31%   20,589,421 (units:   553)
   3. packetcat                     8.00%   19,829,617 (units:   153)
@@ -15,7 +15,7 @@ As of 2020-04-21 19:52:24, hackers.town is rank 663
  13. dafuchs                       2.06%    5,111,938 (units:   268)
  14. FOOL                          2.00%    4,952,100 (units:   340)
  15. felix                         1.98%    4,901,391 (units:   185)
- 16. elfgirlsarah                  1.57%    3,895,996 (units:   286)
+ 16. elfgirlsarah                  1.57%    3,896,253 (units:   287)
  17. r000t                         1.45%    3,593,275 (units:    86)
  18. skraelingjar                  1.35%    3,352,989 (units:    64)
  19. Kranfahrer                    1.22%    3,024,932 (units:   201)
@@ -39,7 +39,7 @@ As of 2020-04-21 19:52:24, hackers.town is rank 663
  37. qwazix                        0.47%    1,157,676 (units:   220)
  38. TerrorBite                    0.44%    1,085,432 (units:    36)
  39. mainebot                      0.40%      990,537 (units:    53)
- 40. Requiem                       0.35%      858,997 (units:   287)
+ 40. Requiem                       0.35%      861,115 (units:   288)
  41. avolkov                       0.33%      821,025 (units:    75)
  42. Null                          0.33%      818,594 (units:    22)
  43. djsumdog                      0.30%      746,828 (units:   102)
@@ -49,7 +49,7 @@ As of 2020-04-21 19:52:24, hackers.town is rank 663
  47. jkl                           0.21%      525,245 (units:   156)
  48. tayo                          0.20%      497,485 (units:   150)
  49. LordBowlich                   0.18%      449,488 (units:   132)
- 50. technolust                    0.18%      444,325 (units:   330)
+ 50. technolust                    0.18%      445,220 (units:   331)
  51. Mnemonic                      0.17%      433,369 (units:   162)
  52. protospork                    0.17%      423,894 (units:    59)
  53. Hany                          0.17%      421,021 (units:    99)
