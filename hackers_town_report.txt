@@ -1,11 +1,11 @@
-As of 2020-04-21 20:12:24, hackers.town is rank 663
-   with 17,782 work units for 247,876,927 credits
+As of 2020-04-21 20:22:28, hackers.town is rank 663
+   with 17,786 work units for 247,891,512 credits
   1. wetdryvac                    12.97%   32,148,675 (units:   888)
   2. merimus                       8.31%   20,589,421 (units:   553)
   3. packetcat                     8.00%   19,829,617 (units:   153)
   4. KemoNine                      7.55%   18,705,527 (units:   625)
   5. dokuja                        7.30%   18,104,692 (units:   474)
-  6. Freakazoid                    5.50%   13,624,956 (units:   533)
+  6. Freakazoid                    5.50%   13,632,963 (units:   534)
   7. Polychrome                    3.67%    9,090,004 (units:   386)
   8. bhtooefr                      3.41%    8,449,555 (units:   229)
   9. Calcifer                      3.15%    7,802,361 (units:   193)
@@ -15,7 +15,7 @@ As of 2020-04-21 20:12:24, hackers.town is rank 663
  13. dafuchs                       2.06%    5,111,938 (units:   268)
  14. FOOL                          2.00%    4,952,100 (units:   340)
  15. felix                         1.98%    4,901,391 (units:   185)
- 16. elfgirlsarah                  1.57%    3,896,253 (units:   287)
+ 16. elfgirlsarah                  1.57%    3,896,526 (units:   288)
  17. r000t                         1.45%    3,593,275 (units:    86)
  18. skraelingjar                  1.35%    3,352,989 (units:    64)
  19. Kranfahrer                    1.22%    3,024,932 (units:   201)
@@ -23,7 +23,7 @@ As of 2020-04-21 20:12:24, hackers.town is rank 663
  21. Mr.House                      1.12%    2,778,307 (units:   147)
  22. radicaledward                 1.10%    2,717,086 (units:    90)
  23. The_Gibson(HTown)             0.94%    2,330,035 (units:   212)
- 24. drwho                         0.91%    2,259,560 (units:   478)
+ 24. drwho                         0.91%    2,262,560 (units:   479)
  25. /dev/random                   0.86%    2,135,335 (units:   204)
  26. paullindner                   0.85%    2,112,684 (units:   431)
  27. mandibular joint dysfunction  0.82%    2,042,179 (units:   829)
@@ -45,8 +45,8 @@ As of 2020-04-21 20:12:24, hackers.town is rank 663
  43. djsumdog                      0.30%      746,828 (units:   102)
  44. TG                            0.28%      694,922 (units:   143)
  45. HolSta                        0.25%      614,460 (units:   108)
- 46. synfinner                     0.21%      527,623 (units:    14)
- 47. jkl                           0.21%      525,245 (units:   156)
+ 46. jkl                           0.21%      528,550 (units:   157)
+ 47. synfinner                     0.21%      527,623 (units:    14)
  48. tayo                          0.20%      497,485 (units:   150)
  49. LordBowlich                   0.18%      449,488 (units:   132)
  50. technolust                    0.18%      445,220 (units:   331)
