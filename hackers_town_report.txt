@@ -1,5 +1,5 @@
-As of 2020-04-21 11:02:47, hackers.town is rank 661
-   with 17,679 work units for 247,480,650 credits
+As of 2020-04-21 11:22:07, hackers.town is rank 661
+   with 17,683 work units for 247,488,626 credits
   1. wetdryvac                    12.99%   32,148,675 (units:   888)
   2. merimus                       8.32%   20,589,421 (units:   553)
   3. packetcat                     8.01%   19,829,617 (units:   153)
@@ -32,10 +32,10 @@ As of 2020-04-21 11:02:47, hackers.town is rank 661
  30. DJ_Sundog                     0.61%    1,508,351 (units:   326)
  31. CookieMom                     0.54%    1,333,406 (units:   226)
  32. sungo                         0.54%    1,327,900 (units:   366)
- 33. Kyle                          0.53%    1,314,816 (units:   160)
+ 33. Kyle                          0.53%    1,320,518 (units:   161)
  34. kusuriya                      0.53%    1,314,178 (units:    68)
  35. rmgr                          0.52%    1,290,558 (units:    47)
- 36. Anonymous                     0.52%    1,277,519 (units:   475)
+ 36. Anonymous                     0.52%    1,278,982 (units:   476)
  37. qwazix                        0.47%    1,157,676 (units:   220)
  38. TerrorBite                    0.44%    1,085,432 (units:    36)
  39. mainebot                      0.40%      990,537 (units:    53)
@@ -71,7 +71,7 @@ As of 2020-04-21 11:02:47, hackers.town is rank 661
  69. ZenCoder                      0.06%      151,970 (units:    55)
  70. silksnep                      0.06%      141,111 (units:   176)
  71. Imani                         0.06%      140,872 (units:   209)
- 72. folding_with_gibson           0.05%      136,059 (units:    67)
+ 72. folding_with_gibson           0.06%      136,345 (units:    68)
  73. arbu                          0.05%      125,499 (units:     7)
  74. Neil                          0.05%      124,874 (units:    32)
  75. piggo                         0.04%      108,091 (units:    23)
@@ -84,7 +84,7 @@ As of 2020-04-21 11:02:47, hackers.town is rank 661
  82. tbn97                         0.03%       86,314 (units:    85)
  83. claudiom                      0.03%       83,794 (units:   544)
  84. Kirjis                        0.03%       79,781 (units:   106)
- 85. Purple                        0.03%       75,963 (units:    75)
+ 85. Purple                        0.03%       76,488 (units:    76)
  86. George_                       0.03%       75,198 (units:    12)
  87. Murph                         0.03%       71,069 (units:    21)
  88. Alteraner92                   0.03%       70,864 (units:    47)
