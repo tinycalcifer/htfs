@@ -1,5 +1,5 @@
-As of 2020-04-22 07:12:21, hackers.town is rank 666
-   with 17,940 work units for 248,627,785 credits
+As of 2020-04-22 07:32:42, hackers.town is rank 666
+   with 17,943 work units for 248,632,408 credits
   1. wetdryvac                    12.93%   32,148,675 (units:   888)
   2. merimus                       8.28%   20,589,421 (units:   553)
   3. packetcat                     7.98%   19,829,617 (units:   153)
@@ -7,7 +7,7 @@ As of 2020-04-22 07:12:21, hackers.town is rank 666
   5. dokuja                        7.28%   18,104,692 (units:   474)
   6. Freakazoid                    5.50%   13,670,468 (units:   538)
   7. Polychrome                    3.69%    9,183,376 (units:   389)
-  8. bhtooefr                      3.44%    8,548,561 (units:   231)
+  8. bhtooefr                      3.44%    8,551,506 (units:   232)
   9. Calcifer                      3.14%    7,802,361 (units:   193)
  10. c0debabe                      2.91%    7,224,123 (units:   245)
  11. Werekat                       2.66%    6,623,257 (units:   316)
@@ -29,7 +29,7 @@ As of 2020-04-22 07:12:21, hackers.town is rank 666
  27. mandibular joint dysfunction  0.82%    2,042,179 (units:   829)
  28. pfreak                        0.80%    1,996,770 (units:    48)
  29. rfquerin                      0.66%    1,638,770 (units:   107)
- 30. DJ_Sundog                     0.61%    1,511,469 (units:   328)
+ 30. DJ_Sundog                     0.61%    1,512,727 (units:   329)
  31. sungo                         0.54%    1,341,289 (units:   370)
  32. Kyle                          0.54%    1,338,723 (units:   167)
  33. CookieMom                     0.54%    1,337,327 (units:   232)
@@ -80,7 +80,7 @@ As of 2020-04-22 07:12:21, hackers.town is rank 666
  78. heliostatic                   0.04%      101,482 (units:    26)
  79. RandomGeek                    0.04%       99,623 (units:    15)
  80. JoshMulliken                  0.04%       97,080 (units:    23)
- 81. atinciona                     0.04%       94,521 (units:   143)
+ 81. atinciona                     0.04%       94,941 (units:   144)
  82. tbn97                         0.03%       86,314 (units:    85)
  83. claudiom                      0.03%       83,794 (units:   544)
  84. Kirjis                        0.03%       79,781 (units:   106)
