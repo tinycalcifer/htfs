@@ -1,5 +1,5 @@
-As of 2020-04-22 10:32:55, hackers.town is rank 668
-   with 17,981 work units for 248,885,575 credits
+As of 2020-04-22 10:42:35, hackers.town is rank 668
+   with 17,985 work units for 248,895,653 credits
   1. wetdryvac                    12.92%   32,148,675 (units:   888)
   2. merimus                       8.27%   20,589,421 (units:   553)
   3. packetcat                     7.97%   19,829,617 (units:   153)
@@ -15,7 +15,7 @@ As of 2020-04-22 10:32:55, hackers.town is rank 668
  13. SiinaCutie                    2.07%    5,151,194 (units:   234)
  14. FOOL                          1.99%    4,963,303 (units:   344)
  15. felix                         1.97%    4,901,391 (units:   185)
- 16. elfgirlsarah                  1.58%    3,937,207 (units:   338)
+ 16. elfgirlsarah                  1.59%    3,945,158 (units:   340)
  17. r000t                         1.45%    3,596,758 (units:    88)
  18. skraelingjar                  1.35%    3,352,989 (units:    64)
  19. Kranfahrer                    1.22%    3,024,932 (units:   201)
@@ -33,8 +33,8 @@ As of 2020-04-22 10:32:55, hackers.town is rank 668
  31. Kyle                          0.54%    1,352,116 (units:   168)
  32. CookieMom                     0.54%    1,344,935 (units:   233)
  33. sungo                         0.54%    1,341,289 (units:   370)
- 34. kusuriya                      0.53%    1,314,178 (units:    68)
- 35. Anonymous                     0.53%    1,313,220 (units:   482)
+ 34. Anonymous                     0.53%    1,314,647 (units:   483)
+ 35. kusuriya                      0.53%    1,314,178 (units:    68)
  36. rmgr                          0.52%    1,290,558 (units:    47)
  37. qwazix                        0.47%    1,157,676 (units:   220)
  38. TerrorBite                    0.44%    1,085,432 (units:    36)
@@ -80,7 +80,7 @@ As of 2020-04-22 10:32:55, hackers.town is rank 668
  78. heliostatic                   0.04%      101,482 (units:    26)
  79. RandomGeek                    0.04%       99,623 (units:    15)
  80. JoshMulliken                  0.04%       97,080 (units:    23)
- 81. atinciona                     0.04%       94,941 (units:   144)
+ 81. atinciona                     0.04%       95,641 (units:   145)
  82. tbn97                         0.03%       86,314 (units:    85)
  83. claudiom                      0.03%       83,794 (units:   544)
  84. Kirjis                        0.03%       79,781 (units:   106)
