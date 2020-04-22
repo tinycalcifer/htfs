@@ -1,5 +1,5 @@
-As of 2020-04-22 20:33:24, hackers.town is rank 669
-   with 18,103 work units for 249,324,667 credits
+As of 2020-04-22 21:02:24, hackers.town is rank 669
+   with 18,107 work units for 249,331,384 credits
   1. wetdryvac                    12.89%   32,148,675 (units:   888)
   2. merimus                       8.26%   20,589,421 (units:   553)
   3. packetcat                     7.95%   19,829,617 (units:   153)
@@ -11,7 +11,7 @@ As of 2020-04-22 20:33:24, hackers.town is rank 669
   9. Calcifer                      3.13%    7,802,361 (units:   193)
  10. c0debabe                      2.90%    7,224,123 (units:   245)
  11. Werekat                       2.67%    6,649,964 (units:   322)
- 12. dafuchs                       2.12%    5,274,563 (units:   283)
+ 12. dafuchs                       2.12%    5,279,337 (units:   284)
  13. SiinaCutie                    2.07%    5,151,194 (units:   234)
  14. FOOL                          1.99%    4,969,144 (units:   346)
  15. felix                         1.97%    4,901,391 (units:   185)
@@ -30,7 +30,7 @@ As of 2020-04-22 20:33:24, hackers.town is rank 669
  28. pfreak                        0.80%    1,996,770 (units:    48)
  29. rfquerin                      0.66%    1,638,770 (units:   107)
  30. DJ_Sundog                     0.61%    1,513,675 (units:   330)
- 31. CookieMom                     0.55%    1,371,539 (units:   236)
+ 31. CookieMom                     0.55%    1,372,239 (units:   237)
  32. Kyle                          0.55%    1,361,926 (units:   170)
  33. sungo                         0.54%    1,351,832 (units:   372)
  34. Anonymous                     0.53%    1,317,986 (units:   485)
@@ -92,13 +92,13 @@ As of 2020-04-22 20:33:24, hackers.town is rank 669
  90. Murph                         0.03%       71,069 (units:    21)
  91. Alteraner92                   0.03%       70,864 (units:    47)
  92. deowyth                       0.03%       68,655 (units:     5)
- 93. pmosetc                       0.03%       67,637 (units:    83)
+ 93. pmosetc                       0.03%       68,637 (units:    84)
  94. Seb                           0.03%       67,412 (units:   117)
  95.                               0.03%       65,445 (units:    39)
  96. tomatoefolding                0.02%       59,750 (units:     1)
  97. crc32                         0.02%       57,412 (units:    78)
  98. daum3ns                       0.02%       56,636 (units:     6)
- 99. grasshopper                   0.02%       52,073 (units:    79)
+ 99. grasshopper                   0.02%       52,316 (units:    80)
 100. socketwench                   0.02%       47,849 (units:    49)
 101. emelie                        0.02%       46,275 (units:     4)
 102. MaxAtCastleMalmeddy           0.02%       45,942 (units:    68)
