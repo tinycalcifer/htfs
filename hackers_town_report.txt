@@ -1,5 +1,5 @@
-As of 2020-04-22 05:02:36, hackers.town is rank 666
-   with 17,905 work units for 248,574,953 credits
+As of 2020-04-22 05:12:38, hackers.town is rank 666
+   with 17,910 work units for 248,577,552 credits
   1. wetdryvac                    12.93%   32,148,675 (units:   888)
   2. merimus                       8.28%   20,589,421 (units:   553)
   3. packetcat                     7.98%   19,829,617 (units:   153)
@@ -34,7 +34,7 @@ As of 2020-04-22 05:02:36, hackers.town is rank 666
  32. Kyle                          0.54%    1,338,723 (units:   167)
  33. CookieMom                     0.54%    1,337,327 (units:   232)
  34. kusuriya                      0.53%    1,314,178 (units:    68)
- 35. Anonymous                     0.52%    1,290,747 (units:   478)
+ 35. Anonymous                     0.52%    1,291,417 (units:   479)
  36. rmgr                          0.52%    1,290,558 (units:    47)
  37. qwazix                        0.47%    1,157,676 (units:   220)
  38. TerrorBite                    0.44%    1,085,432 (units:    36)
@@ -59,7 +59,7 @@ As of 2020-04-22 05:02:36, hackers.town is rank 666
  57. Logomancer                    0.15%      379,169 (units:   227)
  58. csrsuoeb                      0.13%      330,048 (units:    69)
  59. KitRedgrave                   0.13%      325,409 (units:    68)
- 60. neil                          0.12%      297,712 (units:   126)
+ 60. neil                          0.12%      297,998 (units:   127)
  61. debugninja                    0.12%      288,707 (units:    34)
  62. zx3                           0.11%      282,114 (units:    53)
  63. Kyresti                       0.11%      262,134 (units:    39)
@@ -69,7 +69,7 @@ As of 2020-04-22 05:02:36, hackers.town is rank 666
  67. RandyNose                     0.07%      162,127 (units:   210)
  68. BadGateway                    0.06%      161,439 (units:    84)
  69. ZenCoder                      0.06%      161,270 (units:    58)
- 70. Imani                         0.06%      144,034 (units:   214)
+ 70. Imani                         0.06%      144,734 (units:   215)
  71. folding_with_gibson           0.06%      141,166 (units:    75)
  72. silksnep                      0.06%      141,111 (units:   176)
  73. arbu                          0.05%      125,499 (units:     7)
@@ -80,7 +80,7 @@ As of 2020-04-22 05:02:36, hackers.town is rank 666
  78. heliostatic                   0.04%      101,482 (units:    26)
  79. RandomGeek                    0.04%       99,623 (units:    15)
  80. JoshMulliken                  0.04%       97,080 (units:    23)
- 81. atinciona                     0.04%       93,821 (units:   142)
+ 81. atinciona                     0.04%       94,521 (units:   143)
  82. tbn97                         0.03%       86,314 (units:    85)
  83. claudiom                      0.03%       83,794 (units:   544)
  84. Kirjis                        0.03%       79,781 (units:   106)
@@ -93,7 +93,7 @@ As of 2020-04-22 05:02:36, hackers.town is rank 666
  91. jerephil                      0.03%       70,786 (units:    74)
  92. deowyth                       0.03%       68,655 (units:     5)
  93. Seb                           0.03%       66,558 (units:   114)
- 94. pmosetc                       0.03%       66,033 (units:    80)
+ 94. pmosetc                       0.03%       66,276 (units:    81)
  95.                               0.03%       65,445 (units:    39)
  96. tomatoefolding                0.02%       59,750 (units:     1)
  97. crc32                         0.02%       57,412 (units:    78)
