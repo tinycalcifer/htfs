@@ -1,5 +1,5 @@
-As of 2020-04-22 03:32:30, hackers.town is rank 665
-   with 17,890 work units for 248,436,844 credits
+As of 2020-04-22 04:02:22, hackers.town is rank 665
+   with 17,895 work units for 248,444,791 credits
   1. wetdryvac                    12.94%   32,148,675 (units:   888)
   2. merimus                       8.29%   20,589,421 (units:   553)
   3. packetcat                     7.98%   19,829,617 (units:   153)
@@ -24,7 +24,7 @@ As of 2020-04-22 03:32:30, hackers.town is rank 665
  22. radicaledward                 1.09%    2,717,086 (units:    90)
  23. The_Gibson(HTown)             0.94%    2,330,035 (units:   212)
  24. drwho                         0.91%    2,266,357 (units:   481)
- 25. paullindner                   0.87%    2,156,742 (units:   436)
+ 25. paullindner                   0.87%    2,163,896 (units:   438)
  26. /dev/random                   0.86%    2,135,335 (units:   204)
  27. mandibular joint dysfunction  0.82%    2,042,179 (units:   829)
  28. pfreak                        0.80%    1,996,770 (units:    48)
@@ -48,8 +48,8 @@ As of 2020-04-22 03:32:30, hackers.town is rank 665
  46. jkl                           0.22%      535,050 (units:   159)
  47. synfinner                     0.21%      527,623 (units:    14)
  48. tayo                          0.20%      497,485 (units:   150)
- 49. LordBowlich                   0.18%      449,488 (units:   132)
- 50. technolust                    0.18%      449,293 (units:   339)
+ 49. technolust                    0.18%      449,593 (units:   340)
+ 50. LordBowlich                   0.18%      449,488 (units:   132)
  51. Mnemonic                      0.17%      434,508 (units:   163)
  52. protospork                    0.17%      423,894 (units:    59)
  53. Hany                          0.17%      421,021 (units:    99)
@@ -92,13 +92,13 @@ As of 2020-04-22 03:32:30, hackers.town is rank 665
  90. Alteraner92                   0.03%       70,864 (units:    47)
  91. jerephil                      0.03%       70,786 (units:    74)
  92. deowyth                       0.03%       68,655 (units:     5)
- 93. Seb                           0.03%       66,365 (units:   113)
+ 93. Seb                           0.03%       66,558 (units:   114)
  94. pmosetc                       0.03%       66,033 (units:    80)
  95.                               0.03%       65,445 (units:    39)
  96. tomatoefolding                0.02%       59,750 (units:     1)
  97. crc32                         0.02%       57,412 (units:    78)
  98. daum3ns                       0.02%       56,636 (units:     6)
- 99. grasshopper                   0.02%       49,528 (units:    73)
+ 99. grasshopper                   0.02%       49,828 (units:    74)
 100. socketwench                   0.02%       47,849 (units:    49)
 101. emelie                        0.02%       46,275 (units:     4)
 102. MaxAtCastleMalmeddy           0.02%       45,942 (units:    68)
