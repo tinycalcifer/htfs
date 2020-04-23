@@ -1,11 +1,11 @@
-As of 2020-04-23 06:32:27, hackers.town is rank 670
-   with 18,209 work units for 249,813,649 credits
+As of 2020-04-23 06:52:28, hackers.town is rank 670
+   with 18,213 work units for 249,820,031 credits
   1. wetdryvac                    12.87%   32,148,675 (units:   888)
   2. merimus                       8.24%   20,589,421 (units:   553)
   3. packetcat                     7.94%   19,829,617 (units:   153)
   4. KemoNine                      7.49%   18,705,527 (units:   625)
   5. dokuja                        7.25%   18,104,692 (units:   474)
-  6. Freakazoid                    5.49%   13,724,944 (units:   548)
+  6. Freakazoid                    5.50%   13,729,815 (units:   549)
   7. Polychrome                    3.80%    9,503,159 (units:   403)
   8. bhtooefr                      3.48%    8,681,363 (units:   238)
   9. Calcifer                      3.12%    7,802,361 (units:   193)
@@ -70,7 +70,7 @@ As of 2020-04-23 06:32:27, hackers.town is rank 670
  68. RandyNose                     0.06%      162,127 (units:   210)
  69. BadGateway                    0.06%      161,439 (units:    84)
  70. folding_with_gibson           0.06%      150,956 (units:    83)
- 71. Imani                         0.06%      150,131 (units:   220)
+ 71. Imani                         0.06%      150,831 (units:   221)
  72. silksnep                      0.06%      141,111 (units:   176)
  73. arbu                          0.05%      125,499 (units:     7)
  74. Neil                          0.05%      124,874 (units:    32)
@@ -80,7 +80,7 @@ As of 2020-04-23 06:32:27, hackers.town is rank 670
  78. heliostatic                   0.04%      101,482 (units:    26)
  79. tbn97                         0.04%      100,488 (units:    87)
  80. RandomGeek                    0.04%       99,623 (units:    15)
- 81. atinciona                     0.04%       97,165 (units:   148)
+ 81. atinciona                     0.04%       97,690 (units:   149)
  82. JoshMulliken                  0.04%       97,080 (units:    23)
  83. claudiom                      0.03%       83,794 (units:   544)
  84. Michael_Simkin                0.03%       83,203 (units:    35)
@@ -88,7 +88,7 @@ As of 2020-04-23 06:32:27, hackers.town is rank 670
  86. Kirjis                        0.03%       79,781 (units:   106)
  87. George_                       0.03%       75,198 (units:    12)
  88. Bingo                         0.03%       74,402 (units:   132)
- 89. jerephil                      0.03%       73,536 (units:    78)
+ 89. jerephil                      0.03%       73,822 (units:    79)
  90. Murph                         0.03%       71,069 (units:    21)
  91. Alteraner92                   0.03%       70,864 (units:    47)
  92. pmosetc                       0.03%       69,435 (units:    86)
