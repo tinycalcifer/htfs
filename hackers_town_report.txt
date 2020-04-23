@@ -1,5 +1,5 @@
-As of 2020-04-23 10:52:55, hackers.town is rank 672
-   with 18,255 work units for 250,099,318 credits
+As of 2020-04-23 11:12:12, hackers.town is rank 672
+   with 18,261 work units for 250,120,043 credits
   1. wetdryvac                    12.85%   32,148,675 (units:   888)
   2. merimus                       8.23%   20,589,421 (units:   553)
   3. packetcat                     7.93%   19,829,617 (units:   153)
@@ -31,9 +31,9 @@ As of 2020-04-23 10:52:55, hackers.town is rank 672
  29. rfquerin                      0.66%    1,638,770 (units:   107)
  30. DJ_Sundog                     0.61%    1,513,675 (units:   330)
  31. CookieMom                     0.55%    1,377,055 (units:   243)
- 32. Kyle                          0.55%    1,367,634 (units:   172)
- 33. sungo                         0.54%    1,354,582 (units:   373)
- 34. Anonymous                     0.54%    1,351,769 (units:   491)
+ 32. Anonymous                     0.55%    1,371,877 (units:   493)
+ 33. Kyle                          0.55%    1,367,634 (units:   172)
+ 34. sungo                         0.54%    1,354,582 (units:   373)
  35. kusuriya                      0.53%    1,314,178 (units:    68)
  36. rmgr                          0.52%    1,290,558 (units:    47)
  37. qwazix                        0.46%    1,157,676 (units:   220)
@@ -56,7 +56,7 @@ As of 2020-04-23 10:52:55, hackers.town is rank 672
  54. Hany                          0.17%      421,021 (units:    99)
  55. m68k                          0.16%      404,131 (units:   119)
  56. fl0wn                         0.16%      388,420 (units:    74)
- 57. Logomancer                    0.15%      379,242 (units:   231)
+ 57. Logomancer                    0.15%      379,303 (units:   233)
  58. csrsuoeb                      0.13%      330,048 (units:    69)
  59. KitRedgrave                   0.13%      325,409 (units:    68)
  60. neil                          0.12%      309,860 (units:   133)
@@ -87,11 +87,11 @@ As of 2020-04-23 10:52:55, hackers.town is rank 672
  85. Purple                        0.03%       81,458 (units:    85)
  86. Kirjis                        0.03%       79,781 (units:   106)
  87. George_                       0.03%       75,198 (units:    12)
- 88. Bingo                         0.03%       74,688 (units:   133)
+ 88. Bingo                         0.03%       74,908 (units:   134)
  89. jerephil                      0.03%       73,822 (units:    79)
  90. Murph                         0.03%       71,069 (units:    21)
  91. Alteraner92                   0.03%       70,864 (units:    47)
- 92. pmosetc                       0.03%       69,960 (units:    87)
+ 92. pmosetc                       0.03%       70,296 (units:    88)
  93. Seb                           0.03%       68,987 (units:   119)
  94. deowyth                       0.03%       68,655 (units:     5)
  95.                               0.03%       65,445 (units:    39)
