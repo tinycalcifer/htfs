@@ -1,5 +1,5 @@
-As of 2020-04-23 19:02:21, hackers.town is rank 672
-   with 18,343 work units for 250,610,913 credits
+As of 2020-04-23 19:32:06, hackers.town is rank 672
+   with 18,346 work units for 250,627,959 credits
   1. wetdryvac                    12.83%   32,148,675 (units:   888)
   2. merimus                       8.22%   20,589,421 (units:   553)
   3. packetcat                     7.91%   19,829,617 (units:   153)
@@ -7,7 +7,7 @@ As of 2020-04-23 19:02:21, hackers.town is rank 672
   5. dokuja                        7.22%   18,104,692 (units:   474)
   6. Freakazoid                    5.49%   13,769,645 (units:   554)
   7. Polychrome                    3.85%    9,645,827 (units:   407)
-  8. bhtooefr                      3.48%    8,733,706 (units:   243)
+  8. bhtooefr                      3.49%    8,738,182 (units:   244)
   9. Calcifer                      3.11%    7,802,361 (units:   193)
  10. c0debabe                      2.88%    7,224,123 (units:   245)
  11. Werekat                       2.73%    6,838,353 (units:   337)
@@ -45,7 +45,7 @@ As of 2020-04-23 19:02:21, hackers.town is rank 672
  43. djsumdog                      0.32%      800,108 (units:   124)
  44. TG                            0.28%      694,922 (units:   143)
  45. HolSta                        0.25%      614,460 (units:   108)
- 46. jkl                           0.22%      563,236 (units:   166)
+ 46. jkl                           0.23%      568,198 (units:   167)
  47. synfinner                     0.21%      527,623 (units:    14)
  48. tayo                          0.20%      497,485 (units:   150)
  49. technolust                    0.18%      458,534 (units:   355)
@@ -67,9 +67,9 @@ As of 2020-04-23 19:02:21, hackers.town is rank 672
  65. Neue.City                     0.09%      225,375 (units:    47)
  66. ZenCoder                      0.07%      177,669 (units:    63)
  67. LordMathis                    0.07%      176,416 (units:    29)
- 68. RandyNose                     0.06%      162,127 (units:   210)
- 69. BadGateway                    0.06%      161,439 (units:    84)
- 70. folding_with_gibson           0.06%      154,584 (units:    89)
+ 68. folding_with_gibson           0.06%      162,192 (units:    90)
+ 69. RandyNose                     0.06%      162,127 (units:   210)
+ 70. BadGateway                    0.06%      161,439 (units:    84)
  71. Imani                         0.06%      152,774 (units:   224)
  72. silksnep                      0.06%      141,111 (units:   176)
  73. arbu                          0.05%      125,499 (units:     7)
