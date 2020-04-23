@@ -1,11 +1,11 @@
-As of 2020-04-23 09:32:19, hackers.town is rank 672
-   with 18,236 work units for 250,061,183 credits
+As of 2020-04-23 09:52:31, hackers.town is rank 672
+   with 18,239 work units for 250,066,098 credits
   1. wetdryvac                    12.86%   32,148,675 (units:   888)
   2. merimus                       8.23%   20,589,421 (units:   553)
   3. packetcat                     7.93%   19,829,617 (units:   153)
   4. KemoNine                      7.48%   18,705,527 (units:   625)
   5. dokuja                        7.24%   18,104,692 (units:   474)
-  6. Freakazoid                    5.50%   13,760,099 (units:   550)
+  6. Freakazoid                    5.50%   13,762,970 (units:   551)
   7. Polychrome                    3.80%    9,505,496 (units:   404)
   8. bhtooefr                      3.48%    8,695,233 (units:   239)
   9. Calcifer                      3.12%    7,802,361 (units:   193)
@@ -24,7 +24,7 @@ As of 2020-04-23 09:32:19, hackers.town is rank 672
  22. radicaledward                 1.09%    2,717,086 (units:    90)
  23. drwho                         0.98%    2,444,691 (units:   490)
  24. The_Gibson(HTown)             0.93%    2,330,035 (units:   212)
- 25. paullindner                   0.90%    2,256,890 (units:   458)
+ 25. paullindner                   0.90%    2,258,780 (units:   459)
  26. /dev/random                   0.85%    2,135,335 (units:   204)
  27. mandibular joint dysfunction  0.82%    2,042,179 (units:   829)
  28. pfreak                        0.80%    1,996,770 (units:    48)
@@ -42,7 +42,7 @@ As of 2020-04-23 09:32:19, hackers.town is rank 672
  40. avolkov                       0.36%      890,640 (units:    77)
  41. Requiem                       0.35%      878,208 (units:   293)
  42. Null                          0.33%      818,594 (units:    22)
- 43. djsumdog                      0.31%      785,977 (units:   113)
+ 43. djsumdog                      0.31%      786,131 (units:   114)
  44. TG                            0.28%      694,922 (units:   143)
  45. HolSta                        0.25%      614,460 (units:   108)
  46. jkl                           0.22%      558,090 (units:   165)
