@@ -1,5 +1,5 @@
-As of 2020-04-23 15:52:27, hackers.town is rank 672
-   with 18,314 work units for 250,555,111 credits
+As of 2020-04-23 16:12:15, hackers.town is rank 672
+   with 18,317 work units for 250,557,915 credits
   1. wetdryvac                    12.83%   32,148,675 (units:   888)
   2. merimus                       8.22%   20,589,421 (units:   553)
   3. packetcat                     7.91%   19,829,617 (units:   153)
@@ -10,12 +10,12 @@ As of 2020-04-23 15:52:27, hackers.town is rank 672
   8. bhtooefr                      3.49%    8,732,766 (units:   242)
   9. Calcifer                      3.11%    7,802,361 (units:   193)
  10. c0debabe                      2.88%    7,224,123 (units:   245)
- 11. Werekat                       2.73%    6,832,738 (units:   335)
+ 11. Werekat                       2.73%    6,834,773 (units:   336)
  12. dafuchs                       2.11%    5,279,337 (units:   284)
  13. SiinaCutie                    2.07%    5,188,566 (units:   235)
  14. FOOL                          1.98%    4,971,512 (units:   348)
  15. felix                         1.96%    4,901,391 (units:   185)
- 16. elfgirlsarah                  1.62%    4,066,252 (units:   394)
+ 16. elfgirlsarah                  1.62%    4,066,509 (units:   395)
  17. r000t                         1.44%    3,596,758 (units:    88)
  18. skraelingjar                  1.34%    3,352,989 (units:    64)
  19. Kranfahrer                    1.21%    3,024,932 (units:   201)
@@ -69,7 +69,7 @@ As of 2020-04-23 15:52:27, hackers.town is rank 672
  67. LordMathis                    0.07%      176,416 (units:    29)
  68. RandyNose                     0.06%      162,127 (units:   210)
  69. BadGateway                    0.06%      161,439 (units:    84)
- 70. folding_with_gibson           0.06%      153,342 (units:    87)
+ 70. folding_with_gibson           0.06%      153,854 (units:    88)
  71. Imani                         0.06%      152,774 (units:   224)
  72. silksnep                      0.06%      141,111 (units:   176)
  73. arbu                          0.05%      125,499 (units:     7)
