@@ -1,5 +1,5 @@
-As of 2020-04-24 15:52:23, hackers.town is rank 682
-   with 18,506 work units for 251,512,270 credits
+As of 2020-04-24 16:02:12, hackers.town is rank 682
+   with 18,509 work units for 251,548,087 credits
   1. wetdryvac                    12.78%   32,148,675 (units:   888)
   2. merimus                       8.19%   20,589,421 (units:   553)
   3. packetcat                     7.88%   19,829,617 (units:   153)
@@ -15,7 +15,7 @@ As of 2020-04-24 15:52:23, hackers.town is rank 682
  13. SiinaCutie                    2.06%    5,188,566 (units:   235)
  14. FOOL                          1.98%    4,972,898 (units:   349)
  15. felix                         1.95%    4,901,391 (units:   185)
- 16. elfgirlsarah                  1.65%    4,144,561 (units:   440)
+ 16. elfgirlsarah                  1.65%    4,147,328 (units:   441)
  17. r000t                         1.43%    3,596,758 (units:    88)
  18. skraelingjar                  1.33%    3,352,989 (units:    64)
  19. Kranfahrer                    1.20%    3,024,932 (units:   201)
@@ -57,7 +57,7 @@ As of 2020-04-24 15:52:23, hackers.town is rank 682
  55. m68k                          0.16%      404,643 (units:   120)
  56. fl0wn                         0.15%      388,420 (units:    74)
  57. Logomancer                    0.15%      379,429 (units:   240)
- 58. neil                          0.14%      344,085 (units:   141)
+ 58. neil                          0.15%      376,405 (units:   142)
  59. csrsuoeb                      0.13%      330,048 (units:    69)
  60. KitRedgrave                   0.13%      325,409 (units:    68)
  61. debugninja                    0.11%      288,707 (units:    34)
@@ -74,7 +74,7 @@ As of 2020-04-24 15:52:23, hackers.town is rank 682
  72. silksnep                      0.06%      141,111 (units:   176)
  73. arbu                          0.05%      125,499 (units:     7)
  74. Neil                          0.05%      124,874 (units:    32)
- 75. gwozniak                      0.04%      108,274 (units:   153)
+ 75. gwozniak                      0.04%      109,004 (units:   154)
  76. piggo                         0.04%      108,091 (units:    23)
  77. Nemesis                       0.04%      103,626 (units:    53)
  78. atinciona                     0.04%      103,498 (units:   153)
