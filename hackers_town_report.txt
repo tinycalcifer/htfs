@@ -1,5 +1,5 @@
-As of 2020-04-24 11:02:26, hackers.town is rank 682
-   with 18,471 work units for 251,344,838 credits
+As of 2020-04-24 11:22:09, hackers.town is rank 682
+   with 18,474 work units for 251,347,151 credits
   1. wetdryvac                    12.79%   32,148,675 (units:   888)
   2. merimus                       8.19%   20,589,421 (units:   553)
   3. packetcat                     7.89%   19,829,617 (units:   153)
@@ -15,7 +15,7 @@ As of 2020-04-24 11:02:26, hackers.town is rank 682
  13. SiinaCutie                    2.06%    5,188,566 (units:   235)
  14. FOOL                          1.98%    4,972,898 (units:   349)
  15. felix                         1.95%    4,901,391 (units:   185)
- 16. elfgirlsarah                  1.64%    4,123,225 (units:   430)
+ 16. elfgirlsarah                  1.64%    4,123,318 (units:   431)
  17. r000t                         1.43%    3,596,758 (units:    88)
  18. skraelingjar                  1.33%    3,352,989 (units:    64)
  19. Kranfahrer                    1.20%    3,024,932 (units:   201)
@@ -66,8 +66,8 @@ As of 2020-04-24 11:02:26, hackers.town is rank 682
  64. Brian                         0.10%      259,022 (units:    82)
  65. Neue.City                     0.09%      225,375 (units:    47)
  66. ZenCoder                      0.08%      189,530 (units:    66)
- 67. LordMathis                    0.07%      176,416 (units:    29)
- 68. folding_with_gibson           0.07%      174,897 (units:    95)
+ 67. folding_with_gibson           0.07%      176,592 (units:    96)
+ 68. LordMathis                    0.07%      176,416 (units:    29)
  69. RandyNose                     0.06%      162,127 (units:   210)
  70. BadGateway                    0.06%      161,439 (units:    84)
  71. Imani                         0.06%      153,910 (units:   226)
@@ -83,7 +83,7 @@ As of 2020-04-24 11:02:26, hackers.town is rank 682
  81. RandomGeek                    0.04%       99,623 (units:    15)
  82. JoshMulliken                  0.04%       97,080 (units:    23)
  83. Michael_Simkin                0.03%       86,541 (units:    36)
- 84. jerephil                      0.03%       84,620 (units:    83)
+ 84. jerephil                      0.03%       85,145 (units:    84)
  85. claudiom                      0.03%       83,794 (units:   544)
  86. Purple                        0.03%       81,458 (units:    85)
  87. Kirjis                        0.03%       79,781 (units:   106)
