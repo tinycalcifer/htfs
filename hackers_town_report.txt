@@ -1,12 +1,12 @@
-As of 2020-04-25 15:00:47, hackers.town is rank 684
-   with 18,836 work units for 252,717,491 credits
+As of 2020-04-25 15:10:45, hackers.town is rank 684
+   with 18,839 work units for 252,725,557 credits
   1. wetdryvac                    12.72%   32,148,675 (units:   888)
   2. merimus                       8.15%   20,589,421 (units:   553)
   3. packetcat                     7.85%   19,829,617 (units:   153)
   4. KemoNine                      7.40%   18,705,527 (units:   625)
   5. dokuja                        7.16%   18,104,692 (units:   474)
   6. Freakazoid                    5.50%   13,903,917 (units:   571)
-  7. Polychrome                    3.93%    9,933,647 (units:   424)
+  7. Polychrome                    3.93%    9,939,893 (units:   425)
   8. bhtooefr                      3.50%    8,833,691 (units:   255)
   9. Calcifer                      3.09%    7,802,361 (units:   193)
  10. c0debabe                      2.86%    7,224,123 (units:   245)
@@ -32,7 +32,7 @@ As of 2020-04-25 15:00:47, hackers.town is rank 684
  30. rfquerin                      0.65%    1,638,770 (units:   107)
  31. DJ_Sundog                     0.60%    1,513,675 (units:   330)
  32. Kyle                          0.56%    1,413,259 (units:   185)
- 33. Anonymous                     0.56%    1,409,516 (units:   501)
+ 33. Anonymous                     0.56%    1,410,516 (units:   502)
  34. sungo                         0.54%    1,372,665 (units:   380)
  35. kusuriya                      0.52%    1,314,178 (units:    68)
  36. rmgr                          0.51%    1,290,558 (units:    47)
@@ -91,7 +91,7 @@ As of 2020-04-25 15:00:47, hackers.town is rank 684
  89.                               0.03%       77,449 (units:    26)
  90. Seb                           0.03%       75,368 (units:   128)
  91. George_                       0.03%       75,198 (units:    12)
- 92. pmosetc                       0.03%       73,536 (units:    94)
+ 92. pmosetc                       0.03%       74,356 (units:    95)
  93. Murph                         0.03%       71,069 (units:    21)
  94. Alteraner92                   0.03%       70,864 (units:    47)
  95. deowyth                       0.03%       68,655 (units:     5)
