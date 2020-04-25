@@ -1,5 +1,5 @@
-As of 2020-04-25 00:32:25, hackers.town is rank 683
-   with 18,589 work units for 251,993,862 credits
+As of 2020-04-25 00:53:02, hackers.town is rank 682
+   with 18,593 work units for 251,996,209 credits
   1. wetdryvac                    12.76%   32,148,675 (units:   888)
   2. merimus                       8.17%   20,589,421 (units:   553)
   3. packetcat                     7.87%   19,829,617 (units:   153)
@@ -15,7 +15,7 @@ As of 2020-04-25 00:32:25, hackers.town is rank 683
  13. SiinaCutie                    2.06%    5,188,566 (units:   235)
  14. FOOL                          1.97%    4,972,898 (units:   349)
  15. felix                         1.95%    4,901,391 (units:   185)
- 16. elfgirlsarah                  1.65%    4,168,575 (units:   456)
+ 16. elfgirlsarah                  1.65%    4,169,492 (units:   457)
  17. r000t                         1.43%    3,596,758 (units:    88)
  18. skraelingjar                  1.33%    3,352,989 (units:    64)
  19. Kranfahrer                    1.20%    3,024,932 (units:   201)
@@ -56,7 +56,7 @@ As of 2020-04-25 00:32:25, hackers.town is rank 683
  54. protospork                    0.17%      423,894 (units:    59)
  55. Hany                          0.17%      421,021 (units:    99)
  56. fl0wn                         0.15%      388,420 (units:    74)
- 57. neil                          0.15%      385,293 (units:   145)
+ 57. neil                          0.15%      385,513 (units:   146)
  58. Logomancer                    0.15%      379,429 (units:   240)
  59. csrsuoeb                      0.13%      330,048 (units:    69)
  60. KitRedgrave                   0.13%      325,409 (units:    68)
@@ -76,8 +76,8 @@ As of 2020-04-25 00:32:25, hackers.town is rank 683
  74. Neil                          0.05%      124,874 (units:    32)
  75. gwozniak                      0.04%      110,004 (units:   155)
  76. piggo                         0.04%      108,091 (units:    23)
- 77. Nemesis                       0.04%      103,626 (units:    53)
- 78. atinciona                     0.04%      103,498 (units:   153)
+ 77. atinciona                     0.04%      104,023 (units:   154)
+ 78. Nemesis                       0.04%      103,626 (units:    53)
  79. heliostatic                   0.04%      101,482 (units:    26)
  80. tbn97                         0.04%      100,488 (units:    87)
  81. RandomGeek                    0.04%       99,623 (units:    15)
@@ -89,7 +89,7 @@ As of 2020-04-25 00:32:25, hackers.town is rank 683
  87. Kirjis                        0.03%       79,781 (units:   106)
  88. Bingo                         0.03%       78,913 (units:   137)
  89. George_                       0.03%       75,198 (units:    12)
- 90. Seb                           0.03%       73,062 (units:   124)
+ 90. Seb                           0.03%       73,747 (units:   125)
  91. pmosetc                       0.03%       72,836 (units:    93)
  92. Murph                         0.03%       71,069 (units:    21)
  93. Alteraner92                   0.03%       70,864 (units:    47)
