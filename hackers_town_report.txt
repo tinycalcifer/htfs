@@ -1,5 +1,5 @@
-As of 2020-04-26 10:21:11, hackers.town is rank 689
-   with 19,039 work units for 253,897,465 credits
+As of 2020-04-26 10:50:48, hackers.town is rank 689
+   with 19,043 work units for 253,901,383 credits
   1. wetdryvac                    12.66%   32,148,675 (units:   888)
   2. merimus                       8.11%   20,589,421 (units:   553)
   3. packetcat                     7.81%   19,829,617 (units:   153)
@@ -76,9 +76,9 @@ As of 2020-04-26 10:21:11, hackers.town is rank 689
  74. Neil                          0.05%      124,874 (units:    32)
  75. gwozniak                      0.05%      121,848 (units:   162)
  76. atinciona                     0.05%      114,886 (units:   165)
- 77. piggo                         0.04%      108,091 (units:    23)
- 78.                               0.04%      106,839 (units:    33)
- 79. jerephil                      0.04%      106,238 (units:    94)
+ 77.                               0.04%      108,867 (units:    34)
+ 78. piggo                         0.04%      108,091 (units:    23)
+ 79. jerephil                      0.04%      107,238 (units:    95)
  80. tbn97                         0.04%      105,270 (units:    91)
  81. Nemesis                       0.04%      103,626 (units:    53)
  82. heliostatic                   0.04%      101,482 (units:    26)
@@ -86,7 +86,7 @@ As of 2020-04-26 10:21:11, hackers.town is rank 689
  84. JoshMulliken                  0.04%       97,080 (units:    23)
  85. Michael_Simkin                0.04%       89,582 (units:    38)
  86. claudiom                      0.03%       83,794 (units:   544)
- 87. Bingo                         0.03%       82,171 (units:   143)
+ 87. Bingo                         0.03%       82,331 (units:   144)
  88. Purple                        0.03%       81,458 (units:    85)
  89. Kirjis                        0.03%       79,781 (units:   106)
  90. pmosetc                       0.03%       76,586 (units:    98)
@@ -104,7 +104,7 @@ As of 2020-04-26 10:21:11, hackers.town is rank 689
 102. MaxAtCastleMalmeddy           0.02%       49,248 (units:    69)
 103. socketwench                   0.02%       47,849 (units:    49)
 104. emelie                        0.02%       46,275 (units:     4)
-105. HiRezCanDo                    0.02%       38,544 (units:    52)
+105. HiRezCanDo                    0.02%       39,274 (units:    53)
 106. huobijubajeebajoba            0.02%       38,451 (units:    15)
 107. Syrinx                        0.01%       35,530 (units:    82)
 108. Tool_Man                      0.01%       35,407 (units:    54)
