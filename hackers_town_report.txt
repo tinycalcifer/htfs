@@ -1,12 +1,12 @@
-As of 2020-04-25 23:20:56, hackers.town is rank 686
-   with 18,922 work units for 253,073,730 credits
+As of 2020-04-25 23:41:17, hackers.town is rank 686
+   with 18,925 work units for 253,091,652 credits
   1. wetdryvac                    12.70%   32,148,675 (units:   888)
   2. merimus                       8.14%   20,589,421 (units:   553)
-  3. packetcat                     7.84%   19,829,617 (units:   153)
+  3. packetcat                     7.83%   19,829,617 (units:   153)
   4. KemoNine                      7.39%   18,705,527 (units:   625)
   5. dokuja                        7.15%   18,104,692 (units:   474)
   6. Freakazoid                    5.50%   13,911,858 (units:   573)
-  7. Polychrome                    3.95%    9,993,961 (units:   430)
+  7. Polychrome                    3.95%    9,999,050 (units:   431)
   8. bhtooefr                      3.53%    8,921,945 (units:   259)
   9. Calcifer                      3.08%    7,802,361 (units:   193)
  10. c0debabe                      2.85%    7,224,123 (units:   245)
@@ -15,7 +15,7 @@ As of 2020-04-25 23:20:56, hackers.town is rank 686
  13. SiinaCutie                    2.05%    5,188,566 (units:   235)
  14. FOOL                          1.97%    4,998,040 (units:   352)
  15. felix                         1.94%    4,901,391 (units:   185)
- 16. elfgirlsarah                  1.70%    4,306,340 (units:   571)
+ 16. elfgirlsarah                  1.70%    4,313,408 (units:   572)
  17. r000t                         1.42%    3,596,758 (units:    88)
  18. skraelingjar                  1.32%    3,352,989 (units:    64)
  19. Kranfahrer                    1.20%    3,024,932 (units:   201)
@@ -23,7 +23,7 @@ As of 2020-04-25 23:20:56, hackers.town is rank 686
  21. Mr.House                      1.10%    2,778,307 (units:   147)
  22. radicaledward                 1.07%    2,717,086 (units:    90)
  23. drwho                         0.97%    2,457,475 (units:   497)
- 24. paullindner                   0.95%    2,413,663 (units:   489)
+ 24. paullindner                   0.96%    2,419,428 (units:   490)
  25. The_Gibson(HTown)             0.92%    2,330,035 (units:   212)
  26. /dev/random                   0.84%    2,135,335 (units:   204)
  27. mandibular joint dysfunction  0.81%    2,042,179 (units:   829)
