@@ -1,5 +1,5 @@
-As of 2020-04-26 16:10:48, hackers.town is rank 693
-   with 19,094 work units for 254,108,153 credits
+As of 2020-04-26 16:20:51, hackers.town is rank 693
+   with 19,098 work units for 254,113,506 credits
   1. wetdryvac                    12.65%   32,148,675 (units:   888)
   2. merimus                       8.10%   20,589,421 (units:   553)
   3. packetcat                     7.80%   19,829,617 (units:   153)
@@ -7,7 +7,7 @@ As of 2020-04-26 16:10:48, hackers.town is rank 693
   5. dokuja                        7.12%   18,104,692 (units:   474)
   6. Freakazoid                    5.48%   13,919,610 (units:   575)
   7. Polychrome                    4.04%   10,264,657 (units:   443)
-  8. bhtooefr                      3.52%    8,937,036 (units:   264)
+  8. bhtooefr                      3.52%    8,938,424 (units:   265)
   9. Calcifer                      3.07%    7,802,361 (units:   193)
  10. c0debabe                      2.84%    7,224,123 (units:   245)
  11. Werekat                       2.80%    7,105,913 (units:   378)
@@ -15,7 +15,7 @@ As of 2020-04-26 16:10:48, hackers.town is rank 693
  13. SiinaCutie                    2.04%    5,188,566 (units:   235)
  14. FOOL                          1.97%    4,998,040 (units:   352)
  15. felix                         1.93%    4,901,391 (units:   185)
- 16. elfgirlsarah                  1.72%    4,371,154 (units:   623)
+ 16. elfgirlsarah                  1.72%    4,374,833 (units:   625)
  17. r000t                         1.42%    3,596,758 (units:    88)
  18. skraelingjar                  1.32%    3,352,989 (units:    64)
  19. Kranfahrer                    1.19%    3,024,932 (units:   201)
@@ -139,8 +139,8 @@ As of 2020-04-26 16:10:48, hackers.town is rank 693
 137. Arcans                        0.00%        6,341 (units:    14)
 138. Azure                         0.00%        5,715 (units:     9)
 139. Toive8547                     0.00%        3,640 (units:     5)
-140. cooper                        0.00%        3,285 (units:     9)
-141. m4iler                        0.00%        3,186 (units:     6)
+140. m4iler                        0.00%        3,472 (units:     7)
+141. cooper                        0.00%        3,285 (units:     9)
 142. ratSprite                     0.00%        2,899 (units:     8)
 143. Max                           0.00%        2,835 (units:     5)
 144. wizzwizz4                     0.00%        2,668 (units:     5)
