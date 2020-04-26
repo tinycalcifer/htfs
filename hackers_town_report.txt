@@ -1,5 +1,5 @@
-As of 2020-04-26 19:10:34, hackers.town is rank 693
-   with 19,115 work units for 254,247,585 credits
+As of 2020-04-26 19:30:38, hackers.town is rank 693
+   with 19,117 work units for 254,250,753 credits
   1. wetdryvac                    12.64%   32,148,675 (units:   888)
   2. merimus                       8.10%   20,589,421 (units:   553)
   3. packetcat                     7.80%   19,829,617 (units:   153)
@@ -19,7 +19,7 @@ As of 2020-04-26 19:10:34, hackers.town is rank 693
  17. r000t                         1.41%    3,596,758 (units:    88)
  18. skraelingjar                  1.32%    3,352,989 (units:    64)
  19. Kranfahrer                    1.19%    3,024,932 (units:   201)
- 20. ryen                          1.16%    2,936,587 (units:   208)
+ 20. ryen                          1.15%    2,936,587 (units:   208)
  21. Mr.House                      1.09%    2,780,635 (units:   148)
  22. radicaledward                 1.07%    2,717,086 (units:    90)
  23. paullindner                   0.98%    2,480,445 (units:   500)
@@ -65,7 +65,7 @@ As of 2020-04-26 19:10:34, hackers.town is rank 693
  63. Kyresti                       0.10%      262,134 (units:    39)
  64. Brian                         0.10%      259,022 (units:    82)
  65. Neue.City                     0.09%      225,375 (units:    47)
- 66. ZenCoder                      0.09%      221,662 (units:    75)
+ 66. ZenCoder                      0.09%      224,100 (units:    76)
  67. folding_with_gibson           0.07%      180,102 (units:   102)
  68. LordMathis                    0.07%      179,037 (units:    30)
  69. Imani                         0.06%      165,101 (units:   237)
@@ -97,7 +97,7 @@ As of 2020-04-26 19:10:34, hackers.town is rank 693
  95. deowyth                       0.03%       68,655 (units:     5)
  96. grasshopper                   0.03%       66,507 (units:    98)
  97.                               0.03%       65,445 (units:    39)
- 98. crc32                         0.03%       63,685 (units:    87)
+ 98. crc32                         0.03%       64,415 (units:    88)
  99. tomatoefolding                0.02%       59,750 (units:     1)
 100. daum3ns                       0.02%       56,636 (units:     6)
 101. neoninteger                   0.02%       54,702 (units:    44)
