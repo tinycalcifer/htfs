@@ -1,5 +1,5 @@
-As of 2020-04-27 22:55:21, hackers.town is rank 697
-   with 19,364 work units for 256,310,761 credits
+As of 2020-04-27 23:15:34, hackers.town is rank 697
+   with 19,368 work units for 256,321,425 credits
   1. wetdryvac                    12.54%   32,148,675 (units:   888)
   2. merimus                       8.03%   20,589,421 (units:   553)
   3. packetcat                     7.74%   19,829,617 (units:   153)
@@ -7,15 +7,15 @@ As of 2020-04-27 22:55:21, hackers.town is rank 697
   5. dokuja                        7.06%   18,104,692 (units:   474)
   6. Freakazoid                    5.61%   14,385,889 (units:   593)
   7. Polychrome                    4.14%   10,604,485 (units:   456)
-  8. bhtooefr                      3.52%    9,016,770 (units:   276)
+  8. bhtooefr                      3.52%    9,019,935 (units:   277)
   9. Calcifer                      3.04%    7,802,361 (units:   193)
- 10. Werekat                       2.91%    7,446,107 (units:   397)
+ 10. Werekat                       2.91%    7,452,818 (units:   398)
  11. c0debabe                      2.82%    7,224,123 (units:   245)
  12. dafuchs                       2.18%    5,585,547 (units:   313)
  13. SiinaCutie                    2.02%    5,188,566 (units:   235)
  14. FOOL                          1.95%    4,998,040 (units:   352)
  15. felix                         1.91%    4,901,391 (units:   185)
- 16. elfgirlsarah                  1.75%    4,493,658 (units:   684)
+ 16. elfgirlsarah                  1.75%    4,493,846 (units:   685)
  17. r000t                         1.40%    3,596,758 (units:    88)
  18. skraelingjar                  1.31%    3,352,989 (units:    64)
  19. Kranfahrer                    1.18%    3,024,932 (units:   201)
@@ -68,7 +68,7 @@ As of 2020-04-27 22:55:21, hackers.town is rank 697
  66. Neue.City                     0.09%      225,375 (units:    47)
  67. folding_with_gibson           0.07%      180,102 (units:   102)
  68. LordMathis                    0.07%      179,037 (units:    30)
- 69. Imani                         0.07%      171,228 (units:   245)
+ 69. Imani                         0.07%      171,828 (units:   246)
  70. RandyNose                     0.06%      162,127 (units:   210)
  71. BadGateway                    0.06%      161,439 (units:    84)
  72. silksnep                      0.06%      141,111 (units:   176)
