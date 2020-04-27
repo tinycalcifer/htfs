@@ -1,5 +1,5 @@
-As of 2020-04-27 03:30:47, hackers.town is rank 693
-   with 19,181 work units for 254,936,226 credits
+As of 2020-04-27 03:41:59, hackers.town is rank 693
+   with 19,184 work units for 254,938,300 credits
   1. wetdryvac                    12.61%   32,148,675 (units:   888)
   2. merimus                       8.08%   20,589,421 (units:   553)
   3. packetcat                     7.78%   19,829,617 (units:   153)
@@ -10,12 +10,12 @@ As of 2020-04-27 03:30:47, hackers.town is rank 693
   8. bhtooefr                      3.51%    8,945,325 (units:   268)
   9. Calcifer                      3.06%    7,802,361 (units:   193)
  10. c0debabe                      2.83%    7,224,123 (units:   245)
- 11. Werekat                       2.82%    7,197,368 (units:   383)
+ 11. Werekat                       2.82%    7,198,368 (units:   384)
  12. dafuchs                       2.14%    5,466,116 (units:   303)
  13. SiinaCutie                    2.04%    5,188,566 (units:   235)
  14. FOOL                          1.96%    4,998,040 (units:   352)
  15. felix                         1.92%    4,901,391 (units:   185)
- 16. elfgirlsarah                  1.73%    4,418,837 (units:   646)
+ 16. elfgirlsarah                  1.73%    4,418,911 (units:   647)
  17. r000t                         1.41%    3,596,758 (units:    88)
  18. skraelingjar                  1.32%    3,352,989 (units:    64)
  19. Kranfahrer                    1.19%    3,024,932 (units:   201)
@@ -86,7 +86,7 @@ As of 2020-04-27 03:30:47, hackers.town is rank 693
  84. JoshMulliken                  0.04%       97,080 (units:    23)
  85. Michael_Simkin                0.04%       89,582 (units:    38)
  86. claudiom                      0.03%       83,794 (units:   544)
- 87. Bingo                         0.03%       82,331 (units:   144)
+ 87. Bingo                         0.03%       83,331 (units:   145)
  88. Purple                        0.03%       81,458 (units:    85)
  89. Kirjis                        0.03%       79,781 (units:   106)
  90. pmosetc                       0.03%       76,586 (units:    98)
