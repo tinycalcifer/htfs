@@ -1,5 +1,5 @@
-As of 2020-04-27 19:00:43, hackers.town is rank 695
-   with 19,327 work units for 256,055,379 credits
+As of 2020-04-27 19:20:48, hackers.town is rank 695
+   with 19,330 work units for 256,057,931 credits
   1. wetdryvac                    12.56%   32,148,675 (units:   888)
   2. merimus                       8.04%   20,589,421 (units:   553)
   3. packetcat                     7.74%   19,829,617 (units:   153)
@@ -9,13 +9,13 @@ As of 2020-04-27 19:00:43, hackers.town is rank 695
   7. Polychrome                    4.14%   10,599,897 (units:   454)
   8. bhtooefr                      3.52%    9,016,770 (units:   276)
   9. Calcifer                      3.05%    7,802,361 (units:   193)
- 10. Werekat                       2.87%    7,359,671 (units:   395)
+ 10. Werekat                       2.87%    7,360,407 (units:   396)
  11. c0debabe                      2.82%    7,224,123 (units:   245)
  12. dafuchs                       2.18%    5,585,547 (units:   313)
  13. SiinaCutie                    2.03%    5,188,566 (units:   235)
  14. FOOL                          1.95%    4,998,040 (units:   352)
  15. felix                         1.91%    4,901,391 (units:   185)
- 16. elfgirlsarah                  1.75%    4,478,427 (units:   669)
+ 16. elfgirlsarah                  1.75%    4,478,733 (units:   670)
  17. r000t                         1.40%    3,596,758 (units:    88)
  18. skraelingjar                  1.31%    3,352,989 (units:    64)
  19. Kranfahrer                    1.18%    3,024,932 (units:   201)
@@ -113,7 +113,7 @@ As of 2020-04-27 19:00:43, hackers.town is rank 695
 111. L4NN-1312                     0.01%       31,247 (units:    37)
 112. amsomniac                     0.01%       28,518 (units:    40)
 113. SteveTheDragon                0.01%       28,289 (units:    19)
-114. technoid_                     0.01%       26,122 (units:    37)
+114. technoid_                     0.01%       27,632 (units:    38)
 115. imacrea                       0.01%       25,293 (units:    46)
 116. murph                         0.01%       25,047 (units:    11)
 117. julianaito                    0.01%       24,640 (units:    69)
