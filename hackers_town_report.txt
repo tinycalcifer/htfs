@@ -1,5 +1,5 @@
-As of 2020-04-27 19:50:45, hackers.town is rank 696
-   with 19,335 work units for 256,068,668 credits
+As of 2020-04-27 20:00:30, hackers.town is rank 696
+   with 19,337 work units for 256,154,447 credits
   1. wetdryvac                    12.55%   32,148,675 (units:   888)
   2. merimus                       8.04%   20,589,421 (units:   553)
   3. packetcat                     7.74%   19,829,617 (units:   153)
@@ -9,20 +9,20 @@ As of 2020-04-27 19:50:45, hackers.town is rank 696
   7. Polychrome                    4.14%   10,599,897 (units:   454)
   8. bhtooefr                      3.52%    9,016,770 (units:   276)
   9. Calcifer                      3.05%    7,802,361 (units:   193)
- 10. Werekat                       2.87%    7,360,407 (units:   396)
+ 10. Werekat                       2.91%    7,446,107 (units:   397)
  11. c0debabe                      2.82%    7,224,123 (units:   245)
  12. dafuchs                       2.18%    5,585,547 (units:   313)
  13. SiinaCutie                    2.03%    5,188,566 (units:   235)
  14. FOOL                          1.95%    4,998,040 (units:   352)
  15. felix                         1.91%    4,901,391 (units:   185)
- 16. elfgirlsarah                  1.75%    4,478,733 (units:   670)
+ 16. elfgirlsarah                  1.75%    4,478,812 (units:   671)
  17. r000t                         1.40%    3,596,758 (units:    88)
  18. skraelingjar                  1.31%    3,352,989 (units:    64)
  19. Kranfahrer                    1.18%    3,024,932 (units:   201)
  20. ryen                          1.15%    2,936,587 (units:   208)
  21. Mr.House                      1.13%    2,903,352 (units:   149)
  22. radicaledward                 1.06%    2,717,086 (units:    90)
- 23. paullindner                   0.99%    2,522,532 (units:   509)
+ 23. paullindner                   0.98%    2,522,532 (units:   509)
  24. drwho                         0.96%    2,457,475 (units:   497)
  25. The_Gibson(HTown)             0.91%    2,330,035 (units:   212)
  26. /dev/random                   0.83%    2,135,335 (units:   204)
