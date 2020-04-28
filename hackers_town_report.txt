@@ -1,5 +1,5 @@
-As of 2020-04-28 15:25:28, hackers.town is rank 697
-   with 19,574 work units for 258,369,540 credits
+As of 2020-04-28 15:45:07, hackers.town is rank 697
+   with 19,579 work units for 258,387,894 credits
   1. wetdryvac                    12.44%   32,148,675 (units:   888)
   2. merimus                       7.97%   20,589,421 (units:   553)
   3. packetcat                     7.67%   19,829,617 (units:   153)
@@ -9,7 +9,7 @@ As of 2020-04-28 15:25:28, hackers.town is rank 697
   7. Polychrome                    4.13%   10,672,315 (units:   480)
   8. bhtooefr                      3.56%    9,203,022 (units:   284)
   9. Calcifer                      3.02%    7,802,361 (units:   193)
- 10. Werekat                       2.95%    7,618,046 (units:   407)
+ 10. Werekat                       2.95%    7,621,966 (units:   408)
  11. c0debabe                      2.80%    7,224,123 (units:   245)
  12. dafuchs                       2.29%    5,917,769 (units:   324)
  13. SiinaCutie                    2.01%    5,188,566 (units:   235)
@@ -19,16 +19,16 @@ As of 2020-04-28 15:25:28, hackers.town is rank 697
  17. r000t                         1.39%    3,596,758 (units:    88)
  18. skraelingjar                  1.30%    3,352,989 (units:    64)
  19. Kranfahrer                    1.17%    3,024,932 (units:   201)
- 20. Mr.House                      1.16%    2,993,298 (units:   153)
+ 20. Mr.House                      1.16%    2,997,904 (units:   154)
  21. ryen                          1.14%    2,936,587 (units:   208)
  22. radicaledward                 1.05%    2,717,086 (units:    90)
- 23. paullindner                   1.01%    2,609,442 (units:   524)
+ 23. paullindner                   1.01%    2,617,830 (units:   526)
  24. drwho                         0.95%    2,457,475 (units:   497)
  25. The_Gibson(HTown)             0.90%    2,330,035 (units:   212)
  26. /dev/random                   0.83%    2,135,335 (units:   204)
  27. mandibular joint dysfunction  0.79%    2,042,179 (units:   829)
  28. pfreak                        0.77%    1,996,770 (units:    48)
- 29. CookieMom                     0.77%    1,993,935 (units:   320)
+ 29. CookieMom                     0.77%    1,995,375 (units:   321)
  30. rfquerin                      0.63%    1,638,770 (units:   107)
  31. DJ_Sundog                     0.59%    1,513,675 (units:   330)
  32. Anonymous                     0.58%    1,488,518 (units:   511)
