@@ -1,6 +1,6 @@
-As of 2020-04-28 13:55:14, hackers.town is rank 696
-   with 19,563 work units for 258,317,256 credits
-  1. wetdryvac                    12.45%   32,148,675 (units:   888)
+As of 2020-04-28 14:15:22, hackers.town is rank 696
+   with 19,566 work units for 258,341,503 credits
+  1. wetdryvac                    12.44%   32,148,675 (units:   888)
   2. merimus                       7.97%   20,589,421 (units:   553)
   3. packetcat                     7.68%   19,829,617 (units:   153)
   4. KemoNine                      7.24%   18,705,527 (units:   625)
@@ -33,7 +33,7 @@ As of 2020-04-28 13:55:14, hackers.town is rank 696
  31. DJ_Sundog                     0.59%    1,513,675 (units:   330)
  32. Anonymous                     0.58%    1,488,518 (units:   511)
  33. Kyle                          0.57%    1,474,477 (units:   198)
- 34. avolkov                       0.56%    1,435,920 (units:    86)
+ 34. avolkov                       0.56%    1,451,316 (units:    87)
  35. sungo                         0.54%    1,395,214 (units:   386)
  36. kusuriya                      0.51%    1,314,178 (units:    68)
  37. rmgr                          0.50%    1,290,558 (units:    47)
@@ -48,7 +48,7 @@ As of 2020-04-28 13:55:14, hackers.town is rank 696
  46. HolSta                        0.24%      614,460 (units:   108)
  47. neil                          0.23%      606,738 (units:   179)
  48. synfinner                     0.20%      527,623 (units:    14)
- 49. Canageek                      0.20%      526,597 (units:   147)
+ 49. Canageek                      0.20%      527,197 (units:   148)
  50. m68k                          0.20%      507,725 (units:   133)
  51. tayo                          0.19%      497,485 (units:   150)
  52. LordBowlich                   0.18%      463,120 (units:   136)
@@ -64,7 +64,7 @@ As of 2020-04-28 13:55:14, hackers.town is rank 696
  62. debugninja                    0.11%      288,707 (units:    34)
  63. Kyresti                       0.10%      262,134 (units:    39)
  64. Brian                         0.10%      259,022 (units:    82)
- 65. ZenCoder                      0.10%      247,109 (units:    80)
+ 65. ZenCoder                      0.10%      255,360 (units:    81)
  66. Neue.City                     0.09%      225,375 (units:    47)
  67. Imani                         0.07%      186,743 (units:   252)
  68. folding_with_gibson           0.07%      182,802 (units:   103)
