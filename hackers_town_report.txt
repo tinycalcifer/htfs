@@ -1,5 +1,5 @@
-As of 2020-04-29 22:56:18, hackers.town is rank 709
-   with 19,808 work units for 260,953,141 credits
+As of 2020-04-29 23:25:16, hackers.town is rank 709
+   with 19,811 work units for 260,964,493 credits
   1. wetdryvac                    12.32%   32,148,675 (units:   888)
   2. merimus                       7.89%   20,589,421 (units:   553)
   3. packetcat                     7.60%   19,829,617 (units:   153)
@@ -8,7 +8,7 @@ As of 2020-04-29 22:56:18, hackers.town is rank 709
   6. Freakazoid                    5.80%   15,141,087 (units:   635)
   7. Polychrome                    4.22%   11,002,580 (units:   490)
   8. bhtooefr                      3.76%    9,819,274 (units:   298)
-  9. Werekat                       3.05%    7,963,385 (units:   422)
+  9. Werekat                       3.05%    7,963,685 (units:   423)
  10. Calcifer                      2.99%    7,802,361 (units:   193)
  11. c0debabe                      2.77%    7,224,123 (units:   245)
  12. dafuchs                       2.29%    5,966,656 (units:   328)
@@ -26,7 +26,7 @@ As of 2020-04-29 22:56:18, hackers.town is rank 709
  24. drwho                         0.94%    2,457,475 (units:   497)
  25. The_Gibson(HTown)             0.89%    2,330,035 (units:   212)
  26. /dev/random                   0.82%    2,135,335 (units:   204)
- 27. CookieMom                     0.81%    2,113,244 (units:   336)
+ 27. CookieMom                     0.81%    2,123,859 (units:   337)
  28. mandibular joint dysfunction  0.78%    2,042,179 (units:   829)
  29. pfreak                        0.77%    1,996,770 (units:    48)
  30. rfquerin                      0.63%    1,638,770 (units:   107)
@@ -85,7 +85,7 @@ As of 2020-04-29 22:56:18, hackers.town is rank 709
  83. heliostatic                   0.04%      101,482 (units:    26)
  84. RandomGeek                    0.04%       99,623 (units:    15)
  85. JoshMulliken                  0.04%       97,080 (units:    23)
- 86. Bingo                         0.04%       92,006 (units:   149)
+ 86. Bingo                         0.04%       92,443 (units:   150)
  87. claudiom                      0.03%       83,794 (units:   544)
  88. pmosetc                       0.03%       81,941 (units:    99)
  89. Purple                        0.03%       81,458 (units:    85)
