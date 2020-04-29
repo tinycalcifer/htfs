@@ -1,5 +1,5 @@
-As of 2020-04-29 21:35:21, hackers.town is rank 709
-   with 19,798 work units for 260,859,137 credits
+As of 2020-04-29 21:56:36, hackers.town is rank 709
+   with 19,801 work units for 260,871,844 credits
   1. wetdryvac                    12.32%   32,148,675 (units:   888)
   2. merimus                       7.89%   20,589,421 (units:   553)
   3. packetcat                     7.60%   19,829,617 (units:   153)
@@ -26,7 +26,7 @@ As of 2020-04-29 21:35:21, hackers.town is rank 709
  24. drwho                         0.94%    2,457,475 (units:   497)
  25. The_Gibson(HTown)             0.89%    2,330,035 (units:   212)
  26. /dev/random                   0.82%    2,135,335 (units:   204)
- 27. CookieMom                     0.81%    2,111,722 (units:   335)
+ 27. CookieMom                     0.81%    2,113,244 (units:   336)
  28. mandibular joint dysfunction  0.78%    2,042,179 (units:   829)
  29. pfreak                        0.77%    1,996,770 (units:    48)
  30. rfquerin                      0.63%    1,638,770 (units:   107)
@@ -43,8 +43,8 @@ As of 2020-04-29 21:35:21, hackers.town is rank 709
  41. djsumdog                      0.36%      932,376 (units:   157)
  42. Requiem                       0.34%      893,950 (units:   296)
  43. Null                          0.31%      818,594 (units:    22)
- 44. TG                            0.27%      694,922 (units:   143)
- 45. neil                          0.27%      692,970 (units:   191)
+ 44. neil                          0.27%      703,585 (units:   192)
+ 45. TG                            0.27%      694,922 (units:   143)
  46. jkl                           0.26%      679,354 (units:   192)
  47. HolSta                        0.24%      614,460 (units:   108)
  48. Canageek                      0.21%      537,602 (units:   150)
@@ -93,7 +93,7 @@ As of 2020-04-29 21:35:21, hackers.town is rank 709
  91. grasshopper                   0.03%       79,310 (units:   107)
  92. Seb                           0.03%       75,368 (units:   128)
  93. George_                       0.03%       75,198 (units:    12)
- 94. crc32                         0.03%       73,838 (units:   100)
+ 94. crc32                         0.03%       74,408 (units:   101)
  95. Murph                         0.03%       71,069 (units:    21)
  96. Alteraner92                   0.03%       70,864 (units:    47)
  97. deowyth                       0.03%       68,655 (units:     5)
