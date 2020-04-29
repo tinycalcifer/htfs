@@ -1,5 +1,5 @@
-As of 2020-04-29 07:25:24, hackers.town is rank 704
-   with 19,693 work units for 259,758,698 credits
+As of 2020-04-29 07:45:33, hackers.town is rank 704
+   with 19,698 work units for 259,779,061 credits
   1. wetdryvac                    12.38%   32,148,675 (units:   888)
   2. merimus                       7.93%   20,589,421 (units:   553)
   3. packetcat                     7.63%   19,829,617 (units:   153)
@@ -26,8 +26,8 @@ As of 2020-04-29 07:25:24, hackers.town is rank 704
  24. drwho                         0.95%    2,457,475 (units:   497)
  25. The_Gibson(HTown)             0.90%    2,330,035 (units:   212)
  26. /dev/random                   0.82%    2,135,335 (units:   204)
- 27. mandibular joint dysfunction  0.79%    2,042,179 (units:   829)
- 28. CookieMom                     0.78%    2,039,090 (units:   326)
+ 27. CookieMom                     0.79%    2,049,225 (units:   328)
+ 28. mandibular joint dysfunction  0.79%    2,042,179 (units:   829)
  29. pfreak                        0.77%    1,996,770 (units:    48)
  30. rfquerin                      0.63%    1,638,770 (units:   107)
  31. DJ_Sundog                     0.58%    1,513,675 (units:   330)
@@ -45,7 +45,7 @@ As of 2020-04-29 07:25:24, hackers.town is rank 704
  43. Null                          0.32%      818,594 (units:    22)
  44. TG                            0.27%      694,922 (units:   143)
  45. jkl                           0.26%      679,354 (units:   192)
- 46. neil                          0.25%      641,222 (units:   185)
+ 46. neil                          0.25%      648,830 (units:   186)
  47. HolSta                        0.24%      614,460 (units:   108)
  48. synfinner                     0.20%      527,623 (units:    14)
  49. Canageek                      0.20%      527,197 (units:   148)
@@ -72,13 +72,13 @@ As of 2020-04-29 07:25:24, hackers.town is rank 704
  70. LordMathis                    0.07%      179,037 (units:    30)
  71. RandyNose                     0.06%      162,127 (units:   210)
  72. BadGateway                    0.06%      161,439 (units:    84)
- 73. gwozniak                      0.06%      143,885 (units:   180)
+ 73. gwozniak                      0.06%      144,585 (units:   181)
  74. atinciona                     0.05%      141,839 (units:   184)
  75. silksnep                      0.05%      141,111 (units:   176)
  76. arbu                          0.05%      125,499 (units:     7)
  77. Neil                          0.05%      124,874 (units:    32)
  78. jerephil                      0.05%      123,734 (units:   113)
- 79. Michael_Simkin                0.04%      110,858 (units:    47)
+ 79. Michael_Simkin                0.04%      112,778 (units:    48)
  80. tbn97                         0.04%      108,895 (units:    96)
  81. piggo                         0.04%      108,091 (units:    23)
  82. Nemesis                       0.04%      103,626 (units:    53)
