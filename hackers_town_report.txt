@@ -1,11 +1,11 @@
-As of 2020-04-29 13:15:51, hackers.town is rank 707
-   with 19,737 work units for 260,164,660 credits
+As of 2020-04-29 13:45:21, hackers.town is rank 707
+   with 19,740 work units for 260,178,074 credits
   1. wetdryvac                    12.36%   32,148,675 (units:   888)
   2. merimus                       7.91%   20,589,421 (units:   553)
   3. packetcat                     7.62%   19,829,617 (units:   153)
   4. KemoNine                      7.19%   18,705,527 (units:   625)
   5. dokuja                        6.96%   18,104,692 (units:   474)
-  6. Freakazoid                    5.76%   14,990,645 (units:   626)
+  6. Freakazoid                    5.76%   14,994,215 (units:   627)
   7. Polychrome                    4.22%   10,988,307 (units:   487)
   8. bhtooefr                      3.72%    9,680,112 (units:   296)
   9. Calcifer                      3.00%    7,802,361 (units:   193)
@@ -22,7 +22,7 @@ As of 2020-04-29 13:15:51, hackers.town is rank 707
  20. Mr.House                      1.16%    3,009,243 (units:   156)
  21. ryen                          1.13%    2,936,587 (units:   208)
  22. radicaledward                 1.04%    2,717,086 (units:    90)
- 23. paullindner                   1.03%    2,673,588 (units:   539)
+ 23. paullindner                   1.03%    2,677,518 (units:   540)
  24. drwho                         0.94%    2,457,475 (units:   497)
  25. The_Gibson(HTown)             0.90%    2,330,035 (units:   212)
  26. /dev/random                   0.82%    2,135,335 (units:   204)
@@ -62,8 +62,8 @@ As of 2020-04-29 13:15:51, hackers.town is rank 707
  60. csrsuoeb                      0.13%      330,048 (units:    69)
  61. KitRedgrave                   0.13%      325,409 (units:    68)
  62. debugninja                    0.11%      288,707 (units:    34)
- 63. Kyresti                       0.10%      262,134 (units:    39)
- 64. ZenCoder                      0.10%      260,907 (units:    83)
+ 63. ZenCoder                      0.10%      266,821 (units:    84)
+ 64. Kyresti                       0.10%      262,134 (units:    39)
  65. Brian                         0.10%      259,022 (units:    82)
  66. Neue.City                     0.09%      225,375 (units:    47)
  67. Imani                         0.07%      192,315 (units:   258)
