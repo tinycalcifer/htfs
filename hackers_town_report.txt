@@ -1,17 +1,17 @@
-As of 2020-04-28 23:45:35, hackers.town is rank 699
-   with 19,641 work units for 258,969,904 credits
+As of 2020-04-28 23:55:50, hackers.town is rank 702
+   with 19,643 work units for 259,100,304 credits
   1. wetdryvac                    12.41%   32,148,675 (units:   888)
   2. merimus                       7.95%   20,589,421 (units:   553)
-  3. packetcat                     7.66%   19,829,617 (units:   153)
+  3. packetcat                     7.65%   19,829,617 (units:   153)
   4. KemoNine                      7.22%   18,705,527 (units:   625)
   5. dokuja                        6.99%   18,104,692 (units:   474)
   6. Freakazoid                    5.73%   14,837,071 (units:   616)
   7. Polychrome                    4.20%   10,887,044 (units:   483)
-  8. bhtooefr                      3.58%    9,267,056 (units:   288)
+  8. bhtooefr                      3.63%    9,397,036 (units:   289)
   9. Calcifer                      3.01%    7,802,361 (units:   193)
  10. Werekat                       2.94%    7,625,716 (units:   410)
  11. c0debabe                      2.79%    7,224,123 (units:   245)
- 12. dafuchs                       2.30%    5,945,804 (units:   325)
+ 12. dafuchs                       2.29%    5,945,804 (units:   325)
  13. SiinaCutie                    2.00%    5,188,566 (units:   235)
  14. FOOL                          1.93%    4,998,040 (units:   352)
  15. felix                         1.89%    4,901,391 (units:   185)
@@ -72,8 +72,8 @@ As of 2020-04-28 23:45:35, hackers.town is rank 699
  70. LordMathis                    0.07%      179,037 (units:    30)
  71. RandyNose                     0.06%      162,127 (units:   210)
  72. BadGateway                    0.06%      161,439 (units:    84)
- 73. silksnep                      0.05%      141,111 (units:   176)
- 74. gwozniak                      0.05%      140,765 (units:   178)
+ 73. gwozniak                      0.05%      141,185 (units:   179)
+ 74. silksnep                      0.05%      141,111 (units:   176)
  75. atinciona                     0.05%      139,839 (units:   181)
  76. arbu                          0.05%      125,499 (units:     7)
  77. Neil                          0.05%      124,874 (units:    32)
