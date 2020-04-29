@@ -1,15 +1,15 @@
-As of 2020-04-29 01:15:36, hackers.town is rank 702
-   with 19,647 work units for 259,110,324 credits
+As of 2020-04-29 01:25:52, hackers.town is rank 702
+   with 19,650 work units for 259,134,214 credits
   1. wetdryvac                    12.41%   32,148,675 (units:   888)
   2. merimus                       7.95%   20,589,421 (units:   553)
   3. packetcat                     7.65%   19,829,617 (units:   153)
   4. KemoNine                      7.22%   18,705,527 (units:   625)
   5. dokuja                        6.99%   18,104,692 (units:   474)
-  6. Freakazoid                    5.73%   14,837,071 (units:   616)
+  6. Freakazoid                    5.73%   14,841,264 (units:   617)
   7. Polychrome                    4.20%   10,887,044 (units:   483)
   8. bhtooefr                      3.63%    9,397,036 (units:   289)
   9. Calcifer                      3.01%    7,802,361 (units:   193)
- 10. Werekat                       2.94%    7,625,716 (units:   410)
+ 10. Werekat                       2.95%    7,640,485 (units:   411)
  11. c0debabe                      2.79%    7,224,123 (units:   245)
  12. dafuchs                       2.29%    5,945,804 (units:   325)
  13. SiinaCutie                    2.00%    5,188,566 (units:   235)
@@ -41,10 +41,10 @@ As of 2020-04-29 01:15:36, hackers.town is rank 702
  39. TerrorBite                    0.42%    1,085,432 (units:    36)
  40. mainebot                      0.38%      990,537 (units:    53)
  41. djsumdog                      0.35%      906,429 (units:   151)
- 42. Requiem                       0.35%      893,950 (units:   296)
+ 42. Requiem                       0.34%      893,950 (units:   296)
  43. Null                          0.32%      818,594 (units:    22)
  44. TG                            0.27%      694,922 (units:   143)
- 45. jkl                           0.26%      674,426 (units:   191)
+ 45. jkl                           0.26%      679,354 (units:   192)
  46. HolSta                        0.24%      614,460 (units:   108)
  47. neil                          0.24%      610,892 (units:   182)
  48. synfinner                     0.20%      527,623 (units:    14)
