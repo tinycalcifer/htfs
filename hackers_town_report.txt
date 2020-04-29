@@ -1,11 +1,11 @@
-As of 2020-04-29 10:45:31, hackers.town is rank 704
-   with 19,716 work units for 259,972,224 credits
+As of 2020-04-29 11:05:18, hackers.town is rank 704
+   with 19,719 work units for 259,985,816 credits
   1. wetdryvac                    12.37%   32,148,675 (units:   888)
   2. merimus                       7.92%   20,589,421 (units:   553)
   3. packetcat                     7.63%   19,829,617 (units:   153)
-  4. KemoNine                      7.20%   18,705,527 (units:   625)
+  4. KemoNine                      7.19%   18,705,527 (units:   625)
   5. dokuja                        6.96%   18,104,692 (units:   474)
-  6. Freakazoid                    5.74%   14,923,673 (units:   623)
+  6. Freakazoid                    5.74%   14,925,990 (units:   624)
   7. Polychrome                    4.23%   10,985,610 (units:   486)
   8. bhtooefr                      3.70%    9,612,769 (units:   294)
   9. Calcifer                      3.00%    7,802,361 (units:   193)
@@ -22,7 +22,7 @@ As of 2020-04-29 10:45:31, hackers.town is rank 704
  20. Mr.House                      1.16%    3,009,243 (units:   156)
  21. ryen                          1.13%    2,936,587 (units:   208)
  22. radicaledward                 1.05%    2,717,086 (units:    90)
- 23. paullindner                   1.03%    2,666,816 (units:   537)
+ 23. paullindner                   1.03%    2,670,406 (units:   538)
  24. drwho                         0.95%    2,457,475 (units:   497)
  25. The_Gibson(HTown)             0.90%    2,330,035 (units:   212)
  26. /dev/random                   0.82%    2,135,335 (units:   204)
@@ -45,7 +45,7 @@ As of 2020-04-29 10:45:31, hackers.town is rank 704
  43. Null                          0.31%      818,594 (units:    22)
  44. TG                            0.27%      694,922 (units:   143)
  45. jkl                           0.26%      679,354 (units:   192)
- 46. neil                          0.25%      648,830 (units:   186)
+ 46. neil                          0.25%      656,515 (units:   187)
  47. HolSta                        0.24%      614,460 (units:   108)
  48. Canageek                      0.21%      536,602 (units:   149)
  49. synfinner                     0.20%      527,623 (units:    14)
