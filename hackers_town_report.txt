@@ -1,5 +1,5 @@
-As of 2020-04-29 20:35:20, hackers.town is rank 709
-   with 19,791 work units for 260,841,626 credits
+As of 2020-04-29 21:05:22, hackers.town is rank 709
+   with 19,795 work units for 260,848,705 credits
   1. wetdryvac                    12.32%   32,148,675 (units:   888)
   2. merimus                       7.89%   20,589,421 (units:   553)
   3. packetcat                     7.60%   19,829,617 (units:   153)
@@ -22,7 +22,7 @@ As of 2020-04-29 20:35:20, hackers.town is rank 709
  20. Mr.House                      1.15%    3,009,243 (units:   156)
  21. ryen                          1.13%    2,936,587 (units:   208)
  22. radicaledward                 1.04%    2,717,086 (units:    90)
- 23. paullindner                   1.03%    2,696,800 (units:   544)
+ 23. paullindner                   1.04%    2,700,338 (units:   545)
  24. drwho                         0.94%    2,457,475 (units:   497)
  25. The_Gibson(HTown)             0.89%    2,330,035 (units:   212)
  26. /dev/random                   0.82%    2,135,335 (units:   204)
@@ -34,7 +34,7 @@ As of 2020-04-29 20:35:20, hackers.town is rank 709
  32. DJ_Sundog                     0.58%    1,513,675 (units:   330)
  33. Anonymous                     0.57%    1,495,593 (units:   514)
  34. avolkov                       0.57%    1,484,576 (units:    88)
- 35. sungo                         0.54%    1,397,697 (units:   387)
+ 35. sungo                         0.54%    1,399,726 (units:   388)
  36. kusuriya                      0.50%    1,314,178 (units:    68)
  37. rmgr                          0.49%    1,290,558 (units:    47)
  38. qwazix                        0.44%    1,157,676 (units:   220)
@@ -85,7 +85,7 @@ As of 2020-04-29 20:35:20, hackers.town is rank 709
  83. heliostatic                   0.04%      101,482 (units:    26)
  84. RandomGeek                    0.04%       99,623 (units:    15)
  85. JoshMulliken                  0.04%       97,080 (units:    23)
- 86. Bingo                         0.03%       91,006 (units:   148)
+ 86. Bingo                         0.04%       92,006 (units:   149)
  87. claudiom                      0.03%       83,794 (units:   544)
  88. pmosetc                       0.03%       81,941 (units:    99)
  89. Purple                        0.03%       81,458 (units:    85)
@@ -108,8 +108,8 @@ As of 2020-04-29 20:35:20, hackers.town is rank 709
 106. huobijubajeebajoba            0.01%       38,451 (units:    15)
 107. Syrinx                        0.01%       35,530 (units:    82)
 108. Tool_Man                      0.01%       35,407 (units:    54)
-109. Phlox                         0.01%       32,011 (units:     2)
-110. 11backslashes                 0.01%       31,810 (units:    52)
+109. 11backslashes                 0.01%       32,322 (units:    53)
+110. Phlox                         0.01%       32,011 (units:     2)
 111. L4NN-1312                     0.01%       31,247 (units:    37)
 112. amsomniac                     0.01%       28,518 (units:    40)
 113. SteveTheDragon                0.01%       28,289 (units:    19)
