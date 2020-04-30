@@ -1,5 +1,5 @@
-As of 2020-04-30 10:25:28, hackers.town is rank 708
-   with 19,889 work units for 262,037,926 credits
+As of 2020-04-30 10:55:23, hackers.town is rank 708
+   with 19,892 work units for 262,053,354 credits
   1. wetdryvac                    12.27%   32,148,675 (units:   888)
   2. merimus                       7.86%   20,589,421 (units:   553)
   3. packetcat                     7.57%   19,829,617 (units:   153)
@@ -15,13 +15,13 @@ As of 2020-04-30 10:25:28, hackers.town is rank 708
  13. SiinaCutie                    1.98%    5,188,566 (units:   235)
  14. FOOL                          1.91%    4,998,040 (units:   352)
  15. felix                         1.87%    4,901,391 (units:   185)
- 16. elfgirlsarah                  1.82%    4,777,047 (units:   727)
+ 16. elfgirlsarah                  1.83%    4,782,542 (units:   728)
  17. r000t                         1.38%    3,624,622 (units:    91)
  18. skraelingjar                  1.28%    3,352,989 (units:    64)
  19. Kranfahrer                    1.15%    3,024,932 (units:   201)
  20. Mr.House                      1.15%    3,020,727 (units:   158)
  21. ryen                          1.12%    2,936,587 (units:   208)
- 22. paullindner                   1.04%    2,736,146 (units:   553)
+ 22. paullindner                   1.05%    2,741,783 (units:   554)
  23. radicaledward                 1.04%    2,717,086 (units:    90)
  24. drwho                         0.94%    2,457,475 (units:   497)
  25. The_Gibson(HTown)             0.89%    2,330,035 (units:   212)
@@ -66,7 +66,7 @@ As of 2020-04-30 10:25:28, hackers.town is rank 708
  64. Kyresti                       0.10%      262,134 (units:    39)
  65. Brian                         0.10%      259,022 (units:    82)
  66. Neue.City                     0.09%      225,375 (units:    47)
- 67.                               0.08%      204,859 (units:    52)
+ 67.                               0.08%      209,155 (units:    53)
  68. Imani                         0.08%      199,876 (units:   264)
  69. folding_with_gibson           0.07%      182,802 (units:   103)
  70. LordMathis                    0.07%      179,037 (units:    30)
