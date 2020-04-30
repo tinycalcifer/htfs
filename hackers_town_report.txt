@@ -1,5 +1,5 @@
-As of 2020-04-30 09:25:21, hackers.town is rank 708
-   with 19,882 work units for 261,970,803 credits
+As of 2020-04-30 09:35:56, hackers.town is rank 708
+   with 19,884 work units for 262,026,477 credits
   1. wetdryvac                    12.27%   32,148,675 (units:   888)
   2. merimus                       7.86%   20,589,421 (units:   553)
   3. packetcat                     7.57%   19,829,617 (units:   153)
@@ -8,7 +8,7 @@ As of 2020-04-30 09:25:21, hackers.town is rank 708
   6. Freakazoid                    5.84%   15,291,865 (units:   642)
   7. Polychrome                    4.28%   11,204,900 (units:   493)
   8. bhtooefr                      3.85%   10,090,802 (units:   301)
-  9. Werekat                       3.08%    8,077,877 (units:   430)
+  9. Werekat                       3.09%    8,084,551 (units:   431)
  10. Calcifer                      2.98%    7,802,361 (units:   193)
  11. c0debabe                      2.76%    7,224,123 (units:   245)
  12. dafuchs                       2.28%    5,966,656 (units:   328)
@@ -25,8 +25,8 @@ As of 2020-04-30 09:25:21, hackers.town is rank 708
  23. radicaledward                 1.04%    2,717,086 (units:    90)
  24. drwho                         0.94%    2,457,475 (units:   497)
  25. The_Gibson(HTown)             0.89%    2,330,035 (units:   212)
- 26. CookieMom                     0.82%    2,139,419 (units:   342)
- 27. /dev/random                   0.82%    2,135,335 (units:   204)
+ 26. CookieMom                     0.84%    2,188,419 (units:   343)
+ 27. /dev/random                   0.81%    2,135,335 (units:   204)
  28. mandibular joint dysfunction  0.78%    2,042,179 (units:   829)
  29. pfreak                        0.76%    1,996,770 (units:    48)
  30. rfquerin                      0.63%    1,638,770 (units:   107)
@@ -52,7 +52,7 @@ As of 2020-04-30 09:25:21, hackers.town is rank 708
  50. m68k                          0.20%      526,051 (units:   135)
  51. tayo                          0.19%      497,485 (units:   150)
  52. LordBowlich                   0.18%      463,120 (units:   136)
- 53. technolust                    0.18%      458,534 (units:   355)
+ 53. technolust                    0.17%      458,534 (units:   355)
  54. zx3                           0.17%      457,055 (units:    68)
  55. Mnemonic                      0.17%      434,508 (units:   163)
  56. protospork                    0.16%      423,894 (units:    59)
