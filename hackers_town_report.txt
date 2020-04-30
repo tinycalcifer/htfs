@@ -1,5 +1,5 @@
-As of 2020-04-30 13:15:16, hackers.town is rank 709
-   with 19,911 work units for 262,355,130 credits
+As of 2020-04-30 13:35:19, hackers.town is rank 709
+   with 19,914 work units for 262,362,086 credits
   1. wetdryvac                    12.25%   32,148,675 (units:   888)
   2. merimus                       7.85%   20,589,421 (units:   553)
   3. packetcat                     7.56%   19,829,617 (units:   153)
@@ -21,11 +21,11 @@ As of 2020-04-30 13:15:16, hackers.town is rank 709
  19. Kranfahrer                    1.15%    3,024,932 (units:   201)
  20. Mr.House                      1.15%    3,020,727 (units:   158)
  21. ryen                          1.12%    2,936,587 (units:   208)
- 22. paullindner                   1.05%    2,745,915 (units:   555)
+ 22. paullindner                   1.05%    2,749,891 (units:   556)
  23. radicaledward                 1.04%    2,717,086 (units:    90)
  24. drwho                         0.94%    2,457,475 (units:   497)
  25. The_Gibson(HTown)             0.89%    2,330,035 (units:   212)
- 26. CookieMom                     0.83%    2,188,419 (units:   343)
+ 26. CookieMom                     0.84%    2,190,979 (units:   344)
  27. /dev/random                   0.81%    2,135,335 (units:   204)
  28. mandibular joint dysfunction  0.78%    2,042,179 (units:   829)
  29. pfreak                        0.76%    1,996,770 (units:    48)
@@ -79,7 +79,7 @@ As of 2020-04-30 13:15:16, hackers.town is rank 709
  77. arbu                          0.05%      125,499 (units:     7)
  78. Neil                          0.05%      124,874 (units:    32)
  79. Michael_Simkin                0.05%      124,498 (units:    51)
- 80. tbn97                         0.04%      109,625 (units:    97)
+ 80. tbn97                         0.04%      110,045 (units:    98)
  81. piggo                         0.04%      108,091 (units:    23)
  82. Nemesis                       0.04%      103,626 (units:    53)
  83. heliostatic                   0.04%      101,482 (units:    26)
