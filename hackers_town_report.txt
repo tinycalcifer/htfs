@@ -1,5 +1,5 @@
-As of 2020-04-30 06:26:11, hackers.town is rank 708
-   with 19,861 work units for 261,724,019 credits
+As of 2020-04-30 06:55:15, hackers.town is rank 708
+   with 19,865 work units for 261,751,619 credits
   1. wetdryvac                    12.28%   32,148,675 (units:   888)
   2. merimus                       7.87%   20,589,421 (units:   553)
   3. packetcat                     7.58%   19,829,617 (units:   153)
@@ -8,7 +8,7 @@ As of 2020-04-30 06:26:11, hackers.town is rank 708
   6. Freakazoid                    5.82%   15,229,600 (units:   640)
   7. Polychrome                    4.28%   11,204,900 (units:   493)
   8. bhtooefr                      3.82%    9,992,691 (units:   299)
-  9. Werekat                       3.08%    8,074,155 (units:   429)
+  9. Werekat                       3.09%    8,077,877 (units:   430)
  10. Calcifer                      2.98%    7,802,361 (units:   193)
  11. c0debabe                      2.76%    7,224,123 (units:   245)
  12. dafuchs                       2.28%    5,966,656 (units:   328)
@@ -21,7 +21,7 @@ As of 2020-04-30 06:26:11, hackers.town is rank 708
  19. Kranfahrer                    1.16%    3,024,932 (units:   201)
  20. Mr.House                      1.15%    3,020,727 (units:   158)
  21. ryen                          1.12%    2,936,587 (units:   208)
- 22. paullindner                   1.04%    2,726,913 (units:   551)
+ 22. paullindner                   1.04%    2,731,651 (units:   552)
  23. radicaledward                 1.04%    2,717,086 (units:    90)
  24. drwho                         0.94%    2,457,475 (units:   497)
  25. The_Gibson(HTown)             0.89%    2,330,035 (units:   212)
@@ -30,7 +30,7 @@ As of 2020-04-30 06:26:11, hackers.town is rank 708
  28. mandibular joint dysfunction  0.78%    2,042,179 (units:   829)
  29. pfreak                        0.76%    1,996,770 (units:    48)
  30. rfquerin                      0.63%    1,638,770 (units:   107)
- 31. Kyle                          0.59%    1,532,218 (units:   206)
+ 31. Kyle                          0.59%    1,535,962 (units:   207)
  32. DJ_Sundog                     0.58%    1,513,675 (units:   330)
  33. Anonymous                     0.57%    1,495,593 (units:   514)
  34. avolkov                       0.57%    1,484,576 (units:    88)
@@ -49,7 +49,7 @@ As of 2020-04-30 06:26:11, hackers.town is rank 708
  47. HolSta                        0.23%      614,460 (units:   108)
  48. Canageek                      0.21%      537,602 (units:   150)
  49. synfinner                     0.20%      527,623 (units:    14)
- 50. m68k                          0.20%      510,655 (units:   134)
+ 50. m68k                          0.20%      526,051 (units:   135)
  51. tayo                          0.19%      497,485 (units:   150)
  52. LordBowlich                   0.18%      463,120 (units:   136)
  53. technolust                    0.18%      458,534 (units:   355)
