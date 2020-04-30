@@ -1,6 +1,6 @@
-As of 2020-04-30 00:25:28, hackers.town is rank 709
-   with 19,818 work units for 261,042,488 credits
-  1. wetdryvac                    12.32%   32,148,675 (units:   888)
+As of 2020-04-30 00:35:39, hackers.town is rank 709
+   with 19,821 work units for 261,056,805 credits
+  1. wetdryvac                    12.31%   32,148,675 (units:   888)
   2. merimus                       7.89%   20,589,421 (units:   553)
   3. packetcat                     7.60%   19,829,617 (units:   153)
   4. KemoNine                      7.17%   18,705,527 (units:   625)
@@ -22,7 +22,7 @@ As of 2020-04-30 00:25:28, hackers.town is rank 709
  20. Mr.House                      1.15%    3,009,243 (units:   156)
  21. ryen                          1.12%    2,936,587 (units:   208)
  22. radicaledward                 1.04%    2,717,086 (units:    90)
- 23. paullindner                   1.04%    2,705,504 (units:   546)
+ 23. paullindner                   1.04%    2,711,187 (units:   547)
  24. drwho                         0.94%    2,457,475 (units:   497)
  25. The_Gibson(HTown)             0.89%    2,330,035 (units:   212)
  26. /dev/random                   0.82%    2,135,335 (units:   204)
@@ -30,7 +30,7 @@ As of 2020-04-30 00:25:28, hackers.town is rank 709
  28. mandibular joint dysfunction  0.78%    2,042,179 (units:   829)
  29. pfreak                        0.76%    1,996,770 (units:    48)
  30. rfquerin                      0.63%    1,638,770 (units:   107)
- 31. Kyle                          0.58%    1,524,446 (units:   204)
+ 31. Kyle                          0.59%    1,528,315 (units:   205)
  32. DJ_Sundog                     0.58%    1,513,675 (units:   330)
  33. Anonymous                     0.57%    1,495,593 (units:   514)
  34. avolkov                       0.57%    1,484,576 (units:    88)
@@ -62,7 +62,7 @@ As of 2020-04-30 00:25:28, hackers.town is rank 709
  60. csrsuoeb                      0.13%      330,048 (units:    69)
  61. KitRedgrave                   0.12%      325,409 (units:    68)
  62. debugninja                    0.11%      288,707 (units:    34)
- 63. ZenCoder                      0.10%      271,630 (units:    85)
+ 63. ZenCoder                      0.11%      276,395 (units:    86)
  64. Kyresti                       0.10%      262,134 (units:    39)
  65. Brian                         0.10%      259,022 (units:    82)
  66. Neue.City                     0.09%      225,375 (units:    47)
