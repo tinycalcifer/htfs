@@ -1,5 +1,5 @@
-As of 2020-04-30 12:05:20, hackers.town is rank 709
-   with 19,899 work units for 262,315,244 credits
+As of 2020-04-30 12:25:41, hackers.town is rank 709
+   with 19,903 work units for 262,324,754 credits
   1. wetdryvac                    12.26%   32,148,675 (units:   888)
   2. merimus                       7.85%   20,589,421 (units:   553)
   3. packetcat                     7.56%   19,829,617 (units:   153)
@@ -48,8 +48,8 @@ As of 2020-04-30 12:05:20, hackers.town is rank 709
  46. TG                            0.26%      694,922 (units:   143)
  47. HolSta                        0.23%      614,460 (units:   108)
  48. Canageek                      0.21%      540,532 (units:   151)
- 49. synfinner                     0.20%      527,623 (units:    14)
- 50. m68k                          0.20%      526,051 (units:   135)
+ 49. m68k                          0.20%      528,751 (units:   136)
+ 50. synfinner                     0.20%      527,623 (units:    14)
  51. tayo                          0.19%      497,485 (units:   150)
  52. LordBowlich                   0.18%      463,120 (units:   136)
  53. technolust                    0.17%      458,534 (units:   355)
@@ -66,8 +66,8 @@ As of 2020-04-30 12:05:20, hackers.town is rank 709
  64. Kyresti                       0.10%      262,134 (units:    39)
  65. Brian                         0.10%      259,022 (units:    82)
  66. Neue.City                     0.09%      225,375 (units:    47)
- 67.                               0.08%      209,155 (units:    53)
- 68. Imani                         0.08%      199,876 (units:   264)
+ 67.                               0.08%      211,945 (units:    54)
+ 68. Imani                         0.08%      200,296 (units:   265)
  69. folding_with_gibson           0.07%      182,802 (units:   103)
  70. LordMathis                    0.07%      179,037 (units:    30)
  71. RandyNose                     0.06%      162,127 (units:   210)
@@ -91,9 +91,9 @@ As of 2020-04-30 12:05:20, hackers.town is rank 709
  89. Purple                        0.03%       81,458 (units:    85)
  90. Kirjis                        0.03%       79,781 (units:   106)
  91. grasshopper                   0.03%       79,760 (units:   108)
- 92. Seb                           0.03%       75,368 (units:   128)
- 93. George_                       0.03%       75,198 (units:    12)
- 94. crc32                         0.03%       74,845 (units:   102)
+ 92. crc32                         0.03%       78,445 (units:   103)
+ 93. Seb                           0.03%       75,368 (units:   128)
+ 94. George_                       0.03%       75,198 (units:    12)
  95. Murph                         0.03%       71,069 (units:    21)
  96. Alteraner92                   0.03%       70,864 (units:    47)
  97. deowyth                       0.03%       68,655 (units:     5)
