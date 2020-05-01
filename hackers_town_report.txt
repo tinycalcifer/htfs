@@ -1,5 +1,5 @@
-As of 2020-05-01 03:25:24, hackers.town is rank 713
-   with 20,010 work units for 263,462,142 credits
+As of 2020-05-01 03:35:35, hackers.town is rank 713
+   with 20,012 work units for 263,482,524 credits
   1. wetdryvac                    12.20%   32,148,675 (units:   888)
   2. merimus                       7.81%   20,589,421 (units:   553)
   3. packetcat                     7.53%   19,829,617 (units:   153)
@@ -21,7 +21,7 @@ As of 2020-05-01 03:25:24, hackers.town is rank 713
  19. Mr.House                      1.15%    3,029,409 (units:   161)
  20. Kranfahrer                    1.15%    3,024,932 (units:   201)
  21. ryen                          1.11%    2,936,587 (units:   208)
- 22. paullindner                   1.06%    2,779,604 (units:   561)
+ 22. paullindner                   1.05%    2,779,604 (units:   561)
  23. radicaledward                 1.03%    2,717,086 (units:    90)
  24. drwho                         0.93%    2,457,475 (units:   497)
  25. The_Gibson(HTown)             0.88%    2,330,035 (units:   212)
@@ -33,7 +33,7 @@ As of 2020-05-01 03:25:24, hackers.town is rank 713
  31. Kyle                          0.59%    1,560,883 (units:   213)
  32. DJ_Sundog                     0.57%    1,513,675 (units:   330)
  33. Anonymous                     0.57%    1,495,593 (units:   514)
- 34. avolkov                       0.56%    1,484,576 (units:    88)
+ 34. avolkov                       0.57%    1,492,261 (units:    89)
  35. sungo                         0.53%    1,404,467 (units:   389)
  36. kusuriya                      0.50%    1,314,178 (units:    68)
  37. rmgr                          0.49%    1,290,558 (units:    47)
@@ -65,8 +65,8 @@ As of 2020-05-01 03:25:24, hackers.town is rank 713
  63. ZenCoder                      0.11%      281,041 (units:    87)
  64. Kyresti                       0.10%      262,134 (units:    39)
  65. Brian                         0.10%      259,022 (units:    82)
- 66. Neue.City                     0.09%      225,375 (units:    47)
- 67.                               0.08%      220,369 (units:    56)
+ 66.                               0.09%      233,066 (units:    57)
+ 67. Neue.City                     0.09%      225,375 (units:    47)
  68. Imani                         0.08%      202,676 (units:   268)
  69. folding_with_gibson           0.07%      182,802 (units:   103)
  70. LordMathis                    0.07%      179,037 (units:    30)
