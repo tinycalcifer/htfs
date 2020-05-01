@@ -1,5 +1,5 @@
-As of 2020-05-01 17:26:00, hackers.town is rank 712
-   with 20,112 work units for 264,653,852 credits
+As of 2020-05-01 17:46:03, hackers.town is rank 713
+   with 20,116 work units for 264,686,800 credits
   1. wetdryvac                    12.15%   32,148,675 (units:   888)
   2. merimus                       7.78%   20,589,421 (units:   553)
   3. packetcat                     7.49%   19,829,617 (units:   153)
@@ -15,13 +15,13 @@ As of 2020-05-01 17:26:00, hackers.town is rank 712
  13. SiinaCutie                    1.96%    5,188,566 (units:   235)
  14. FOOL                          1.89%    4,998,040 (units:   352)
  15. felix                         1.85%    4,901,391 (units:   185)
- 16. elfgirlsarah                  1.84%    4,869,828 (units:   736)
+ 16. elfgirlsarah                  1.85%    4,893,180 (units:   738)
  17. r000t                         1.45%    3,831,982 (units:    99)
  18. skraelingjar                  1.27%    3,352,989 (units:    64)
  19. Mr.House                      1.15%    3,035,067 (units:   162)
  20. Kranfahrer                    1.14%    3,024,932 (units:   201)
  21. ryen                          1.11%    2,936,587 (units:   208)
- 22. paullindner                   1.07%    2,824,132 (units:   569)
+ 22. paullindner                   1.07%    2,828,373 (units:   570)
  23. radicaledward                 1.03%    2,717,086 (units:    90)
  24. drwho                         0.93%    2,457,475 (units:   497)
  25. CookieMom                     0.88%    2,340,156 (units:   359)
@@ -73,7 +73,7 @@ As of 2020-05-01 17:26:00, hackers.town is rank 712
  71. RandyNose                     0.06%      162,127 (units:   210)
  72. BadGateway                    0.06%      161,439 (units:    84)
  73. atinciona                     0.06%      153,224 (units:   197)
- 74. jerephil                      0.06%      146,542 (units:   124)
+ 74. jerephil                      0.06%      151,897 (units:   125)
  75. gwozniak                      0.05%      144,585 (units:   181)
  76. silksnep                      0.05%      141,111 (units:   176)
  77. Michael_Simkin                0.05%      131,247 (units:    52)
