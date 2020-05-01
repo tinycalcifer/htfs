@@ -1,5 +1,5 @@
-As of 2020-05-01 13:05:10, hackers.town is rank 712
-   with 20,079 work units for 264,392,696 credits
+As of 2020-05-01 13:45:33, hackers.town is rank 712
+   with 20,082 work units for 264,400,182 credits
   1. wetdryvac                    12.16%   32,148,675 (units:   888)
   2. merimus                       7.79%   20,589,421 (units:   553)
   3. packetcat                     7.50%   19,829,617 (units:   153)
@@ -34,7 +34,7 @@ As of 2020-05-01 13:05:10, hackers.town is rank 712
  32. DJ_Sundog                     0.57%    1,513,675 (units:   330)
  33. avolkov                       0.57%    1,506,966 (units:    91)
  34. Anonymous                     0.57%    1,495,593 (units:   514)
- 35. sungo                         0.53%    1,404,467 (units:   389)
+ 35. sungo                         0.53%    1,410,323 (units:   390)
  36. kusuriya                      0.50%    1,314,178 (units:    68)
  37. rmgr                          0.49%    1,290,558 (units:    47)
  38. qwazix                        0.44%    1,157,676 (units:   220)
@@ -47,7 +47,7 @@ As of 2020-05-01 13:05:10, hackers.town is rank 712
  45. jkl                           0.28%      731,187 (units:   199)
  46. TG                            0.26%      694,922 (units:   143)
  47. HolSta                        0.23%      614,460 (units:   108)
- 48. m68k                          0.21%      564,431 (units:   140)
+ 48. m68k                          0.21%      565,161 (units:   141)
  49. Canageek                      0.20%      541,432 (units:   152)
  50. synfinner                     0.20%      527,623 (units:    14)
  51. zx3                           0.20%      521,529 (units:    73)
@@ -114,7 +114,7 @@ As of 2020-05-01 13:05:10, hackers.town is rank 712
 112. technoid_                     0.01%       29,621 (units:    41)
 113. amsomniac                     0.01%       28,888 (units:    41)
 114. SteveTheDragon                0.01%       28,289 (units:    19)
-115. micmac                        0.01%       26,661 (units:    15)
+115. micmac                        0.01%       27,561 (units:    16)
 116. imacrea                       0.01%       25,293 (units:    46)
 117. murph                         0.01%       25,047 (units:    11)
 118. julianaito                    0.01%       24,640 (units:    69)
