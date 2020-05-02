@@ -1,5 +1,5 @@
-As of 2020-05-02 15:25:23, hackers.town is rank 717
-   with 20,273 work units for 266,760,111 credits
+As of 2020-05-02 15:55:19, hackers.town is rank 717
+   with 20,275 work units for 266,772,445 credits
   1. wetdryvac                    12.05%   32,148,675 (units:   888)
   2. merimus                       7.72%   20,589,421 (units:   553)
   3. packetcat                     7.43%   19,829,617 (units:   153)
@@ -12,7 +12,7 @@ As of 2020-05-02 15:25:23, hackers.town is rank 717
  10. Calcifer                      2.92%    7,802,361 (units:   193)
  11. c0debabe                      2.71%    7,224,123 (units:   245)
  12. dafuchs                       2.25%    5,989,166 (units:   332)
- 13. SiinaCutie                    1.95%    5,188,566 (units:   235)
+ 13. SiinaCutie                    1.94%    5,188,566 (units:   235)
  14. FOOL                          1.87%    4,998,040 (units:   352)
  15. elfgirlsarah                  1.86%    4,967,963 (units:   749)
  16. felix                         1.84%    4,901,391 (units:   185)
@@ -21,7 +21,7 @@ As of 2020-05-02 15:25:23, hackers.town is rank 717
  19. Mr.House                      1.17%    3,128,163 (units:   168)
  20. Kranfahrer                    1.13%    3,024,932 (units:   201)
  21. ryen                          1.10%    2,936,587 (units:   208)
- 22. paullindner                   1.08%    2,886,733 (units:   581)
+ 22. paullindner                   1.09%    2,898,647 (units:   582)
  23. radicaledward                 1.02%    2,717,086 (units:    90)
  24. CookieMom                     0.93%    2,468,853 (units:   363)
  25. drwho                         0.92%    2,457,475 (units:   497)
@@ -110,8 +110,8 @@ As of 2020-05-02 15:25:23, hackers.town is rank 717
 108. Tool_Man                      0.01%       35,407 (units:    54)
 109. 11backslashes                 0.01%       35,292 (units:    56)
 110. Phlox                         0.01%       32,011 (units:     2)
-111. L4NN-1312                     0.01%       31,247 (units:    37)
-112. micmac                        0.01%       31,240 (units:    22)
+111. micmac                        0.01%       31,660 (units:    23)
+112. L4NN-1312                     0.01%       31,247 (units:    37)
 113. technoid_                     0.01%       30,542 (units:    43)
 114. amsomniac                     0.01%       28,888 (units:    41)
 115. SteveTheDragon                0.01%       28,289 (units:    19)
