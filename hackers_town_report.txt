@@ -1,5 +1,5 @@
-As of 2020-05-02 20:25:21, hackers.town is rank 718
-   with 20,306 work units for 266,935,388 credits
+As of 2020-05-02 20:45:46, hackers.town is rank 718
+   with 20,309 work units for 266,946,396 credits
   1. wetdryvac                    12.04%   32,148,675 (units:   888)
   2. merimus                       7.71%   20,589,421 (units:   553)
   3. packetcat                     7.43%   19,829,617 (units:   153)
@@ -8,7 +8,7 @@ As of 2020-05-02 20:25:21, hackers.town is rank 718
   6. Freakazoid                    6.02%   16,077,905 (units:   686)
   7. Polychrome                    4.50%   12,024,881 (units:   519)
   8. bhtooefr                      4.04%   10,776,798 (units:   319)
-  9. Werekat                       3.34%    8,910,504 (units:   465)
+  9. Werekat                       3.34%    8,917,455 (units:   466)
  10. Calcifer                      2.92%    7,802,361 (units:   193)
  11. c0debabe                      2.71%    7,224,123 (units:   245)
  12. dafuchs                       2.25%    5,992,992 (units:   333)
@@ -79,7 +79,7 @@ As of 2020-05-02 20:25:21, hackers.town is rank 718
  77. Michael_Simkin                0.05%      131,247 (units:    52)
  78. arbu                          0.05%      125,499 (units:     7)
  79. Neil                          0.05%      124,874 (units:    32)
- 80. tbn97                         0.04%      112,432 (units:   102)
+ 80. tbn97                         0.04%      115,604 (units:   103)
  81. piggo                         0.04%      108,091 (units:    23)
  82. Nemesis                       0.04%      103,626 (units:    53)
  83. heliostatic                   0.04%      101,482 (units:    26)
@@ -109,7 +109,7 @@ As of 2020-05-02 20:25:21, hackers.town is rank 718
 107. Syrinx                        0.01%       35,530 (units:    82)
 108. Tool_Man                      0.01%       35,407 (units:    54)
 109. 11backslashes                 0.01%       35,292 (units:    56)
-110. micmac                        0.01%       32,110 (units:    24)
+110. micmac                        0.01%       32,995 (units:    25)
 111. Phlox                         0.01%       32,011 (units:     2)
 112. L4NN-1312                     0.01%       31,247 (units:    37)
 113. technoid_                     0.01%       30,542 (units:    43)
