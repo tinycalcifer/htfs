@@ -1,5 +1,5 @@
-As of 2020-05-02 06:05:13, hackers.town is rank 715
-   with 20,202 work units for 265,717,984 credits
+As of 2020-05-02 06:15:25, hackers.town is rank 715
+   with 20,206 work units for 265,735,847 credits
   1. wetdryvac                    12.10%   32,148,675 (units:   888)
   2. merimus                       7.75%   20,589,421 (units:   553)
   3. packetcat                     7.46%   19,829,617 (units:   153)
@@ -7,14 +7,14 @@ As of 2020-05-02 06:05:13, hackers.town is rank 715
   5. dokuja                        6.81%   18,104,692 (units:   474)
   6. Freakazoid                    5.95%   15,811,091 (units:   675)
   7. Polychrome                    4.44%   11,788,554 (units:   514)
-  8. bhtooefr                      4.02%   10,691,368 (units:   315)
+  8. bhtooefr                      4.02%   10,695,414 (units:   316)
   9. Werekat                       3.27%    8,688,741 (units:   455)
  10. Calcifer                      2.94%    7,802,361 (units:   193)
  11. c0debabe                      2.72%    7,224,123 (units:   245)
  12. dafuchs                       2.25%    5,978,099 (units:   330)
  13. SiinaCutie                    1.95%    5,188,566 (units:   235)
  14. FOOL                          1.88%    4,998,040 (units:   352)
- 15. elfgirlsarah                  1.86%    4,941,277 (units:   745)
+ 15. elfgirlsarah                  1.86%    4,949,394 (units:   746)
  16. felix                         1.84%    4,901,391 (units:   185)
  17. r000t                         1.44%    3,834,459 (units:   100)
  18. skraelingjar                  1.26%    3,352,989 (units:    64)
@@ -44,7 +44,7 @@ As of 2020-05-02 06:05:13, hackers.town is rank 715
  42. Requiem                       0.34%      893,950 (units:   296)
  43. Null                          0.31%      818,594 (units:    22)
  44. neil                          0.31%      816,646 (units:   208)
- 45. jkl                           0.28%      742,663 (units:   202)
+ 45. jkl                           0.28%      747,627 (units:   203)
  46. TG                            0.26%      694,922 (units:   143)
  47. HolSta                        0.23%      614,460 (units:   108)
  48. m68k                          0.21%      570,973 (units:   143)
@@ -73,7 +73,7 @@ As of 2020-05-02 06:05:13, hackers.town is rank 715
  71. RandyNose                     0.06%      162,127 (units:   210)
  72. BadGateway                    0.06%      161,439 (units:    84)
  73. atinciona                     0.06%      156,149 (units:   201)
- 74. jerephil                      0.06%      153,592 (units:   126)
+ 74. jerephil                      0.06%      154,328 (units:   127)
  75. gwozniak                      0.05%      144,585 (units:   181)
  76. silksnep                      0.05%      141,111 (units:   176)
  77. Michael_Simkin                0.05%      131,247 (units:    52)
