@@ -1,10 +1,10 @@
-As of 2020-05-02 08:15:24, hackers.town is rank 715
-   with 20,221 work units for 266,046,526 credits
+As of 2020-05-02 08:55:29, hackers.town is rank 715
+   with 20,223 work units for 266,050,246 credits
   1. wetdryvac                    12.08%   32,148,675 (units:   888)
   2. merimus                       7.74%   20,589,421 (units:   553)
   3. packetcat                     7.45%   19,829,617 (units:   153)
   4. KemoNine                      7.03%   18,705,527 (units:   625)
-  5. dokuja                        6.81%   18,104,692 (units:   474)
+  5. dokuja                        6.80%   18,104,692 (units:   474)
   6. Freakazoid                    5.97%   15,881,491 (units:   678)
   7. Polychrome                    4.51%   11,991,942 (units:   516)
   8. bhtooefr                      4.02%   10,695,414 (units:   316)
@@ -30,7 +30,7 @@ As of 2020-05-02 08:15:24, hackers.town is rank 715
  28. mandibular joint dysfunction  0.77%    2,044,879 (units:   830)
  29. pfreak                        0.75%    1,996,770 (units:    48)
  30. rfquerin                      0.62%    1,638,770 (units:   107)
- 31. Kyle                          0.60%    1,599,013 (units:   219)
+ 31. Kyle                          0.60%    1,602,232 (units:   220)
  32. DJ_Sundog                     0.57%    1,513,675 (units:   330)
  33. avolkov                       0.57%    1,506,966 (units:    91)
  34. Anonymous                     0.56%    1,495,593 (units:   514)
@@ -111,8 +111,8 @@ As of 2020-05-02 08:15:24, hackers.town is rank 715
 109. 11backslashes                 0.01%       35,292 (units:    56)
 110. Phlox                         0.01%       32,011 (units:     2)
 111. L4NN-1312                     0.01%       31,247 (units:    37)
-112. micmac                        0.01%       30,240 (units:    21)
-113. technoid_                     0.01%       30,041 (units:    42)
+112. technoid_                     0.01%       30,542 (units:    43)
+113. micmac                        0.01%       30,240 (units:    21)
 114. amsomniac                     0.01%       28,888 (units:    41)
 115. SteveTheDragon                0.01%       28,289 (units:    19)
 116. imacrea                       0.01%       25,293 (units:    46)
