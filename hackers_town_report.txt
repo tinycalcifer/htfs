@@ -1,5 +1,5 @@
-As of 2020-05-03 15:17:19, hackers.town is rank 718
-   with 20,459 work units for 268,466,589 credits
+As of 2020-05-03 15:35:34, hackers.town is rank 718
+   with 20,462 work units for 268,483,500 credits
   1. wetdryvac                    11.97%   32,148,675 (units:   888)
   2. merimus                       7.67%   20,589,421 (units:   553)
   3. packetcat                     7.39%   19,829,617 (units:   153)
@@ -29,12 +29,12 @@ As of 2020-05-03 15:17:19, hackers.town is rank 718
  27. /dev/random                   0.80%    2,135,335 (units:   204)
  28. mandibular joint dysfunction  0.76%    2,044,879 (units:   830)
  29. pfreak                        0.74%    1,996,770 (units:    48)
- 30. rfquerin                      0.61%    1,638,770 (units:   107)
- 31. Kyle                          0.61%    1,633,452 (units:   226)
+ 30. Kyle                          0.61%    1,646,165 (units:   227)
+ 31. rfquerin                      0.61%    1,638,770 (units:   107)
  32. DJ_Sundog                     0.56%    1,513,675 (units:   330)
  33. avolkov                       0.56%    1,506,966 (units:    91)
  34. Anonymous                     0.56%    1,495,593 (units:   514)
- 35. sungo                         0.53%    1,422,125 (units:   395)
+ 35. sungo                         0.53%    1,424,894 (units:   396)
  36. kusuriya                      0.49%    1,314,178 (units:    68)
  37. rmgr                          0.48%    1,290,558 (units:    47)
  38. qwazix                        0.43%    1,157,676 (units:   220)
@@ -82,8 +82,8 @@ As of 2020-05-03 15:17:19, hackers.town is rank 718
  80. Neil                          0.05%      124,874 (units:    32)
  81. piggo                         0.04%      108,091 (units:    23)
  82. Nemesis                       0.04%      103,626 (units:    53)
- 83. heliostatic                   0.04%      101,482 (units:    26)
- 84. Bingo                         0.04%      100,795 (units:   161)
+ 83. Bingo                         0.04%      102,224 (units:   162)
+ 84. heliostatic                   0.04%      101,482 (units:    26)
  85. RandomGeek                    0.04%       99,623 (units:    15)
  86. JoshMulliken                  0.04%       97,080 (units:    23)
  87. pmosetc                       0.03%       86,840 (units:   106)
