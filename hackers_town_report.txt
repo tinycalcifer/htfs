@@ -1,5 +1,5 @@
-As of 2020-05-03 07:16:50, hackers.town is rank 717
-   with 20,393 work units for 267,921,461 credits
+As of 2020-05-03 07:25:56, hackers.town is rank 717
+   with 20,396 work units for 267,925,746 credits
   1. wetdryvac                    12.00%   32,148,675 (units:   888)
   2. merimus                       7.68%   20,589,421 (units:   553)
   3. packetcat                     7.40%   19,829,617 (units:   153)
@@ -8,12 +8,12 @@ As of 2020-05-03 07:16:50, hackers.town is rank 717
   6. Freakazoid                    6.07%   16,252,094 (units:   693)
   7. Polychrome                    4.60%   12,318,562 (units:   525)
   8. bhtooefr                      4.05%   10,862,058 (units:   322)
-  9. Werekat                       3.33%    8,927,505 (units:   469)
+  9. Werekat                       3.33%    8,928,043 (units:   470)
  10. Calcifer                      2.91%    7,802,361 (units:   193)
  11. c0debabe                      2.70%    7,224,123 (units:   245)
  12. dafuchs                       2.24%    6,006,978 (units:   335)
  13. SiinaCutie                    1.94%    5,188,566 (units:   235)
- 14. elfgirlsarah                  1.88%    5,035,599 (units:   780)
+ 14. elfgirlsarah                  1.88%    5,035,657 (units:   781)
  15. FOOL                          1.87%    5,001,084 (units:   353)
  16. felix                         1.83%    4,901,391 (units:   185)
  17. r000t                         1.43%    3,834,459 (units:   100)
@@ -21,7 +21,7 @@ As of 2020-05-03 07:16:50, hackers.town is rank 717
  19. Mr.House                      1.23%    3,291,283 (units:   174)
  20. Kranfahrer                    1.13%    3,024,932 (units:   201)
  21. ryen                          1.10%    2,936,587 (units:   208)
- 22. paullindner                   1.09%    2,932,537 (units:   588)
+ 22. paullindner                   1.10%    2,936,226 (units:   589)
  23. radicaledward                 1.01%    2,717,086 (units:    90)
  24. CookieMom                     0.97%    2,598,365 (units:   371)
  25. drwho                         0.92%    2,457,475 (units:   497)
