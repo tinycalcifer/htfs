@@ -1,7 +1,7 @@
-As of 2020-05-04 07:55:45, hackers.town is rank 719
-   with 20,645 work units for 269,670,114 credits
+As of 2020-05-04 08:06:21, hackers.town is rank 719
+   with 20,648 work units for 269,673,645 credits
   1. wetdryvac                    11.92%   32,148,675 (units:   888)
-  2. merimus                       7.64%   20,589,421 (units:   553)
+  2. merimus                       7.63%   20,589,421 (units:   553)
   3. packetcat                     7.35%   19,829,617 (units:   153)
   4. KemoNine                      6.94%   18,705,527 (units:   625)
   5. dokuja                        6.71%   18,104,692 (units:   474)
@@ -13,8 +13,8 @@ As of 2020-05-04 07:55:45, hackers.town is rank 719
  11. c0debabe                      2.68%    7,224,123 (units:   245)
  12. dafuchs                       2.23%    6,013,135 (units:   336)
  13. SiinaCutie                    1.92%    5,188,566 (units:   235)
- 14. elfgirlsarah                  1.91%    5,155,691 (units:   844)
- 15. FOOL                          1.85%    5,001,084 (units:   353)
+ 14. elfgirlsarah                  1.91%    5,155,994 (units:   845)
+ 15. FOOL                          1.86%    5,003,042 (units:   354)
  16. felix                         1.82%    4,901,391 (units:   185)
  17. r000t                         1.42%    3,834,459 (units:   100)
  18. Mr.House                      1.33%    3,585,165 (units:   183)
@@ -70,7 +70,7 @@ As of 2020-05-04 07:55:45, hackers.town is rank 719
  68. Imani                         0.08%      209,939 (units:   273)
  69. folding_with_gibson           0.07%      186,211 (units:   108)
  70. LordMathis                    0.07%      179,037 (units:    30)
- 71. atinciona                     0.06%      172,656 (units:   213)
+ 71. atinciona                     0.06%      173,926 (units:   214)
  72. jerephil                      0.06%      163,132 (units:   133)
  73. RandyNose                     0.06%      162,127 (units:   210)
  74. BadGateway                    0.06%      161,439 (units:    84)
