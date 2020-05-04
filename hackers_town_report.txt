@@ -1,5 +1,5 @@
-As of 2020-05-04 02:05:19, hackers.town is rank 718
-   with 20,590 work units for 269,477,010 credits
+As of 2020-05-04 02:35:33, hackers.town is rank 718
+   with 20,593 work units for 269,478,325 credits
   1. wetdryvac                    11.93%   32,148,675 (units:   888)
   2. merimus                       7.64%   20,589,421 (units:   553)
   3. packetcat                     7.36%   19,829,617 (units:   153)
@@ -8,12 +8,12 @@ As of 2020-05-04 02:05:19, hackers.town is rank 718
   6. Freakazoid                    6.16%   16,605,131 (units:   711)
   7. Polychrome                    4.64%   12,493,156 (units:   534)
   8. bhtooefr                      4.07%   10,971,651 (units:   328)
-  9. Werekat                       3.33%    8,974,227 (units:   481)
+  9. Werekat                       3.33%    8,974,752 (units:   482)
  10. Calcifer                      2.90%    7,802,361 (units:   193)
  11. c0debabe                      2.68%    7,224,123 (units:   245)
  12. dafuchs                       2.23%    6,013,135 (units:   336)
  13. SiinaCutie                    1.93%    5,188,566 (units:   235)
- 14. elfgirlsarah                  1.90%    5,130,231 (units:   822)
+ 14. elfgirlsarah                  1.90%    5,130,321 (units:   823)
  15. FOOL                          1.86%    5,001,084 (units:   353)
  16. felix                         1.82%    4,901,391 (units:   185)
  17. r000t                         1.42%    3,834,459 (units:   100)
@@ -42,7 +42,7 @@ As of 2020-05-04 02:05:19, hackers.town is rank 718
  40. djsumdog                      0.38%    1,018,872 (units:   170)
  41. mainebot                      0.37%      990,537 (units:    53)
  42. Requiem                       0.33%      893,950 (units:   296)
- 43. neil                          0.32%      862,520 (units:   220)
+ 43. neil                          0.32%      863,220 (units:   221)
  44. Null                          0.30%      818,594 (units:    22)
  45. jkl                           0.30%      795,330 (units:   214)
  46. TG                            0.26%      694,922 (units:   143)
