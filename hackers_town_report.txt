@@ -1,5 +1,5 @@
-As of 2020-05-04 12:06:49, hackers.town is rank 720
-   with 20,695 work units for 269,993,254 credits
+As of 2020-05-04 12:25:40, hackers.town is rank 720
+   with 20,699 work units for 269,994,846 credits
   1. wetdryvac                    11.91%   32,148,675 (units:   888)
   2. merimus                       7.63%   20,589,421 (units:   553)
   3. packetcat                     7.34%   19,829,617 (units:   153)
@@ -13,7 +13,7 @@ As of 2020-05-04 12:06:49, hackers.town is rank 720
  11. c0debabe                      2.68%    7,224,123 (units:   245)
  12. dafuchs                       2.23%    6,018,006 (units:   337)
  13. SiinaCutie                    1.92%    5,188,566 (units:   235)
- 14. elfgirlsarah                  1.92%    5,176,116 (units:   864)
+ 14. elfgirlsarah                  1.92%    5,176,787 (units:   866)
  15. FOOL                          1.85%    5,003,042 (units:   354)
  16. felix                         1.82%    4,901,391 (units:   185)
  17. r000t                         1.42%    3,834,459 (units:   100)
@@ -42,7 +42,7 @@ As of 2020-05-04 12:06:49, hackers.town is rank 720
  40. djsumdog                      0.38%    1,018,872 (units:   170)
  41. mainebot                      0.37%      990,537 (units:    53)
  42. Requiem                       0.33%      893,950 (units:   296)
- 43. neil                          0.32%      864,732 (units:   223)
+ 43. neil                          0.32%      865,233 (units:   224)
  44. Null                          0.30%      818,594 (units:    22)
  45. jkl                           0.30%      807,034 (units:   217)
  46. zx3                           0.26%      698,670 (units:    86)
@@ -86,7 +86,7 @@ As of 2020-05-04 12:06:49, hackers.town is rank 720
  84. heliostatic                   0.04%      101,482 (units:    26)
  85. RandomGeek                    0.04%       99,623 (units:    15)
  86. JoshMulliken                  0.04%       97,080 (units:    23)
- 87. pmosetc                       0.03%       93,745 (units:   110)
+ 87. pmosetc                       0.03%       94,165 (units:   111)
  88. crc32                         0.03%       93,639 (units:   119)
  89. claudiom                      0.03%       83,794 (units:   544)
  90. grasshopper                   0.03%       82,631 (units:   113)
