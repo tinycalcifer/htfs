@@ -1,5 +1,5 @@
-As of 2020-05-04 03:25:44, hackers.town is rank 716
-   with 20,603 work units for 269,501,090 credits
+As of 2020-05-04 03:36:48, hackers.town is rank 716
+   with 20,606 work units for 269,508,515 credits
   1. wetdryvac                    11.93%   32,148,675 (units:   888)
   2. merimus                       7.64%   20,589,421 (units:   553)
   3. packetcat                     7.36%   19,829,617 (units:   153)
@@ -8,12 +8,12 @@ As of 2020-05-04 03:25:44, hackers.town is rank 716
   6. Freakazoid                    6.16%   16,609,646 (units:   712)
   7. Polychrome                    4.64%   12,497,685 (units:   535)
   8. bhtooefr                      4.07%   10,971,651 (units:   328)
-  9. Werekat                       3.33%    8,974,752 (units:   482)
+  9. Werekat                       3.33%    8,980,577 (units:   483)
  10. Calcifer                      2.90%    7,802,361 (units:   193)
  11. c0debabe                      2.68%    7,224,123 (units:   245)
  12. dafuchs                       2.23%    6,013,135 (units:   336)
  13. SiinaCutie                    1.93%    5,188,566 (units:   235)
- 14. elfgirlsarah                  1.91%    5,135,692 (units:   825)
+ 14. elfgirlsarah                  1.91%    5,136,292 (units:   826)
  15. FOOL                          1.86%    5,001,084 (units:   353)
  16. felix                         1.82%    4,901,391 (units:   185)
  17. r000t                         1.42%    3,834,459 (units:   100)
@@ -87,7 +87,7 @@ As of 2020-05-04 03:25:44, hackers.town is rank 716
  85. RandomGeek                    0.04%       99,623 (units:    15)
  86. JoshMulliken                  0.04%       97,080 (units:    23)
  87. pmosetc                       0.03%       92,475 (units:   109)
- 88. crc32                         0.03%       90,667 (units:   116)
+ 88. crc32                         0.03%       91,667 (units:   117)
  89. claudiom                      0.03%       83,794 (units:   544)
  90. grasshopper                   0.03%       82,631 (units:   113)
  91. Purple                        0.03%       81,458 (units:    85)
