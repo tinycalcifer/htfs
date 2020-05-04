@@ -1,5 +1,5 @@
-As of 2020-05-04 10:35:38, hackers.town is rank 720
-   with 20,678 work units for 269,945,995 credits
+As of 2020-05-04 10:55:34, hackers.town is rank 720
+   with 20,685 work units for 269,964,622 credits
   1. wetdryvac                    11.91%   32,148,675 (units:   888)
   2. merimus                       7.63%   20,589,421 (units:   553)
   3. packetcat                     7.35%   19,829,617 (units:   153)
@@ -13,7 +13,7 @@ As of 2020-05-04 10:35:38, hackers.town is rank 720
  11. c0debabe                      2.68%    7,224,123 (units:   245)
  12. dafuchs                       2.23%    6,018,006 (units:   337)
  13. SiinaCutie                    1.92%    5,188,566 (units:   235)
- 14. elfgirlsarah                  1.91%    5,166,404 (units:   858)
+ 14. elfgirlsarah                  1.92%    5,175,010 (units:   861)
  15. FOOL                          1.85%    5,003,042 (units:   354)
  16. felix                         1.82%    4,901,391 (units:   185)
  17. r000t                         1.42%    3,834,459 (units:   100)
@@ -33,7 +33,7 @@ As of 2020-05-04 10:35:38, hackers.town is rank 720
  31. rfquerin                      0.61%    1,638,770 (units:   107)
  32. DJ_Sundog                     0.56%    1,513,675 (units:   330)
  33. avolkov                       0.56%    1,506,966 (units:    91)
- 34. Anonymous                     0.56%    1,498,680 (units:   515)
+ 34. Anonymous                     0.56%    1,504,352 (units:   516)
  35. sungo                         0.53%    1,429,381 (units:   398)
  36. kusuriya                      0.49%    1,314,178 (units:    68)
  37. rmgr                          0.48%    1,290,558 (units:    47)
@@ -44,7 +44,7 @@ As of 2020-05-04 10:35:38, hackers.town is rank 720
  42. Requiem                       0.33%      893,950 (units:   296)
  43. neil                          0.32%      864,732 (units:   223)
  44. Null                          0.30%      818,594 (units:    22)
- 45. jkl                           0.30%      803,915 (units:   216)
+ 45. jkl                           0.30%      807,034 (units:   217)
  46. zx3                           0.26%      698,670 (units:    86)
  47. TG                            0.26%      694,922 (units:   143)
  48. HolSta                        0.23%      614,460 (units:   108)
@@ -70,7 +70,7 @@ As of 2020-05-04 10:35:38, hackers.town is rank 720
  68. Imani                         0.08%      209,939 (units:   273)
  69. folding_with_gibson           0.07%      186,211 (units:   108)
  70. LordMathis                    0.07%      179,037 (units:    30)
- 71. atinciona                     0.06%      174,029 (units:   215)
+ 71. atinciona                     0.06%      174,809 (units:   216)
  72. jerephil                      0.06%      163,952 (units:   134)
  73. RandyNose                     0.06%      162,127 (units:   210)
  74. BadGateway                    0.06%      161,439 (units:    84)
@@ -87,7 +87,7 @@ As of 2020-05-04 10:35:38, hackers.town is rank 720
  85. RandomGeek                    0.04%       99,623 (units:    15)
  86. JoshMulliken                  0.04%       97,080 (units:    23)
  87. pmosetc                       0.03%       93,745 (units:   110)
- 88. crc32                         0.03%       93,189 (units:   118)
+ 88. crc32                         0.03%       93,639 (units:   119)
  89. claudiom                      0.03%       83,794 (units:   544)
  90. grasshopper                   0.03%       82,631 (units:   113)
  91. Purple                        0.03%       81,458 (units:    85)
