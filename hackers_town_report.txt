@@ -1,5 +1,5 @@
-As of 2020-05-04 05:45:26, hackers.town is rank 719
-   with 20,623 work units for 269,585,240 credits
+As of 2020-05-04 06:06:47, hackers.town is rank 719
+   with 20,626 work units for 269,587,202 credits
   1. wetdryvac                    11.93%   32,148,675 (units:   888)
   2. merimus                       7.64%   20,589,421 (units:   553)
   3. packetcat                     7.36%   19,829,617 (units:   153)
@@ -8,7 +8,7 @@ As of 2020-05-04 05:45:26, hackers.town is rank 719
   6. Freakazoid                    6.17%   16,622,717 (units:   714)
   7. Polychrome                    4.64%   12,504,762 (units:   536)
   8. bhtooefr                      4.07%   10,980,678 (units:   329)
-  9. Werekat                       3.33%    8,980,577 (units:   483)
+  9. Werekat                       3.33%    8,981,027 (units:   484)
  10. Calcifer                      2.89%    7,802,361 (units:   193)
  11. c0debabe                      2.68%    7,224,123 (units:   245)
  12. dafuchs                       2.23%    6,013,135 (units:   336)
@@ -23,7 +23,7 @@ As of 2020-05-04 05:45:26, hackers.town is rank 719
  21. Kranfahrer                    1.12%    3,024,932 (units:   201)
  22. ryen                          1.09%    2,936,587 (units:   208)
  23. radicaledward                 1.01%    2,717,086 (units:    90)
- 24. CookieMom                     1.00%    2,687,930 (units:   380)
+ 24. CookieMom                     1.00%    2,688,930 (units:   381)
  25. drwho                         0.91%    2,457,475 (units:   497)
  26. The_Gibson(HTown)             0.86%    2,330,035 (units:   212)
  27. /dev/random                   0.79%    2,135,335 (units:   204)
@@ -42,7 +42,7 @@ As of 2020-05-04 05:45:26, hackers.town is rank 719
  40. djsumdog                      0.38%    1,018,872 (units:   170)
  41. mainebot                      0.37%      990,537 (units:    53)
  42. Requiem                       0.33%      893,950 (units:   296)
- 43. neil                          0.32%      863,220 (units:   221)
+ 43. neil                          0.32%      863,732 (units:   222)
  44. Null                          0.30%      818,594 (units:    22)
  45. jkl                           0.30%      799,855 (units:   215)
  46. TG                            0.26%      694,922 (units:   143)
