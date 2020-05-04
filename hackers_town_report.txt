@@ -1,5 +1,5 @@
-As of 2020-05-04 02:35:33, hackers.town is rank 718
-   with 20,593 work units for 269,478,325 credits
+As of 2020-05-04 02:55:49, hackers.town is rank 716
+   with 20,596 work units for 269,488,459 credits
   1. wetdryvac                    11.93%   32,148,675 (units:   888)
   2. merimus                       7.64%   20,589,421 (units:   553)
   3. packetcat                     7.36%   19,829,617 (units:   153)
@@ -13,7 +13,7 @@ As of 2020-05-04 02:35:33, hackers.town is rank 718
  11. c0debabe                      2.68%    7,224,123 (units:   245)
  12. dafuchs                       2.23%    6,013,135 (units:   336)
  13. SiinaCutie                    1.93%    5,188,566 (units:   235)
- 14. elfgirlsarah                  1.90%    5,130,321 (units:   823)
+ 14. elfgirlsarah                  1.91%    5,135,405 (units:   824)
  15. FOOL                          1.86%    5,001,084 (units:   353)
  16. felix                         1.82%    4,901,391 (units:   185)
  17. r000t                         1.42%    3,834,459 (units:   100)
@@ -44,7 +44,7 @@ As of 2020-05-04 02:35:33, hackers.town is rank 718
  42. Requiem                       0.33%      893,950 (units:   296)
  43. neil                          0.32%      863,220 (units:   221)
  44. Null                          0.30%      818,594 (units:    22)
- 45. jkl                           0.30%      795,330 (units:   214)
+ 45. jkl                           0.30%      799,855 (units:   215)
  46. TG                            0.26%      694,922 (units:   143)
  47. zx3                           0.24%      656,970 (units:    84)
  48. HolSta                        0.23%      614,460 (units:   108)
@@ -128,7 +128,7 @@ As of 2020-05-04 02:35:33, hackers.town is rank 718
 126. the_gibson                    0.01%       15,396 (units:     1)
 127. tn5421                        0.01%       15,126 (units:    40)
 128. dctrud                        0.01%       14,635 (units:     8)
-129. Anunmouse                     0.01%       13,538 (units:    11)
+129. Anunmouse                     0.01%       14,063 (units:    12)
 130. LunaLapin                     0.00%       13,339 (units:    18)
 131. flipactual                    0.00%       12,401 (units:    26)
 132. ASBJORN                       0.00%       12,368 (units:    19)
