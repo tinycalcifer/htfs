@@ -1,5 +1,5 @@
-As of 2020-05-04 06:55:49, hackers.town is rank 719
-   with 20,635 work units for 269,651,282 credits
+As of 2020-05-04 07:06:10, hackers.town is rank 719
+   with 20,639 work units for 269,663,637 credits
   1. wetdryvac                    11.92%   32,148,675 (units:   888)
   2. merimus                       7.64%   20,589,421 (units:   553)
   3. packetcat                     7.35%   19,829,617 (units:   153)
@@ -13,7 +13,7 @@ As of 2020-05-04 06:55:49, hackers.town is rank 719
  11. c0debabe                      2.68%    7,224,123 (units:   245)
  12. dafuchs                       2.23%    6,013,135 (units:   336)
  13. SiinaCutie                    1.92%    5,188,566 (units:   235)
- 14. elfgirlsarah                  1.91%    5,146,723 (units:   837)
+ 14. elfgirlsarah                  1.91%    5,154,595 (units:   839)
  15. FOOL                          1.85%    5,001,084 (units:   353)
  16. felix                         1.82%    4,901,391 (units:   185)
  17. r000t                         1.42%    3,834,459 (units:   100)
@@ -44,7 +44,7 @@ As of 2020-05-04 06:55:49, hackers.town is rank 719
  42. Requiem                       0.33%      893,950 (units:   296)
  43. neil                          0.32%      863,732 (units:   222)
  44. Null                          0.30%      818,594 (units:    22)
- 45. jkl                           0.30%      799,855 (units:   215)
+ 45. jkl                           0.30%      803,915 (units:   216)
  46. zx3                           0.26%      698,670 (units:    86)
  47. TG                            0.26%      694,922 (units:   143)
  48. HolSta                        0.23%      614,460 (units:   108)
@@ -76,7 +76,7 @@ As of 2020-05-04 06:55:49, hackers.town is rank 719
  74. BadGateway                    0.06%      161,439 (units:    84)
  75. gwozniak                      0.05%      145,329 (units:   182)
  76. silksnep                      0.05%      141,111 (units:   176)
- 77. Michael_Simkin                0.05%      135,888 (units:    54)
+ 77. Michael_Simkin                0.05%      136,311 (units:    55)
  78. tbn97                         0.05%      134,741 (units:   107)
  79. arbu                          0.05%      125,499 (units:     7)
  80. Neil                          0.05%      124,874 (units:    32)
