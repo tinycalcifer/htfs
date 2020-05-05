@@ -1,5 +1,5 @@
-As of 2020-05-05 00:55:41, hackers.town is rank 719
-   with 20,802 work units for 271,009,086 credits
+As of 2020-05-05 01:15:36, hackers.town is rank 719
+   with 20,806 work units for 271,025,289 credits
   1. wetdryvac                    11.86%   32,148,675 (units:   888)
   2. merimus                       7.60%   20,589,421 (units:   553)
   3. packetcat                     7.32%   19,829,617 (units:   153)
@@ -12,7 +12,7 @@ As of 2020-05-05 00:55:41, hackers.town is rank 719
  10. Calcifer                      2.88%    7,802,361 (units:   193)
  11. c0debabe                      2.67%    7,224,123 (units:   245)
  12. dafuchs                       2.22%    6,018,006 (units:   337)
- 13. elfgirlsarah                  1.93%    5,222,843 (units:   895)
+ 13. elfgirlsarah                  1.93%    5,233,193 (units:   897)
  14. SiinaCutie                    1.91%    5,188,566 (units:   235)
  15. FOOL                          1.85%    5,003,042 (units:   354)
  16. felix                         1.81%    4,901,391 (units:   185)
@@ -41,7 +41,7 @@ As of 2020-05-05 00:55:41, hackers.town is rank 719
  39. TerrorBite                    0.40%    1,085,432 (units:    36)
  40. djsumdog                      0.38%    1,018,872 (units:   170)
  41. mainebot                      0.37%      990,537 (units:    53)
- 42. neil                          0.34%      928,845 (units:   229)
+ 42. neil                          0.34%      929,343 (units:   230)
  43. Requiem                       0.33%      893,950 (units:   296)
  44. jkl                           0.30%      819,712 (units:   219)
  45. Null                          0.30%      818,594 (units:    22)
@@ -121,11 +121,11 @@ As of 2020-05-05 00:55:41, hackers.town is rank 719
 119. nuklearfiziks                 0.01%       23,903 (units:     5)
 120. TMY                           0.01%       23,206 (units:    40)
 121. SJM                           0.01%       22,862 (units:     9)
-122. pixelpaperyarn                0.01%       19,221 (units:    29)
-123. electric.glowing.surf/        0.01%       17,368 (units:    21)
-124. shellkr                       0.01%       16,190 (units:    14)
-125. Twitter                       0.01%       16,044 (units:    19)
-126. Anunmouse                     0.01%       15,839 (units:    13)
+122. Anunmouse                     0.01%       21,194 (units:    14)
+123. pixelpaperyarn                0.01%       19,221 (units:    29)
+124. electric.glowing.surf/        0.01%       17,368 (units:    21)
+125. shellkr                       0.01%       16,190 (units:    14)
+126. Twitter                       0.01%       16,044 (units:    19)
 127. the_gibson                    0.01%       15,396 (units:     1)
 128. tn5421                        0.01%       15,126 (units:    40)
 129. dctrud                        0.01%       14,635 (units:     8)
