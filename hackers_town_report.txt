@@ -1,5 +1,5 @@
-As of 2020-05-05 03:25:52, hackers.town is rank 720
-   with 20,825 work units for 271,265,670 credits
+As of 2020-05-05 03:45:24, hackers.town is rank 720
+   with 20,828 work units for 271,270,380 credits
   1. wetdryvac                    11.85%   32,148,675 (units:   888)
   2. merimus                       7.59%   20,589,421 (units:   553)
   3. packetcat                     7.31%   19,829,617 (units:   153)
@@ -12,7 +12,7 @@ As of 2020-05-05 03:25:52, hackers.town is rank 720
  10. Calcifer                      2.88%    7,802,361 (units:   193)
  11. c0debabe                      2.66%    7,224,123 (units:   245)
  12. dafuchs                       2.22%    6,018,006 (units:   337)
- 13. elfgirlsarah                  1.93%    5,233,598 (units:   899)
+ 13. elfgirlsarah                  1.93%    5,233,963 (units:   900)
  14. SiinaCutie                    1.91%    5,188,566 (units:   235)
  15. FOOL                          1.84%    5,003,042 (units:   354)
  16. felix                         1.81%    4,901,391 (units:   185)
@@ -45,7 +45,7 @@ As of 2020-05-05 03:25:52, hackers.town is rank 720
  43. Requiem                       0.33%      893,950 (units:   296)
  44. jkl                           0.30%      822,562 (units:   220)
  45. Null                          0.30%      818,594 (units:    22)
- 46. zx3                           0.27%      745,170 (units:    88)
+ 46. zx3                           0.27%      745,671 (units:    89)
  47. TG                            0.26%      694,922 (units:   143)
  48. Canageek                      0.23%      622,498 (units:   163)
  49. HolSta                        0.23%      614,460 (units:   108)
@@ -59,7 +59,7 @@ As of 2020-05-05 03:25:52, hackers.town is rank 720
  57. Hany                          0.16%      421,021 (units:    99)
  58. fl0wn                         0.14%      388,420 (units:    74)
  59. Logomancer                    0.14%      379,429 (units:   240)
- 60.                               0.13%      364,202 (units:    79)
+ 60.                               0.14%      368,046 (units:    80)
  61. csrsuoeb                      0.12%      330,048 (units:    69)
  62. KitRedgrave                   0.12%      325,409 (units:    68)
  63. debugninja                    0.11%      288,707 (units:    34)
