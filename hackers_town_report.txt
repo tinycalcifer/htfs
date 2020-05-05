@@ -1,5 +1,5 @@
-As of 2020-05-05 16:35:35, hackers.town is rank 722
-   with 20,908 work units for 272,180,672 credits
+As of 2020-05-05 17:05:17, hackers.town is rank 722
+   with 20,911 work units for 272,187,367 credits
   1. wetdryvac                    11.81%   32,148,675 (units:   888)
   2. merimus                       7.56%   20,589,421 (units:   553)
   3. packetcat                     7.29%   19,829,617 (units:   153)
@@ -19,7 +19,7 @@ As of 2020-05-05 16:35:35, hackers.town is rank 722
  17. r000t                         1.44%    3,923,533 (units:   104)
  18. Mr.House                      1.35%    3,662,225 (units:   186)
  19. skraelingjar                  1.23%    3,352,989 (units:    64)
- 20. paullindner                   1.15%    3,138,923 (units:   622)
+ 20. paullindner                   1.15%    3,142,856 (units:   623)
  21. Kranfahrer                    1.11%    3,024,932 (units:   201)
  22. ryen                          1.08%    2,936,587 (units:   208)
  23. CookieMom                     1.03%    2,807,195 (units:   393)
@@ -86,7 +86,7 @@ As of 2020-05-05 16:35:35, hackers.town is rank 722
  84. crc32                         0.04%      102,610 (units:   129)
  85. heliostatic                   0.04%      101,482 (units:    26)
  86. RandomGeek                    0.04%       99,623 (units:    15)
- 87. pmosetc                       0.04%       98,046 (units:   116)
+ 87. pmosetc                       0.04%       98,248 (units:   117)
  88. JoshMulliken                  0.04%       97,080 (units:    23)
  89. claudiom                      0.03%       83,794 (units:   544)
  90. grasshopper                   0.03%       83,341 (units:   114)
@@ -98,7 +98,7 @@ As of 2020-05-05 16:35:35, hackers.town is rank 722
  96. Alteraner92                   0.03%       70,864 (units:    47)
  97. deowyth                       0.03%       68,655 (units:     5)
  98.                               0.02%       65,445 (units:    39)
- 99. micmac                        0.02%       62,636 (units:    47)
+ 99. micmac                        0.02%       65,196 (units:    48)
 100. tomatoefolding                0.02%       59,750 (units:     1)
 101. neoninteger                   0.02%       59,260 (units:    46)
 102. daum3ns                       0.02%       56,636 (units:     6)
