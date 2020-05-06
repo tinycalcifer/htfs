@@ -1,5 +1,5 @@
-As of 2020-05-06 06:35:19, hackers.town is rank 723
-   with 20,989 work units for 272,757,043 credits
+As of 2020-05-06 07:05:29, hackers.town is rank 723
+   with 20,992 work units for 272,769,586 credits
   1. wetdryvac                    11.79%   32,148,675 (units:   888)
   2. merimus                       7.55%   20,589,421 (units:   553)
   3. packetcat                     7.27%   19,829,617 (units:   153)
@@ -12,7 +12,7 @@ As of 2020-05-06 06:35:19, hackers.town is rank 723
  10. Calcifer                      2.86%    7,802,361 (units:   193)
  11. c0debabe                      2.65%    7,224,123 (units:   245)
  12. dafuchs                       2.21%    6,018,974 (units:   338)
- 13. elfgirlsarah                  1.93%    5,268,897 (units:   904)
+ 13. elfgirlsarah                  1.93%    5,273,959 (units:   905)
  14. SiinaCutie                    1.90%    5,188,566 (units:   235)
  15. FOOL                          1.83%    5,004,250 (units:   355)
  16. felix                         1.80%    4,901,391 (units:   185)
@@ -29,7 +29,7 @@ As of 2020-05-06 06:35:19, hackers.town is rank 723
  27. /dev/random                   0.78%    2,135,335 (units:   204)
  28. mandibular joint dysfunction  0.75%    2,044,879 (units:   830)
  29. pfreak                        0.73%    1,996,770 (units:    48)
- 30. Kyle                          0.63%    1,723,088 (units:   243)
+ 30. Kyle                          0.63%    1,727,065 (units:   244)
  31. rfquerin                      0.60%    1,638,770 (units:   107)
  32. Anonymous                     0.56%    1,516,692 (units:   521)
  33. DJ_Sundog                     0.55%    1,513,675 (units:   330)
@@ -43,7 +43,7 @@ As of 2020-05-06 06:35:19, hackers.town is rank 723
  41. djsumdog                      0.37%    1,018,872 (units:   170)
  42. mainebot                      0.36%      990,537 (units:    53)
  43. Requiem                       0.33%      893,950 (units:   296)
- 44. jkl                           0.31%      845,385 (units:   225)
+ 44. jkl                           0.31%      848,889 (units:   226)
  45. Null                          0.30%      818,594 (units:    22)
  46. zx3                           0.30%      812,506 (units:    93)
  47. TG                            0.25%      694,922 (units:   143)
