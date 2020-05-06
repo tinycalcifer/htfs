@@ -1,17 +1,17 @@
-As of 2020-05-06 12:45:37, hackers.town is rank 725
-   with 21,021 work units for 272,914,615 credits
+As of 2020-05-06 13:26:06, hackers.town is rank 725
+   with 21,025 work units for 272,969,826 credits
   1. wetdryvac                    11.78%   32,148,675 (units:   888)
   2. merimus                       7.54%   20,589,421 (units:   553)
-  3. packetcat                     7.27%   19,829,617 (units:   153)
+  3. packetcat                     7.26%   19,829,617 (units:   153)
   4. KemoNine                      6.85%   18,705,527 (units:   625)
   5. dokuja                        6.63%   18,104,692 (units:   474)
   6. Freakazoid                    6.38%   17,404,916 (units:   747)
-  7. Polychrome                    4.89%   13,352,092 (units:   557)
-  8. bhtooefr                      4.13%   11,275,827 (units:   344)
-  9. Werekat                       3.30%    9,013,658 (units:   498)
+  7. Polychrome                    4.89%   13,355,930 (units:   558)
+  8. bhtooefr                      4.13%   11,278,465 (units:   345)
+  9. Werekat                       3.32%    9,061,956 (units:   499)
  10. Calcifer                      2.86%    7,802,361 (units:   193)
  11. c0debabe                      2.65%    7,224,123 (units:   245)
- 12. dafuchs                       2.21%    6,018,974 (units:   338)
+ 12. dafuchs                       2.20%    6,018,974 (units:   338)
  13. elfgirlsarah                  1.94%    5,286,783 (units:   907)
  14. SiinaCutie                    1.90%    5,188,566 (units:   235)
  15. FOOL                          1.83%    5,004,250 (units:   355)
@@ -22,7 +22,7 @@ As of 2020-05-06 12:45:37, hackers.town is rank 725
  20. paullindner                   1.17%    3,195,129 (units:   631)
  21. Kranfahrer                    1.11%    3,024,932 (units:   201)
  22. ryen                          1.08%    2,936,587 (units:   208)
- 23. CookieMom                     1.03%    2,814,656 (units:   400)
+ 23. CookieMom                     1.03%    2,815,093 (units:   401)
  24. radicaledward                 1.00%    2,717,086 (units:    90)
  25. drwho                         0.90%    2,457,475 (units:   497)
  26. The_Gibson(HTown)             0.85%    2,330,035 (units:   212)
