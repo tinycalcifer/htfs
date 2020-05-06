@@ -1,5 +1,5 @@
-As of 2020-05-06 15:45:22, hackers.town is rank 726
-   with 21,038 work units for 273,126,364 credits
+As of 2020-05-06 16:15:32, hackers.town is rank 726
+   with 21,041 work units for 273,128,749 credits
   1. wetdryvac                    11.77%   32,148,675 (units:   888)
   2. merimus                       7.54%   20,589,421 (units:   553)
   3. packetcat                     7.26%   19,829,617 (units:   153)
@@ -22,7 +22,7 @@ As of 2020-05-06 15:45:22, hackers.town is rank 726
  20. paullindner                   1.17%    3,203,704 (units:   632)
  21. Kranfahrer                    1.11%    3,024,932 (units:   201)
  22. ryen                          1.08%    2,936,587 (units:   208)
- 23. CookieMom                     1.03%    2,815,093 (units:   401)
+ 23. CookieMom                     1.03%    2,816,093 (units:   402)
  24. radicaledward                 0.99%    2,717,086 (units:    90)
  25. drwho                         0.90%    2,457,475 (units:   497)
  26. The_Gibson(HTown)             0.85%    2,330,035 (units:   212)
@@ -102,7 +102,7 @@ As of 2020-05-06 15:45:22, hackers.town is rank 726
 100. tomatoefolding                0.02%       59,750 (units:     1)
 101. neoninteger                   0.02%       59,260 (units:    46)
 102. daum3ns                       0.02%       56,636 (units:     6)
-103. MaxAtCastleMalmeddy           0.02%       55,613 (units:    77)
+103. MaxAtCastleMalmeddy           0.02%       56,298 (units:    78)
 104. HiRezCanDo                    0.02%       51,658 (units:    59)
 105. socketwench                   0.02%       47,849 (units:    49)
 106. emelie                        0.02%       46,275 (units:     4)
@@ -110,7 +110,7 @@ As of 2020-05-06 15:45:22, hackers.town is rank 726
 108. Syrinx                        0.01%       35,530 (units:    82)
 109. Tool_Man                      0.01%       35,407 (units:    54)
 110. 11backslashes                 0.01%       35,292 (units:    56)
-111. technoid_                     0.01%       33,247 (units:    46)
+111. technoid_                     0.01%       33,947 (units:    47)
 112. Phlox                         0.01%       32,011 (units:     2)
 113. L4NN-1312                     0.01%       31,247 (units:    37)
 114. Anunmouse                     0.01%       29,281 (units:    20)
