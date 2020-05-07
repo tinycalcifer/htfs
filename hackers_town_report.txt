@@ -1,8 +1,8 @@
-As of 2020-05-07 14:05:34, hackers.town is rank 727
-   with 21,145 work units for 274,075,425 credits
+As of 2020-05-07 15:06:24, hackers.town is rank 729
+   with 21,148 work units for 274,084,429 credits
   1. wetdryvac                    11.73%   32,148,675 (units:   888)
   2. merimus                       7.51%   20,589,421 (units:   553)
-  3. packetcat                     7.24%   19,829,617 (units:   153)
+  3. packetcat                     7.23%   19,829,617 (units:   153)
   4. KemoNine                      6.82%   18,705,527 (units:   625)
   5. dokuja                        6.61%   18,104,692 (units:   474)
   6. Freakazoid                    6.37%   17,469,939 (units:   753)
@@ -29,7 +29,7 @@ As of 2020-05-07 14:05:34, hackers.town is rank 727
  27. /dev/random                   0.78%    2,135,335 (units:   204)
  28. mandibular joint dysfunction  0.75%    2,044,879 (units:   830)
  29. pfreak                        0.73%    1,996,770 (units:    48)
- 30. Kyle                          0.64%    1,759,573 (units:   250)
+ 30. Kyle                          0.64%    1,762,277 (units:   251)
  31. rfquerin                      0.60%    1,638,770 (units:   107)
  32. Anonymous                     0.56%    1,524,137 (units:   524)
  33. DJ_Sundog                     0.55%    1,513,675 (units:   330)
@@ -77,11 +77,11 @@ As of 2020-05-07 14:05:34, hackers.town is rank 727
  75. Michael_Simkin                0.06%      152,368 (units:    61)
  76. gwozniak                      0.05%      145,329 (units:   182)
  77. silksnep                      0.05%      141,111 (units:   176)
- 78. tbn97                         0.05%      135,229 (units:   108)
+ 78. tbn97                         0.05%      140,729 (units:   109)
  79. arbu                          0.05%      125,499 (units:     7)
  80. Neil                          0.05%      124,874 (units:    32)
- 81. crc32                         0.04%      113,748 (units:   140)
- 82. Bingo                         0.04%      113,732 (units:   173)
+ 81. Bingo                         0.04%      114,532 (units:   174)
+ 82. crc32                         0.04%      113,748 (units:   140)
  83. piggo                         0.04%      108,091 (units:    23)
  84. Nemesis                       0.04%      103,626 (units:    53)
  85. pmosetc                       0.04%      103,503 (units:   122)
