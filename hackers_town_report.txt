@@ -1,5 +1,5 @@
-As of 2020-05-08 14:25:23, hackers.town is rank 730
-   with 21,266 work units for 275,580,595 credits
+As of 2020-05-08 14:56:26, hackers.town is rank 730
+   with 21,269 work units for 275,597,798 credits
   1. wetdryvac                    11.67%   32,148,675 (units:   888)
   2. merimus                       7.47%   20,589,421 (units:   553)
   3. packetcat                     7.20%   19,829,617 (units:   153)
@@ -29,7 +29,7 @@ As of 2020-05-08 14:25:23, hackers.town is rank 730
  27. /dev/random                   0.77%    2,135,335 (units:   204)
  28. mandibular joint dysfunction  0.74%    2,044,879 (units:   830)
  29. pfreak                        0.72%    1,996,770 (units:    48)
- 30. Kyle                          0.65%    1,786,343 (units:   256)
+ 30. Kyle                          0.65%    1,791,524 (units:   257)
  31. rfquerin                      0.59%    1,638,770 (units:   107)
  32. Anonymous                     0.56%    1,537,857 (units:   527)
  33. DJ_Sundog                     0.55%    1,513,675 (units:   330)
@@ -52,9 +52,9 @@ As of 2020-05-08 14:25:23, hackers.town is rank 730
  50. HolSta                        0.22%      614,460 (units:   108)
  51. synfinner                     0.19%      527,623 (units:    14)
  52. tayo                          0.18%      497,485 (units:   150)
- 53. LordBowlich                   0.17%      463,120 (units:   136)
- 54. technolust                    0.17%      458,534 (units:   355)
- 55.                               0.17%      455,372 (units:    98)
+ 53.                               0.17%      464,694 (units:    99)
+ 54. LordBowlich                   0.17%      463,120 (units:   136)
+ 55. technolust                    0.17%      458,534 (units:   355)
  56. Mnemonic                      0.16%      434,508 (units:   163)
  57. protospork                    0.15%      423,894 (units:    59)
  58. Hany                          0.15%      421,021 (units:    99)
@@ -80,7 +80,7 @@ As of 2020-05-08 14:25:23, hackers.town is rank 730
  78. tbn97                         0.05%      140,729 (units:   109)
  79. arbu                          0.05%      125,499 (units:     7)
  80. Neil                          0.05%      124,874 (units:    32)
- 81. crc32                         0.04%      119,586 (units:   143)
+ 81. crc32                         0.04%      122,286 (units:   144)
  82. Bingo                         0.04%      116,833 (units:   178)
  83. pmosetc                       0.04%      110,741 (units:   125)
  84. piggo                         0.04%      108,091 (units:    23)
