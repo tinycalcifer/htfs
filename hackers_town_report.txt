@@ -1,10 +1,10 @@
-As of 2020-05-08 11:25:32, hackers.town is rank 730
-   with 21,253 work units for 275,337,521 credits
-  1. wetdryvac                    11.68%   32,148,675 (units:   888)
+As of 2020-05-08 11:55:25, hackers.town is rank 730
+   with 21,255 work units for 275,367,076 credits
+  1. wetdryvac                    11.67%   32,148,675 (units:   888)
   2. merimus                       7.48%   20,589,421 (units:   553)
   3. packetcat                     7.20%   19,829,617 (units:   153)
   4. KemoNine                      6.79%   18,705,527 (units:   625)
-  5. dokuja                        6.58%   18,104,692 (units:   474)
+  5. dokuja                        6.57%   18,104,692 (units:   474)
   6. Freakazoid                    6.36%   17,518,742 (units:   758)
   7. Polychrome                    5.16%   14,211,273 (units:   582)
   8. bhtooefr                      4.20%   11,554,433 (units:   357)
@@ -38,7 +38,7 @@ As of 2020-05-08 11:25:32, hackers.town is rank 730
  36. kusuriya                      0.48%    1,314,178 (units:    68)
  37. rmgr                          0.47%    1,290,558 (units:    47)
  38. qwazix                        0.42%    1,157,676 (units:   220)
- 39. neil                          0.41%    1,138,538 (units:   253)
+ 39. neil                          0.41%    1,139,493 (units:   254)
  40. TerrorBite                    0.39%    1,085,432 (units:    36)
  41. djsumdog                      0.37%    1,018,872 (units:   170)
  42. mainebot                      0.36%      990,537 (units:    53)
@@ -46,8 +46,8 @@ As of 2020-05-08 11:25:32, hackers.town is rank 730
  44. jkl                           0.33%      895,827 (units:   236)
  45. Requiem                       0.32%      893,950 (units:   296)
  46. Null                          0.30%      818,594 (units:    22)
- 47. TG                            0.25%      694,922 (units:   143)
- 48. Canageek                      0.25%      677,083 (units:   173)
+ 47. Canageek                      0.26%      705,683 (units:   174)
+ 48. TG                            0.25%      694,922 (units:   143)
  49. m68k                          0.23%      621,530 (units:   149)
  50. HolSta                        0.22%      614,460 (units:   108)
  51. synfinner                     0.19%      527,623 (units:    14)
