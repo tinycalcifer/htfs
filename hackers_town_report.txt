@@ -1,5 +1,5 @@
-As of 2020-05-09 17:05:54, hackers.town is rank 739
-   with 21,402 work units for 276,791,556 credits
+As of 2020-05-09 17:15:37, hackers.town is rank 739
+   with 21,405 work units for 276,794,884 credits
   1. wetdryvac                    11.61%   32,148,675 (units:   888)
   2. merimus                       7.44%   20,589,421 (units:   553)
   3. packetcat                     7.16%   19,829,617 (units:   153)
@@ -90,9 +90,9 @@ As of 2020-05-09 17:05:54, hackers.town is rank 739
  88. JoshMulliken                  0.04%       97,080 (units:    23)
  89. grasshopper                   0.03%       87,861 (units:   119)
  90. claudiom                      0.03%       83,794 (units:   544)
- 91. Purple                        0.03%       81,458 (units:    85)
- 92. Kirjis                        0.03%       79,781 (units:   106)
- 93. micmac                        0.03%       79,739 (units:    64)
+ 91. micmac                        0.03%       82,439 (units:    65)
+ 92. Purple                        0.03%       81,458 (units:    85)
+ 93. Kirjis                        0.03%       79,781 (units:   106)
  94. Seb                           0.03%       75,368 (units:   128)
  95. George_                       0.03%       75,198 (units:    12)
  96. Murph                         0.03%       71,069 (units:    21)
@@ -107,7 +107,7 @@ As of 2020-05-09 17:05:54, hackers.town is rank 739
 105. socketwench                   0.02%       47,849 (units:    49)
 106. emelie                        0.02%       46,275 (units:     4)
 107. huobijubajeebajoba            0.01%       38,451 (units:    15)
-108. technoid_                     0.01%       36,237 (units:    50)
+108. technoid_                     0.01%       36,807 (units:    51)
 109. Syrinx                        0.01%       35,530 (units:    82)
 110. Tool_Man                      0.01%       35,407 (units:    54)
 111. 11backslashes                 0.01%       35,292 (units:    56)
@@ -154,5 +154,5 @@ As of 2020-05-09 17:05:54, hackers.town is rank 739
 152. Hactar                        0.00%          286 (units:     1)
 153. rev. vulgo virus              0.00%          220 (units:     1)
 154. NoraCodes                     0.00%          145 (units:    12)
-155. niconiconi                    0.00%           70 (units:     3)
+155. niconiconi                    0.00%          128 (units:     4)
 156. cyberia                       0.00%           27 (units:     1)
