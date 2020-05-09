@@ -1,7 +1,7 @@
-As of 2020-05-09 09:25:41, hackers.town is rank 734
-   with 21,359 work units for 276,547,291 credits
-  1. wetdryvac                    11.63%   32,148,675 (units:   888)
-  2. merimus                       7.45%   20,589,421 (units:   553)
+As of 2020-05-09 10:15:52, hackers.town is rank 734
+   with 21,362 work units for 276,560,602 credits
+  1. wetdryvac                    11.62%   32,148,675 (units:   888)
+  2. merimus                       7.44%   20,589,421 (units:   553)
   3. packetcat                     7.17%   19,829,617 (units:   153)
   4. KemoNine                      6.76%   18,705,527 (units:   625)
   5. dokuja                        6.55%   18,104,692 (units:   474)
@@ -12,11 +12,11 @@ As of 2020-05-09 09:25:41, hackers.town is rank 734
  10. Calcifer                      2.82%    7,802,361 (units:   193)
  11. c0debabe                      2.61%    7,224,123 (units:   245)
  12. dafuchs                       2.18%    6,032,513 (units:   344)
- 13. elfgirlsarah                  1.95%    5,403,527 (units:   913)
+ 13. elfgirlsarah                  1.96%    5,408,215 (units:   914)
  14. SiinaCutie                    1.88%    5,188,566 (units:   235)
  15. FOOL                          1.81%    5,006,220 (units:   356)
  16. felix                         1.77%    4,901,391 (units:   185)
- 17. r000t                         1.42%    3,926,303 (units:   106)
+ 17. r000t                         1.42%    3,933,926 (units:   107)
  18. Mr.House                      1.33%    3,668,555 (units:   187)
  19. skraelingjar                  1.21%    3,352,989 (units:    64)
  20. paullindner                   1.20%    3,309,873 (units:   650)
@@ -92,7 +92,7 @@ As of 2020-05-09 09:25:41, hackers.town is rank 734
  90. claudiom                      0.03%       83,794 (units:   544)
  91. Purple                        0.03%       81,458 (units:    85)
  92. Kirjis                        0.03%       79,781 (units:   106)
- 93. micmac                        0.03%       77,847 (units:    62)
+ 93. micmac                        0.03%       78,847 (units:    63)
  94. Seb                           0.03%       75,368 (units:   128)
  95. George_                       0.03%       75,198 (units:    12)
  96. Murph                         0.03%       71,069 (units:    21)
