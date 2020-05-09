@@ -1,11 +1,11 @@
-As of 2020-05-09 06:55:31, hackers.town is rank 734
-   with 21,342 work units for 276,330,207 credits
+As of 2020-05-09 07:15:37, hackers.town is rank 734
+   with 21,345 work units for 276,341,687 credits
   1. wetdryvac                    11.63%   32,148,675 (units:   888)
   2. merimus                       7.45%   20,589,421 (units:   553)
   3. packetcat                     7.18%   19,829,617 (units:   153)
   4. KemoNine                      6.77%   18,705,527 (units:   625)
   5. dokuja                        6.55%   18,104,692 (units:   474)
-  6. Freakazoid                    6.35%   17,533,528 (units:   761)
+  6. Freakazoid                    6.35%   17,542,241 (units:   762)
   7. Polychrome                    5.16%   14,247,510 (units:   584)
   8. bhtooefr                      4.22%   11,666,372 (units:   361)
   9. Werekat                       3.62%   10,012,977 (units:   533)
@@ -43,7 +43,7 @@ As of 2020-05-09 06:55:31, hackers.town is rank 734
  41. djsumdog                      0.37%    1,018,872 (units:   170)
  42. mainebot                      0.36%      990,537 (units:    53)
  43. zx3                           0.35%      960,766 (units:   103)
- 44. jkl                           0.33%      915,277 (units:   239)
+ 44. jkl                           0.33%      917,497 (units:   240)
  45. Requiem                       0.32%      893,950 (units:   296)
  46. Null                          0.30%      818,594 (units:    22)
  47. Canageek                      0.26%      708,933 (units:   175)
@@ -82,7 +82,7 @@ As of 2020-05-09 06:55:31, hackers.town is rank 734
  80. arbu                          0.05%      125,499 (units:     7)
  81. Neil                          0.05%      124,874 (units:    32)
  82. Bingo                         0.04%      117,253 (units:   179)
- 83. pmosetc                       0.04%      113,288 (units:   126)
+ 83. pmosetc                       0.04%      113,835 (units:   127)
  84. piggo                         0.04%      108,091 (units:    23)
  85. Nemesis                       0.04%      103,626 (units:    53)
  86. heliostatic                   0.04%      101,482 (units:    26)
