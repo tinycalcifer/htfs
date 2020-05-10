@@ -1,5 +1,5 @@
-As of 2020-05-10 22:25:39, hackers.town is rank 746
-   with 21,568 work units for 278,232,989 credits
+As of 2020-05-10 22:36:21, hackers.town is rank 746
+   with 21,570 work units for 278,250,604 credits
   1. wetdryvac                    11.55%   32,148,675 (units:   888)
   2. merimus                       7.40%   20,589,421 (units:   553)
   3. packetcat                     7.13%   19,829,617 (units:   153)
@@ -20,7 +20,7 @@ As of 2020-05-10 22:25:39, hackers.town is rank 746
  18. Mr.House                      1.35%    3,762,818 (units:   192)
  19. paullindner                   1.21%    3,371,235 (units:   663)
  20. skraelingjar                  1.21%    3,352,989 (units:    64)
- 21. CookieMom                     1.14%    3,158,135 (units:   445)
+ 21. CookieMom                     1.13%    3,158,135 (units:   445)
  22. Kranfahrer                    1.09%    3,024,932 (units:   201)
  23. ryen                          1.06%    2,936,587 (units:   208)
  24. radicaledward                 0.98%    2,717,086 (units:    90)
@@ -75,11 +75,11 @@ As of 2020-05-10 22:25:39, hackers.town is rank 746
  73. Michael_Simkin                0.06%      163,367 (units:    64)
  74. RandyNose                     0.06%      162,127 (units:   210)
  75. BadGateway                    0.06%      161,439 (units:    84)
- 76. gwozniak                      0.05%      145,329 (units:   182)
- 77. tbn97                         0.05%      143,429 (units:   110)
- 78. silksnep                      0.05%      141,111 (units:   176)
- 79. crc32                         0.05%      134,430 (units:   162)
- 80. niconiconi                    0.05%      134,256 (units:    13)
+ 76. niconiconi                    0.05%      150,871 (units:    14)
+ 77. gwozniak                      0.05%      145,329 (units:   182)
+ 78. tbn97                         0.05%      143,429 (units:   110)
+ 79. silksnep                      0.05%      141,111 (units:   176)
+ 80. crc32                         0.05%      134,430 (units:   162)
  81. arbu                          0.05%      125,499 (units:     7)
  82. Neil                          0.04%      124,874 (units:    32)
  83. Bingo                         0.04%      121,533 (units:   185)
@@ -89,7 +89,7 @@ As of 2020-05-10 22:25:39, hackers.town is rank 746
  87. heliostatic                   0.04%      101,482 (units:    26)
  88. RandomGeek                    0.04%       99,623 (units:    15)
  89. JoshMulliken                  0.03%       97,080 (units:    23)
- 90. micmac                        0.03%       91,344 (units:    75)
+ 90. micmac                        0.03%       92,344 (units:    76)
  91. grasshopper                   0.03%       87,861 (units:   119)
  92. claudiom                      0.03%       83,794 (units:   544)
  93. Purple                        0.03%       81,458 (units:    85)
