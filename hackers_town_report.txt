@@ -1,13 +1,13 @@
-As of 2020-05-10 06:15:52, hackers.town is rank 745
-   with 21,475 work units for 277,464,205 credits
+As of 2020-05-10 06:35:40, hackers.town is rank 745
+   with 21,478 work units for 277,472,435 credits
   1. wetdryvac                    11.59%   32,148,675 (units:   888)
   2. merimus                       7.42%   20,589,421 (units:   553)
   3. packetcat                     7.15%   19,829,617 (units:   153)
   4. KemoNine                      6.74%   18,705,527 (units:   625)
-  5. dokuja                        6.53%   18,104,692 (units:   474)
+  5. dokuja                        6.52%   18,104,692 (units:   474)
   6. Freakazoid                    6.39%   17,731,642 (units:   772)
   7. Polychrome                    5.15%   14,287,909 (units:   589)
-  8. bhtooefr                      4.23%   11,730,158 (units:   364)
+  8. bhtooefr                      4.23%   11,736,633 (units:   365)
   9. Werekat                       3.63%   10,069,405 (units:   540)
  10. Calcifer                      2.81%    7,802,361 (units:   193)
  11. c0debabe                      2.60%    7,224,123 (units:   245)
@@ -78,7 +78,7 @@ As of 2020-05-10 06:15:52, hackers.town is rank 745
  76. gwozniak                      0.05%      145,329 (units:   182)
  77. tbn97                         0.05%      143,429 (units:   110)
  78. silksnep                      0.05%      141,111 (units:   176)
- 79. crc32                         0.05%      130,614 (units:   156)
+ 79. crc32                         0.05%      131,369 (units:   157)
  80. arbu                          0.05%      125,499 (units:     7)
  81. Neil                          0.05%      124,874 (units:    32)
  82. Bingo                         0.04%      120,097 (units:   183)
@@ -88,8 +88,8 @@ As of 2020-05-10 06:15:52, hackers.town is rank 745
  86. heliostatic                   0.04%      101,482 (units:    26)
  87. RandomGeek                    0.04%       99,623 (units:    15)
  88. JoshMulliken                  0.03%       97,080 (units:    23)
- 89. grasshopper                   0.03%       87,861 (units:   119)
- 90. micmac                        0.03%       86,869 (units:    68)
+ 89. micmac                        0.03%       87,869 (units:    69)
+ 90. grasshopper                   0.03%       87,861 (units:   119)
  91. claudiom                      0.03%       83,794 (units:   544)
  92. Purple                        0.03%       81,458 (units:    85)
  93. Kirjis                        0.03%       79,781 (units:   106)
