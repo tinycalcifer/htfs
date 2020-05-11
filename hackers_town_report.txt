@@ -1,5 +1,5 @@
-As of 2020-05-11 21:35:48, hackers.town is rank 753
-   with 21,688 work units for 279,070,491 credits
+As of 2020-05-11 22:15:54, hackers.town is rank 753
+   with 21,691 work units for 279,073,274 credits
   1. wetdryvac                    11.52%   32,148,675 (units:   888)
   2. merimus                       7.38%   20,589,421 (units:   553)
   3. packetcat                     7.11%   19,829,617 (units:   153)
@@ -20,7 +20,7 @@ As of 2020-05-11 21:35:48, hackers.town is rank 753
  18. Mr.House                      1.35%    3,770,978 (units:   194)
  19. paullindner                   1.22%    3,412,230 (units:   671)
  20. skraelingjar                  1.20%    3,352,989 (units:    64)
- 21. CookieMom                     1.16%    3,239,158 (units:   456)
+ 21. CookieMom                     1.16%    3,239,894 (units:   457)
  22. Kranfahrer                    1.08%    3,024,932 (units:   201)
  23. ryen                          1.05%    2,936,587 (units:   208)
  24. radicaledward                 0.97%    2,717,086 (units:    90)
@@ -108,12 +108,12 @@ As of 2020-05-11 21:35:48, hackers.town is rank 753
 106. socketwench                   0.02%       47,849 (units:    49)
 107. emelie                        0.02%       46,275 (units:     4)
 108. 11backslashes                 0.02%       42,900 (units:    57)
-109. huobijubajeebajoba            0.01%       38,451 (units:    15)
-110. technoid_                     0.01%       38,143 (units:    53)
+109. technoid_                     0.01%       38,668 (units:    54)
+110. huobijubajeebajoba            0.01%       38,451 (units:    15)
 111. Syrinx                        0.01%       35,530 (units:    82)
 112. Tool_Man                      0.01%       35,407 (units:    54)
-113. Phlox                         0.01%       32,011 (units:     2)
-114. L4NN-1312                     0.01%       31,759 (units:    38)
+113. L4NN-1312                     0.01%       33,281 (units:    39)
+114. Phlox                         0.01%       32,011 (units:     2)
 115. Anunmouse                     0.01%       30,926 (units:    23)
 116. amsomniac                     0.01%       28,888 (units:    41)
 117. SteveTheDragon                0.01%       28,289 (units:    19)
