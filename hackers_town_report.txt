@@ -1,5 +1,5 @@
-As of 2020-05-11 05:05:29, hackers.town is rank 748
-   with 21,605 work units for 278,436,294 credits
+As of 2020-05-11 05:25:54, hackers.town is rank 748
+   with 21,608 work units for 278,438,804 credits
   1. wetdryvac                    11.55%   32,148,675 (units:   888)
   2. merimus                       7.39%   20,589,421 (units:   553)
   3. packetcat                     7.12%   19,829,617 (units:   153)
@@ -39,8 +39,8 @@ As of 2020-05-11 05:05:29, hackers.town is rank 748
  37. rmgr                          0.46%    1,290,558 (units:    47)
  38. neil                          0.42%    1,158,594 (units:   262)
  39. qwazix                        0.42%    1,157,676 (units:   220)
- 40. TerrorBite                    0.39%    1,085,432 (units:    36)
- 41. zx3                           0.39%    1,084,828 (units:   110)
+ 40. zx3                           0.39%    1,085,583 (units:   111)
+ 41. TerrorBite                    0.39%    1,085,432 (units:    36)
  42. djsumdog                      0.37%    1,018,872 (units:   170)
  43. mainebot                      0.36%      990,537 (units:    53)
  44. jkl                           0.34%      959,211 (units:   249)
@@ -79,7 +79,7 @@ As of 2020-05-11 05:05:29, hackers.town is rank 748
  77. gwozniak                      0.05%      145,329 (units:   182)
  78. tbn97                         0.05%      143,429 (units:   110)
  79. silksnep                      0.05%      141,111 (units:   176)
- 80. crc32                         0.05%      137,130 (units:   163)
+ 80. crc32                         0.05%      137,885 (units:   164)
  81. arbu                          0.05%      125,499 (units:     7)
  82. Neil                          0.04%      124,874 (units:    32)
  83. Bingo                         0.04%      122,968 (units:   187)
@@ -109,7 +109,7 @@ As of 2020-05-11 05:05:29, hackers.town is rank 748
 107. emelie                        0.02%       46,275 (units:     4)
 108. 11backslashes                 0.02%       42,900 (units:    57)
 109. huobijubajeebajoba            0.01%       38,451 (units:    15)
-110. technoid_                     0.01%       37,143 (units:    52)
+110. technoid_                     0.01%       38,143 (units:    53)
 111. Syrinx                        0.01%       35,530 (units:    82)
 112. Tool_Man                      0.01%       35,407 (units:    54)
 113. Phlox                         0.01%       32,011 (units:     2)
