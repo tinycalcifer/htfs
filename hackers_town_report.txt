@@ -1,5 +1,5 @@
-As of 2020-05-12 12:35:44, hackers.town is rank 753
-   with 21,756 work units for 279,737,089 credits
+As of 2020-05-12 12:45:34, hackers.town is rank 753
+   with 21,758 work units for 279,771,678 credits
   1. wetdryvac                    11.49%   32,148,675 (units:   888)
   2. merimus                       7.36%   20,589,421 (units:   553)
   3. packetcat                     7.09%   19,829,617 (units:   153)
@@ -42,7 +42,7 @@ As of 2020-05-12 12:35:44, hackers.town is rank 753
  40. zx3                           0.41%    1,142,558 (units:   116)
  41. TerrorBite                    0.39%    1,085,432 (units:    36)
  42. djsumdog                      0.36%    1,018,872 (units:   170)
- 43. jkl                           0.35%      990,561 (units:   254)
+ 43. jkl                           0.36%      993,395 (units:   255)
  44. mainebot                      0.35%      990,537 (units:    53)
  45. Requiem                       0.32%      893,950 (units:   296)
  46. Null                          0.29%      818,594 (units:    22)
@@ -55,10 +55,10 @@ As of 2020-05-12 12:35:44, hackers.town is rank 753
  53. tayo                          0.18%      497,485 (units:   150)
  54. LordBowlich                   0.17%      463,120 (units:   136)
  55. technolust                    0.16%      458,534 (units:   355)
- 56. Mnemonic                      0.16%      434,508 (units:   163)
- 57. protospork                    0.15%      423,894 (units:    59)
- 58. Hany                          0.15%      421,021 (units:    99)
- 59. niconiconi                    0.14%      403,560 (units:    30)
+ 56. niconiconi                    0.16%      435,315 (units:    31)
+ 57. Mnemonic                      0.16%      434,508 (units:   163)
+ 58. protospork                    0.15%      423,894 (units:    59)
+ 59. Hany                          0.15%      421,021 (units:    99)
  60. fl0wn                         0.14%      388,420 (units:    74)
  61. Logomancer                    0.14%      379,429 (units:   240)
  62. csrsuoeb                      0.12%      330,048 (units:    69)
