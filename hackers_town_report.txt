@@ -1,5 +1,5 @@
-As of 2020-05-12 09:06:20, hackers.town is rank 753
-   with 21,741 work units for 279,572,964 credits
+As of 2020-05-12 09:36:25, hackers.town is rank 753
+   with 21,744 work units for 279,589,008 credits
   1. wetdryvac                    11.50%   32,148,675 (units:   888)
   2. merimus                       7.36%   20,589,421 (units:   553)
   3. packetcat                     7.09%   19,829,617 (units:   153)
@@ -20,7 +20,7 @@ As of 2020-05-12 09:06:20, hackers.town is rank 753
  18. Mr.House                      1.35%    3,773,798 (units:   195)
  19. paullindner                   1.23%    3,428,806 (units:   675)
  20. skraelingjar                  1.20%    3,352,989 (units:    64)
- 21. CookieMom                     1.17%    3,272,194 (units:   462)
+ 21. CookieMom                     1.17%    3,274,754 (units:   463)
  22. Kranfahrer                    1.08%    3,024,932 (units:   201)
  23. ryen                          1.05%    2,936,587 (units:   208)
  24. radicaledward                 0.97%    2,717,086 (units:    90)
@@ -42,11 +42,11 @@ As of 2020-05-12 09:06:20, hackers.town is rank 753
  40. zx3                           0.41%    1,142,558 (units:   116)
  41. TerrorBite                    0.39%    1,085,432 (units:    36)
  42. djsumdog                      0.36%    1,018,872 (units:   170)
- 43. mainebot                      0.35%      990,537 (units:    53)
- 44. jkl                           0.35%      977,575 (units:   253)
+ 43. jkl                           0.35%      990,561 (units:   254)
+ 44. mainebot                      0.35%      990,537 (units:    53)
  45. Requiem                       0.32%      893,950 (units:   296)
  46. Null                          0.29%      818,594 (units:    22)
- 47. Canageek                      0.26%      724,785 (units:   178)
+ 47. Canageek                      0.26%      725,283 (units:   179)
  48. TG                            0.25%      694,922 (units:   143)
  49. m68k                          0.22%      624,930 (units:   151)
  50. HolSta                        0.22%      614,460 (units:   108)
