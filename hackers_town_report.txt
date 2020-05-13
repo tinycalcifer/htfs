@@ -1,5 +1,5 @@
-As of 2020-05-13 02:25:46, hackers.town is rank 757
-   with 21,828 work units for 280,506,614 credits
+As of 2020-05-13 03:25:52, hackers.town is rank 758
+   with 21,831 work units for 280,515,622 credits
   1. wetdryvac                    11.46%   32,148,675 (units:   888)
   2. merimus                       7.34%   20,589,421 (units:   553)
   3. packetcat                     7.07%   19,829,617 (units:   153)
@@ -18,7 +18,7 @@ As of 2020-05-13 02:25:46, hackers.town is rank 757
  16. felix                         1.75%    4,901,391 (units:   185)
  17. r000t                         1.40%    3,939,122 (units:   108)
  18. Mr.House                      1.37%    3,856,828 (units:   198)
- 19. paullindner                   1.23%    3,455,628 (units:   680)
+ 19. paullindner                   1.23%    3,459,896 (units:   681)
  20. CookieMom                     1.21%    3,401,912 (units:   475)
  21. skraelingjar                  1.20%    3,352,989 (units:    64)
  22. Kranfahrer                    1.08%    3,024,932 (units:   201)
@@ -31,7 +31,7 @@ As of 2020-05-13 02:25:46, hackers.town is rank 757
  29. pfreak                        0.71%    1,996,770 (units:    48)
  30. Kyle                          0.69%    1,929,564 (units:   287)
  31. rfquerin                      0.58%    1,638,770 (units:   107)
- 32. Anonymous                     0.56%    1,575,707 (units:   535)
+ 32. Anonymous                     0.56%    1,579,717 (units:   536)
  33. DJ_Sundog                     0.54%    1,513,675 (units:   330)
  34. avolkov                       0.54%    1,506,966 (units:    91)
  35. sungo                         0.51%    1,432,642 (units:   399)
@@ -80,7 +80,7 @@ As of 2020-05-13 02:25:46, hackers.town is rank 757
  78. tbn97                         0.05%      143,429 (units:   110)
  79. crc32                         0.05%      142,085 (units:   170)
  80. silksnep                      0.05%      141,111 (units:   176)
- 81. pmosetc                       0.05%      129,848 (units:   138)
+ 81. pmosetc                       0.05%      130,578 (units:   139)
  82. arbu                          0.04%      125,499 (units:     7)
  83. Neil                          0.04%      124,874 (units:    32)
  84. Bingo                         0.04%      124,668 (units:   189)
