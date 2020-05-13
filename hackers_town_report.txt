@@ -1,5 +1,5 @@
-As of 2020-05-12 23:55:37, hackers.town is rank 755
-   with 21,811 work units for 280,255,658 credits
+As of 2020-05-13 00:26:07, hackers.town is rank 757
+   with 21,813 work units for 280,265,605 credits
   1. wetdryvac                    11.47%   32,148,675 (units:   888)
   2. merimus                       7.35%   20,589,421 (units:   553)
   3. packetcat                     7.08%   19,829,617 (units:   153)
@@ -11,7 +11,7 @@ As of 2020-05-12 23:55:37, hackers.town is rank 755
   9. Werekat                       3.74%   10,479,874 (units:   559)
  10. Calcifer                      2.78%    7,802,361 (units:   193)
  11. c0debabe                      2.58%    7,224,123 (units:   245)
- 12. dafuchs                       2.20%    6,151,624 (units:   360)
+ 12. dafuchs                       2.19%    6,151,624 (units:   360)
  13. elfgirlsarah                  2.10%    5,885,416 (units:   931)
  14. SiinaCutie                    1.85%    5,188,566 (units:   235)
  15. FOOL                          1.79%    5,006,220 (units:   356)
@@ -67,7 +67,7 @@ As of 2020-05-12 23:55:37, hackers.town is rank 755
  65. ZenCoder                      0.10%      281,041 (units:    87)
  66. Kyresti                       0.09%      262,134 (units:    39)
  67. Brian                         0.09%      259,022 (units:    82)
- 68. jerephil                      0.09%      244,211 (units:   171)
+ 68. jerephil                      0.09%      244,753 (units:   172)
  69. Neue.City                     0.08%      232,564 (units:    56)
  70. Imani                         0.07%      209,939 (units:   273)
  71. folding_with_gibson           0.07%      203,789 (units:   115)
@@ -101,10 +101,10 @@ As of 2020-05-12 23:55:37, hackers.town is rank 755
  99. deowyth                       0.02%       68,655 (units:     5)
 100.                               0.02%       65,445 (units:    39)
 101. MaxAtCastleMalmeddy           0.02%       63,529 (units:    88)
-102. tomatoefolding                0.02%       59,750 (units:     1)
-103. neoninteger                   0.02%       59,260 (units:    46)
-104. daum3ns                       0.02%       56,636 (units:     6)
-105. 11backslashes                 0.02%       52,305 (units:    58)
+102. 11backslashes                 0.02%       61,710 (units:    59)
+103. tomatoefolding                0.02%       59,750 (units:     1)
+104. neoninteger                   0.02%       59,260 (units:    46)
+105. daum3ns                       0.02%       56,636 (units:     6)
 106. HiRezCanDo                    0.02%       51,658 (units:    59)
 107. socketwench                   0.02%       47,849 (units:    49)
 108. emelie                        0.02%       46,275 (units:     4)
