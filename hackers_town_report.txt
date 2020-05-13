@@ -1,11 +1,11 @@
-As of 2020-05-13 08:55:30, hackers.town is rank 758
-   with 21,858 work units for 281,076,557 credits
+As of 2020-05-13 09:26:07, hackers.town is rank 759
+   with 21,861 work units for 281,088,269 credits
   1. wetdryvac                    11.44%   32,148,675 (units:   888)
-  2. merimus                       7.33%   20,589,421 (units:   553)
+  2. merimus                       7.32%   20,589,421 (units:   553)
   3. packetcat                     7.05%   19,829,617 (units:   153)
   4. KemoNine                      6.65%   18,705,527 (units:   625)
   5. dokuja                        6.44%   18,104,692 (units:   474)
-  6. Freakazoid                    6.38%   17,945,993 (units:   789)
+  6. Freakazoid                    6.39%   17,949,492 (units:   790)
   7. Polychrome                    5.25%   14,750,962 (units:   615)
   8. bhtooefr                      4.26%   11,962,290 (units:   384)
   9. Werekat                       3.81%   10,705,441 (units:   565)
@@ -42,7 +42,7 @@ As of 2020-05-13 08:55:30, hackers.town is rank 758
  40. zx3                           0.41%    1,142,558 (units:   116)
  41. TerrorBite                    0.39%    1,085,432 (units:    36)
  42. djsumdog                      0.36%    1,018,872 (units:   170)
- 43. jkl                           0.36%    1,009,698 (units:   257)
+ 43. jkl                           0.36%    1,014,619 (units:   258)
  44. mainebot                      0.35%      990,537 (units:    53)
  45. Requiem                       0.32%      893,950 (units:   296)
  46. Null                          0.29%      818,594 (units:    22)
@@ -50,7 +50,7 @@ As of 2020-05-13 08:55:30, hackers.town is rank 758
  48. TG                            0.25%      694,922 (units:   143)
  49. m68k                          0.22%      625,930 (units:   152)
  50. HolSta                        0.22%      614,460 (units:   108)
- 51.                               0.21%      597,089 (units:   127)
+ 51.                               0.21%      600,381 (units:   128)
  52. niconiconi                    0.21%      582,377 (units:    36)
  53. synfinner                     0.19%      527,623 (units:    14)
  54. tayo                          0.18%      497,485 (units:   150)
