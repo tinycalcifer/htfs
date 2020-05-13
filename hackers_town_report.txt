@@ -1,5 +1,5 @@
-As of 2020-05-13 09:35:58, hackers.town is rank 759
-   with 21,862 work units for 281,088,799 credits
+As of 2020-05-13 09:55:47, hackers.town is rank 759
+   with 21,865 work units for 281,101,615 credits
   1. wetdryvac                    11.44%   32,148,675 (units:   888)
   2. merimus                       7.32%   20,589,421 (units:   553)
   3. packetcat                     7.05%   19,829,617 (units:   153)
@@ -18,7 +18,7 @@ As of 2020-05-13 09:35:58, hackers.town is rank 759
  16. felix                         1.74%    4,901,391 (units:   185)
  17. r000t                         1.40%    3,939,122 (units:   108)
  18. Mr.House                      1.37%    3,856,828 (units:   198)
- 19. paullindner                   1.23%    3,463,905 (units:   682)
+ 19. paullindner                   1.23%    3,470,312 (units:   683)
  20. CookieMom                     1.23%    3,457,963 (units:   479)
  21. skraelingjar                  1.19%    3,352,989 (units:    64)
  22. Kranfahrer                    1.08%    3,024,932 (units:   201)
@@ -29,7 +29,7 @@ As of 2020-05-13 09:35:58, hackers.town is rank 759
  27. /dev/random                   0.76%    2,135,335 (units:   204)
  28. mandibular joint dysfunction  0.73%    2,044,879 (units:   830)
  29. pfreak                        0.71%    1,996,770 (units:    48)
- 30. Kyle                          0.69%    1,940,296 (units:   288)
+ 30. Kyle                          0.69%    1,944,158 (units:   289)
  31. rfquerin                      0.58%    1,638,770 (units:   107)
  32. Anonymous                     0.56%    1,579,717 (units:   536)
  33. DJ_Sundog                     0.54%    1,513,675 (units:   330)
@@ -37,7 +37,7 @@ As of 2020-05-13 09:35:58, hackers.town is rank 759
  35. sungo                         0.51%    1,432,642 (units:   399)
  36. kusuriya                      0.47%    1,314,178 (units:    68)
  37. rmgr                          0.46%    1,290,558 (units:    47)
- 38. neil                          0.41%    1,160,579 (units:   265)
+ 38. neil                          0.41%    1,163,126 (units:   266)
  39. qwazix                        0.41%    1,157,676 (units:   220)
  40. zx3                           0.41%    1,142,558 (units:   116)
  41. TerrorBite                    0.39%    1,085,432 (units:    36)
