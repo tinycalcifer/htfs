@@ -1,5 +1,5 @@
-As of 2020-05-14 21:35:38, hackers.town is rank 768
-   with 22,050 work units for 283,817,961 credits
+As of 2020-05-14 22:05:59, hackers.town is rank 768
+   with 22,053 work units for 283,836,050 credits
   1. wetdryvac                    11.33%   32,148,675 (units:   888)
   2. merimus                       7.25%   20,589,421 (units:   553)
   3. packetcat                     6.99%   19,829,617 (units:   153)
@@ -37,7 +37,7 @@ As of 2020-05-14 21:35:38, hackers.town is rank 768
  35. sungo                         0.50%    1,432,642 (units:   399)
  36. kusuriya                      0.46%    1,314,178 (units:    68)
  37. rmgr                          0.45%    1,290,558 (units:    47)
- 38. neil                          0.41%    1,172,863 (units:   270)
+ 38. neil                          0.42%    1,189,478 (units:   271)
  39. qwazix                        0.41%    1,157,676 (units:   220)
  40. zx3                           0.40%    1,142,558 (units:   116)
  41. TerrorBite                    0.38%    1,085,432 (units:    36)
@@ -50,7 +50,7 @@ As of 2020-05-14 21:35:38, hackers.town is rank 768
  48. niconiconi                    0.25%      714,200 (units:    40)
  49. TG                            0.24%      694,922 (units:   143)
  50.                               0.23%      639,492 (units:   136)
- 51. m68k                          0.22%      627,060 (units:   153)
+ 51. m68k                          0.22%      627,779 (units:   154)
  52. HolSta                        0.22%      614,460 (units:   108)
  53. synfinner                     0.19%      527,623 (units:    14)
  54. tayo                          0.18%      497,485 (units:   150)
@@ -76,7 +76,7 @@ As of 2020-05-14 21:35:38, hackers.town is rank 768
  74. Michael_Simkin                0.06%      163,367 (units:    64)
  75. RandyNose                     0.06%      162,127 (units:   210)
  76. BadGateway                    0.06%      161,439 (units:    84)
- 77. crc32                         0.05%      148,248 (units:   179)
+ 77. crc32                         0.05%      149,003 (units:   180)
  78. gwozniak                      0.05%      145,329 (units:   182)
  79. tbn97                         0.05%      143,429 (units:   110)
  80. silksnep                      0.05%      141,111 (units:   176)
