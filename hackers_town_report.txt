@@ -1,10 +1,10 @@
-As of 2020-05-15 07:25:37, hackers.town is rank 768
-   with 22,106 work units for 284,526,091 credits
+As of 2020-05-15 07:35:38, hackers.town is rank 768
+   with 22,109 work units for 284,538,199 credits
   1. wetdryvac                    11.30%   32,148,675 (units:   888)
   2. merimus                       7.24%   20,589,421 (units:   553)
   3. packetcat                     6.97%   19,829,617 (units:   153)
   4. KemoNine                      6.57%   18,705,527 (units:   625)
-  5. Freakazoid                    6.36%   18,109,444 (units:   804)
+  5. Freakazoid                    6.37%   18,112,550 (units:   805)
   6. dokuja                        6.36%   18,104,692 (units:   474)
   7. Polychrome                    5.31%   15,098,326 (units:   632)
   8. bhtooefr                      4.57%   12,997,796 (units:   403)
@@ -19,7 +19,7 @@ As of 2020-05-15 07:25:37, hackers.town is rank 768
  17. r000t                         1.39%    3,952,628 (units:   112)
  18. Mr.House                      1.38%    3,918,041 (units:   201)
  19. CookieMom                     1.33%    3,787,435 (units:   509)
- 20. paullindner                   1.25%    3,548,808 (units:   696)
+ 20. paullindner                   1.25%    3,552,099 (units:   697)
  21. skraelingjar                  1.18%    3,352,989 (units:    64)
  22. Kranfahrer                    1.06%    3,024,932 (units:   201)
  23. ryen                          1.03%    2,936,587 (units:   208)
@@ -42,7 +42,7 @@ As of 2020-05-15 07:25:37, hackers.town is rank 768
  40. zx3                           0.40%    1,142,558 (units:   116)
  41. TerrorBite                    0.38%    1,085,432 (units:    36)
  42. djsumdog                      0.38%    1,077,434 (units:   176)
- 43. jkl                           0.37%    1,052,548 (units:   266)
+ 43. jkl                           0.37%    1,058,259 (units:   267)
  44. mainebot                      0.35%      993,853 (units:    54)
  45. Requiem                       0.31%      893,950 (units:   296)
  46. Null                          0.29%      818,594 (units:    22)
