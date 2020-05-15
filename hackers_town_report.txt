@@ -1,9 +1,9 @@
-As of 2020-05-15 21:36:39, hackers.town is rank 771
-   with 22,180 work units for 285,361,906 credits
-  1. wetdryvac                    11.27%   32,148,675 (units:   888)
-  2. merimus                       7.22%   20,589,421 (units:   553)
+As of 2020-05-15 21:55:55, hackers.town is rank 771
+   with 22,182 work units for 285,391,242 credits
+  1. wetdryvac                    11.26%   32,148,675 (units:   888)
+  2. merimus                       7.21%   20,589,421 (units:   553)
   3. packetcat                     6.95%   19,829,617 (units:   153)
-  4. KemoNine                      6.56%   18,705,527 (units:   625)
+  4. KemoNine                      6.55%   18,705,527 (units:   625)
   5. Freakazoid                    6.35%   18,123,864 (units:   808)
   6. dokuja                        6.34%   18,104,692 (units:   474)
   7. Polychrome                    5.29%   15,107,205 (units:   633)
@@ -18,7 +18,7 @@ As of 2020-05-15 21:36:39, hackers.town is rank 771
  16. felix                         1.72%    4,901,391 (units:   185)
  17. r000t                         1.40%    3,993,816 (units:   115)
  18. Mr.House                      1.37%    3,918,041 (units:   201)
- 19. CookieMom                     1.35%    3,860,004 (units:   517)
+ 19. CookieMom                     1.35%    3,860,740 (units:   518)
  20. paullindner                   1.25%    3,565,242 (units:   701)
  21. skraelingjar                  1.17%    3,352,989 (units:    64)
  22. Kranfahrer                    1.06%    3,024,932 (units:   201)
@@ -46,8 +46,8 @@ As of 2020-05-15 21:36:39, hackers.town is rank 771
  44. mainebot                      0.35%      993,853 (units:    54)
  45. Requiem                       0.31%      893,950 (units:   296)
  46. Null                          0.29%      818,594 (units:    22)
- 47. niconiconi                    0.27%      784,168 (units:    43)
- 48. Canageek                      0.27%      779,320 (units:   186)
+ 47. Canageek                      0.28%      807,920 (units:   187)
+ 48. niconiconi                    0.27%      784,168 (units:    43)
  49. TG                            0.24%      694,922 (units:   143)
  50.                               0.23%      661,657 (units:   142)
  51. m68k                          0.22%      628,326 (units:   155)
