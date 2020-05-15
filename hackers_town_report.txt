@@ -1,11 +1,11 @@
-As of 2020-05-15 20:45:56, hackers.town is rank 769
-   with 22,175 work units for 285,322,448 credits
+As of 2020-05-15 21:15:41, hackers.town is rank 769
+   with 22,177 work units for 285,354,635 credits
   1. wetdryvac                    11.27%   32,148,675 (units:   888)
   2. merimus                       7.22%   20,589,421 (units:   553)
   3. packetcat                     6.95%   19,829,617 (units:   153)
   4. KemoNine                      6.56%   18,705,527 (units:   625)
   5. Freakazoid                    6.35%   18,123,864 (units:   808)
-  6. dokuja                        6.35%   18,104,692 (units:   474)
+  6. dokuja                        6.34%   18,104,692 (units:   474)
   7. Polychrome                    5.29%   15,107,205 (units:   633)
   8. bhtooefr                      4.68%   13,362,786 (units:   409)
   9. Werekat                       4.08%   11,634,391 (units:   595)
@@ -37,7 +37,7 @@ As of 2020-05-15 20:45:56, hackers.town is rank 769
  35. sungo                         0.50%    1,432,642 (units:   399)
  36. kusuriya                      0.46%    1,314,178 (units:    68)
  37. rmgr                          0.45%    1,290,558 (units:    47)
- 38. neil                          0.44%    1,255,509 (units:   278)
+ 38. neil                          0.45%    1,286,446 (units:   279)
  39. qwazix                        0.41%    1,157,676 (units:   220)
  40. zx3                           0.40%    1,142,558 (units:   116)
  41. djsumdog                      0.39%    1,117,379 (units:   182)
@@ -96,8 +96,8 @@ As of 2020-05-15 20:45:56, hackers.town is rank 769
  94. Kirjis                        0.03%       79,781 (units:   106)
  95. Seb                           0.03%       75,368 (units:   128)
  96. George_                       0.03%       75,198 (units:    12)
- 97. Murph                         0.02%       71,069 (units:    21)
- 98. MaxAtCastleMalmeddy           0.02%       71,010 (units:    93)
+ 97. MaxAtCastleMalmeddy           0.03%       72,260 (units:    94)
+ 98. Murph                         0.02%       71,069 (units:    21)
  99. Alteraner92                   0.02%       70,864 (units:    47)
 100. deowyth                       0.02%       68,655 (units:     5)
 101.                               0.02%       65,445 (units:    39)
