@@ -1,5 +1,5 @@
-As of 2020-05-15 02:46:31, hackers.town is rank 768
-   with 22,080 work units for 284,222,102 credits
+As of 2020-05-15 03:05:40, hackers.town is rank 768
+   with 22,082 work units for 284,242,517 credits
   1. wetdryvac                    11.31%   32,148,675 (units:   888)
   2. merimus                       7.24%   20,589,421 (units:   553)
   3. packetcat                     6.98%   19,829,617 (units:   153)
@@ -9,7 +9,7 @@ As of 2020-05-15 02:46:31, hackers.town is rank 768
   7. Polychrome                    5.31%   15,096,143 (units:   631)
   8. bhtooefr                      4.54%   12,897,121 (units:   401)
   9. Werekat                       4.03%   11,452,103 (units:   589)
- 10. Calcifer                      2.75%    7,802,361 (units:   193)
+ 10. Calcifer                      2.74%    7,802,361 (units:   193)
  11. c0debabe                      2.54%    7,224,123 (units:   245)
  12. dafuchs                       2.17%    6,176,452 (units:   366)
  13. elfgirlsarah                  2.07%    5,885,416 (units:   931)
@@ -18,7 +18,7 @@ As of 2020-05-15 02:46:31, hackers.town is rank 768
  16. felix                         1.72%    4,901,391 (units:   185)
  17. r000t                         1.39%    3,951,611 (units:   111)
  18. Mr.House                      1.38%    3,913,870 (units:   200)
- 19. CookieMom                     1.32%    3,762,135 (units:   506)
+ 19. CookieMom                     1.33%    3,778,750 (units:   507)
  20. paullindner                   1.25%    3,544,782 (units:   695)
  21. skraelingjar                  1.18%    3,352,989 (units:    64)
  22. Kranfahrer                    1.06%    3,024,932 (units:   201)
@@ -28,7 +28,7 @@ As of 2020-05-15 02:46:31, hackers.town is rank 768
  26. The_Gibson(HTown)             0.82%    2,330,035 (units:   212)
  27. /dev/random                   0.75%    2,135,335 (units:   204)
  28. mandibular joint dysfunction  0.72%    2,044,879 (units:   830)
- 29. Kyle                          0.70%    1,998,031 (units:   300)
+ 29. Kyle                          0.70%    2,001,831 (units:   301)
  30. pfreak                        0.70%    1,996,770 (units:    48)
  31. rfquerin                      0.58%    1,638,770 (units:   107)
  32. Anonymous                     0.56%    1,595,955 (units:   542)
