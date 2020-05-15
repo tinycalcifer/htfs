@@ -1,13 +1,13 @@
-As of 2020-05-15 07:45:38, hackers.town is rank 768
-   with 22,110 work units for 284,539,464 credits
-  1. wetdryvac                    11.30%   32,148,675 (units:   888)
-  2. merimus                       7.24%   20,589,421 (units:   553)
+As of 2020-05-15 08:06:21, hackers.town is rank 768
+   with 22,112 work units for 284,677,202 credits
+  1. wetdryvac                    11.29%   32,148,675 (units:   888)
+  2. merimus                       7.23%   20,589,421 (units:   553)
   3. packetcat                     6.97%   19,829,617 (units:   153)
   4. KemoNine                      6.57%   18,705,527 (units:   625)
-  5. Freakazoid                    6.37%   18,112,550 (units:   805)
+  5. Freakazoid                    6.36%   18,112,550 (units:   805)
   6. dokuja                        6.36%   18,104,692 (units:   474)
-  7. Polychrome                    5.31%   15,098,326 (units:   632)
-  8. bhtooefr                      4.57%   12,997,796 (units:   403)
+  7. Polychrome                    5.30%   15,098,326 (units:   632)
+  8. bhtooefr                      4.61%   13,133,353 (units:   404)
   9. Werekat                       4.05%   11,520,216 (units:   591)
  10. Calcifer                      2.74%    7,802,361 (units:   193)
  11. c0debabe                      2.54%    7,224,123 (units:   245)
@@ -16,7 +16,7 @@ As of 2020-05-15 07:45:38, hackers.town is rank 768
  14. SiinaCutie                    1.82%    5,188,566 (units:   235)
  15. FOOL                          1.76%    5,007,265 (units:   357)
  16. felix                         1.72%    4,901,391 (units:   185)
- 17. r000t                         1.39%    3,952,628 (units:   112)
+ 17. r000t                         1.39%    3,954,809 (units:   113)
  18. Mr.House                      1.38%    3,918,041 (units:   201)
  19. CookieMom                     1.33%    3,787,435 (units:   509)
  20. paullindner                   1.25%    3,553,364 (units:   698)
@@ -88,7 +88,7 @@ As of 2020-05-15 07:45:38, hackers.town is rank 768
  86. piggo                         0.04%      108,091 (units:    23)
  87. Nemesis                       0.04%      103,626 (units:    53)
  88. heliostatic                   0.04%      101,482 (units:    26)
- 89. RandomGeek                    0.04%       99,623 (units:    15)
+ 89. RandomGeek                    0.03%       99,623 (units:    15)
  90. JoshMulliken                  0.03%       97,080 (units:    23)
  91. grasshopper                   0.03%       95,373 (units:   122)
  92. claudiom                      0.03%       83,794 (units:   544)
