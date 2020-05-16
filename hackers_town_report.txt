@@ -1,9 +1,9 @@
-As of 2020-05-16 03:55:52, hackers.town is rank 773
-   with 22,214 work units for 285,797,960 credits
+As of 2020-05-16 04:15:49, hackers.town is rank 773
+   with 22,216 work units for 285,799,435 credits
   1. wetdryvac                    11.25%   32,148,675 (units:   888)
   2. merimus                       7.20%   20,589,421 (units:   553)
   3. packetcat                     6.94%   19,829,617 (units:   153)
-  4. KemoNine                      6.55%   18,705,527 (units:   625)
+  4. KemoNine                      6.54%   18,705,527 (units:   625)
   5. Freakazoid                    6.36%   18,189,522 (units:   811)
   6. dokuja                        6.33%   18,104,692 (units:   474)
   7. Polychrome                    5.29%   15,115,097 (units:   635)
@@ -18,7 +18,7 @@ As of 2020-05-16 03:55:52, hackers.town is rank 773
  16. felix                         1.71%    4,901,391 (units:   185)
  17. r000t                         1.40%    3,993,816 (units:   115)
  18. Mr.House                      1.38%    3,947,699 (units:   202)
- 19. CookieMom                     1.37%    3,920,250 (units:   521)
+ 19. CookieMom                     1.37%    3,920,980 (units:   522)
  20. paullindner                   1.25%    3,565,242 (units:   701)
  21. skraelingjar                  1.17%    3,352,989 (units:    64)
  22. Kranfahrer                    1.06%    3,024,932 (units:   201)
@@ -65,8 +65,8 @@ As of 2020-05-16 03:55:52, hackers.town is rank 773
  63. KitRedgrave                   0.11%      325,409 (units:    68)
  64. debugninja                    0.10%      288,707 (units:    34)
  65. ZenCoder                      0.10%      281,041 (units:    87)
- 66. Kyresti                       0.09%      262,134 (units:    39)
- 67. jerephil                      0.09%      261,800 (units:   183)
+ 66. jerephil                      0.09%      262,545 (units:   184)
+ 67. Kyresti                       0.09%      262,134 (units:    39)
  68. Brian                         0.09%      259,022 (units:    82)
  69. Neue.City                     0.08%      233,564 (units:    57)
  70. Imani                         0.07%      209,939 (units:   273)
