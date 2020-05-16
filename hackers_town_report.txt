@@ -1,12 +1,12 @@
-As of 2020-05-16 21:05:58, hackers.town is rank 777
-   with 22,294 work units for 286,538,695 credits
+As of 2020-05-16 22:06:07, hackers.town is rank 777
+   with 22,296 work units for 286,541,572 credits
   1. wetdryvac                    11.22%   32,148,675 (units:   888)
   2. merimus                       7.19%   20,589,421 (units:   553)
   3. packetcat                     6.92%   19,829,617 (units:   153)
   4. KemoNine                      6.53%   18,705,527 (units:   625)
   5. Freakazoid                    6.35%   18,198,759 (units:   813)
   6. dokuja                        6.32%   18,104,692 (units:   474)
-  7. Polychrome                    5.30%   15,186,663 (units:   641)
+  7. Polychrome                    5.30%   15,188,815 (units:   642)
   8. bhtooefr                      4.73%   13,567,357 (units:   415)
   9. Werekat                       4.12%   11,798,438 (units:   599)
  10. Calcifer                      2.72%    7,802,361 (units:   193)
@@ -76,7 +76,7 @@ As of 2020-05-16 21:05:58, hackers.town is rank 777
  74. Michael_Simkin                0.06%      163,367 (units:    64)
  75. RandyNose                     0.06%      162,127 (units:   210)
  76. BadGateway                    0.06%      161,439 (units:    84)
- 77. crc32                         0.06%      160,293 (units:   190)
+ 77. crc32                         0.06%      161,018 (units:   191)
  78. gwozniak                      0.05%      145,329 (units:   182)
  79. tbn97                         0.05%      145,237 (units:   113)
  80. pmosetc                       0.05%      144,896 (units:   154)
