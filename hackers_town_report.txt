@@ -1,6 +1,6 @@
-As of 2020-05-17 21:06:11, hackers.town is rank 783
-   with 22,403 work units for 287,671,640 credits
-  1. wetdryvac                    11.18%   32,148,675 (units:   888)
+As of 2020-05-17 21:25:43, hackers.town is rank 783
+   with 22,406 work units for 287,710,736 credits
+  1. wetdryvac                    11.17%   32,148,675 (units:   888)
   2. merimus                       7.16%   20,589,421 (units:   553)
   3. packetcat                     6.89%   19,829,617 (units:   153)
   4. KemoNine                      6.50%   18,705,527 (units:   625)
@@ -44,13 +44,13 @@ As of 2020-05-17 21:06:11, hackers.town is rank 783
  42. jkl                           0.39%    1,114,110 (units:   282)
  43. TerrorBite                    0.38%    1,085,432 (units:    36)
  44. mainebot                      0.35%      993,853 (units:    54)
- 45. niconiconi                    0.31%      903,416 (units:    48)
+ 45. niconiconi                    0.33%      935,736 (units:    49)
  46. Requiem                       0.31%      893,950 (units:   296)
  47. Canageek                      0.30%      857,042 (units:   191)
  48. Null                          0.28%      818,594 (units:    22)
  49.                               0.25%      723,971 (units:   156)
  50. TG                            0.24%      694,922 (units:   143)
- 51. m68k                          0.23%      655,214 (units:   157)
+ 51. m68k                          0.23%      656,990 (units:   158)
  52. HolSta                        0.21%      614,460 (units:   108)
  53. synfinner                     0.18%      527,623 (units:    14)
  54. tayo                          0.17%      497,485 (units:   150)
@@ -73,7 +73,7 @@ As of 2020-05-17 21:06:11, hackers.town is rank 783
  71. LordMathis                    0.07%      207,717 (units:    36)
  72. folding_with_gibson           0.07%      203,789 (units:   115)
  73. atinciona                     0.06%      183,705 (units:   224)
- 74. crc32                         0.06%      165,483 (units:   196)
+ 74. crc32                         0.06%      170,483 (units:   197)
  75. Michael_Simkin                0.06%      163,367 (units:    64)
  76. RandyNose                     0.06%      162,127 (units:   210)
  77. BadGateway                    0.06%      161,439 (units:    84)
