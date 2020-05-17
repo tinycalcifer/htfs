@@ -1,5 +1,5 @@
-As of 2020-05-17 15:05:55, hackers.town is rank 781
-   with 22,374 work units for 287,305,054 credits
+As of 2020-05-17 15:25:42, hackers.town is rank 781
+   with 22,376 work units for 287,320,019 credits
   1. wetdryvac                    11.19%   32,148,675 (units:   888)
   2. merimus                       7.17%   20,589,421 (units:   553)
   3. packetcat                     6.90%   19,829,617 (units:   153)
@@ -7,7 +7,7 @@ As of 2020-05-17 15:05:55, hackers.town is rank 781
   5. Freakazoid                    6.36%   18,285,653 (units:   818)
   6. dokuja                        6.30%   18,104,692 (units:   474)
   7. Polychrome                    5.29%   15,199,609 (units:   646)
-  8. bhtooefr                      4.72%   13,569,271 (units:   416)
+  8. bhtooefr                      4.73%   13,578,881 (units:   417)
   9. Werekat                       4.17%   11,981,127 (units:   606)
  10. Calcifer                      2.72%    7,802,361 (units:   193)
  11. c0debabe                      2.51%    7,224,123 (units:   245)
@@ -16,7 +16,7 @@ As of 2020-05-17 15:05:55, hackers.town is rank 781
  14. SiinaCutie                    1.81%    5,188,566 (units:   235)
  15. FOOL                          1.74%    5,010,583 (units:   358)
  16. felix                         1.71%    4,901,391 (units:   185)
- 17. CookieMom                     1.47%    4,209,154 (units:   536)
+ 17. CookieMom                     1.46%    4,209,154 (units:   536)
  18. r000t                         1.40%    4,035,613 (units:   119)
  19. Mr.House                      1.37%    3,947,699 (units:   202)
  20. paullindner                   1.24%    3,567,918 (units:   703)
@@ -65,7 +65,7 @@ As of 2020-05-17 15:05:55, hackers.town is rank 781
  63. KitRedgrave                   0.11%      325,409 (units:    68)
  64. debugninja                    0.10%      288,707 (units:    34)
  65. ZenCoder                      0.10%      281,041 (units:    87)
- 66. jerephil                      0.09%      267,445 (units:   188)
+ 66. jerephil                      0.09%      272,800 (units:   189)
  67. Kyresti                       0.09%      262,134 (units:    39)
  68. Brian                         0.09%      259,022 (units:    82)
  69. Neue.City                     0.08%      234,836 (units:    59)
