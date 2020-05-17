@@ -1,5 +1,5 @@
-As of 2020-05-17 08:45:42, hackers.town is rank 778
-   with 22,345 work units for 287,041,417 credits
+As of 2020-05-17 09:05:55, hackers.town is rank 778
+   with 22,348 work units for 287,044,412 credits
   1. wetdryvac                    11.20%   32,148,675 (units:   888)
   2. merimus                       7.17%   20,589,421 (units:   553)
   3. packetcat                     6.91%   19,829,617 (units:   153)
@@ -7,7 +7,7 @@ As of 2020-05-17 08:45:42, hackers.town is rank 778
   5. Freakazoid                    6.37%   18,282,407 (units:   817)
   6. dokuja                        6.31%   18,104,692 (units:   474)
   7. Polychrome                    5.29%   15,193,513 (units:   644)
-  8. bhtooefr                      4.73%   13,567,357 (units:   415)
+  8. bhtooefr                      4.73%   13,569,271 (units:   416)
   9. Werekat                       4.17%   11,974,413 (units:   605)
  10. Calcifer                      2.72%    7,802,361 (units:   193)
  11. c0debabe                      2.52%    7,224,123 (units:   245)
@@ -16,7 +16,7 @@ As of 2020-05-17 08:45:42, hackers.town is rank 778
  14. SiinaCutie                    1.81%    5,188,566 (units:   235)
  15. FOOL                          1.75%    5,010,583 (units:   358)
  16. felix                         1.71%    4,901,391 (units:   185)
- 17. CookieMom                     1.43%    4,100,218 (units:   533)
+ 17. CookieMom                     1.43%    4,100,554 (units:   534)
  18. r000t                         1.41%    4,035,613 (units:   119)
  19. Mr.House                      1.38%    3,947,699 (units:   202)
  20. paullindner                   1.24%    3,567,918 (units:   703)
@@ -94,7 +94,7 @@ As of 2020-05-17 08:45:42, hackers.town is rank 778
  92. claudiom                      0.03%       83,794 (units:   544)
  93. Purple                        0.03%       81,458 (units:    85)
  94. Kirjis                        0.03%       79,781 (units:   106)
- 95. MaxAtCastleMalmeddy           0.03%       77,563 (units:   101)
+ 95. MaxAtCastleMalmeddy           0.03%       78,308 (units:   102)
  96. Seb                           0.03%       75,368 (units:   128)
  97. George_                       0.03%       75,198 (units:    12)
  98. Murph                         0.02%       71,069 (units:    21)
