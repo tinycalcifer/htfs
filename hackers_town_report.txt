@@ -1,5 +1,5 @@
-As of 2020-05-17 17:36:28, hackers.town is rank 782
-   with 22,389 work units for 287,533,496 credits
+As of 2020-05-17 17:56:36, hackers.town is rank 782
+   with 22,391 work units for 287,537,765 credits
   1. wetdryvac                    11.18%   32,148,675 (units:   888)
   2. merimus                       7.16%   20,589,421 (units:   553)
   3. packetcat                     6.90%   19,829,617 (units:   153)
@@ -7,7 +7,7 @@ As of 2020-05-17 17:36:28, hackers.town is rank 782
   5. Freakazoid                    6.36%   18,288,693 (units:   819)
   6. dokuja                        6.30%   18,104,692 (units:   474)
   7. Polychrome                    5.31%   15,256,179 (units:   648)
-  8. bhtooefr                      4.72%   13,578,881 (units:   417)
+  8. bhtooefr                      4.72%   13,580,450 (units:   418)
   9. Werekat                       4.21%   12,104,196 (units:   608)
  10. Calcifer                      2.71%    7,802,361 (units:   193)
  11. c0debabe                      2.51%    7,224,123 (units:   245)
@@ -106,10 +106,10 @@ As of 2020-05-17 17:36:28, hackers.town is rank 782
 104. neoninteger                   0.02%       59,260 (units:    46)
 105. daum3ns                       0.02%       56,636 (units:     6)
 106. HiRezCanDo                    0.02%       51,658 (units:    59)
-107. socketwench                   0.02%       47,849 (units:    49)
-108. emelie                        0.02%       46,275 (units:     4)
-109. technoid_                     0.02%       45,777 (units:    59)
-110. Anunmouse                     0.02%       45,614 (units:    37)
+107. Anunmouse                     0.02%       48,314 (units:    38)
+108. socketwench                   0.02%       47,849 (units:    49)
+109. emelie                        0.02%       46,275 (units:     4)
+110. technoid_                     0.02%       45,777 (units:    59)
 111. huobijubajeebajoba            0.01%       38,451 (units:    15)
 112. Syrinx                        0.01%       35,530 (units:    82)
 113. Tool_Man                      0.01%       35,407 (units:    54)
