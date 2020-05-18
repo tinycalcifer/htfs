@@ -1,13 +1,13 @@
-As of 2020-05-18 11:56:08, hackers.town is rank 788
-   with 22,469 work units for 288,447,873 credits
-  1. wetdryvac                    11.15%   32,148,675 (units:   888)
+As of 2020-05-18 12:46:13, hackers.town is rank 788
+   with 22,472 work units for 288,505,419 credits
+  1. wetdryvac                    11.14%   32,148,675 (units:   888)
   2. merimus                       7.14%   20,589,421 (units:   553)
   3. packetcat                     6.87%   19,829,617 (units:   153)
   4. KemoNine                      6.48%   18,705,527 (units:   625)
   5. Freakazoid                    6.34%   18,296,750 (units:   821)
   6. dokuja                        6.28%   18,104,692 (units:   474)
   7. Polychrome                    5.29%   15,267,701 (units:   652)
-  8. bhtooefr                      4.78%   13,782,926 (units:   422)
+  8. bhtooefr                      4.78%   13,786,414 (units:   423)
   9. Werekat                       4.31%   12,438,559 (units:   617)
  10. Calcifer                      2.70%    7,802,361 (units:   193)
  11. c0debabe                      2.50%    7,224,123 (units:   245)
@@ -16,7 +16,7 @@ As of 2020-05-18 11:56:08, hackers.town is rank 788
  14. SiinaCutie                    1.80%    5,188,566 (units:   235)
  15. FOOL                          1.74%    5,013,292 (units:   359)
  16. felix                         1.70%    4,901,391 (units:   185)
- 17. CookieMom                     1.50%    4,338,358 (units:   548)
+ 17. CookieMom                     1.52%    4,388,958 (units:   549)
  18. r000t                         1.40%    4,035,613 (units:   119)
  19. Mr.House                      1.37%    3,947,699 (units:   202)
  20. paullindner                   1.24%    3,569,263 (units:   704)
@@ -41,7 +41,7 @@ As of 2020-05-18 11:56:08, hackers.town is rank 788
  39. djsumdog                      0.43%    1,226,835 (units:   201)
  40. qwazix                        0.40%    1,157,676 (units:   220)
  41. zx3                           0.40%    1,142,558 (units:   116)
- 42. jkl                           0.39%    1,126,094 (units:   285)
+ 42. jkl                           0.39%    1,129,552 (units:   286)
  43. TerrorBite                    0.38%    1,085,432 (units:    36)
  44. mainebot                      0.34%      993,853 (units:    54)
  45. niconiconi                    0.32%      935,736 (units:    49)
