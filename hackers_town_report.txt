@@ -1,9 +1,9 @@
-As of 2020-05-18 20:26:02, hackers.town is rank 791
-   with 22,499 work units for 288,886,275 credits
+As of 2020-05-18 20:45:54, hackers.town is rank 791
+   with 22,501 work units for 288,897,232 credits
   1. wetdryvac                    11.13%   32,148,675 (units:   888)
   2. merimus                       7.13%   20,589,421 (units:   553)
   3. packetcat                     6.86%   19,829,617 (units:   153)
-  4. KemoNine                      6.48%   18,705,527 (units:   625)
+  4. KemoNine                      6.47%   18,705,527 (units:   625)
   5. Freakazoid                    6.33%   18,296,750 (units:   821)
   6. dokuja                        6.27%   18,104,692 (units:   474)
   7. Polychrome                    5.29%   15,270,170 (units:   653)
@@ -16,7 +16,7 @@ As of 2020-05-18 20:26:02, hackers.town is rank 791
  14. SiinaCutie                    1.80%    5,188,566 (units:   235)
  15. FOOL                          1.74%    5,014,793 (units:   360)
  16. felix                         1.70%    4,901,391 (units:   185)
- 17. CookieMom                     1.53%    4,413,217 (units:   553)
+ 17. CookieMom                     1.53%    4,420,825 (units:   554)
  18. r000t                         1.40%    4,036,552 (units:   120)
  19. Mr.House                      1.37%    3,947,699 (units:   202)
  20. paullindner                   1.24%    3,569,263 (units:   704)
@@ -41,7 +41,7 @@ As of 2020-05-18 20:26:02, hackers.town is rank 791
  39. djsumdog                      0.42%    1,226,835 (units:   201)
  40. qwazix                        0.40%    1,157,676 (units:   220)
  41. zx3                           0.40%    1,142,558 (units:   116)
- 42. jkl                           0.39%    1,133,042 (units:   287)
+ 42. jkl                           0.39%    1,136,391 (units:   288)
  43. TerrorBite                    0.38%    1,085,432 (units:    36)
  44. mainebot                      0.34%      993,853 (units:    54)
  45. niconiconi                    0.32%      935,736 (units:    49)
