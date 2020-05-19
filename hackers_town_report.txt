@@ -1,5 +1,5 @@
-As of 2020-05-19 14:06:00, hackers.town is rank 795
-   with 22,567 work units for 289,625,318 credits
+As of 2020-05-19 14:36:09, hackers.town is rank 795
+   with 22,571 work units for 289,654,053 credits
   1. wetdryvac                    11.10%   32,148,675 (units:   888)
   2. merimus                       7.11%   20,589,421 (units:   553)
   3. packetcat                     6.85%   19,829,617 (units:   153)
@@ -16,7 +16,7 @@ As of 2020-05-19 14:06:00, hackers.town is rank 795
  14. SiinaCutie                    1.79%    5,188,566 (units:   235)
  15. FOOL                          1.73%    5,014,793 (units:   360)
  16. felix                         1.69%    4,901,391 (units:   185)
- 17. CookieMom                     1.55%    4,496,799 (units:   562)
+ 17. CookieMom                     1.56%    4,523,249 (units:   563)
  18. r000t                         1.41%    4,069,816 (units:   121)
  19. Mr.House                      1.36%    3,947,699 (units:   202)
  20. paullindner                   1.23%    3,569,263 (units:   704)
@@ -77,7 +77,7 @@ As of 2020-05-19 14:06:00, hackers.town is rank 795
  75. Michael_Simkin                0.06%      163,367 (units:    64)
  76. RandyNose                     0.06%      162,127 (units:   210)
  77. BadGateway                    0.06%      161,439 (units:    84)
- 78. pmosetc                       0.05%      154,429 (units:   166)
+ 78. pmosetc                       0.05%      155,184 (units:   167)
  79. gwozniak                      0.05%      145,329 (units:   182)
  80. tbn97                         0.05%      145,237 (units:   113)
  81. silksnep                      0.05%      141,111 (units:   176)
@@ -91,7 +91,7 @@ As of 2020-05-19 14:06:00, hackers.town is rank 795
  89. RandomGeek                    0.03%       99,623 (units:    15)
  90. grasshopper                   0.03%       97,953 (units:   125)
  91. JoshMulliken                  0.03%       97,080 (units:    23)
- 92. MaxAtCastleMalmeddy           0.03%       88,629 (units:   112)
+ 92. MaxAtCastleMalmeddy           0.03%       89,159 (units:   113)
  93. claudiom                      0.03%       83,794 (units:   544)
  94. Purple                        0.03%       81,458 (units:    85)
  95. Kirjis                        0.03%       79,781 (units:   106)
@@ -105,7 +105,7 @@ As of 2020-05-19 14:06:00, hackers.town is rank 795
 103. tomatoefolding                0.02%       59,750 (units:     1)
 104. neoninteger                   0.02%       59,260 (units:    46)
 105. daum3ns                       0.02%       56,636 (units:     6)
-106. Anunmouse                     0.02%       52,302 (units:    44)
+106. Anunmouse                     0.02%       53,302 (units:    45)
 107. HiRezCanDo                    0.02%       51,658 (units:    59)
 108. socketwench                   0.02%       47,849 (units:    49)
 109. technoid_                     0.02%       47,462 (units:    61)
