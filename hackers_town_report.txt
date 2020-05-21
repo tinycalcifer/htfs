@@ -1,13 +1,13 @@
-As of 2020-05-21 11:35:59, hackers.town is rank 803
-   with 22,723 work units for 290,964,304 credits
+As of 2020-05-21 12:26:17, hackers.town is rank 803
+   with 22,726 work units for 290,977,239 credits
   1. wetdryvac                    11.05%   32,148,675 (units:   888)
   2. merimus                       7.08%   20,589,421 (units:   553)
-  3. packetcat                     6.82%   19,829,617 (units:   153)
+  3. packetcat                     6.81%   19,829,617 (units:   153)
   4. KemoNine                      6.43%   18,705,527 (units:   625)
   5. Freakazoid                    6.29%   18,296,750 (units:   821)
   6. dokuja                        6.22%   18,104,692 (units:   474)
   7. Polychrome                    5.30%   15,428,739 (units:   670)
-  8. bhtooefr                      4.86%   14,132,676 (units:   436)
+  8. bhtooefr                      4.86%   14,135,451 (units:   437)
   9. Werekat                       4.57%   13,308,699 (units:   654)
  10. Calcifer                      2.68%    7,802,361 (units:   193)
  11. c0debabe                      2.48%    7,224,123 (units:   245)
@@ -31,7 +31,7 @@ As of 2020-05-21 11:35:59, hackers.town is rank 803
  29. mandibular joint dysfunction  0.70%    2,044,879 (units:   830)
  30. pfreak                        0.69%    1,996,770 (units:    48)
  31. avolkov                       0.58%    1,684,872 (units:    96)
- 32. neil                          0.57%    1,658,542 (units:   325)
+ 32. neil                          0.57%    1,659,297 (units:   326)
  33. Anonymous                     0.57%    1,649,811 (units:   557)
  34. rfquerin                      0.56%    1,638,770 (units:   107)
  35. DJ_Sundog                     0.52%    1,513,675 (units:   330)
@@ -45,7 +45,7 @@ As of 2020-05-21 11:35:59, hackers.town is rank 803
  43. TerrorBite                    0.37%    1,085,432 (units:    36)
  44. mainebot                      0.34%      993,853 (units:    54)
  45. niconiconi                    0.32%      935,736 (units:    49)
- 46. Canageek                      0.31%      897,757 (units:   196)
+ 46. Canageek                      0.31%      907,162 (units:   197)
  47. Requiem                       0.31%      893,950 (units:   296)
  48.                               0.28%      827,789 (units:   175)
  49. Null                          0.28%      818,594 (units:    22)
