@@ -1,5 +1,5 @@
-As of 2020-05-22 03:06:00, hackers.town is rank 805
-   with 22,771 work units for 291,260,195 credits
+As of 2020-05-22 03:36:13, hackers.town is rank 805
+   with 22,774 work units for 291,268,479 credits
   1. wetdryvac                    11.04%   32,148,675 (units:   888)
   2. merimus                       7.07%   20,589,421 (units:   553)
   3. packetcat                     6.81%   19,829,617 (units:   153)
@@ -39,7 +39,7 @@ As of 2020-05-22 03:06:00, hackers.town is rank 805
  37. kusuriya                      0.45%    1,314,178 (units:    68)
  38. rmgr                          0.44%    1,290,558 (units:    47)
  39. djsumdog                      0.42%    1,227,802 (units:   202)
- 40. jkl                           0.41%    1,206,957 (units:   300)
+ 40. jkl                           0.42%    1,213,694 (units:   301)
  41. qwazix                        0.40%    1,157,676 (units:   220)
  42. zx3                           0.39%    1,142,558 (units:   116)
  43. TerrorBite                    0.37%    1,085,432 (units:    36)
@@ -73,7 +73,7 @@ As of 2020-05-22 03:06:00, hackers.town is rank 805
  71. LordMathis                    0.07%      207,717 (units:    36)
  72. folding_with_gibson           0.07%      203,789 (units:   115)
  73. atinciona                     0.06%      183,705 (units:   224)
- 74. crc32                         0.06%      181,837 (units:   206)
+ 74. crc32                         0.06%      182,384 (units:   207)
  75. pmosetc                       0.06%      165,726 (units:   176)
  76. Michael_Simkin                0.06%      163,367 (units:    64)
  77. RandyNose                     0.06%      162,127 (units:   210)
@@ -128,9 +128,9 @@ As of 2020-05-22 03:06:00, hackers.town is rank 805
 126. shellkr                       0.01%       16,190 (units:    14)
 127. Twitter                       0.01%       16,044 (units:    19)
 128. the_gibson                    0.01%       15,396 (units:     1)
-129. tn5421                        0.01%       15,126 (units:    40)
-130. dctrud                        0.01%       14,635 (units:     8)
-131. Koakuma                       0.00%       14,222 (units:    24)
+129. Koakuma                       0.01%       15,222 (units:    25)
+130. tn5421                        0.01%       15,126 (units:    40)
+131. dctrud                        0.01%       14,635 (units:     8)
 132. LunaLapin                     0.00%       13,339 (units:    18)
 133. flipactual                    0.00%       12,401 (units:    26)
 134. ASBJORN                       0.00%       12,368 (units:    19)
