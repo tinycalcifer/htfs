@@ -1,5 +1,5 @@
-As of 2020-05-22 10:25:46, hackers.town is rank 809
-   with 22,799 work units for 291,410,238 credits
+As of 2020-05-22 10:35:47, hackers.town is rank 809
+   with 22,801 work units for 291,413,157 credits
   1. wetdryvac                    11.03%   32,148,675 (units:   888)
   2. merimus                       7.07%   20,589,421 (units:   553)
   3. packetcat                     6.80%   19,829,617 (units:   153)
@@ -7,7 +7,7 @@ As of 2020-05-22 10:25:46, hackers.town is rank 809
   5. Freakazoid                    6.28%   18,296,750 (units:   821)
   6. dokuja                        6.21%   18,104,692 (units:   474)
   7. Polychrome                    5.30%   15,441,468 (units:   674)
-  8. bhtooefr                      4.85%   14,146,243 (units:   441)
+  8. bhtooefr                      4.86%   14,148,432 (units:   442)
   9. Werekat                       4.59%   13,363,004 (units:   666)
  10. Calcifer                      2.68%    7,802,361 (units:   193)
  11. c0debabe                      2.48%    7,224,123 (units:   245)
@@ -16,7 +16,7 @@ As of 2020-05-22 10:25:46, hackers.town is rank 809
  14. SiinaCutie                    1.78%    5,188,566 (units:   235)
  15. FOOL                          1.72%    5,017,946 (units:   362)
  16. felix                         1.68%    4,901,391 (units:   185)
- 17. CookieMom                     1.67%    4,867,133 (units:   608)
+ 17. CookieMom                     1.67%    4,867,863 (units:   609)
  18. r000t                         1.40%    4,069,816 (units:   121)
  19. Mr.House                      1.35%    3,947,699 (units:   202)
  20. paullindner                   1.22%    3,569,263 (units:   704)
@@ -30,7 +30,7 @@ As of 2020-05-22 10:25:46, hackers.town is rank 809
  28. /dev/random                   0.73%    2,135,335 (units:   204)
  29. mandibular joint dysfunction  0.70%    2,044,879 (units:   830)
  30. pfreak                        0.69%    1,996,770 (units:    48)
- 31. avolkov                       0.62%    1,792,178 (units:   100)
+ 31. avolkov                       0.61%    1,792,178 (units:   100)
  32. Anonymous                     0.58%    1,684,327 (units:   562)
  33. neil                          0.57%    1,664,652 (units:   327)
  34. rfquerin                      0.56%    1,638,770 (units:   107)
