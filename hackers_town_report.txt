@@ -1,14 +1,14 @@
-As of 2020-05-24 23:06:05, hackers.town is rank 833
-   with 22,994 work units for 293,310,259 credits
-  1. wetdryvac                    10.96%   32,148,675 (units:   888)
+As of 2020-05-24 23:25:56, hackers.town is rank 833
+   with 22,997 work units for 293,476,924 credits
+  1. wetdryvac                    10.95%   32,148,675 (units:   888)
   2. merimus                       7.02%   20,589,421 (units:   553)
   3. packetcat                     6.76%   19,829,617 (units:   153)
-  4. KemoNine                      6.38%   18,705,527 (units:   625)
-  5. Freakazoid                    6.24%   18,296,750 (units:   821)
+  4. KemoNine                      6.37%   18,705,527 (units:   625)
+  5. Freakazoid                    6.23%   18,296,750 (units:   821)
   6. dokuja                        6.17%   18,104,692 (units:   474)
-  7. Polychrome                    5.28%   15,478,991 (units:   684)
+  7. Polychrome                    5.27%   15,478,991 (units:   684)
   8. bhtooefr                      4.83%   14,169,327 (units:   450)
-  9. Werekat                       4.77%   13,979,884 (units:   701)
+  9. Werekat                       4.82%   14,144,824 (units:   702)
  10. Calcifer                      2.66%    7,802,361 (units:   193)
  11. c0debabe                      2.46%    7,224,123 (units:   245)
  12. dafuchs                       2.11%    6,191,101 (units:   376)
@@ -31,8 +31,8 @@ As of 2020-05-24 23:06:05, hackers.town is rank 833
  29. mandibular joint dysfunction  0.70%    2,048,292 (units:   831)
  30. pfreak                        0.68%    1,996,770 (units:    48)
  31. avolkov                       0.64%    1,891,826 (units:   104)
- 32. Anonymous                     0.58%    1,703,947 (units:   568)
- 33. neil                          0.58%    1,703,274 (units:   336)
+ 32. neil                          0.58%    1,704,999 (units:   338)
+ 33. Anonymous                     0.58%    1,703,947 (units:   568)
  34. rfquerin                      0.56%    1,638,770 (units:   107)
  35. DJ_Sundog                     0.52%    1,513,675 (units:   330)
  36. sungo                         0.49%    1,432,642 (units:   399)
