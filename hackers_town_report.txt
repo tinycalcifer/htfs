@@ -1,5 +1,5 @@
-As of 2020-05-25 11:35:59, hackers.town is rank 833
-   with 23,035 work units for 293,885,416 credits
+As of 2020-05-25 11:55:58, hackers.town is rank 833
+   with 23,038 work units for 293,892,664 credits
   1. wetdryvac                    10.94%   32,148,675 (units:   888)
   2. merimus                       7.01%   20,589,421 (units:   553)
   3. packetcat                     6.75%   19,829,617 (units:   153)
@@ -8,12 +8,12 @@ As of 2020-05-25 11:35:59, hackers.town is rank 833
   6. dokuja                        6.16%   18,104,692 (units:   474)
   7. Polychrome                    5.29%   15,546,924 (units:   688)
   8. bhtooefr                      4.82%   14,173,643 (units:   452)
-  9. Werekat                       4.82%   14,161,078 (units:   705)
+  9. Werekat                       4.82%   14,164,907 (units:   706)
  10. Calcifer                      2.65%    7,802,361 (units:   193)
  11. c0debabe                      2.46%    7,224,123 (units:   245)
  12. dafuchs                       2.11%    6,191,101 (units:   376)
  13. elfgirlsarah                  2.00%    5,885,416 (units:   931)
- 14. CookieMom                     1.80%    5,275,430 (units:   647)
+ 14. CookieMom                     1.80%    5,278,130 (units:   648)
  15. SiinaCutie                    1.77%    5,188,566 (units:   235)
  16. FOOL                          1.71%    5,022,583 (units:   365)
  17. felix                         1.67%    4,901,391 (units:   185)
@@ -28,7 +28,7 @@ As of 2020-05-25 11:35:59, hackers.town is rank 833
  26. drwho                         0.84%    2,457,475 (units:   497)
  27. The_Gibson(HTown)             0.79%    2,330,035 (units:   212)
  28. /dev/random                   0.73%    2,135,335 (units:   204)
- 29. mandibular joint dysfunction  0.70%    2,049,792 (units:   832)
+ 29. mandibular joint dysfunction  0.70%    2,050,511 (units:   833)
  30. pfreak                        0.68%    1,996,770 (units:    48)
  31. avolkov                       0.64%    1,891,826 (units:   104)
  32. neil                          0.61%    1,788,719 (units:   341)
