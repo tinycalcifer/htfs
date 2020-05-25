@@ -1,5 +1,5 @@
-As of 2020-05-25 11:55:58, hackers.town is rank 833
-   with 23,038 work units for 293,892,664 credits
+As of 2020-05-25 12:26:10, hackers.town is rank 833
+   with 23,041 work units for 293,908,125 credits
   1. wetdryvac                    10.94%   32,148,675 (units:   888)
   2. merimus                       7.01%   20,589,421 (units:   553)
   3. packetcat                     6.75%   19,829,617 (units:   153)
@@ -31,21 +31,21 @@ As of 2020-05-25 11:55:58, hackers.town is rank 833
  29. mandibular joint dysfunction  0.70%    2,050,511 (units:   833)
  30. pfreak                        0.68%    1,996,770 (units:    48)
  31. avolkov                       0.64%    1,891,826 (units:   104)
- 32. neil                          0.61%    1,788,719 (units:   341)
+ 32. neil                          0.61%    1,791,419 (units:   342)
  33. Anonymous                     0.58%    1,703,947 (units:   568)
  34. rfquerin                      0.56%    1,638,770 (units:   107)
  35. DJ_Sundog                     0.52%    1,513,675 (units:   330)
  36. sungo                         0.49%    1,432,642 (units:   399)
  37. kusuriya                      0.45%    1,314,178 (units:    68)
  38. zx3                           0.44%    1,297,019 (units:   129)
- 39. rmgr                          0.44%    1,290,558 (units:    47)
- 40. jkl                           0.44%    1,289,614 (units:   313)
+ 39. jkl                           0.44%    1,293,500 (units:   314)
+ 40. rmgr                          0.44%    1,290,558 (units:    47)
  41. djsumdog                      0.42%    1,227,802 (units:   202)
  42. qwazix                        0.39%    1,157,676 (units:   220)
  43. TerrorBite                    0.37%    1,085,432 (units:    36)
  44. mainebot                      0.34%      993,853 (units:    54)
  45. Canageek                      0.33%      956,578 (units:   204)
- 46.                               0.32%      938,587 (units:   194)
+ 46.                               0.32%      947,462 (units:   195)
  47. niconiconi                    0.32%      935,736 (units:    49)
  48. Requiem                       0.30%      893,950 (units:   296)
  49. Null                          0.28%      818,594 (units:    22)
