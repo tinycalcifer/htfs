@@ -1,5 +1,5 @@
-As of 2020-05-27 15:05:59, hackers.town is rank 843
-   with 23,198 work units for 295,505,448 credits
+As of 2020-05-27 15:26:39, hackers.town is rank 843
+   with 23,203 work units for 295,507,100 credits
   1. wetdryvac                    10.88%   32,148,675 (units:   888)
   2. merimus                       6.97%   20,589,421 (units:   553)
   3. packetcat                     6.71%   19,829,617 (units:   153)
@@ -25,7 +25,7 @@ As of 2020-05-27 15:05:59, hackers.town is rank 843
  23. ryen                          0.99%    2,936,587 (units:   208)
  24. Kyle                          0.94%    2,789,774 (units:   366)
  25. radicaledward                 0.92%    2,717,086 (units:    90)
- 26. drwho                         0.83%    2,457,475 (units:   497)
+ 26. drwho                         0.83%    2,457,926 (units:   500)
  27. The_Gibson(HTown)             0.79%    2,330,035 (units:   212)
  28. /dev/random                   0.72%    2,135,335 (units:   204)
  29. mandibular joint dysfunction  0.70%    2,055,511 (units:   834)
@@ -92,7 +92,7 @@ As of 2020-05-27 15:05:59, hackers.town is rank 843
  90. heliostatic                   0.03%      101,482 (units:    26)
  91. RandomGeek                    0.03%       99,623 (units:    15)
  92. JoshMulliken                  0.03%       97,080 (units:    23)
- 93. claudiom                      0.03%       83,794 (units:   544)
+ 93. claudiom                      0.03%       83,945 (units:   545)
  94. Purple                        0.03%       81,458 (units:    85)
  95. Kirjis                        0.03%       79,781 (units:   106)
  96. Seb                           0.03%       75,368 (units:   128)
@@ -105,8 +105,8 @@ As of 2020-05-27 15:05:59, hackers.town is rank 843
 103. tomatoefolding                0.02%       59,750 (units:     1)
 104. neoninteger                   0.02%       59,260 (units:    46)
 105. daum3ns                       0.02%       56,636 (units:     6)
-106. Anunmouse                     0.02%       54,302 (units:    46)
-107. technoid_                     0.02%       53,949 (units:    69)
+106. technoid_                     0.02%       54,999 (units:    70)
+107. Anunmouse                     0.02%       54,302 (units:    46)
 108. HiRezCanDo                    0.02%       51,658 (units:    59)
 109. socketwench                   0.02%       47,849 (units:    49)
 110. emelie                        0.02%       46,275 (units:     4)
