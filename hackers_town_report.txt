@@ -1,5 +1,5 @@
-As of 2020-05-28 17:56:09, hackers.town is rank 851
-   with 23,272 work units for 296,104,306 credits
+As of 2020-05-28 18:16:17, hackers.town is rank 851
+   with 23,274 work units for 296,106,061 credits
   1. wetdryvac                    10.86%   32,148,675 (units:   888)
   2. merimus                       6.95%   20,589,421 (units:   553)
   3. packetcat                     6.70%   19,829,617 (units:   153)
@@ -9,11 +9,11 @@ As of 2020-05-28 17:56:09, hackers.town is rank 851
   7. Polychrome                    5.34%   15,803,390 (units:   709)
   8. Werekat                       5.12%   15,175,133 (units:   737)
   9. bhtooefr                      4.80%   14,208,460 (units:   465)
- 10. Calcifer                      2.64%    7,802,361 (units:   193)
+ 10. Calcifer                      2.63%    7,802,361 (units:   193)
  11. c0debabe                      2.44%    7,224,123 (units:   245)
  12. dafuchs                       2.09%    6,191,101 (units:   376)
  13. elfgirlsarah                  1.99%    5,885,416 (units:   931)
- 14. CookieMom                     1.88%    5,580,678 (units:   684)
+ 14. CookieMom                     1.89%    5,581,678 (units:   685)
  15. SiinaCutie                    1.75%    5,188,566 (units:   235)
  16. FOOL                          1.70%    5,027,612 (units:   368)
  17. felix                         1.66%    4,901,391 (units:   185)
@@ -32,7 +32,7 @@ As of 2020-05-28 17:56:09, hackers.town is rank 851
  30. pfreak                        0.67%    1,996,770 (units:    48)
  31. avolkov                       0.64%    1,891,826 (units:   104)
  32. neil                          0.61%    1,794,877 (units:   347)
- 33. Anonymous                     0.59%    1,746,547 (units:   588)
+ 33. Anonymous                     0.59%    1,747,302 (units:   589)
  34. rfquerin                      0.55%    1,638,770 (units:   107)
  35. DJ_Sundog                     0.51%    1,513,675 (units:   330)
  36. sungo                         0.48%    1,432,642 (units:   399)
