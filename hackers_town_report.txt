@@ -1,5 +1,5 @@
-As of 2020-05-30 12:56:14, hackers.town is rank 858
-   with 23,621 work units for 297,338,260 credits
+As of 2020-05-30 13:06:11, hackers.town is rank 858
+   with 23,624 work units for 297,369,475 credits
   1. wetdryvac                    10.81%   32,148,675 (units:   888)
   2. merimus                       6.92%   20,589,421 (units:   553)
   3. packetcat                     6.67%   19,829,617 (units:   153)
@@ -14,7 +14,7 @@ As of 2020-05-30 12:56:14, hackers.town is rank 858
  12. dafuchs                       2.08%    6,191,101 (units:   376)
  13. elfgirlsarah                  1.98%    5,885,416 (units:   931)
  14. CookieMom                     1.98%    5,876,805 (units:   703)
- 15. SiinaCutie                    1.75%    5,188,566 (units:   235)
+ 15. SiinaCutie                    1.74%    5,188,566 (units:   235)
  16. FOOL                          1.69%    5,030,639 (units:   370)
  17. felix                         1.65%    4,901,391 (units:   185)
  18. r000t                         1.37%    4,069,816 (units:   121)
@@ -32,7 +32,7 @@ As of 2020-05-30 12:56:14, hackers.town is rank 858
  30. pfreak                        0.67%    1,996,770 (units:    48)
  31. avolkov                       0.64%    1,891,826 (units:   104)
  32. neil                          0.60%    1,794,877 (units:   347)
- 33. Anonymous                     0.60%    1,777,968 (units:   601)
+ 33. Anonymous                     0.60%    1,780,581 (units:   602)
  34. rfquerin                      0.55%    1,638,770 (units:   107)
  35. zx3                           0.52%    1,537,223 (units:   147)
  36. DJ_Sundog                     0.51%    1,513,675 (units:   330)
@@ -44,7 +44,7 @@ As of 2020-05-30 12:56:14, hackers.town is rank 858
  42. qwazix                        0.39%    1,157,676 (units:   220)
  43. TerrorBite                    0.37%    1,085,432 (units:    36)
  44.                               0.36%    1,064,849 (units:   219)
- 45. Canageek                      0.35%    1,027,839 (units:   208)
+ 45. Canageek                      0.36%    1,056,439 (units:   209)
  46. mainebot                      0.33%      993,853 (units:    54)
  47. niconiconi                    0.31%      935,736 (units:    49)
  48. Requiem                       0.30%      893,950 (units:   296)
@@ -124,7 +124,7 @@ As of 2020-05-30 12:56:14, hackers.town is rank 858
 122. TMY                           0.01%       23,206 (units:    40)
 123. SJM                           0.01%       22,862 (units:     9)
 124. pixelpaperyarn                0.01%       19,221 (units:    29)
-125. Toive8547                     0.01%       18,935 (units:   244)
+125. Toive8547                     0.01%       18,937 (units:   245)
 126. electric.glowing.surf/        0.01%       17,368 (units:    21)
 127. shellkr                       0.01%       16,190 (units:    14)
 128. Twitter                       0.01%       16,044 (units:    19)
