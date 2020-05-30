@@ -1,5 +1,5 @@
-As of 2020-05-30 14:26:06, hackers.town is rank 859
-   with 23,636 work units for 297,376,770 credits
+As of 2020-05-30 14:46:04, hackers.town is rank 859
+   with 23,640 work units for 297,381,816 credits
   1. wetdryvac                    10.81%   32,148,675 (units:   888)
   2. merimus                       6.92%   20,589,421 (units:   553)
   3. packetcat                     6.67%   19,829,617 (units:   153)
@@ -42,8 +42,8 @@ As of 2020-05-30 14:26:06, hackers.town is rank 859
  40. rmgr                          0.43%    1,290,558 (units:    47)
  41. djsumdog                      0.41%    1,227,802 (units:   202)
  42. qwazix                        0.39%    1,157,676 (units:   220)
- 43. TerrorBite                    0.37%    1,085,432 (units:    36)
- 44.                               0.36%    1,064,849 (units:   219)
+ 43. TerrorBite                    0.36%    1,085,432 (units:    36)
+ 44.                               0.36%    1,069,081 (units:   220)
  45. Canageek                      0.36%    1,056,439 (units:   209)
  46. mainebot                      0.33%      993,853 (units:    54)
  47. niconiconi                    0.31%      935,736 (units:    49)
@@ -69,8 +69,8 @@ As of 2020-05-30 14:26:06, hackers.town is rank 859
  67. Kyresti                       0.09%      262,134 (units:    39)
  68. Brian                         0.09%      259,022 (units:    82)
  69. Neue.City                     0.08%      235,324 (units:    60)
- 70. crc32                         0.08%      223,281 (units:   236)
- 71. folding_with_gibson           0.07%      222,904 (units:   118)
+ 70. folding_with_gibson           0.08%      223,714 (units:   119)
+ 71. crc32                         0.08%      223,281 (units:   236)
  72. Imani                         0.07%      209,939 (units:   273)
  73. LordMathis                    0.07%      207,717 (units:    36)
  74. pmosetc                       0.07%      199,375 (units:   198)
@@ -124,7 +124,7 @@ As of 2020-05-30 14:26:06, hackers.town is rank 859
 122. TMY                           0.01%       23,206 (units:    40)
 123. SJM                           0.01%       22,862 (units:     9)
 124. pixelpaperyarn                0.01%       19,221 (units:    29)
-125. Toive8547                     0.01%       18,963 (units:   253)
+125. Toive8547                     0.01%       18,967 (units:   255)
 126. electric.glowing.surf/        0.01%       17,368 (units:    21)
 127. shellkr                       0.01%       16,190 (units:    14)
 128. Twitter                       0.01%       16,044 (units:    19)
