@@ -1,5 +1,5 @@
-As of 2020-05-30 21:56:25, hackers.town is rank 861
-   with 23,708 work units for 297,675,396 credits
+As of 2020-05-30 22:15:58, hackers.town is rank 861
+   with 23,712 work units for 297,678,927 credits
   1. wetdryvac                    10.80%   32,148,675 (units:   888)
   2. merimus                       6.92%   20,589,421 (units:   553)
   3. packetcat                     6.66%   19,829,617 (units:   153)
@@ -8,11 +8,11 @@ As of 2020-05-30 21:56:25, hackers.town is rank 861
   6. dokuja                        6.08%   18,104,692 (units:   474)
   7. Werekat                       5.36%   15,941,284 (units:   759)
   8. Polychrome                    5.32%   15,848,089 (units:   721)
-  9. bhtooefr                      4.78%   14,226,980 (units:   470)
+  9. bhtooefr                      4.78%   14,229,772 (units:   471)
  10. Calcifer                      2.62%    7,802,361 (units:   193)
  11. c0debabe                      2.43%    7,224,123 (units:   245)
  12. dafuchs                       2.08%    6,191,101 (units:   376)
- 13. CookieMom                     2.00%    5,956,225 (units:   707)
+ 13. CookieMom                     2.00%    5,956,955 (units:   708)
  14. elfgirlsarah                  1.98%    5,885,416 (units:   931)
  15. SiinaCutie                    1.74%    5,188,566 (units:   235)
  16. FOOL                          1.69%    5,032,119 (units:   371)
@@ -124,7 +124,7 @@ As of 2020-05-30 21:56:25, hackers.town is rank 861
 122. TMY                           0.01%       23,206 (units:    40)
 123. SJM                           0.01%       22,862 (units:     9)
 124. pixelpaperyarn                0.01%       19,221 (units:    29)
-125. Toive8547                     0.01%       19,148 (units:   299)
+125. Toive8547                     0.01%       19,157 (units:   301)
 126. electric.glowing.surf/        0.01%       17,368 (units:    21)
 127. shellkr                       0.01%       16,190 (units:    14)
 128. Twitter                       0.01%       16,044 (units:    19)
