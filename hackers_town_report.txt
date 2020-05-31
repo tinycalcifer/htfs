@@ -1,5 +1,5 @@
-As of 2020-05-31 21:06:45, hackers.town is rank 862
-   with 23,925 work units for 298,357,418 credits
+As of 2020-05-31 21:16:37, hackers.town is rank 862
+   with 23,927 work units for 298,363,123 credits
   1. wetdryvac                    10.78%   32,148,675 (units:   888)
   2. merimus                       6.90%   20,589,421 (units:   553)
   3. packetcat                     6.65%   19,829,617 (units:   153)
@@ -7,7 +7,7 @@ As of 2020-05-31 21:06:45, hackers.town is rank 862
   5. Freakazoid                    6.13%   18,296,750 (units:   821)
   6. dokuja                        6.07%   18,104,692 (units:   474)
   7. Werekat                       5.44%   16,232,530 (units:   769)
-  8. Polychrome                    5.34%   15,917,647 (units:   733)
+  8. Polychrome                    5.33%   15,917,647 (units:   733)
   9. bhtooefr                      4.77%   14,231,464 (units:   472)
  10. Calcifer                      2.62%    7,802,361 (units:   193)
  11. c0debabe                      2.42%    7,224,123 (units:   245)
@@ -43,7 +43,7 @@ As of 2020-05-31 21:06:45, hackers.town is rank 862
  41. djsumdog                      0.41%    1,227,802 (units:   202)
  42. qwazix                        0.39%    1,157,676 (units:   220)
  43. TerrorBite                    0.36%    1,085,432 (units:    36)
- 44.                               0.36%    1,077,440 (units:   222)
+ 44.                               0.36%    1,083,143 (units:   223)
  45. Canageek                      0.35%    1,056,439 (units:   209)
  46. mainebot                      0.33%      993,853 (units:    54)
  47. niconiconi                    0.31%      935,736 (units:    49)
@@ -123,7 +123,7 @@ As of 2020-05-31 21:06:45, hackers.town is rank 862
 121. nuklearfiziks                 0.01%       23,903 (units:     5)
 122. TMY                           0.01%       23,206 (units:    40)
 123. SJM                           0.01%       22,862 (units:     9)
-124. Toive8547                     0.01%       22,701 (units:   445)
+124. Toive8547                     0.01%       22,703 (units:   446)
 125. pixelpaperyarn                0.01%       19,221 (units:    29)
 126. electric.glowing.surf/        0.01%       17,368 (units:    21)
 127. shellkr                       0.01%       16,190 (units:    14)
