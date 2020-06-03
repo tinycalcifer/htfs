@@ -1,14 +1,14 @@
-As of 2020-06-03 22:16:16, hackers.town is rank 877
-   with 24,641 work units for 301,253,474 credits
-  1. wetdryvac                    10.67%   32,148,675 (units:   888)
+As of 2020-06-03 22:38:54, hackers.town is rank 877
+   with 24,645 work units for 301,461,860 credits
+  1. wetdryvac                    10.66%   32,148,675 (units:   888)
   2. merimus                       6.83%   20,589,421 (units:   553)
   3. packetcat                     6.58%   19,829,617 (units:   153)
-  4. KemoNine                      6.21%   18,705,527 (units:   625)
+  4. KemoNine                      6.20%   18,705,527 (units:   625)
   5. Freakazoid                    6.07%   18,296,750 (units:   821)
   6. dokuja                        6.01%   18,104,692 (units:   474)
-  7. Werekat                       5.81%   17,499,892 (units:   806)
+  7. Werekat                       5.83%   17,581,832 (units:   807)
   8. Polychrome                    5.33%   16,069,476 (units:   754)
-  9. bhtooefr                      4.74%   14,270,464 (units:   485)
+  9. bhtooefr                      4.73%   14,270,464 (units:   485)
  10. Calcifer                      2.59%    7,802,361 (units:   193)
  11. c0debabe                      2.40%    7,224,123 (units:   245)
  12. CookieMom                     2.21%    6,668,131 (units:   765)
@@ -21,7 +21,7 @@ As of 2020-06-03 22:16:16, hackers.town is rank 877
  19. Mr.House                      1.31%    3,947,699 (units:   202)
  20. paullindner                   1.19%    3,577,852 (units:   709)
  21. skraelingjar                  1.11%    3,352,989 (units:    64)
- 22. Kyle                          1.05%    3,157,142 (units:   387)
+ 22. Kyle                          1.09%    3,283,582 (units:   388)
  23. Kranfahrer                    1.00%    3,024,932 (units:   201)
  24. ryen                          0.97%    2,936,587 (units:   208)
  25. radicaledward                 0.90%    2,717,086 (units:    90)
@@ -116,7 +116,7 @@ As of 2020-06-03 22:16:16, hackers.town is rank 877
 114. Tool_Man                      0.01%       35,407 (units:    54)
 115. L4NN-1312                     0.01%       33,592 (units:    40)
 116. Phlox                         0.01%       32,011 (units:     2)
-117. Toive8547                     0.01%       29,068 (units:   901)
+117. Toive8547                     0.01%       29,074 (units:   903)
 118. SteveTheDragon                0.01%       28,289 (units:    19)
 119. imacrea                       0.01%       25,293 (units:    46)
 120. murph                         0.01%       25,047 (units:    11)
