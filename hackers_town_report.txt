@@ -1,8 +1,8 @@
-As of 2020-06-05 16:16:13, hackers.town is rank 885
-   with 25,026 work units for 302,972,424 credits
+As of 2020-06-05 16:36:31, hackers.town is rank 885
+   with 25,029 work units for 302,977,787 credits
   1. wetdryvac                    10.61%   32,148,675 (units:   888)
   2. merimus                       6.80%   20,589,421 (units:   553)
-  3. packetcat                     6.55%   19,829,617 (units:   153)
+  3. packetcat                     6.54%   19,829,617 (units:   153)
   4. KemoNine                      6.17%   18,705,527 (units:   625)
   5. Freakazoid                    6.04%   18,296,750 (units:   821)
   6. Werekat                       6.01%   18,206,478 (units:   825)
@@ -31,8 +31,8 @@ As of 2020-06-05 16:16:13, hackers.town is rank 885
  29. mandibular joint dysfunction  0.68%    2,055,511 (units:   834)
  30. pfreak                        0.66%    1,996,770 (units:    48)
  31. zx3                           0.63%    1,907,892 (units:   170)
- 32. avolkov                       0.62%    1,891,826 (units:   104)
- 33. Anonymous                     0.62%    1,886,944 (units:   657)
+ 32. Anonymous                     0.62%    1,892,299 (units:   658)
+ 33. avolkov                       0.62%    1,891,826 (units:   104)
  34. neil                          0.60%    1,803,680 (units:   357)
  35. rfquerin                      0.54%    1,638,770 (units:   107)
  36. jkl                           0.50%    1,529,561 (units:   364)
@@ -116,7 +116,7 @@ As of 2020-06-05 16:16:13, hackers.town is rank 885
 114. Tool_Man                      0.01%       35,407 (units:    54)
 115. L4NN-1312                     0.01%       33,592 (units:    40)
 116. Phlox                         0.01%       32,011 (units:     2)
-117. Toive8547                     0.01%       31,574 (units: 1,156)
+117. Toive8547                     0.01%       31,582 (units: 1,158)
 118. SteveTheDragon                0.01%       28,289 (units:    19)
 119. imacrea                       0.01%       25,293 (units:    46)
 120. murph                         0.01%       25,047 (units:    11)
