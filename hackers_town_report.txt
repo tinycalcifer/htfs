@@ -1,5 +1,5 @@
-As of 2020-06-09 19:36:44, hackers.town is rank 901
-   with 25,908 work units for 306,638,317 credits
+As of 2020-06-09 19:46:29, hackers.town is rank 901
+   with 25,911 work units for 306,653,150 credits
   1. wetdryvac                    10.48%   32,148,675 (units:   888)
   2. merimus                       6.71%   20,589,421 (units:   553)
   3. Werekat                       6.52%   19,999,741 (units:   879)
@@ -37,7 +37,7 @@ As of 2020-06-09 19:36:44, hackers.town is rank 901
  35. rfquerin                      0.53%    1,638,770 (units:   107)
  36. jkl                           0.53%    1,625,230 (units:   382)
  37. DJ_Sundog                     0.49%    1,513,675 (units:   330)
- 38.                               0.48%    1,486,842 (units:   298)
+ 38.                               0.49%    1,500,943 (units:   299)
  39. sungo                         0.47%    1,432,642 (units:   399)
  40. kusuriya                      0.43%    1,314,178 (units:    68)
  41. rmgr                          0.42%    1,290,558 (units:    47)
@@ -69,7 +69,7 @@ As of 2020-06-09 19:36:44, hackers.town is rank 901
  67. jerephil                      0.09%      275,300 (units:   192)
  68. Kyresti                       0.09%      262,134 (units:    39)
  69. Brian                         0.08%      259,022 (units:    82)
- 70. crc32                         0.08%      254,368 (units:   269)
+ 70. crc32                         0.08%      255,098 (units:   270)
  71. Neue.City                     0.08%      235,324 (units:    60)
  72. Imani                         0.07%      209,939 (units:   273)
  73. LordMathis                    0.07%      207,717 (units:    36)
@@ -111,7 +111,7 @@ As of 2020-06-09 19:36:44, hackers.town is rank 901
 109. amsomniac                     0.02%       50,923 (units:    45)
 110. socketwench                   0.02%       47,849 (units:    49)
 111. emelie                        0.02%       46,275 (units:     4)
-112. Toive8547                     0.01%       40,930 (units: 1,739)
+112. Toive8547                     0.01%       40,932 (units: 1,740)
 113. huobijubajeebajoba            0.01%       38,451 (units:    15)
 114. Syrinx                        0.01%       35,530 (units:    82)
 115. Tool_Man                      0.01%       35,407 (units:    54)
