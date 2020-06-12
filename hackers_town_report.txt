@@ -1,17 +1,17 @@
-As of 2020-06-12 12:36:28, hackers.town is rank 915
-   with 26,542 work units for 308,689,668 credits
+As of 2020-06-12 12:56:25, hackers.town is rank 915
+   with 26,545 work units for 308,695,030 credits
   1. wetdryvac                    10.41%   32,148,675 (units:   888)
   2. Werekat                       6.75%   20,848,205 (units:   901)
   3. merimus                       6.67%   20,589,421 (units:   553)
   4. packetcat                     6.42%   19,829,617 (units:   153)
   5. KemoNine                      6.06%   18,705,527 (units:   625)
   6. Freakazoid                    5.94%   18,329,658 (units:   833)
-  7. dokuja                        5.87%   18,104,692 (units:   474)
+  7. dokuja                        5.86%   18,104,692 (units:   474)
   8. Polychrome                    5.39%   16,649,644 (units:   802)
   9. bhtooefr                      4.65%   14,356,636 (units:   519)
  10. Calcifer                      2.53%    7,802,361 (units:   193)
  11. c0debabe                      2.34%    7,224,123 (units:   245)
- 12. CookieMom                     2.24%    6,929,271 (units:   827)
+ 12. CookieMom                     2.25%    6,934,626 (units:   828)
  13. dafuchs                       2.03%    6,277,353 (units:   388)
  14. elfgirlsarah                  1.91%    5,885,416 (units:   931)
  15. SiinaCutie                    1.68%    5,188,566 (units:   235)
@@ -110,7 +110,7 @@ As of 2020-06-12 12:36:28, hackers.town is rank 915
 108. HiRezCanDo                    0.02%       51,658 (units:    59)
 109. amsomniac                     0.02%       50,923 (units:    45)
 110. socketwench                   0.02%       47,849 (units:    49)
-111. Toive8547                     0.02%       46,709 (units: 2,148)
+111. Toive8547                     0.02%       46,716 (units: 2,150)
 112. emelie                        0.01%       46,275 (units:     4)
 113. huobijubajeebajoba            0.01%       38,451 (units:    15)
 114. Syrinx                        0.01%       35,530 (units:    82)
