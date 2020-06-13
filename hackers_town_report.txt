@@ -1,5 +1,5 @@
-As of 2020-06-13 09:46:42, hackers.town is rank 917
-   with 26,743 work units for 309,117,907 credits
+As of 2020-06-13 10:06:27, hackers.town is rank 917
+   with 26,748 work units for 309,124,795 credits
   1. wetdryvac                    10.40%   32,148,675 (units:   888)
   2. Werekat                       6.74%   20,848,205 (units:   901)
   3. merimus                       6.66%   20,589,421 (units:   553)
@@ -15,7 +15,7 @@ As of 2020-06-13 09:46:42, hackers.town is rank 917
  13. dafuchs                       2.04%    6,311,533 (units:   392)
  14. elfgirlsarah                  1.90%    5,885,416 (units:   931)
  15. SiinaCutie                    1.68%    5,188,566 (units:   235)
- 16. FOOL                          1.63%    5,047,511 (units:   380)
+ 16. FOOL                          1.63%    5,052,866 (units:   381)
  17. Kyle                          1.60%    4,939,919 (units:   451)
  18. felix                         1.59%    4,901,391 (units:   185)
  19. r000t                         1.32%    4,069,816 (units:   121)
@@ -26,7 +26,7 @@ As of 2020-06-13 09:46:42, hackers.town is rank 917
  24. ryen                          0.95%    2,936,587 (units:   208)
  25. radicaledward                 0.88%    2,717,086 (units:    90)
  26. drwho                         0.80%    2,457,926 (units:   500)
- 27. zx3                           0.75%    2,333,143 (units:   201)
+ 27. zx3                           0.75%    2,333,879 (units:   202)
  28. The_Gibson(HTown)             0.75%    2,330,035 (units:   212)
  29. /dev/random                   0.69%    2,135,335 (units:   204)
  30. mandibular joint dysfunction  0.66%    2,055,511 (units:   834)
@@ -90,7 +90,7 @@ As of 2020-06-13 09:46:42, hackers.town is rank 917
  88. piggo                         0.03%      108,091 (units:    23)
  89. Nemesis                       0.03%      103,626 (units:    53)
  90. heliostatic                   0.03%      101,482 (units:    26)
- 91. Anunmouse                     0.03%      100,295 (units:    74)
+ 91. Anunmouse                     0.03%      101,075 (units:    75)
  92. RandomGeek                    0.03%       99,623 (units:    15)
  93. JoshMulliken                  0.03%       97,080 (units:    23)
  94. claudiom                      0.03%       83,945 (units:   545)
@@ -109,7 +109,7 @@ As of 2020-06-13 09:46:42, hackers.town is rank 917
 107. daum3ns                       0.02%       56,636 (units:     6)
 108. HiRezCanDo                    0.02%       51,658 (units:    59)
 109. amsomniac                     0.02%       50,923 (units:    45)
-110. Toive8547                     0.02%       49,535 (units: 2,281)
+110. Toive8547                     0.02%       49,552 (units: 2,283)
 111. socketwench                   0.02%       47,849 (units:    49)
 112. emelie                        0.01%       46,275 (units:     4)
 113. huobijubajeebajoba            0.01%       38,451 (units:    15)
