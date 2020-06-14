@@ -1,17 +1,17 @@
-As of 2020-06-14 06:07:42, hackers.town is rank 921
-   with 26,927 work units for 309,435,423 credits
+As of 2020-06-14 06:26:32, hackers.town is rank 921
+   with 26,931 work units for 309,439,954 credits
   1. wetdryvac                    10.39%   32,148,675 (units:   888)
   2. Werekat                       6.74%   20,848,205 (units:   901)
   3. merimus                       6.65%   20,589,421 (units:   553)
   4. packetcat                     6.41%   19,829,617 (units:   153)
-  5. KemoNine                      6.05%   18,705,527 (units:   625)
+  5. KemoNine                      6.04%   18,705,527 (units:   625)
   6. Freakazoid                    5.93%   18,343,975 (units:   839)
   7. dokuja                        5.85%   18,104,692 (units:   474)
   8. Polychrome                    5.40%   16,722,670 (units:   809)
-  9. bhtooefr                      4.65%   14,375,713 (units:   528)
+  9. bhtooefr                      4.65%   14,379,510 (units:   529)
  10. Calcifer                      2.52%    7,802,361 (units:   193)
  11. c0debabe                      2.33%    7,224,123 (units:   245)
- 12. CookieMom                     2.25%    6,949,933 (units:   839)
+ 12. CookieMom                     2.25%    6,950,663 (units:   840)
  13. dafuchs                       2.04%    6,311,533 (units:   392)
  14. elfgirlsarah                  1.90%    5,885,416 (units:   931)
  15. SiinaCutie                    1.68%    5,188,566 (units:   235)
@@ -108,7 +108,7 @@ As of 2020-06-14 06:07:42, hackers.town is rank 921
 106. neoninteger                   0.02%       59,260 (units:    46)
 107. daum3ns                       0.02%       56,636 (units:     6)
 108. HiRezCanDo                    0.02%       51,658 (units:    59)
-109. Toive8547                     0.02%       51,592 (units: 2,408)
+109. Toive8547                     0.02%       51,596 (units: 2,410)
 110. amsomniac                     0.02%       50,923 (units:    45)
 111. socketwench                   0.02%       47,849 (units:    49)
 112. emelie                        0.01%       46,275 (units:     4)
