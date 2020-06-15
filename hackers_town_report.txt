@@ -1,7 +1,7 @@
-As of 2020-06-15 16:16:36, hackers.town is rank 924
-   with 27,255 work units for 309,996,262 credits
+As of 2020-06-15 16:36:43, hackers.town is rank 924
+   with 27,259 work units for 310,041,694 credits
   1. wetdryvac                    10.37%   32,148,675 (units:   888)
-  2. Werekat                       6.73%   20,848,205 (units:   901)
+  2. Werekat                       6.72%   20,848,205 (units:   901)
   3. merimus                       6.64%   20,589,421 (units:   553)
   4. packetcat                     6.40%   19,829,617 (units:   153)
   5. KemoNine                      6.03%   18,705,527 (units:   625)
@@ -14,7 +14,7 @@ As of 2020-06-15 16:16:36, hackers.town is rank 924
  12. CookieMom                     2.25%    6,960,884 (units:   853)
  13. dafuchs                       2.04%    6,320,938 (units:   393)
  14. elfgirlsarah                  1.90%    5,885,416 (units:   931)
- 15. Kyle                          1.72%    5,340,898 (units:   470)
+ 15. Kyle                          1.74%    5,385,600 (units:   471)
  16. SiinaCutie                    1.67%    5,188,566 (units:   235)
  17. FOOL                          1.63%    5,055,473 (units:   383)
  18. felix                         1.58%    4,901,391 (units:   185)
@@ -107,7 +107,7 @@ As of 2020-06-15 16:16:36, hackers.town is rank 924
 105. tomatoefolding                0.02%       59,750 (units:     1)
 106. neoninteger                   0.02%       59,260 (units:    46)
 107. daum3ns                       0.02%       56,636 (units:     6)
-108. Toive8547                     0.02%       53,934 (units: 2,622)
+108. Toive8547                     0.02%       53,945 (units: 2,624)
 109. HiRezCanDo                    0.02%       51,658 (units:    59)
 110. amsomniac                     0.02%       50,923 (units:    45)
 111. socketwench                   0.02%       47,849 (units:    49)
@@ -138,7 +138,7 @@ As of 2020-06-15 16:16:36, hackers.town is rank 924
 136. Data                          0.00%       11,812 (units:    15)
 137. Mathis                        0.00%        9,105 (units:     7)
 138. OldRedSun                     0.00%        9,054 (units:     1)
-139. m4iler                        0.00%        7,712 (units:    12)
+139. m4iler                        0.00%        8,431 (units:    13)
 140. teecee                        0.00%        7,506 (units:    10)
 141. dimazest                      0.00%        7,169 (units:     6)
 142. Arcans                        0.00%        6,341 (units:    14)
