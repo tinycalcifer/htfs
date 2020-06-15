@@ -1,5 +1,5 @@
-As of 2020-06-15 10:16:48, hackers.town is rank 923
-   with 27,195 work units for 309,937,644 credits
+As of 2020-06-15 10:36:45, hackers.town is rank 923
+   with 27,199 work units for 309,939,378 credits
   1. wetdryvac                    10.37%   32,148,675 (units:   888)
   2. Werekat                       6.73%   20,848,205 (units:   901)
   3. merimus                       6.64%   20,589,421 (units:   553)
@@ -11,7 +11,7 @@ As of 2020-06-15 10:16:48, hackers.town is rank 923
   9. bhtooefr                      4.64%   14,386,809 (units:   532)
  10. Calcifer                      2.52%    7,802,361 (units:   193)
  11. c0debabe                      2.33%    7,224,123 (units:   245)
- 12. CookieMom                     2.25%    6,959,077 (units:   850)
+ 12. CookieMom                     2.25%    6,959,807 (units:   851)
  13. dafuchs                       2.04%    6,320,938 (units:   393)
  14. elfgirlsarah                  1.90%    5,885,416 (units:   931)
  15. Kyle                          1.72%    5,334,616 (units:   468)
@@ -82,7 +82,7 @@ As of 2020-06-15 10:16:48, hackers.town is rank 923
  80. BadGateway                    0.05%      161,439 (units:    84)
  81. gwozniak                      0.05%      145,329 (units:   182)
  82. silksnep                      0.05%      141,111 (units:   176)
- 83. grasshopper                   0.04%      129,698 (units:   163)
+ 83. grasshopper                   0.04%      130,698 (units:   164)
  84. arbu                          0.04%      125,499 (units:     7)
  85. Neil                          0.04%      124,874 (units:    32)
  86. Bingo                         0.04%      124,668 (units:   189)
@@ -107,7 +107,7 @@ As of 2020-06-15 10:16:48, hackers.town is rank 923
 105. tomatoefolding                0.02%       59,750 (units:     1)
 106. neoninteger                   0.02%       59,260 (units:    46)
 107. daum3ns                       0.02%       56,636 (units:     6)
-108. Toive8547                     0.02%       53,769 (units: 2,585)
+108. Toive8547                     0.02%       53,773 (units: 2,587)
 109. HiRezCanDo                    0.02%       51,658 (units:    59)
 110. amsomniac                     0.02%       50,923 (units:    45)
 111. socketwench                   0.02%       47,849 (units:    49)
