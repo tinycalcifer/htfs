@@ -1,5 +1,5 @@
-As of 2020-06-19 03:16:46, hackers.town is rank 942
-   with 27,952 work units for 311,865,585 credits
+As of 2020-06-19 03:27:07, hackers.town is rank 942
+   with 27,954 work units for 311,869,811 credits
   1. wetdryvac                    10.31%   32,148,675 (units:   888)
   2. Werekat                       6.83%   21,304,949 (units:   915)
   3. merimus                       6.60%   20,589,421 (units:   553)
@@ -33,7 +33,7 @@ As of 2020-06-19 03:16:46, hackers.town is rank 942
  31. Anonymous                     0.65%    2,014,886 (units:   698)
  32. pfreak                        0.64%    1,996,770 (units:    48)
  33. avolkov                       0.61%    1,891,826 (units:   104)
- 34.                               0.60%    1,856,225 (units:   368)
+ 34.                               0.60%    1,860,444 (units:   369)
  35. jkl                           0.59%    1,830,623 (units:   428)
  36. neil                          0.58%    1,818,691 (units:   370)
  37. rfquerin                      0.53%    1,638,770 (units:   107)
@@ -58,7 +58,7 @@ As of 2020-06-19 03:16:46, hackers.town is rank 942
  56. technolust                    0.15%      458,534 (units:   355)
  57. Mnemonic                      0.14%      434,508 (units:   163)
  58. protospork                    0.14%      423,894 (units:    59)
- 59. Hany                          0.14%      421,021 (units:    99)
+ 59. Hany                          0.13%      421,021 (units:    99)
  60. fl0wn                         0.12%      388,420 (units:    74)
  61. Logomancer                    0.12%      384,081 (units:   266)
  62. csrsuoeb                      0.11%      330,048 (units:    69)
@@ -103,7 +103,7 @@ As of 2020-06-19 03:16:46, hackers.town is rank 942
 101. deowyth                       0.02%       68,655 (units:     5)
 102.                               0.02%       65,445 (units:    39)
 103. 11backslashes                 0.02%       61,710 (units:    59)
-104. Toive8547                     0.02%       61,201 (units: 3,114)
+104. Toive8547                     0.02%       61,208 (units: 3,115)
 105. technoid_                     0.02%       60,716 (units:    77)
 106. tomatoefolding                0.02%       59,750 (units:     1)
 107. neoninteger                   0.02%       59,260 (units:    46)
