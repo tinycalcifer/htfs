@@ -1,7 +1,7 @@
-As of 2020-06-20 15:26:36, hackers.town is rank 951
-   with 28,302 work units for 313,317,507 credits
+As of 2020-06-20 15:56:32, hackers.town is rank 951
+   with 28,308 work units for 313,327,647 credits
   1. wetdryvac                    10.26%   32,148,675 (units:   888)
-  2. Werekat                       7.02%   21,985,507 (units:   932)
+  2. Werekat                       7.02%   21,989,840 (units:   933)
   3. merimus                       6.57%   20,589,421 (units:   553)
   4. packetcat                     6.33%   19,829,617 (units:   153)
   5. KemoNine                      5.97%   18,705,527 (units:   625)
@@ -63,7 +63,7 @@ As of 2020-06-20 15:26:36, hackers.town is rank 951
  61. Logomancer                    0.12%      384,093 (units:   276)
  62. csrsuoeb                      0.11%      330,048 (units:    69)
  63. KitRedgrave                   0.10%      325,409 (units:    68)
- 64. crc32                         0.10%      312,019 (units:   317)
+ 64. crc32                         0.10%      317,374 (units:   318)
  65. debugninja                    0.09%      288,707 (units:    34)
  66. ZenCoder                      0.09%      281,041 (units:    87)
  67. folding_with_gibson           0.09%      276,013 (units:   126)
@@ -81,7 +81,7 @@ As of 2020-06-20 15:26:36, hackers.town is rank 951
  79. RandyNose                     0.05%      162,127 (units:   210)
  80. BadGateway                    0.05%      161,439 (units:    84)
  81. gwozniak                      0.05%      145,329 (units:   182)
- 82. grasshopper                   0.05%      142,744 (units:   175)
+ 82. grasshopper                   0.05%      143,181 (units:   176)
  83. silksnep                      0.05%      141,111 (units:   176)
  84. arbu                          0.04%      125,499 (units:     7)
  85. Neil                          0.04%      124,874 (units:    32)
@@ -101,7 +101,7 @@ As of 2020-06-20 15:26:36, hackers.town is rank 951
  99. Murph                         0.02%       71,069 (units:    21)
 100. Alteraner92                   0.02%       70,864 (units:    47)
 101. deowyth                       0.02%       68,655 (units:     5)
-102. Toive8547                     0.02%       65,472 (units: 3,342)
+102. Toive8547                     0.02%       65,487 (units: 3,345)
 103.                               0.02%       65,445 (units:    39)
 104. 11backslashes                 0.02%       61,710 (units:    59)
 105. technoid_                     0.02%       60,716 (units:    77)
