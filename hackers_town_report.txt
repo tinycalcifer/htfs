@@ -1,7 +1,7 @@
-As of 2020-06-21 03:28:24, hackers.town is rank 951
-   with 28,409 work units for 313,748,879 credits
+As of 2020-06-21 03:46:56, hackers.town is rank 951
+   with 28,415 work units for 313,757,105 credits
   1. wetdryvac                    10.25%   32,148,675 (units:   888)
-  2. Werekat                       7.07%   22,186,489 (units:   937)
+  2. Werekat                       7.07%   22,191,124 (units:   938)
   3. merimus                       6.56%   20,589,421 (units:   553)
   4. packetcat                     6.32%   19,829,617 (units:   153)
   5. KemoNine                      5.96%   18,705,527 (units:   625)
@@ -10,13 +10,13 @@ As of 2020-06-21 03:28:24, hackers.town is rank 951
   8. Polychrome                    5.45%   17,104,047 (units:   850)
   9. bhtooefr                      4.60%   14,443,013 (units:   549)
  10. Calcifer                      2.49%    7,802,361 (units:   193)
- 11. CookieMom                     2.39%    7,483,372 (units:   917)
+ 11. CookieMom                     2.39%    7,483,870 (units:   918)
  12. c0debabe                      2.30%    7,224,123 (units:   245)
  13. dafuchs                       2.01%    6,320,938 (units:   393)
  14. Kyle                          1.97%    6,167,551 (units:   484)
  15. elfgirlsarah                  1.88%    5,885,416 (units:   931)
  16. SiinaCutie                    1.65%    5,188,566 (units:   235)
- 17. FOOL                          1.61%    5,062,897 (units:   386)
+ 17. FOOL                          1.61%    5,064,496 (units:   387)
  18. felix                         1.56%    4,901,391 (units:   185)
  19. r000t                         1.30%    4,069,816 (units:   121)
  20. Mr.House                      1.26%    3,947,699 (units:   202)
@@ -101,7 +101,7 @@ As of 2020-06-21 03:28:24, hackers.town is rank 951
  99. Murph                         0.02%       71,069 (units:    21)
 100. Alteraner92                   0.02%       70,864 (units:    47)
 101. deowyth                       0.02%       68,655 (units:     5)
-102. Toive8547                     0.02%       65,757 (units: 3,417)
+102. Toive8547                     0.02%       67,251 (units: 3,420)
 103.                               0.02%       65,445 (units:    39)
 104. 11backslashes                 0.02%       61,710 (units:    59)
 105. technoid_                     0.02%       60,716 (units:    77)
