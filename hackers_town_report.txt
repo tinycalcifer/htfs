@@ -1,16 +1,16 @@
-As of 2020-06-22 15:37:01, hackers.town is rank 957
-   with 28,733 work units for 315,322,254 credits
-  1. wetdryvac                    10.20%   32,148,675 (units:   888)
+As of 2020-06-22 15:57:17, hackers.town is rank 957
+   with 28,736 work units for 315,394,958 credits
+  1. wetdryvac                    10.19%   32,148,675 (units:   888)
   2. Werekat                       7.27%   22,929,638 (units:   955)
   3. merimus                       6.53%   20,589,421 (units:   553)
   4. packetcat                     6.29%   19,829,617 (units:   153)
   5. KemoNine                      5.93%   18,705,527 (units:   625)
-  6. Freakazoid                    5.83%   18,368,034 (units:   850)
+  6. Freakazoid                    5.82%   18,368,034 (units:   850)
   7. dokuja                        5.74%   18,104,692 (units:   474)
   8. Polychrome                    5.45%   17,181,584 (units:   857)
   9. bhtooefr                      4.58%   14,453,133 (units:   552)
- 10. Calcifer                      2.47%    7,802,361 (units:   193)
- 11. CookieMom                     2.46%    7,747,358 (units:   926)
+ 10. CookieMom                     2.48%    7,820,058 (units:   927)
+ 11. Calcifer                      2.47%    7,802,361 (units:   193)
  12. c0debabe                      2.29%    7,224,123 (units:   245)
  13. Kyle                          2.03%    6,411,121 (units:   487)
  14. dafuchs                       2.00%    6,320,938 (units:   393)
@@ -100,7 +100,7 @@ As of 2020-06-22 15:37:01, hackers.town is rank 957
  98. George_                       0.02%       75,198 (units:    12)
  99. Murph                         0.02%       71,069 (units:    21)
 100. Alteraner92                   0.02%       70,864 (units:    47)
-101. Toive8547                     0.02%       70,097 (units: 3,646)
+101. Toive8547                     0.02%       70,101 (units: 3,648)
 102. deowyth                       0.02%       68,655 (units:     5)
 103.                               0.02%       65,445 (units:    39)
 104. 11backslashes                 0.02%       61,710 (units:    59)
