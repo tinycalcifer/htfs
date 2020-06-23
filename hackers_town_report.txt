@@ -1,5 +1,5 @@
-As of 2020-06-23 15:37:04, hackers.town is rank 958
-   with 28,952 work units for 316,478,378 credits
+As of 2020-06-23 15:46:54, hackers.town is rank 958
+   with 28,955 work units for 316,483,992 credits
   1. wetdryvac                    10.16%   32,148,675 (units:   888)
   2. Werekat                       7.40%   23,427,296 (units:   968)
   3. merimus                       6.51%   20,589,421 (units:   553)
@@ -12,7 +12,7 @@ As of 2020-06-23 15:37:04, hackers.town is rank 958
  10. CookieMom                     2.51%    7,951,503 (units:   931)
  11. Calcifer                      2.47%    7,802,361 (units:   193)
  12. c0debabe                      2.28%    7,224,123 (units:   245)
- 13. Kyle                          2.12%    6,700,172 (units:   495)
+ 13. Kyle                          2.12%    6,705,332 (units:   496)
  14. dafuchs                       2.00%    6,320,938 (units:   393)
  15. elfgirlsarah                  1.86%    5,885,416 (units:   931)
  16. SiinaCutie                    1.64%    5,188,566 (units:   235)
@@ -31,7 +31,7 @@ As of 2020-06-23 15:37:04, hackers.town is rank 958
  29. /dev/random                   0.67%    2,135,335 (units:   204)
  30.                               0.65%    2,067,829 (units:   410)
  31. mandibular joint dysfunction  0.65%    2,055,511 (units:   834)
- 32. Anonymous                     0.65%    2,052,777 (units:   713)
+ 32. Anonymous                     0.65%    2,053,227 (units:   714)
  33. pfreak                        0.63%    1,996,770 (units:    48)
  34. jkl                           0.61%    1,928,384 (units:   445)
  35. avolkov                       0.60%    1,891,826 (units:   104)
@@ -98,7 +98,7 @@ As of 2020-06-23 15:37:04, hackers.town is rank 958
  96. Kirjis                        0.03%       79,781 (units:   106)
  97. Seb                           0.02%       75,368 (units:   128)
  98. George_                       0.02%       75,198 (units:    12)
- 99. Toive8547                     0.02%       72,410 (units: 3,792)
+ 99. Toive8547                     0.02%       72,414 (units: 3,793)
 100. Murph                         0.02%       71,069 (units:    21)
 101. Alteraner92                   0.02%       70,864 (units:    47)
 102. deowyth                       0.02%       68,655 (units:     5)
