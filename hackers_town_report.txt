@@ -1,5 +1,5 @@
-As of 2020-06-24 13:16:46, hackers.town is rank 959
-   with 29,127 work units for 317,402,468 credits
+As of 2020-06-24 14:26:41, hackers.town is rank 959
+   with 29,130 work units for 317,427,348 credits
   1. wetdryvac                    10.13%   32,148,675 (units:   888)
   2. Werekat                       7.49%   23,775,934 (units:   977)
   3. merimus                       6.49%   20,589,421 (units:   553)
@@ -9,7 +9,7 @@ As of 2020-06-24 13:16:46, hackers.town is rank 959
   7. dokuja                        5.70%   18,104,692 (units:   474)
   8. Polychrome                    5.45%   17,287,839 (units:   863)
   9. bhtooefr                      4.56%   14,462,018 (units:   553)
- 10. CookieMom                     2.56%    8,118,148 (units:   937)
+ 10. CookieMom                     2.56%    8,127,553 (units:   938)
  11. Calcifer                      2.46%    7,802,361 (units:   193)
  12. c0debabe                      2.28%    7,224,123 (units:   245)
  13. Kyle                          2.16%    6,844,420 (units:   505)
@@ -24,12 +24,12 @@ As of 2020-06-24 13:16:46, hackers.town is rank 959
  22. skraelingjar                  1.06%    3,352,989 (units:    64)
  23. Kranfahrer                    0.95%    3,024,932 (units:   201)
  24. ryen                          0.93%    2,936,587 (units:   208)
- 25. zx3                           0.87%    2,774,917 (units:   255)
+ 25. zx3                           0.88%    2,785,532 (units:   256)
  26. radicaledward                 0.86%    2,717,086 (units:    90)
  27. drwho                         0.77%    2,457,926 (units:   500)
  28. The_Gibson(HTown)             0.73%    2,330,035 (units:   212)
  29. /dev/random                   0.67%    2,135,335 (units:   204)
- 30.                               0.66%    2,102,799 (units:   419)
+ 30.                               0.66%    2,107,659 (units:   420)
  31. Anonymous                     0.65%    2,069,887 (units:   724)
  32. mandibular joint dysfunction  0.65%    2,055,511 (units:   834)
  33. pfreak                        0.63%    1,996,770 (units:    48)
