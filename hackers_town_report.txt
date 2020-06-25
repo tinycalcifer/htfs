@@ -1,8 +1,8 @@
-As of 2020-06-25 03:56:36, hackers.town is rank 959
-   with 29,169 work units for 317,956,066 credits
+As of 2020-06-25 04:07:04, hackers.town is rank 959
+   with 29,171 work units for 317,988,881 credits
   1. wetdryvac                    10.11%   32,148,675 (units:   888)
-  2. Werekat                       7.51%   23,869,721 (units:   982)
-  3. merimus                       6.48%   20,589,421 (units:   553)
+  2. Werekat                       7.51%   23,876,086 (units:   983)
+  3. merimus                       6.47%   20,589,421 (units:   553)
   4. packetcat                     6.24%   19,829,617 (units:   153)
   5. KemoNine                      5.88%   18,705,527 (units:   625)
   6. Freakazoid                    5.78%   18,370,834 (units:   852)
@@ -20,11 +20,11 @@ As of 2020-06-25 03:56:36, hackers.town is rank 959
  18. felix                         1.54%    4,901,391 (units:   185)
  19. r000t                         1.28%    4,069,816 (units:   121)
  20. Mr.House                      1.24%    3,947,699 (units:   202)
- 21. paullindner                   1.15%    3,640,770 (units:   725)
+ 21. paullindner                   1.14%    3,640,770 (units:   725)
  22. skraelingjar                  1.05%    3,352,989 (units:    64)
  23. Kranfahrer                    0.95%    3,024,932 (units:   201)
  24. ryen                          0.92%    2,936,587 (units:   208)
- 25. zx3                           0.88%    2,788,032 (units:   257)
+ 25. zx3                           0.89%    2,814,482 (units:   258)
  26. radicaledward                 0.85%    2,717,086 (units:    90)
  27. drwho                         0.77%    2,457,926 (units:   500)
  28. The_Gibson(HTown)             0.73%    2,330,035 (units:   212)
@@ -35,7 +35,7 @@ As of 2020-06-25 03:56:36, hackers.town is rank 959
  33. pfreak                        0.63%    1,996,770 (units:    48)
  34. jkl                           0.62%    1,963,475 (units:   452)
  35. avolkov                       0.59%    1,891,826 (units:   104)
- 36. neil                          0.58%    1,828,280 (units:   378)
+ 36. neil                          0.57%    1,828,280 (units:   378)
  37. rfquerin                      0.52%    1,638,770 (units:   107)
  38. DJ_Sundog                     0.48%    1,513,675 (units:   330)
  39. sungo                         0.45%    1,432,642 (units:   399)
