@@ -1,5 +1,5 @@
-As of 2020-06-26 07:36:44, hackers.town is rank 961
-   with 29,255 work units for 319,119,374 credits
+As of 2020-06-26 08:06:34, hackers.town is rank 961
+   with 29,257 work units for 319,126,040 credits
   1. wetdryvac                    10.07%   32,148,675 (units:   888)
   2. Werekat                       7.61%   24,275,933 (units:   992)
   3. merimus                       6.45%   20,589,421 (units:   553)
@@ -8,13 +8,13 @@ As of 2020-06-26 07:36:44, hackers.town is rank 961
   6. Freakazoid                    5.76%   18,370,834 (units:   852)
   7. dokuja                        5.67%   18,104,692 (units:   474)
   8. Polychrome                    5.45%   17,384,289 (units:   874)
-  9. bhtooefr                      4.54%   14,474,227 (units:   556)
+  9. bhtooefr                      4.54%   14,476,329 (units:   557)
  10. CookieMom                     2.66%    8,502,079 (units:   947)
  11. Calcifer                      2.44%    7,802,361 (units:   193)
  12. c0debabe                      2.26%    7,224,123 (units:   245)
  13. Kyle                          2.23%    7,127,327 (units:   519)
  14. dafuchs                       1.98%    6,320,938 (units:   393)
- 15. elfgirlsarah                  1.89%    6,038,270 (units:   936)
+ 15. elfgirlsarah                  1.89%    6,042,834 (units:   937)
  16. SiinaCutie                    1.63%    5,188,566 (units:   235)
  17. FOOL                          1.59%    5,065,677 (units:   388)
  18. felix                         1.54%    4,901,391 (units:   185)
@@ -95,7 +95,7 @@ As of 2020-06-26 07:36:44, hackers.town is rank 961
  93. JoshMulliken                  0.03%       97,080 (units:    23)
  94. claudiom                      0.03%       83,945 (units:   545)
  95. Purple                        0.03%       81,458 (units:    85)
- 96. Kirjis                        0.03%       79,781 (units:   106)
+ 96. Kirjis                        0.02%       79,781 (units:   106)
  97. Toive8547                     0.02%       78,774 (units: 3,895)
  98. Seb                           0.02%       75,368 (units:   128)
  99. George_                       0.02%       75,198 (units:    12)
