@@ -1,5 +1,5 @@
-As of 2020-06-26 14:36:58, hackers.town is rank 962
-   with 29,281 work units for 319,612,893 credits
+As of 2020-06-26 15:26:36, hackers.town is rank 962
+   with 29,283 work units for 319,666,588 credits
   1. wetdryvac                    10.06%   32,148,675 (units:   888)
   2. Werekat                       7.64%   24,416,567 (units:   993)
   3. merimus                       6.44%   20,589,421 (units:   553)
@@ -9,7 +9,7 @@ As of 2020-06-26 14:36:58, hackers.town is rank 962
   7. dokuja                        5.66%   18,104,692 (units:   474)
   8. Polychrome                    5.44%   17,395,142 (units:   876)
   9. bhtooefr                      4.53%   14,476,329 (units:   557)
- 10. CookieMom                     2.67%    8,532,329 (units:   948)
+ 10. CookieMom                     2.69%    8,585,574 (units:   949)
  11. Calcifer                      2.44%    7,802,361 (units:   193)
  12. Kyle                          2.27%    7,253,015 (units:   521)
  13. c0debabe                      2.26%    7,224,123 (units:   245)
@@ -19,7 +19,7 @@ As of 2020-06-26 14:36:58, hackers.town is rank 962
  17. FOOL                          1.59%    5,071,032 (units:   389)
  18. felix                         1.53%    4,901,391 (units:   185)
  19. r000t                         1.27%    4,069,816 (units:   121)
- 20. Mr.House                      1.24%    3,947,699 (units:   202)
+ 20. Mr.House                      1.23%    3,947,699 (units:   202)
  21. paullindner                   1.14%    3,640,770 (units:   725)
  22. skraelingjar                  1.05%    3,352,989 (units:    64)
  23. Kranfahrer                    0.95%    3,024,932 (units:   201)
@@ -71,7 +71,7 @@ As of 2020-06-26 14:36:58, hackers.town is rank 962
  69. Kyresti                       0.08%      262,134 (units:    39)
  70. Brian                         0.08%      259,022 (units:    82)
  71. Neue.City                     0.07%      235,324 (units:    60)
- 72. MaxAtCastleMalmeddy           0.07%      223,599 (units:   214)
+ 72. MaxAtCastleMalmeddy           0.07%      224,049 (units:   215)
  73. Imani                         0.07%      209,939 (units:   273)
  74. LordMathis                    0.06%      207,717 (units:    36)
  75. pmosetc                       0.06%      199,375 (units:   198)
