@@ -1,5 +1,5 @@
-As of 2020-06-29 18:16:57, hackers.town is rank 970
-   with 29,474 work units for 322,762,082 credits
+As of 2020-06-29 19:57:08, hackers.town is rank 970
+   with 29,478 work units for 322,781,785 credits
   1. wetdryvac                     9.96%   32,148,675 (units:   888)
   2. Werekat                       7.92%   25,555,637 (units: 1,018)
   3. merimus                       6.38%   20,589,421 (units:   553)
@@ -8,9 +8,9 @@ As of 2020-06-29 18:16:57, hackers.town is rank 970
   6. Freakazoid                    5.69%   18,370,834 (units:   852)
   7. dokuja                        5.61%   18,104,692 (units:   474)
   8. Polychrome                    5.44%   17,574,296 (units:   896)
-  9. bhtooefr                      4.49%   14,490,459 (units:   562)
+  9. bhtooefr                      4.49%   14,492,553 (units:   563)
  10. CookieMom                     2.66%    8,585,574 (units:   949)
- 11. Kyle                          2.43%    7,854,966 (units:   544)
+ 11. Kyle                          2.44%    7,867,069 (units:   545)
  12. Calcifer                      2.42%    7,802,361 (units:   193)
  13. c0debabe                      2.24%    7,224,123 (units:   245)
  14. elfgirlsarah                  2.12%    6,845,555 (units:   955)
@@ -29,9 +29,9 @@ As of 2020-06-29 18:16:57, hackers.town is rank 970
  27. drwho                         0.76%    2,457,926 (units:   500)
  28.                               0.73%    2,352,751 (units:   462)
  29. The_Gibson(HTown)             0.72%    2,330,035 (units:   212)
- 30. Anonymous                     0.67%    2,157,096 (units:   776)
+ 30. Anonymous                     0.67%    2,159,796 (units:   777)
  31. /dev/random                   0.66%    2,135,335 (units:   204)
- 32. jkl                           0.64%    2,074,032 (units:   474)
+ 32. jkl                           0.64%    2,076,838 (units:   475)
  33. mandibular joint dysfunction  0.64%    2,055,511 (units:   834)
  34. pfreak                        0.62%    1,996,770 (units:    48)
  35. avolkov                       0.59%    1,891,826 (units:   104)
