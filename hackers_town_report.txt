@@ -1,5 +1,5 @@
-As of 2020-06-30 00:36:51, hackers.town is rank 972
-   with 29,490 work units for 322,990,878 credits
+As of 2020-06-30 02:16:41, hackers.town is rank 972
+   with 29,491 work units for 322,995,023 credits
   1. wetdryvac                     9.95%   32,148,675 (units:   888)
   2. Werekat                       7.97%   25,728,222 (units: 1,021)
   3. merimus                       6.37%   20,589,421 (units:   553)
@@ -27,7 +27,7 @@ As of 2020-06-30 00:36:51, hackers.town is rank 972
  25. ryen                          0.91%    2,936,587 (units:   208)
  26. radicaledward                 0.84%    2,717,086 (units:    90)
  27. drwho                         0.76%    2,457,926 (units:   500)
- 28.                               0.73%    2,355,902 (units:   463)
+ 28.                               0.73%    2,360,047 (units:   464)
  29. The_Gibson(HTown)             0.72%    2,330,035 (units:   212)
  30. Anonymous                     0.67%    2,163,744 (units:   780)
  31. /dev/random                   0.66%    2,135,335 (units:   204)
