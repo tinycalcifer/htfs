@@ -1,8 +1,8 @@
-As of 2020-06-29 23:36:42, hackers.town is rank 972
-   with 29,488 work units for 322,928,187 credits
-  1. wetdryvac                     9.96%   32,148,675 (units:   888)
-  2. Werekat                       7.95%   25,668,021 (units: 1,020)
-  3. merimus                       6.38%   20,589,421 (units:   553)
+As of 2020-06-30 00:16:52, hackers.town is rank 972
+   with 29,489 work units for 322,988,388 credits
+  1. wetdryvac                     9.95%   32,148,675 (units:   888)
+  2. Werekat                       7.97%   25,728,222 (units: 1,021)
+  3. merimus                       6.37%   20,589,421 (units:   553)
   4. packetcat                     6.14%   19,829,617 (units:   153)
   5. KemoNine                      5.79%   18,705,527 (units:   625)
   6. Freakazoid                    5.69%   18,370,834 (units:   852)
@@ -72,7 +72,7 @@ As of 2020-06-29 23:36:42, hackers.town is rank 972
  70. Brian                         0.08%      259,022 (units:    82)
  71. MaxAtCastleMalmeddy           0.07%      240,036 (units:   228)
  72. Neue.City                     0.07%      235,324 (units:    60)
- 73. Imani                         0.07%      209,939 (units:   273)
+ 73. Imani                         0.06%      209,939 (units:   273)
  74. LordMathis                    0.06%      207,717 (units:    36)
  75. pmosetc                       0.06%      199,375 (units:   198)
  76. tbn97                         0.06%      192,093 (units:   139)
@@ -81,7 +81,7 @@ As of 2020-06-29 23:36:42, hackers.town is rank 972
  79. Michael_Simkin                0.05%      163,367 (units:    64)
  80. RandyNose                     0.05%      162,127 (units:   210)
  81. BadGateway                    0.05%      161,439 (units:    84)
- 82. gwozniak                      0.05%      145,329 (units:   182)
+ 82. gwozniak                      0.04%      145,329 (units:   182)
  83. silksnep                      0.04%      141,111 (units:   176)
  84. arbu                          0.04%      125,499 (units:     7)
  85. Neil                          0.04%      124,874 (units:    32)
