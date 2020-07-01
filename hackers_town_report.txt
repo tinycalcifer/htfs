@@ -1,5 +1,5 @@
-As of 2020-07-01 20:07:01, hackers.town is rank 977
-   with 29,639 work units for 324,677,675 credits
+As of 2020-07-01 20:46:47, hackers.town is rank 977
+   with 29,640 work units for 324,693,071 credits
   1. wetdryvac                     9.90%   32,148,675 (units:   888)
   2. Werekat                       8.18%   26,570,879 (units: 1,036)
   3. merimus                       6.34%   20,589,421 (units:   553)
@@ -12,7 +12,7 @@ As of 2020-07-01 20:07:01, hackers.town is rank 977
  10. CookieMom                     2.64%    8,585,574 (units:   949)
  11. Kyle                          2.56%    8,302,491 (units:   565)
  12. Calcifer                      2.40%    7,802,361 (units:   193)
- 13. c0debabe                      2.23%    7,224,123 (units:   245)
+ 13. c0debabe                      2.22%    7,224,123 (units:   245)
  14. elfgirlsarah                  2.11%    6,845,555 (units:   955)
  15. dafuchs                       1.95%    6,320,938 (units:   393)
  16. SiinaCutie                    1.60%    5,188,566 (units:   235)
@@ -22,7 +22,7 @@ As of 2020-07-01 20:07:01, hackers.town is rank 977
  20. Mr.House                      1.22%    3,947,699 (units:   202)
  21. paullindner                   1.12%    3,640,770 (units:   725)
  22. skraelingjar                  1.03%    3,352,989 (units:    64)
- 23. zx3                           0.97%    3,140,481 (units:   288)
+ 23. zx3                           0.97%    3,155,877 (units:   289)
  24. Kranfahrer                    0.93%    3,024,932 (units:   201)
  25. ryen                          0.90%    2,936,587 (units:   208)
  26. radicaledward                 0.84%    2,717,086 (units:    90)
@@ -33,7 +33,7 @@ As of 2020-07-01 20:07:01, hackers.town is rank 977
  31. /dev/random                   0.66%    2,135,335 (units:   204)
  32. jkl                           0.65%    2,120,877 (units:   484)
  33. mandibular joint dysfunction  0.63%    2,055,511 (units:   834)
- 34. pfreak                        0.62%    1,996,770 (units:    48)
+ 34. pfreak                        0.61%    1,996,770 (units:    48)
  35. avolkov                       0.58%    1,891,826 (units:   104)
  36. neil                          0.56%    1,833,635 (units:   379)
  37. rfquerin                      0.50%    1,638,770 (units:   107)
