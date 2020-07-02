@@ -1,8 +1,8 @@
-As of 2020-07-02 19:47:05, hackers.town is rank 978
-   with 29,709 work units for 325,490,304 credits
-  1. wetdryvac                     9.88%   32,148,675 (units:   888)
+As of 2020-07-02 20:26:56, hackers.town is rank 978
+   with 29,710 work units for 325,575,447 credits
+  1. wetdryvac                     9.87%   32,148,675 (units:   888)
   2. Werekat                       8.29%   26,976,484 (units: 1,043)
-  3. merimus                       6.33%   20,589,421 (units:   553)
+  3. merimus                       6.32%   20,589,421 (units:   553)
   4. packetcat                     6.09%   19,829,617 (units:   153)
   5. KemoNine                      5.75%   18,705,527 (units:   625)
   6. Freakazoid                    5.64%   18,370,834 (units:   852)
@@ -10,7 +10,7 @@ As of 2020-07-02 19:47:05, hackers.town is rank 978
   8. Polychrome                    5.44%   17,721,483 (units:   908)
   9. bhtooefr                      4.46%   14,508,565 (units:   569)
  10. CookieMom                     2.64%    8,585,574 (units:   949)
- 11. Kyle                          2.59%    8,434,072 (units:   572)
+ 11. Kyle                          2.62%    8,519,215 (units:   573)
  12. Calcifer                      2.40%    7,802,361 (units:   193)
  13. c0debabe                      2.22%    7,224,123 (units:   245)
  14. elfgirlsarah                  2.10%    6,845,555 (units:   955)
@@ -26,7 +26,7 @@ As of 2020-07-02 19:47:05, hackers.town is rank 978
  24. Kranfahrer                    0.93%    3,024,932 (units:   201)
  25. ryen                          0.90%    2,936,587 (units:   208)
  26. radicaledward                 0.83%    2,717,086 (units:    90)
- 27. drwho                         0.76%    2,457,926 (units:   500)
+ 27. drwho                         0.75%    2,457,926 (units:   500)
  28.                               0.74%    2,398,795 (units:   472)
  29. The_Gibson(HTown)             0.72%    2,330,035 (units:   212)
  30. Anonymous                     0.68%    2,216,127 (units:   807)
@@ -37,7 +37,7 @@ As of 2020-07-02 19:47:05, hackers.town is rank 978
  35. avolkov                       0.58%    1,891,826 (units:   104)
  36. neil                          0.56%    1,833,635 (units:   379)
  37. rfquerin                      0.50%    1,638,770 (units:   107)
- 38. DJ_Sundog                     0.47%    1,513,675 (units:   330)
+ 38. DJ_Sundog                     0.46%    1,513,675 (units:   330)
  39. sungo                         0.44%    1,432,642 (units:   399)
  40. kusuriya                      0.40%    1,314,178 (units:    68)
  41. rmgr                          0.40%    1,290,558 (units:    47)
