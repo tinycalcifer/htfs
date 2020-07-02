@@ -1,5 +1,5 @@
-As of 2020-07-02 09:46:47, hackers.town is rank 978
-   with 29,677 work units for 325,233,697 credits
+As of 2020-07-02 10:26:55, hackers.town is rank 978
+   with 29,682 work units for 325,251,419 credits
   1. wetdryvac                     9.88%   32,148,675 (units:   888)
   2. Werekat                       8.25%   26,833,602 (units: 1,040)
   3. merimus                       6.33%   20,589,421 (units:   553)
@@ -8,7 +8,7 @@ As of 2020-07-02 09:46:47, hackers.town is rank 978
   6. Freakazoid                    5.65%   18,370,834 (units:   852)
   7. dokuja                        5.57%   18,104,692 (units:   474)
   8. Polychrome                    5.45%   17,716,184 (units:   906)
-  9. bhtooefr                      4.46%   14,506,891 (units:   568)
+  9. bhtooefr                      4.46%   14,508,565 (units:   569)
  10. CookieMom                     2.64%    8,585,574 (units:   949)
  11. Kyle                          2.59%    8,415,653 (units:   569)
  12. Calcifer                      2.40%    7,802,361 (units:   193)
@@ -29,7 +29,7 @@ As of 2020-07-02 09:46:47, hackers.town is rank 978
  27. drwho                         0.76%    2,457,926 (units:   500)
  28.                               0.74%    2,398,795 (units:   472)
  29. The_Gibson(HTown)             0.72%    2,330,035 (units:   212)
- 30. Anonymous                     0.68%    2,207,182 (units:   800)
+ 30. Anonymous                     0.68%    2,210,025 (units:   801)
  31. /dev/random                   0.66%    2,135,335 (units:   204)
  32. jkl                           0.66%    2,133,941 (units:   487)
  33. mandibular joint dysfunction  0.63%    2,055,511 (units:   834)
@@ -43,9 +43,9 @@ As of 2020-07-02 09:46:47, hackers.town is rank 978
  41. rmgr                          0.40%    1,290,558 (units:    47)
  42. djsumdog                      0.38%    1,227,802 (units:   202)
  43. qwazix                        0.36%    1,157,676 (units:   220)
- 44. Canageek                      0.36%    1,155,407 (units:   233)
- 45. TerrorBite                    0.33%    1,085,432 (units:    36)
- 46. niconiconi                    0.33%    1,073,340 (units:   107)
+ 44. Canageek                      0.36%    1,156,457 (units:   234)
+ 45. niconiconi                    0.33%    1,085,495 (units:   109)
+ 46. TerrorBite                    0.33%    1,085,432 (units:    36)
  47. mainebot                      0.31%    1,005,210 (units:    58)
  48. Requiem                       0.27%      893,950 (units:   296)
  49. Null                          0.25%      818,594 (units:    22)
