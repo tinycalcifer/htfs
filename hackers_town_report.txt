@@ -1,7 +1,7 @@
-As of 2020-07-03 11:16:54, hackers.town is rank 979
-   with 29,759 work units for 326,323,431 credits
+As of 2020-07-03 11:26:59, hackers.town is rank 979
+   with 29,762 work units for 326,347,495 credits
   1. wetdryvac                     9.85%   32,148,675 (units:   888)
-  2. Werekat                       8.36%   27,265,752 (units: 1,051)
+  2. Werekat                       8.35%   27,265,752 (units: 1,051)
   3. merimus                       6.31%   20,589,421 (units:   553)
   4. packetcat                     6.08%   19,829,617 (units:   153)
   5. KemoNine                      5.73%   18,705,527 (units:   625)
@@ -9,14 +9,14 @@ As of 2020-07-03 11:16:54, hackers.town is rank 979
   7. dokuja                        5.55%   18,104,692 (units:   474)
   8. Polychrome                    5.46%   17,808,840 (units:   913)
   9. bhtooefr                      4.45%   14,513,825 (units:   571)
- 10. CookieMom                     2.68%    8,745,309 (units:   952)
+ 10. CookieMom                     2.68%    8,760,705 (units:   953)
  11. Kyle                          2.65%    8,655,588 (units:   583)
  12. Calcifer                      2.39%    7,802,361 (units:   193)
  13. c0debabe                      2.21%    7,224,123 (units:   245)
  14. elfgirlsarah                  2.10%    6,845,555 (units:   955)
  15. dafuchs                       1.94%    6,320,938 (units:   393)
  16. SiinaCutie                    1.59%    5,188,566 (units:   235)
- 17. FOOL                          1.56%    5,077,299 (units:   392)
+ 17. FOOL                          1.56%    5,080,967 (units:   393)
  18. felix                         1.50%    4,901,391 (units:   185)
  19. r000t                         1.25%    4,069,816 (units:   121)
  20. Mr.House                      1.21%    3,947,699 (units:   202)
@@ -29,7 +29,7 @@ As of 2020-07-03 11:16:54, hackers.town is rank 979
  27. drwho                         0.75%    2,457,926 (units:   500)
  28.                               0.74%    2,409,017 (units:   475)
  29. The_Gibson(HTown)             0.71%    2,330,035 (units:   212)
- 30. Anonymous                     0.68%    2,222,767 (units:   811)
+ 30. Anonymous                     0.68%    2,227,767 (units:   812)
  31. jkl                           0.66%    2,158,716 (units:   492)
  32. /dev/random                   0.65%    2,135,335 (units:   204)
  33. mandibular joint dysfunction  0.63%    2,055,511 (units:   834)
