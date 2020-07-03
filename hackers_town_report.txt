@@ -1,15 +1,15 @@
-As of 2020-07-03 02:27:14, hackers.town is rank 977
-   with 29,729 work units for 325,841,555 credits
-  1. wetdryvac                     9.87%   32,148,675 (units:   888)
+As of 2020-07-03 03:17:06, hackers.town is rank 978
+   with 29,732 work units for 325,897,703 credits
+  1. wetdryvac                     9.86%   32,148,675 (units:   888)
   2. Werekat                       8.32%   27,112,708 (units: 1,046)
   3. merimus                       6.32%   20,589,421 (units:   553)
-  4. packetcat                     6.09%   19,829,617 (units:   153)
+  4. packetcat                     6.08%   19,829,617 (units:   153)
   5. KemoNine                      5.74%   18,705,527 (units:   625)
   6. Freakazoid                    5.64%   18,370,834 (units:   852)
   7. dokuja                        5.56%   18,104,692 (units:   474)
   8. Polychrome                    5.44%   17,723,631 (units:   909)
   9. bhtooefr                      4.45%   14,512,840 (units:   570)
- 10. CookieMom                     2.65%    8,638,819 (units:   950)
+ 10. CookieMom                     2.67%    8,692,064 (units:   951)
  11. Kyle                          2.63%    8,562,662 (units:   575)
  12. Calcifer                      2.39%    7,802,361 (units:   193)
  13. c0debabe                      2.22%    7,224,123 (units:   245)
@@ -27,9 +27,9 @@ As of 2020-07-03 02:27:14, hackers.town is rank 977
  25. ryen                          0.90%    2,936,587 (units:   208)
  26. radicaledward                 0.83%    2,717,086 (units:    90)
  27. drwho                         0.75%    2,457,926 (units:   500)
- 28.                               0.74%    2,398,795 (units:   472)
- 29. The_Gibson(HTown)             0.72%    2,330,035 (units:   212)
- 30. Anonymous                     0.68%    2,217,587 (units:   809)
+ 28.                               0.74%    2,400,998 (units:   473)
+ 29. The_Gibson(HTown)             0.71%    2,330,035 (units:   212)
+ 30. Anonymous                     0.68%    2,218,287 (units:   810)
  31. jkl                           0.66%    2,150,489 (units:   491)
  32. /dev/random                   0.66%    2,135,335 (units:   204)
  33. mandibular joint dysfunction  0.63%    2,055,511 (units:   834)
