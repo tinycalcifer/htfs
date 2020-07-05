@@ -1,5 +1,5 @@
-As of 2020-07-05 05:36:57, hackers.town is rank 984
-   with 29,863 work units for 327,715,255 credits
+As of 2020-07-05 05:47:02, hackers.town is rank 984
+   with 29,866 work units for 327,721,803 credits
   1. wetdryvac                     9.81%   32,148,675 (units:   888)
   2. Werekat                       8.48%   27,781,784 (units: 1,064)
   3. merimus                       6.28%   20,589,421 (units:   553)
@@ -10,7 +10,7 @@ As of 2020-07-05 05:36:57, hackers.town is rank 984
   8. Polychrome                    5.45%   17,869,635 (units:   922)
   9. bhtooefr                      4.43%   14,523,371 (units:   574)
  10. CookieMom                     2.79%    9,127,330 (units:   962)
- 11. Kyle                          2.71%    8,882,371 (units:   590)
+ 11. Kyle                          2.71%    8,887,546 (units:   591)
  12. Calcifer                      2.38%    7,802,361 (units:   193)
  13. c0debabe                      2.20%    7,224,123 (units:   245)
  14. elfgirlsarah                  2.09%    6,845,555 (units:   955)
@@ -29,7 +29,7 @@ As of 2020-07-05 05:36:57, hackers.town is rank 984
  27.                               0.76%    2,488,202 (units:   487)
  28. drwho                         0.75%    2,457,926 (units:   500)
  29. The_Gibson(HTown)             0.71%    2,330,035 (units:   212)
- 30. Anonymous                     0.69%    2,257,051 (units:   827)
+ 30. Anonymous                     0.69%    2,257,806 (units:   828)
  31. jkl                           0.67%    2,195,794 (units:   501)
  32. /dev/random                   0.65%    2,135,335 (units:   204)
  33. mandibular joint dysfunction  0.63%    2,055,511 (units:   834)
@@ -68,7 +68,7 @@ As of 2020-07-05 05:36:57, hackers.town is rank 984
  66. ZenCoder                      0.09%      281,041 (units:    87)
  67. folding_with_gibson           0.08%      276,013 (units:   126)
  68. jerephil                      0.08%      275,300 (units:   192)
- 69. MaxAtCastleMalmeddy           0.08%      269,537 (units:   247)
+ 69. MaxAtCastleMalmeddy           0.08%      270,155 (units:   248)
  70. Kyresti                       0.08%      262,134 (units:    39)
  71. Brian                         0.08%      259,022 (units:    82)
  72. Neue.City                     0.07%      235,324 (units:    60)
