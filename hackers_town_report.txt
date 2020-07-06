@@ -1,14 +1,14 @@
-As of 2020-07-06 03:46:56, hackers.town is rank 984
-   with 29,923 work units for 328,807,933 credits
-  1. wetdryvac                     9.78%   32,148,675 (units:   888)
-  2. Werekat                       8.57%   28,171,573 (units: 1,073)
+As of 2020-07-06 03:56:58, hackers.town is rank 984
+   with 29,925 work units for 328,895,908 credits
+  1. wetdryvac                     9.77%   32,148,675 (units:   888)
+  2. Werekat                       8.59%   28,257,323 (units: 1,074)
   3. merimus                       6.26%   20,589,421 (units:   553)
   4. packetcat                     6.03%   19,829,617 (units:   153)
   5. KemoNine                      5.69%   18,705,527 (units:   625)
   6. Freakazoid                    5.59%   18,370,834 (units:   852)
-  7. dokuja                        5.51%   18,104,692 (units:   474)
-  8. Polychrome                    5.46%   17,936,593 (units:   927)
-  9. bhtooefr                      4.42%   14,527,640 (units:   575)
+  7. dokuja                        5.50%   18,104,692 (units:   474)
+  8. Polychrome                    5.45%   17,936,593 (units:   927)
+  9. bhtooefr                      4.42%   14,529,865 (units:   576)
  10. CookieMom                     2.84%    9,328,600 (units:   968)
  11. Kyle                          2.76%    9,071,883 (units:   596)
  12. Calcifer                      2.37%    7,802,361 (units:   193)
@@ -32,7 +32,7 @@ As of 2020-07-06 03:46:56, hackers.town is rank 984
  30. Anonymous                     0.69%    2,263,801 (units:   837)
  31. jkl                           0.67%    2,208,657 (units:   502)
  32. /dev/random                   0.65%    2,135,335 (units:   204)
- 33. mandibular joint dysfunction  0.63%    2,055,511 (units:   834)
+ 33. mandibular joint dysfunction  0.62%    2,055,511 (units:   834)
  34. pfreak                        0.61%    1,996,770 (units:    48)
  35. avolkov                       0.58%    1,891,826 (units:   104)
  36. neil                          0.56%    1,842,077 (units:   385)
