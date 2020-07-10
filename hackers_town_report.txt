@@ -1,8 +1,8 @@
-As of 2020-07-10 18:26:58, hackers.town is rank 990
-   with 30,214 work units for 333,942,534 credits
-  1. wetdryvac                     9.63%   32,148,675 (units:   888)
+As of 2020-07-10 19:27:10, hackers.town is rank 990
+   with 30,215 work units for 334,012,534 credits
+  1. wetdryvac                     9.62%   32,148,675 (units:   888)
   2. Werekat                       9.02%   30,112,032 (units: 1,117)
-  3. merimus                       6.17%   20,589,421 (units:   553)
+  3. merimus                       6.16%   20,589,421 (units:   553)
   4. packetcat                     5.94%   19,829,617 (units:   153)
   5. KemoNine                      5.60%   18,705,527 (units:   625)
   6. Freakazoid                    5.50%   18,370,834 (units:   852)
@@ -20,7 +20,7 @@ As of 2020-07-10 18:26:58, hackers.town is rank 990
  18. felix                         1.47%    4,901,391 (units:   185)
  19. r000t                         1.22%    4,069,816 (units:   121)
  20. Mr.House                      1.18%    3,947,699 (units:   202)
- 21. zx3                           1.14%    3,795,765 (units:   327)
+ 21. zx3                           1.16%    3,865,765 (units:   328)
  22. paullindner                   1.09%    3,640,770 (units:   725)
  23. skraelingjar                  1.00%    3,352,989 (units:    64)
  24. Kranfahrer                    0.91%    3,024,932 (units:   201)
@@ -45,7 +45,7 @@ As of 2020-07-10 18:26:58, hackers.town is rank 990
  43. Canageek                      0.37%    1,223,835 (units:   247)
  44. qwazix                        0.35%    1,157,676 (units:   220)
  45. niconiconi                    0.33%    1,100,400 (units:   112)
- 46. TerrorBite                    0.33%    1,085,432 (units:    36)
+ 46. TerrorBite                    0.32%    1,085,432 (units:    36)
  47. mainebot                      0.30%    1,005,210 (units:    58)
  48. Requiem                       0.27%      893,950 (units:   296)
  49. Null                          0.25%      818,594 (units:    22)
@@ -76,7 +76,7 @@ As of 2020-07-10 18:26:58, hackers.town is rank 990
  74. tbn97                         0.06%      209,043 (units:   152)
  75. LordMathis                    0.06%      207,717 (units:    36)
  76. pmosetc                       0.06%      199,375 (units:   198)
- 77. atinciona                     0.06%      183,705 (units:   224)
+ 77. atinciona                     0.05%      183,705 (units:   224)
  78. grasshopper                   0.05%      168,249 (units:   192)
  79. Michael_Simkin                0.05%      163,367 (units:    64)
  80. RandyNose                     0.05%      162,127 (units:   210)
