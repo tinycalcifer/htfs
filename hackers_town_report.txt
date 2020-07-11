@@ -1,15 +1,15 @@
-As of 2020-07-11 21:27:15, hackers.town is rank 990
-   with 30,288 work units for 335,014,117 credits
-  1. wetdryvac                     9.60%   32,148,675 (units:   888)
+As of 2020-07-11 21:40:04, hackers.town is rank 991
+   with 30,294 work units for 335,084,991 credits
+  1. wetdryvac                     9.59%   32,148,675 (units:   888)
   2. Werekat                       9.10%   30,491,557 (units: 1,128)
-  3. merimus                       6.15%   20,589,421 (units:   553)
+  3. merimus                       6.14%   20,589,421 (units:   553)
   4. packetcat                     5.92%   19,829,617 (units:   153)
   5. KemoNine                      5.58%   18,705,527 (units:   625)
   6. Freakazoid                    5.48%   18,370,834 (units:   852)
   7. Polychrome                    5.43%   18,203,172 (units:   953)
   8. dokuja                        5.40%   18,104,692 (units:   474)
   9. bhtooefr                      4.35%   14,566,150 (units:   588)
- 10. CookieMom                     3.19%   10,686,768 (units:   996)
+ 10. CookieMom                     3.21%   10,756,768 (units:   997)
  11. Kyle                          3.03%   10,159,055 (units:   629)
  12. Calcifer                      2.33%    7,802,361 (units:   193)
  13. c0debabe                      2.16%    7,224,123 (units:   245)
@@ -41,7 +41,7 @@ As of 2020-07-11 21:27:15, hackers.town is rank 990
  39. sungo                         0.43%    1,432,642 (units:   399)
  40. kusuriya                      0.39%    1,314,178 (units:    68)
  41. rmgr                          0.39%    1,290,558 (units:    47)
- 42. Canageek                      0.38%    1,262,049 (units:   254)
+ 42. Canageek                      0.38%    1,262,168 (units:   258)
  43. djsumdog                      0.37%    1,227,802 (units:   202)
  44. qwazix                        0.35%    1,157,676 (units:   220)
  45. niconiconi                    0.33%    1,100,400 (units:   112)
@@ -64,7 +64,7 @@ As of 2020-07-11 21:27:15, hackers.town is rank 990
  62. csrsuoeb                      0.10%      330,048 (units:    69)
  63. crc32                         0.10%      328,921 (units:   327)
  64. KitRedgrave                   0.10%      325,409 (units:    68)
- 65. MaxAtCastleMalmeddy           0.09%      300,287 (units:   276)
+ 65. MaxAtCastleMalmeddy           0.09%      301,042 (units:   277)
  66. debugninja                    0.09%      288,707 (units:    34)
  67. ZenCoder                      0.08%      281,041 (units:    87)
  68. folding_with_gibson           0.08%      276,013 (units:   126)
