@@ -1,5 +1,5 @@
-As of 2020-07-16 14:07:11, hackers.town is rank 993
-   with 30,604 work units for 339,114,463 credits
+As of 2020-07-16 15:07:36, hackers.town is rank 993
+   with 30,606 work units for 339,120,012 credits
   1. wetdryvac                     9.48%   32,148,675 (units:   888)
   2. Werekat                       9.39%   31,835,111 (units: 1,166)
   3. merimus                       6.07%   20,589,421 (units:   553)
@@ -24,12 +24,12 @@ As of 2020-07-16 14:07:11, hackers.town is rank 993
  22. paullindner                   1.07%    3,644,868 (units:   728)
  23. skraelingjar                  0.99%    3,352,989 (units:    64)
  24. Kranfahrer                    0.89%    3,024,932 (units:   201)
- 25.                               0.89%    3,001,915 (units:   585)
+ 25.                               0.89%    3,006,734 (units:   586)
  26. ryen                          0.87%    2,936,587 (units:   208)
  27. radicaledward                 0.80%    2,717,086 (units:    90)
  28. drwho                         0.72%    2,457,926 (units:   500)
  29. jkl                           0.72%    2,454,311 (units:   549)
- 30. Anonymous                     0.72%    2,439,571 (units:   943)
+ 30. Anonymous                     0.72%    2,440,301 (units:   944)
  31. The_Gibson(HTown)             0.69%    2,330,035 (units:   212)
  32. /dev/random                   0.63%    2,135,335 (units:   204)
  33. mandibular joint dysfunction  0.61%    2,055,511 (units:   834)
@@ -57,7 +57,7 @@ As of 2020-07-16 14:07:11, hackers.town is rank 993
  55. LordBowlich                   0.14%      484,674 (units:   141)
  56. technolust                    0.14%      458,534 (units:   355)
  57. Mnemonic                      0.13%      434,508 (units:   163)
- 58. protospork                    0.13%      423,894 (units:    59)
+ 58. protospork                    0.12%      423,894 (units:    59)
  59. Hany                          0.12%      421,021 (units:    99)
  60. fl0wn                         0.11%      388,420 (units:    74)
  61. Logomancer                    0.11%      384,403 (units:   286)
