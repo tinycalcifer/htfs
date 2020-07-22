@@ -1,5 +1,5 @@
-As of 2020-07-22 22:37:24, hackers.town is rank 1008
-   with 30,986 work units for 342,479,016 credits
+As of 2020-07-22 23:08:14, hackers.town is rank 1008
+   with 30,987 work units for 342,487,001 credits
   1. wetdryvac                     9.39%   32,148,675 (units:   888)
   2. Werekat                       9.37%   32,087,665 (units: 1,178)
   3. merimus                       6.01%   20,589,421 (units:   553)
@@ -15,7 +15,7 @@ As of 2020-07-22 22:37:24, hackers.town is rank 1008
  13. c0debabe                      2.11%    7,224,123 (units:   245)
  14. elfgirlsarah                  2.00%    6,845,555 (units:   955)
  15. dafuchs                       1.85%    6,320,938 (units:   393)
- 16. SiinaCutie                    1.52%    5,188,566 (units:   235)
+ 16. SiinaCutie                    1.51%    5,188,566 (units:   235)
  17. FOOL                          1.49%    5,109,247 (units:   413)
  18. felix                         1.43%    4,901,391 (units:   185)
  19. zx3                           1.23%    4,217,653 (units:   347)
@@ -23,7 +23,7 @@ As of 2020-07-22 22:37:24, hackers.town is rank 1008
  21. Mr.House                      1.15%    3,947,699 (units:   202)
  22. paullindner                   1.07%    3,649,779 (units:   732)
  23. skraelingjar                  0.98%    3,352,989 (units:    64)
- 24.                               0.91%    3,112,533 (units:   606)
+ 24.                               0.91%    3,120,518 (units:   607)
  25. Kranfahrer                    0.88%    3,024,932 (units:   201)
  26. ryen                          0.86%    2,936,587 (units:   208)
  27. radicaledward                 0.79%    2,717,086 (units:    90)
