@@ -1,16 +1,16 @@
-As of 2020-07-23 23:07:38, hackers.town is rank 1011
-   with 31,043 work units for 343,033,535 credits
+As of 2020-07-23 23:17:23, hackers.town is rank 1011
+   with 31,045 work units for 343,108,981 credits
   1. wetdryvac                     9.37%   32,148,675 (units:   888)
   2. Werekat                       9.35%   32,087,665 (units: 1,178)
   3. merimus                       6.00%   20,589,421 (units:   553)
   4. packetcat                     5.78%   19,829,617 (units:   153)
   5. Polychrome                    5.48%   18,800,270 (units: 1,019)
   6. KemoNine                      5.45%   18,705,527 (units:   625)
-  7. Freakazoid                    5.36%   18,370,834 (units:   852)
+  7. Freakazoid                    5.35%   18,370,834 (units:   852)
   8. dokuja                        5.28%   18,104,692 (units:   474)
   9. bhtooefr                      4.27%   14,636,997 (units:   611)
- 10. CookieMom                     3.77%   12,929,468 (units: 1,131)
- 11. Kyle                          3.61%   12,399,671 (units:   715)
+ 10. CookieMom                     3.79%   12,999,468 (units: 1,132)
+ 11. Kyle                          3.62%   12,405,117 (units:   716)
  12. Calcifer                      2.27%    7,802,361 (units:   193)
  13. c0debabe                      2.11%    7,224,123 (units:   245)
  14. elfgirlsarah                  2.00%    6,845,555 (units:   955)
@@ -53,7 +53,7 @@ As of 2020-07-23 23:07:38, hackers.town is rank 1011
  51. TG                            0.20%      694,922 (units:   143)
  52. HolSta                        0.18%      614,460 (units:   108)
  53. synfinner                     0.15%      527,623 (units:    14)
- 54. tayo                          0.15%      497,485 (units:   150)
+ 54. tayo                          0.14%      497,485 (units:   150)
  55. LordBowlich                   0.14%      484,674 (units:   141)
  56. technolust                    0.13%      458,534 (units:   355)
  57. Mnemonic                      0.13%      434,508 (units:   163)
