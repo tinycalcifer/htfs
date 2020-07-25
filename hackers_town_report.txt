@@ -1,15 +1,15 @@
-As of 2020-07-25 01:07:20, hackers.town is rank 1015
-   with 31,122 work units for 343,698,193 credits
+As of 2020-07-25 01:57:36, hackers.town is rank 1015
+   with 31,124 work units for 343,768,718 credits
   1. wetdryvac                     9.35%   32,148,675 (units:   888)
-  2. Werekat                       9.34%   32,087,665 (units: 1,178)
+  2. Werekat                       9.33%   32,087,665 (units: 1,178)
   3. merimus                       5.99%   20,589,421 (units:   553)
   4. packetcat                     5.77%   19,829,617 (units:   153)
   5. Polychrome                    5.47%   18,802,605 (units: 1,020)
   6. KemoNine                      5.44%   18,705,527 (units:   625)
-  7. Freakazoid                    5.35%   18,370,834 (units:   852)
+  7. Freakazoid                    5.34%   18,370,834 (units:   852)
   8. dokuja                        5.27%   18,104,692 (units:   474)
   9. bhtooefr                      4.26%   14,643,367 (units:   614)
- 10. CookieMom                     3.83%   13,179,665 (units: 1,137)
+ 10. CookieMom                     3.85%   13,249,665 (units: 1,138)
  11. Kyle                          3.70%   12,714,547 (units:   726)
  12. Calcifer                      2.27%    7,802,361 (units:   193)
  13. c0debabe                      2.10%    7,224,123 (units:   245)
@@ -29,7 +29,7 @@ As of 2020-07-25 01:07:20, hackers.town is rank 1015
  27. radicaledward                 0.79%    2,717,086 (units:    90)
  28. jkl                           0.76%    2,626,327 (units:   583)
  29. Anonymous                     0.74%    2,557,803 (units: 1,031)
- 30. drwho                         0.72%    2,457,926 (units:   500)
+ 30. drwho                         0.71%    2,457,926 (units:   500)
  31. The_Gibson(HTown)             0.68%    2,330,035 (units:   212)
  32. /dev/random                   0.62%    2,135,335 (units:   204)
  33. mandibular joint dysfunction  0.60%    2,055,511 (units:   834)
@@ -61,7 +61,7 @@ As of 2020-07-25 01:07:20, hackers.town is rank 1015
  59. Hany                          0.12%      421,021 (units:    99)
  60. fl0wn                         0.11%      388,420 (units:    74)
  61. Logomancer                    0.11%      384,515 (units:   336)
- 62. MaxAtCastleMalmeddy           0.10%      338,791 (units:   310)
+ 62. MaxAtCastleMalmeddy           0.10%      339,316 (units:   311)
  63. csrsuoeb                      0.10%      330,048 (units:    69)
  64. crc32                         0.10%      328,921 (units:   327)
  65. KitRedgrave                   0.09%      325,409 (units:    68)
