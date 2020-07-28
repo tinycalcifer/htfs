@@ -1,10 +1,10 @@
-As of 2020-07-28 04:37:38, hackers.town is rank 1026
-   with 31,317 work units for 344,754,011 credits
-  1. wetdryvac                     9.33%   32,148,675 (units:   888)
+As of 2020-07-28 05:57:36, hackers.town is rank 1026
+   with 31,319 work units for 344,768,017 credits
+  1. wetdryvac                     9.32%   32,148,675 (units:   888)
   2. Werekat                       9.31%   32,087,665 (units: 1,178)
   3. merimus                       5.97%   20,589,421 (units:   553)
   4. packetcat                     5.75%   19,829,617 (units:   153)
-  5. Polychrome                    5.48%   18,898,065 (units: 1,034)
+  5. Polychrome                    5.48%   18,905,666 (units: 1,035)
   6. KemoNine                      5.43%   18,705,527 (units:   625)
   7. Freakazoid                    5.33%   18,370,834 (units:   852)
   8. dokuja                        5.25%   18,104,692 (units:   474)
@@ -15,7 +15,7 @@ As of 2020-07-28 04:37:38, hackers.town is rank 1026
  13. c0debabe                      2.10%    7,224,123 (units:   245)
  14. elfgirlsarah                  1.99%    6,845,555 (units:   955)
  15. dafuchs                       1.83%    6,320,938 (units:   393)
- 16. SiinaCutie                    1.51%    5,188,566 (units:   235)
+ 16. SiinaCutie                    1.50%    5,188,566 (units:   235)
  17. FOOL                          1.48%    5,109,247 (units:   413)
  18. felix                         1.42%    4,901,391 (units:   185)
  19. zx3                           1.22%    4,217,653 (units:   347)
@@ -93,7 +93,7 @@ As of 2020-07-28 04:37:38, hackers.town is rank 1026
  91. heliostatic                   0.03%      101,482 (units:    26)
  92. RandomGeek                    0.03%       99,623 (units:    15)
  93. JoshMulliken                  0.03%       97,080 (units:    23)
- 94. Toive8547                     0.03%       89,786 (units: 3,901)
+ 94. Toive8547                     0.03%       96,191 (units: 3,902)
  95. claudiom                      0.02%       83,945 (units:   545)
  96. Purple                        0.02%       81,458 (units:    85)
  97. Kirjis                        0.02%       79,781 (units:   106)
