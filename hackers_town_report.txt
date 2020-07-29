@@ -1,5 +1,5 @@
-As of 2020-07-29 11:07:31, hackers.town is rank 1032
-   with 31,392 work units for 345,205,125 credits
+As of 2020-07-29 11:17:37, hackers.town is rank 1032
+   with 31,394 work units for 345,218,347 credits
   1. wetdryvac                     9.31%   32,148,675 (units:   888)
   2. Werekat                       9.30%   32,100,883 (units: 1,181)
   3. merimus                       5.96%   20,589,421 (units:   553)
@@ -9,7 +9,7 @@ As of 2020-07-29 11:07:31, hackers.town is rank 1032
   7. Freakazoid                    5.32%   18,370,834 (units:   852)
   8. dokuja                        5.24%   18,104,692 (units:   474)
   9. bhtooefr                      4.25%   14,666,242 (units:   623)
- 10. Kyle                          3.91%   13,493,251 (units:   759)
+ 10. Kyle                          3.91%   13,498,000 (units:   760)
  11. CookieMom                     3.86%   13,328,434 (units: 1,142)
  12. Calcifer                      2.26%    7,802,361 (units:   193)
  13. c0debabe                      2.09%    7,224,123 (units:   245)
@@ -28,7 +28,7 @@ As of 2020-07-29 11:07:31, hackers.town is rank 1032
  26. ryen                          0.85%    2,936,587 (units:   208)
  27. jkl                           0.79%    2,726,103 (units:   613)
  28. radicaledward                 0.79%    2,717,086 (units:    90)
- 29. Anonymous                     0.76%    2,629,434 (units: 1,080)
+ 29. Anonymous                     0.76%    2,637,907 (units: 1,081)
  30. drwho                         0.71%    2,457,926 (units:   500)
  31. The_Gibson(HTown)             0.67%    2,330,035 (units:   212)
  32. /dev/random                   0.62%    2,135,335 (units:   204)
@@ -38,7 +38,7 @@ As of 2020-07-29 11:07:31, hackers.town is rank 1032
  36. neil                          0.54%    1,875,184 (units:   423)
  37. rfquerin                      0.47%    1,638,770 (units:   107)
  38. DJ_Sundog                     0.44%    1,513,675 (units:   330)
- 39. sungo                         0.42%    1,432,642 (units:   399)
+ 39. sungo                         0.41%    1,432,642 (units:   399)
  40. Canageek                      0.39%    1,333,378 (units:   279)
  41. kusuriya                      0.38%    1,314,178 (units:    68)
  42. rmgr                          0.37%    1,290,558 (units:    47)
