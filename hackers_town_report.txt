@@ -1,5 +1,5 @@
-As of 2020-08-02 05:17:33, hackers.town is rank 1044
-   with 31,560 work units for 346,639,805 credits
+As of 2020-08-02 05:27:36, hackers.town is rank 1044
+   with 31,562 work units for 346,644,375 credits
   1. Werekat                       9.34%   32,388,349 (units: 1,191)
   2. wetdryvac                     9.27%   32,148,675 (units:   888)
   3. merimus                       5.94%   20,589,421 (units:   553)
@@ -10,7 +10,7 @@ As of 2020-08-02 05:17:33, hackers.town is rank 1044
   8. dokuja                        5.22%   18,104,692 (units:   474)
   9. bhtooefr                      4.24%   14,681,482 (units:   630)
  10. Kyle                          4.09%   14,172,184 (units:   784)
- 11. CookieMom                     3.85%   13,328,434 (units: 1,142)
+ 11. CookieMom                     3.84%   13,328,434 (units: 1,142)
  12. Calcifer                      2.25%    7,802,361 (units:   193)
  13. c0debabe                      2.08%    7,224,123 (units:   245)
  14. elfgirlsarah                  1.97%    6,845,555 (units:   955)
@@ -22,13 +22,13 @@ As of 2020-08-02 05:17:33, hackers.town is rank 1044
  20. r000t                         1.17%    4,069,816 (units:   121)
  21. Mr.House                      1.14%    3,947,699 (units:   202)
  22. paullindner                   1.05%    3,654,815 (units:   736)
- 23.                               1.00%    3,469,591 (units:   682)
+ 23.                               1.00%    3,473,861 (units:   683)
  24. skraelingjar                  0.97%    3,352,989 (units:    64)
  25. Kranfahrer                    0.87%    3,024,932 (units:   201)
  26. ryen                          0.85%    2,936,587 (units:   208)
  27. jkl                           0.80%    2,790,000 (units:   631)
  28. radicaledward                 0.78%    2,717,086 (units:    90)
- 29. Anonymous                     0.77%    2,685,253 (units: 1,115)
+ 29. Anonymous                     0.77%    2,685,553 (units: 1,116)
  30. drwho                         0.71%    2,457,926 (units:   500)
  31. The_Gibson(HTown)             0.67%    2,330,035 (units:   212)
  32. /dev/random                   0.62%    2,135,335 (units:   204)
