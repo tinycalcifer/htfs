@@ -1,5 +1,5 @@
-As of 2020-08-06 19:07:48, hackers.town is rank 1048
-   with 31,839 work units for 350,359,261 credits
+As of 2020-08-06 20:27:45, hackers.town is rank 1048
+   with 31,842 work units for 350,383,303 credits
   1. Werekat                       9.67%   33,892,346 (units: 1,230)
   2. wetdryvac                     9.18%   32,148,675 (units:   888)
   3. merimus                       5.88%   20,589,421 (units:   553)
@@ -8,7 +8,7 @@ As of 2020-08-06 19:07:48, hackers.town is rank 1048
   6. KemoNine                      5.34%   18,705,527 (units:   625)
   7. Freakazoid                    5.24%   18,370,834 (units:   852)
   8. dokuja                        5.17%   18,104,692 (units:   474)
-  9. Kyle                          4.32%   15,128,860 (units:   811)
+  9. Kyle                          4.32%   15,143,480 (units:   812)
  10. bhtooefr                      4.20%   14,706,754 (units:   641)
  11. CookieMom                     3.80%   13,328,434 (units: 1,142)
  12. Calcifer                      2.23%    7,802,361 (units:   193)
@@ -21,7 +21,7 @@ As of 2020-08-06 19:07:48, hackers.town is rank 1048
  19. zx3                           1.33%    4,649,293 (units:   362)
  20. r000t                         1.16%    4,069,816 (units:   121)
  21. Mr.House                      1.13%    3,947,699 (units:   202)
- 22.                               1.06%    3,696,479 (units:   722)
+ 22.                               1.06%    3,705,590 (units:   723)
  23. paullindner                   1.04%    3,659,107 (units:   738)
  24. skraelingjar                  0.96%    3,352,989 (units:    64)
  25. Kranfahrer                    0.86%    3,024,932 (units:   201)
@@ -30,7 +30,7 @@ As of 2020-08-06 19:07:48, hackers.town is rank 1048
  28. Anonymous                     0.78%    2,736,093 (units: 1,147)
  29. radicaledward                 0.78%    2,717,086 (units:    90)
  30. drwho                         0.70%    2,457,926 (units:   500)
- 31. The_Gibson(HTown)             0.67%    2,330,035 (units:   212)
+ 31. The_Gibson(HTown)             0.66%    2,330,035 (units:   212)
  32. /dev/random                   0.61%    2,135,335 (units:   204)
  33. mandibular joint dysfunction  0.59%    2,055,511 (units:   834)
  34. pfreak                        0.57%    1,996,770 (units:    48)
@@ -59,7 +59,7 @@ As of 2020-08-06 19:07:48, hackers.town is rank 1048
  57. Mnemonic                      0.12%      434,508 (units:   163)
  58. protospork                    0.12%      423,894 (units:    59)
  59. Hany                          0.12%      421,021 (units:    99)
- 60. MaxAtCastleMalmeddy           0.11%      398,783 (units:   363)
+ 60. MaxAtCastleMalmeddy           0.11%      399,094 (units:   364)
  61. fl0wn                         0.11%      388,420 (units:    74)
  62. Logomancer                    0.11%      384,655 (units:   376)
  63. csrsuoeb                      0.09%      330,048 (units:    69)
