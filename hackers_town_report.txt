@@ -1,7 +1,7 @@
-As of 2020-08-11 06:08:03, hackers.town is rank 1054
-   with 32,113 work units for 353,474,459 credits
+As of 2020-08-11 06:27:57, hackers.town is rank 1054
+   with 32,119 work units for 353,482,700 credits
   1. Werekat                       9.90%   34,995,122 (units: 1,258)
-  2. wetdryvac                     9.10%   32,148,675 (units:   888)
+  2. wetdryvac                     9.09%   32,148,675 (units:   888)
   3. merimus                       5.82%   20,589,421 (units:   553)
   4. Polychrome                    5.63%   19,891,401 (units: 1,142)
   5. packetcat                     5.61%   19,829,617 (units:   153)
@@ -21,11 +21,11 @@ As of 2020-08-11 06:08:03, hackers.town is rank 1054
  19. felix                         1.39%    4,901,391 (units:   185)
  20. r000t                         1.15%    4,069,816 (units:   121)
  21. Mr.House                      1.12%    3,947,699 (units:   202)
- 22.                               1.11%    3,930,039 (units:   768)
+ 22.                               1.11%    3,935,068 (units:   769)
  23. paullindner                   1.04%    3,664,358 (units:   742)
  24. skraelingjar                  0.95%    3,352,989 (units:    64)
  25. Kranfahrer                    0.86%    3,024,932 (units:   201)
- 26. jkl                           0.84%    2,966,522 (units:   673)
+ 26. jkl                           0.84%    2,969,715 (units:   674)
  27. ryen                          0.83%    2,936,587 (units:   208)
  28. Anonymous                     0.78%    2,762,586 (units: 1,155)
  29. radicaledward                 0.77%    2,717,086 (units:    90)
@@ -61,7 +61,7 @@ As of 2020-08-11 06:08:03, hackers.town is rank 1054
  59. Hany                          0.12%      421,021 (units:    99)
  60. MaxAtCastleMalmeddy           0.12%      417,855 (units:   382)
  61. fl0wn                         0.11%      388,420 (units:    74)
- 62. Logomancer                    0.11%      384,788 (units:   411)
+ 62. Logomancer                    0.11%      384,807 (units:   415)
  63. csrsuoeb                      0.09%      330,048 (units:    69)
  64. crc32                         0.09%      328,921 (units:   327)
  65. KitRedgrave                   0.09%      325,409 (units:    68)
