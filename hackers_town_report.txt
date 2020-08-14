@@ -1,17 +1,17 @@
-As of 2020-08-13 23:58:09, hackers.town is rank 1065
-   with 32,297 work units for 355,412,531 credits
+As of 2020-08-14 00:08:05, hackers.town is rank 1065
+   with 32,299 work units for 355,474,453 credits
   1. Werekat                       9.93%   35,289,028 (units: 1,265)
-  2. wetdryvac                     9.05%   32,148,675 (units:   888)
+  2. wetdryvac                     9.04%   32,148,675 (units:   888)
   3. merimus                       5.79%   20,589,421 (units:   553)
-  4. Polychrome                    5.66%   20,127,337 (units: 1,167)
+  4. Polychrome                    5.66%   20,128,759 (units: 1,168)
   5. packetcat                     5.58%   19,829,617 (units:   153)
   6. KemoNine                      5.26%   18,705,527 (units:   625)
   7. Freakazoid                    5.17%   18,370,834 (units:   852)
   8. dokuja                        5.09%   18,104,692 (units:   474)
   9. Kyle                          4.63%   16,447,497 (units:   858)
  10. bhtooefr                      4.15%   14,747,848 (units:   658)
- 11. CookieMom                     3.88%   13,778,434 (units: 1,151)
- 12. Calcifer                      2.20%    7,802,361 (units:   193)
+ 11. CookieMom                     3.89%   13,838,934 (units: 1,152)
+ 12. Calcifer                      2.19%    7,802,361 (units:   193)
  13. c0debabe                      2.03%    7,224,123 (units:   245)
  14. elfgirlsarah                  1.93%    6,845,555 (units:   955)
  15. dafuchs                       1.78%    6,320,938 (units:   393)
@@ -19,7 +19,7 @@ As of 2020-08-13 23:58:09, hackers.town is rank 1065
  17. SiinaCutie                    1.46%    5,188,566 (units:   235)
  18. FOOL                          1.44%    5,109,247 (units:   413)
  19. felix                         1.38%    4,901,391 (units:   185)
- 20. r000t                         1.15%    4,069,816 (units:   121)
+ 20. r000t                         1.14%    4,069,816 (units:   121)
  21.                               1.14%    4,060,673 (units:   792)
  22. Mr.House                      1.11%    3,947,699 (units:   202)
  23. paullindner                   1.03%    3,664,358 (units:   742)
