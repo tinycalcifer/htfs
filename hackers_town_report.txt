@@ -1,14 +1,14 @@
-As of 2020-08-14 20:27:47, hackers.town is rank 1066
-   with 32,349 work units for 356,271,556 credits
+As of 2020-08-14 21:28:01, hackers.town is rank 1066
+   with 32,352 work units for 356,362,539 credits
   1. Werekat                       9.99%   35,604,158 (units: 1,274)
   2. wetdryvac                     9.02%   32,148,675 (units:   888)
   3. merimus                       5.78%   20,589,421 (units:   553)
   4. Polychrome                    5.65%   20,136,815 (units: 1,170)
-  5. packetcat                     5.57%   19,829,617 (units:   153)
+  5. packetcat                     5.56%   19,829,617 (units:   153)
   6. KemoNine                      5.25%   18,705,527 (units:   625)
   7. Freakazoid                    5.16%   18,370,834 (units:   852)
   8. dokuja                        5.08%   18,104,692 (units:   474)
-  9. Kyle                          4.65%   16,552,081 (units:   863)
+  9. Kyle                          4.67%   16,639,255 (units:   864)
  10. bhtooefr                      4.14%   14,747,848 (units:   658)
  11. CookieMom                     3.95%   14,080,934 (units: 1,156)
  12. Calcifer                      2.19%    7,802,361 (units:   193)
@@ -24,7 +24,7 @@ As of 2020-08-14 20:27:47, hackers.town is rank 1066
  22. Mr.House                      1.11%    3,947,699 (units:   202)
  23. paullindner                   1.03%    3,664,358 (units:   742)
  24. skraelingjar                  0.94%    3,352,989 (units:    64)
- 25. jkl                           0.85%    3,040,395 (units:   691)
+ 25. jkl                           0.85%    3,043,474 (units:   692)
  26. Kranfahrer                    0.85%    3,024,932 (units:   201)
  27. ryen                          0.82%    2,936,587 (units:   208)
  28. Anonymous                     0.78%    2,790,124 (units: 1,164)
@@ -73,8 +73,8 @@ As of 2020-08-14 20:27:47, hackers.town is rank 1066
  71. Brian                         0.07%      259,022 (units:    82)
  72. Neue.City                     0.07%      235,324 (units:    60)
  73. tbn97                         0.06%      212,337 (units:   157)
- 74. Imani                         0.06%      209,939 (units:   273)
- 75. pmosetc                       0.06%      209,733 (units:   213)
+ 74. pmosetc                       0.06%      210,463 (units:   214)
+ 75. Imani                         0.06%      209,939 (units:   273)
  76. LordMathis                    0.06%      207,717 (units:    36)
  77. atinciona                     0.05%      183,705 (units:   224)
  78. grasshopper                   0.05%      168,249 (units:   192)
