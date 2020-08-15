@@ -1,6 +1,6 @@
-As of 2020-08-15 16:28:06, hackers.town is rank 1066
-   with 32,388 work units for 357,074,500 credits
-  1. Werekat                      10.05%   35,874,726 (units: 1,281)
+As of 2020-08-15 20:28:07, hackers.town is rank 1068
+   with 32,392 work units for 357,141,650 credits
+  1. Werekat                      10.05%   35,876,435 (units: 1,282)
   2. wetdryvac                     9.00%   32,148,675 (units:   888)
   3. merimus                       5.77%   20,589,421 (units:   553)
   4. Polychrome                    5.64%   20,141,468 (units: 1,171)
@@ -8,10 +8,10 @@ As of 2020-08-15 16:28:06, hackers.town is rank 1066
   6. KemoNine                      5.24%   18,705,527 (units:   625)
   7. Freakazoid                    5.14%   18,370,834 (units:   852)
   8. dokuja                        5.07%   18,104,692 (units:   474)
-  9. Kyle                          4.69%   16,756,549 (units:   871)
+  9. Kyle                          4.69%   16,760,105 (units:   872)
  10. bhtooefr                      4.13%   14,756,753 (units:   659)
- 11. CookieMom                     4.00%   14,291,434 (units: 1,160)
- 12. Calcifer                      2.19%    7,802,361 (units:   193)
+ 11. CookieMom                     4.02%   14,351,934 (units: 1,161)
+ 12. Calcifer                      2.18%    7,802,361 (units:   193)
  13. c0debabe                      2.02%    7,224,123 (units:   245)
  14. elfgirlsarah                  1.92%    6,845,555 (units:   955)
  15. dafuchs                       1.77%    6,320,938 (units:   393)
@@ -91,8 +91,8 @@ As of 2020-08-15 16:28:06, hackers.town is rank 1066
  89. Nemesis                       0.03%      116,664 (units:    72)
  90. piggo                         0.03%      108,091 (units:    23)
  91. heliostatic                   0.03%      101,482 (units:    26)
- 92. RandomGeek                    0.03%       99,623 (units:    15)
- 93. Toive8547                     0.03%       99,215 (units: 3,904)
+ 92. Toive8547                     0.03%      100,600 (units: 3,905)
+ 93. RandomGeek                    0.03%       99,623 (units:    15)
  94. JoshMulliken                  0.03%       97,080 (units:    23)
  95. claudiom                      0.02%       83,945 (units:   545)
  96. Purple                        0.02%       81,458 (units:    85)
