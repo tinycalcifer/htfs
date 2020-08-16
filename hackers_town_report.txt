@@ -1,6 +1,6 @@
-As of 2020-08-16 16:58:10, hackers.town is rank 1070
-   with 32,435 work units for 357,975,630 credits
-  1. Werekat                      10.15%   36,317,634 (units: 1,294)
+As of 2020-08-16 17:48:05, hackers.town is rank 1070
+   with 32,438 work units for 357,982,152 credits
+  1. Werekat                      10.15%   36,322,706 (units: 1,295)
   2. wetdryvac                     8.98%   32,148,675 (units:   888)
   3. merimus                       5.75%   20,589,421 (units:   553)
   4. Polychrome                    5.63%   20,142,990 (units: 1,172)
@@ -10,7 +10,7 @@ As of 2020-08-16 16:58:10, hackers.town is rank 1070
   8. dokuja                        5.06%   18,104,692 (units:   474)
   9. Kyle                          4.74%   16,960,197 (units:   879)
  10. bhtooefr                      4.12%   14,761,201 (units:   661)
- 11. CookieMom                     4.05%   14,492,074 (units: 1,167)
+ 11. CookieMom                     4.05%   14,492,799 (units: 1,168)
  12. Calcifer                      2.18%    7,802,361 (units:   193)
  13. c0debabe                      2.02%    7,224,123 (units:   245)
  14. elfgirlsarah                  1.91%    6,845,555 (units:   955)
@@ -25,7 +25,7 @@ As of 2020-08-16 16:58:10, hackers.town is rank 1070
  23. paullindner                   1.02%    3,664,358 (units:   742)
  24. skraelingjar                  0.94%    3,352,989 (units:    64)
  25. jkl                           0.86%    3,067,800 (units:   699)
- 26. Kranfahrer                    0.85%    3,024,932 (units:   201)
+ 26. Kranfahrer                    0.84%    3,024,932 (units:   201)
  27. ryen                          0.82%    2,936,587 (units:   208)
  28. Anonymous                     0.78%    2,806,230 (units: 1,167)
  29. radicaledward                 0.76%    2,717,086 (units:    90)
@@ -87,7 +87,7 @@ As of 2020-08-16 16:58:10, hackers.town is rank 1070
  85. arbu                          0.04%      125,499 (units:     7)
  86. Neil                          0.03%      124,874 (units:    32)
  87. Bingo                         0.03%      124,668 (units:   189)
- 88. Nemesis                       0.03%      118,145 (units:    74)
+ 88. Nemesis                       0.03%      118,870 (units:    75)
  89. micmac                        0.03%      117,952 (units:   102)
  90. piggo                         0.03%      108,091 (units:    23)
  91. Toive8547                     0.03%      103,708 (units: 3,907)
