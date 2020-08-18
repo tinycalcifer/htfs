@@ -1,9 +1,9 @@
-As of 2020-08-18 11:52:14, hackers.town is rank 1067
-   with 32,656 work units for 360,582,226 credits
+As of 2020-08-18 13:22:25, hackers.town is rank 1067
+   with 32,659 work units for 360,588,490 credits
   1. Werekat                      10.35%   37,335,332 (units: 1,324)
   2. wetdryvac                     8.92%   32,148,675 (units:   888)
   3. merimus                       5.71%   20,589,421 (units:   553)
-  4. Polychrome                    5.61%   20,229,042 (units: 1,192)
+  4. Polychrome                    5.61%   20,231,578 (units: 1,193)
   5. packetcat                     5.50%   19,829,617 (units:   153)
   6. KemoNine                      5.19%   18,705,527 (units:   625)
   7. Freakazoid                    5.09%   18,370,834 (units:   852)
@@ -24,7 +24,7 @@ As of 2020-08-18 11:52:14, hackers.town is rank 1067
  22. Mr.House                      1.09%    3,947,699 (units:   202)
  23. paullindner                   1.02%    3,664,358 (units:   742)
  24. skraelingjar                  0.93%    3,352,989 (units:    64)
- 25. jkl                           0.87%    3,150,960 (units:   720)
+ 25. jkl                           0.87%    3,154,388 (units:   721)
  26. Kranfahrer                    0.84%    3,024,932 (units:   201)
  27. ryen                          0.81%    2,936,587 (units:   208)
  28. Anonymous                     0.79%    2,834,098 (units: 1,181)
@@ -57,7 +57,7 @@ As of 2020-08-18 11:52:14, hackers.town is rank 1067
  55. LordBowlich                   0.13%      484,674 (units:   141)
  56. technolust                    0.13%      458,534 (units:   355)
  57. Mnemonic                      0.12%      434,508 (units:   163)
- 58. MaxAtCastleMalmeddy           0.12%      430,181 (units:   391)
+ 58. MaxAtCastleMalmeddy           0.12%      430,481 (units:   392)
  59. protospork                    0.12%      423,894 (units:    59)
  60. Hany                          0.12%      421,021 (units:    99)
  61. fl0wn                         0.11%      388,420 (units:    74)
