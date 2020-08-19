@@ -1,5 +1,5 @@
-As of 2020-08-19 08:22:17, hackers.town is rank 1068
-   with 32,713 work units for 360,940,647 credits
+As of 2020-08-19 09:02:33, hackers.town is rank 1068
+   with 32,716 work units for 361,003,189 credits
   1. Werekat                      10.34%   37,335,332 (units: 1,324)
   2. wetdryvac                     8.91%   32,148,675 (units:   888)
   3. merimus                       5.70%   20,589,421 (units:   553)
@@ -9,13 +9,13 @@ As of 2020-08-19 08:22:17, hackers.town is rank 1068
   7. Freakazoid                    5.09%   18,370,834 (units:   852)
   8. dokuja                        5.02%   18,104,692 (units:   474)
   9. Kyle                          4.85%   17,519,518 (units:   911)
- 10. CookieMom                     4.19%   15,136,213 (units: 1,198)
+ 10. CookieMom                     4.19%   15,137,713 (units: 1,199)
  11. bhtooefr                      4.10%   14,787,915 (units:   667)
  12. Calcifer                      2.16%    7,802,361 (units:   193)
  13. c0debabe                      2.00%    7,224,123 (units:   245)
  14. elfgirlsarah                  1.90%    6,845,555 (units:   955)
  15. dafuchs                       1.75%    6,320,938 (units:   393)
- 16. zx3                           1.56%    5,643,009 (units:   405)
+ 16. zx3                           1.58%    5,703,509 (units:   406)
  17. SiinaCutie                    1.44%    5,188,566 (units:   235)
  18. FOOL                          1.42%    5,109,247 (units:   413)
  19. felix                         1.36%    4,901,391 (units:   185)
@@ -72,7 +72,7 @@ As of 2020-08-19 08:22:17, hackers.town is rank 1068
  70. Kyresti                       0.07%      262,134 (units:    39)
  71. Brian                         0.07%      259,022 (units:    82)
  72. Neue.City                     0.07%      235,324 (units:    60)
- 73. pmosetc                       0.06%      229,255 (units:   231)
+ 73. pmosetc                       0.06%      229,797 (units:   232)
  74. tbn97                         0.06%      212,337 (units:   157)
  75. Imani                         0.06%      209,939 (units:   273)
  76. LordMathis                    0.06%      207,717 (units:    36)
