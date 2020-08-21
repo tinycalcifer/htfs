@@ -1,5 +1,5 @@
-As of 2020-08-21 03:12:21, hackers.town is rank 1071
-   with 32,847 work units for 362,196,048 credits
+As of 2020-08-21 03:52:30, hackers.town is rank 1071
+   with 32,850 work units for 362,198,203 credits
   1. Werekat                      10.46%   37,891,558 (units: 1,340)
   2. wetdryvac                     8.88%   32,148,675 (units:   888)
   3. merimus                       5.68%   20,589,421 (units:   553)
@@ -34,7 +34,7 @@ As of 2020-08-21 03:12:21, hackers.town is rank 1071
  32. /dev/random                   0.59%    2,135,335 (units:   204)
  33. mandibular joint dysfunction  0.57%    2,055,511 (units:   834)
  34. pfreak                        0.55%    1,996,770 (units:    48)
- 35. neil                          0.52%    1,899,439 (units:   457)
+ 35. neil                          0.52%    1,899,964 (units:   458)
  36. avolkov                       0.52%    1,891,826 (units:   104)
  37. rfquerin                      0.45%    1,638,770 (units:   107)
  38. DJ_Sundog                     0.42%    1,513,675 (units:   330)
@@ -71,7 +71,7 @@ As of 2020-08-21 03:12:21, hackers.town is rank 1071
  69. jerephil                      0.08%      275,300 (units:   192)
  70. Kyresti                       0.07%      262,134 (units:    39)
  71. Brian                         0.07%      259,022 (units:    82)
- 72. pmosetc                       0.07%      235,534 (units:   240)
+ 72. pmosetc                       0.07%      236,434 (units:   241)
  73. Neue.City                     0.06%      235,324 (units:    60)
  74. tbn97                         0.06%      212,337 (units:   157)
  75. Imani                         0.06%      209,939 (units:   273)
@@ -150,8 +150,8 @@ As of 2020-08-21 03:12:21, hackers.town is rank 1071
 148. ratSprite                     0.00%        2,899 (units:     8)
 149. 1g0rb                         0.00%        2,490 (units:     4)
 150. gueorgui                      0.00%        2,321 (units:     9)
-151. smitso                        0.00%        1,280 (units:     4)
-152. Cyberia                       0.00%        1,200 (units:     1)
+151. Cyberia                       0.00%        1,930 (units:     2)
+152. smitso                        0.00%        1,280 (units:     4)
 153. shitposter.club               0.00%        1,160 (units:     2)
 154. Sean_Lynch                    0.00%          511 (units:     5)
 155. Hactar                        0.00%          286 (units:     1)
