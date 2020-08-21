@@ -1,5 +1,5 @@
-As of 2020-08-21 07:52:30, hackers.town is rank 1071
-   with 32,863 work units for 362,405,511 credits
+As of 2020-08-21 08:52:37, hackers.town is rank 1071
+   with 32,866 work units for 362,411,988 credits
   1. Werekat                      10.46%   37,901,449 (units: 1,342)
   2. wetdryvac                     8.87%   32,148,675 (units:   888)
   3. merimus                       5.68%   20,589,421 (units:   553)
@@ -15,7 +15,7 @@ As of 2020-08-21 07:52:30, hackers.town is rank 1071
  13. c0debabe                      1.99%    7,224,123 (units:   245)
  14. elfgirlsarah                  1.89%    6,845,555 (units:   955)
  15. dafuchs                       1.74%    6,320,938 (units:   393)
- 16. zx3                           1.63%    5,903,002 (units:   419)
+ 16. zx3                           1.63%    5,906,192 (units:   420)
  17. SiinaCutie                    1.43%    5,188,566 (units:   235)
  18. FOOL                          1.41%    5,109,247 (units:   413)
  19. felix                         1.35%    4,901,391 (units:   185)
@@ -27,7 +27,7 @@ As of 2020-08-21 07:52:30, hackers.town is rank 1071
  25. jkl                           0.89%    3,210,486 (units:   736)
  26. Kranfahrer                    0.83%    3,024,932 (units:   201)
  27. ryen                          0.81%    2,936,587 (units:   208)
- 28. Anonymous                     0.79%    2,854,840 (units: 1,186)
+ 28. Anonymous                     0.79%    2,857,382 (units: 1,187)
  29. radicaledward                 0.75%    2,717,086 (units:    90)
  30. drwho                         0.68%    2,457,926 (units:   500)
  31. The_Gibson(HTown)             0.64%    2,330,035 (units:   212)
@@ -71,7 +71,7 @@ As of 2020-08-21 07:52:30, hackers.town is rank 1071
  69. jerephil                      0.08%      275,300 (units:   192)
  70. Kyresti                       0.07%      262,134 (units:    39)
  71. Brian                         0.07%      259,022 (units:    82)
- 72. pmosetc                       0.07%      236,434 (units:   241)
+ 72. pmosetc                       0.07%      237,179 (units:   242)
  73. Neue.City                     0.06%      235,324 (units:    60)
  74. tbn97                         0.06%      212,337 (units:   157)
  75. Imani                         0.06%      209,939 (units:   273)
