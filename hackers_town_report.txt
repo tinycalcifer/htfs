@@ -1,5 +1,5 @@
-As of 2020-08-21 09:12:43, hackers.town is rank 1071
-   with 32,869 work units for 362,435,438 credits
+As of 2020-08-21 09:42:24, hackers.town is rank 1071
+   with 32,870 work units for 362,440,438 credits
   1. Werekat                      10.46%   37,901,449 (units: 1,342)
   2. wetdryvac                     8.87%   32,148,675 (units:   888)
   3. merimus                       5.68%   20,589,421 (units:   553)
@@ -142,15 +142,15 @@ As of 2020-08-21 09:12:43, hackers.town is rank 1071
 140. OldRedSun                     0.00%        9,054 (units:     1)
 141. teecee                        0.00%        7,506 (units:    10)
 142. dimazest                      0.00%        7,169 (units:     6)
-143. Arcans                        0.00%        6,341 (units:    14)
-144. Azure                         0.00%        5,715 (units:     9)
-145. Max                           0.00%        3,635 (units:     6)
-146. cooper                        0.00%        3,285 (units:     9)
-147. wizzwizz4                     0.00%        3,215 (units:     6)
-148. ratSprite                     0.00%        2,899 (units:     8)
-149. 1g0rb                         0.00%        2,490 (units:     4)
-150. gueorgui                      0.00%        2,321 (units:     9)
-151. Cyberia                       0.00%        1,930 (units:     2)
+143. Cyberia                       0.00%        6,930 (units:     3)
+144. Arcans                        0.00%        6,341 (units:    14)
+145. Azure                         0.00%        5,715 (units:     9)
+146. Max                           0.00%        3,635 (units:     6)
+147. cooper                        0.00%        3,285 (units:     9)
+148. wizzwizz4                     0.00%        3,215 (units:     6)
+149. ratSprite                     0.00%        2,899 (units:     8)
+150. 1g0rb                         0.00%        2,490 (units:     4)
+151. gueorgui                      0.00%        2,321 (units:     9)
 152. smitso                        0.00%        1,280 (units:     4)
 153. shitposter.club               0.00%        1,160 (units:     2)
 154. Sean_Lynch                    0.00%          511 (units:     5)
