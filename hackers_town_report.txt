@@ -1,9 +1,9 @@
-As of 2020-08-22 06:12:48, hackers.town is rank 1071
-   with 32,952 work units for 363,205,622 credits
+As of 2020-08-22 06:42:30, hackers.town is rank 1071
+   with 32,955 work units for 363,212,634 credits
   1. Werekat                      10.51%   38,157,285 (units: 1,349)
   2. wetdryvac                     8.85%   32,148,675 (units:   888)
   3. merimus                       5.67%   20,589,421 (units:   553)
-  4. Polychrome                    5.60%   20,353,878 (units: 1,208)
+  4. Polychrome                    5.61%   20,358,545 (units: 1,209)
   5. packetcat                     5.46%   19,829,617 (units:   153)
   6. KemoNine                      5.15%   18,705,527 (units:   625)
   7. Freakazoid                    5.06%   18,370,834 (units:   852)
@@ -27,7 +27,7 @@ As of 2020-08-22 06:12:48, hackers.town is rank 1071
  25. jkl                           0.89%    3,230,695 (units:   742)
  26. Kranfahrer                    0.83%    3,024,932 (units:   201)
  27. ryen                          0.81%    2,936,587 (units:   208)
- 28. Anonymous                     0.79%    2,862,318 (units: 1,189)
+ 28. Anonymous                     0.79%    2,863,927 (units: 1,190)
  29. radicaledward                 0.75%    2,717,086 (units:    90)
  30. drwho                         0.68%    2,457,926 (units:   500)
  31. The_Gibson(HTown)             0.64%    2,330,035 (units:   212)
@@ -39,7 +39,7 @@ As of 2020-08-22 06:12:48, hackers.town is rank 1071
  37. rfquerin                      0.45%    1,638,770 (units:   107)
  38. DJ_Sundog                     0.42%    1,513,675 (units:   330)
  39. sungo                         0.39%    1,432,642 (units:   399)
- 40. Canageek                      0.37%    1,343,798 (units:   284)
+ 40. Canageek                      0.37%    1,344,534 (units:   285)
  41. kusuriya                      0.36%    1,314,178 (units:    68)
  42. rmgr                          0.36%    1,290,558 (units:    47)
  43. djsumdog                      0.34%    1,227,802 (units:   202)
