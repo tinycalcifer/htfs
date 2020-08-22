@@ -1,12 +1,12 @@
-As of 2020-08-22 18:52:27, hackers.town is rank 1072
-   with 32,995 work units for 363,805,087 credits
+As of 2020-08-22 19:02:34, hackers.town is rank 1072
+   with 32,996 work units for 363,821,410 credits
   1. Werekat                      10.57%   38,455,048 (units: 1,356)
   2. wetdryvac                     8.84%   32,148,675 (units:   888)
   3. merimus                       5.66%   20,589,421 (units:   553)
   4. Polychrome                    5.60%   20,365,859 (units: 1,212)
   5. packetcat                     5.45%   19,829,617 (units:   153)
   6. KemoNine                      5.14%   18,705,527 (units:   625)
-  7. Kyle                          5.06%   18,405,164 (units:   962)
+  7. Kyle                          5.06%   18,421,487 (units:   963)
   8. Freakazoid                    5.05%   18,370,834 (units:   852)
   9. dokuja                        4.98%   18,104,692 (units:   474)
  10. CookieMom                     4.16%   15,138,443 (units: 1,200)
@@ -32,7 +32,7 @@ As of 2020-08-22 18:52:27, hackers.town is rank 1072
  30. drwho                         0.68%    2,457,926 (units:   500)
  31. The_Gibson(HTown)             0.64%    2,330,035 (units:   212)
  32. /dev/random                   0.59%    2,135,335 (units:   204)
- 33. mandibular joint dysfunction  0.57%    2,055,511 (units:   834)
+ 33. mandibular joint dysfunction  0.56%    2,055,511 (units:   834)
  34. pfreak                        0.55%    1,996,770 (units:    48)
  35. neil                          0.52%    1,902,624 (units:   462)
  36. avolkov                       0.52%    1,891,826 (units:   104)
@@ -48,7 +48,7 @@ As of 2020-08-22 18:52:27, hackers.town is rank 1072
  46. TerrorBite                    0.30%    1,085,432 (units:    36)
  47. mainebot                      0.28%    1,005,210 (units:    58)
  48. Requiem                       0.25%      893,950 (units:   296)
- 49. Null                          0.23%      818,594 (units:    22)
+ 49. Null                          0.22%      818,594 (units:    22)
  50. m68k                          0.22%      812,086 (units:   193)
  51. TG                            0.19%      694,922 (units:   143)
  52. HolSta                        0.17%      614,460 (units:   108)
