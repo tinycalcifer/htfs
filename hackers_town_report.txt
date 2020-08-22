@@ -1,5 +1,5 @@
-As of 2020-08-22 14:22:31, hackers.town is rank 1071
-   with 32,979 work units for 363,536,309 credits
+As of 2020-08-22 14:42:29, hackers.town is rank 1071
+   with 32,981 work units for 363,539,281 credits
   1. Werekat                      10.54%   38,313,094 (units: 1,353)
   2. wetdryvac                     8.84%   32,148,675 (units:   888)
   3. merimus                       5.66%   20,589,421 (units:   553)
@@ -27,7 +27,7 @@ As of 2020-08-22 14:22:31, hackers.town is rank 1071
  25. jkl                           0.89%    3,234,308 (units:   743)
  26. Kranfahrer                    0.83%    3,024,932 (units:   201)
  27. ryen                          0.81%    2,936,587 (units:   208)
- 28. Anonymous                     0.79%    2,863,927 (units: 1,190)
+ 28. Anonymous                     0.79%    2,866,374 (units: 1,191)
  29. radicaledward                 0.75%    2,717,086 (units:    90)
  30. drwho                         0.68%    2,457,926 (units:   500)
  31. The_Gibson(HTown)             0.64%    2,330,035 (units:   212)
@@ -41,7 +41,7 @@ As of 2020-08-22 14:22:31, hackers.town is rank 1071
  39. sungo                         0.39%    1,432,642 (units:   399)
  40. Canageek                      0.37%    1,348,409 (units:   287)
  41. kusuriya                      0.36%    1,314,178 (units:    68)
- 42. rmgr                          0.36%    1,290,558 (units:    47)
+ 42. rmgr                          0.35%    1,290,558 (units:    47)
  43. djsumdog                      0.34%    1,227,802 (units:   202)
  44. qwazix                        0.32%    1,157,676 (units:   220)
  45. niconiconi                    0.30%    1,100,400 (units:   112)
@@ -83,8 +83,8 @@ As of 2020-08-22 14:22:31, hackers.town is rank 1071
  81. RandyNose                     0.04%      162,127 (units:   210)
  82. BadGateway                    0.04%      161,439 (units:    84)
  83. gwozniak                      0.04%      145,329 (units:   182)
- 84. silksnep                      0.04%      141,111 (units:   176)
- 85. Nemesis                       0.04%      141,038 (units:    98)
+ 84. Nemesis                       0.04%      141,563 (units:    99)
+ 85. silksnep                      0.04%      141,111 (units:   176)
  86. Anunmouse                     0.04%      140,072 (units:   118)
  87. arbu                          0.03%      125,499 (units:     7)
  88. Neil                          0.03%      124,874 (units:    32)
