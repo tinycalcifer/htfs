@@ -1,8 +1,8 @@
-As of 2020-08-27 06:42:37, hackers.town is rank 1076
-   with 33,327 work units for 365,870,381 credits
+As of 2020-08-27 07:12:44, hackers.town is rank 1076
+   with 33,330 work units for 365,884,691 credits
   1. Werekat                      10.55%   38,607,367 (units: 1,359)
   2. wetdryvac                     8.79%   32,148,675 (units:   888)
-  3. Polychrome                    5.65%   20,656,986 (units: 1,241)
+  3. Polychrome                    5.65%   20,668,786 (units: 1,242)
   4. merimus                       5.63%   20,589,421 (units:   553)
   5. packetcat                     5.42%   19,829,617 (units:   153)
   6. Kyle                          5.31%   19,428,552 (units: 1,029)
@@ -24,7 +24,7 @@ As of 2020-08-27 06:42:37, hackers.town is rank 1076
  22. Mr.House                      1.08%    3,947,699 (units:   202)
  23. paullindner                   1.00%    3,664,358 (units:   742)
  24. skraelingjar                  0.92%    3,352,989 (units:    64)
- 25. jkl                           0.91%    3,331,553 (units:   773)
+ 25. jkl                           0.91%    3,333,763 (units:   774)
  26. Kranfahrer                    0.83%    3,024,932 (units:   201)
  27. ryen                          0.80%    2,936,587 (units:   208)
  28. Anonymous                     0.79%    2,897,313 (units: 1,204)
@@ -34,7 +34,7 @@ As of 2020-08-27 06:42:37, hackers.town is rank 1076
  32. /dev/random                   0.58%    2,135,335 (units:   204)
  33. mandibular joint dysfunction  0.56%    2,055,511 (units:   834)
  34. pfreak                        0.55%    1,996,770 (units:    48)
- 35. neil                          0.52%    1,910,065 (units:   467)
+ 35. neil                          0.52%    1,910,365 (units:   468)
  36. avolkov                       0.52%    1,891,826 (units:   104)
  37. rfquerin                      0.45%    1,638,770 (units:   107)
  38. DJ_Sundog                     0.41%    1,513,675 (units:   330)
