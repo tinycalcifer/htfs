@@ -1,5 +1,5 @@
-As of 2020-08-28 11:02:46, hackers.town is rank 1079
-   with 33,439 work units for 366,379,321 credits
+As of 2020-08-28 11:42:44, hackers.town is rank 1079
+   with 33,442 work units for 366,385,715 credits
   1. Werekat                      10.54%   38,607,367 (units: 1,359)
   2. wetdryvac                     8.77%   32,148,675 (units:   888)
   3. Polychrome                    5.66%   20,729,273 (units: 1,253)
@@ -23,17 +23,17 @@ As of 2020-08-28 11:02:46, hackers.town is rank 1079
  21. r000t                         1.11%    4,069,816 (units:   121)
  22. Mr.House                      1.08%    3,947,699 (units:   202)
  23. paullindner                   1.00%    3,664,358 (units:   742)
- 24. jkl                           0.92%    3,354,778 (units:   781)
+ 24. jkl                           0.92%    3,358,194 (units:   782)
  25. skraelingjar                  0.92%    3,352,989 (units:    64)
  26. Kranfahrer                    0.83%    3,024,932 (units:   201)
  27. ryen                          0.80%    2,936,587 (units:   208)
- 28. Anonymous                     0.79%    2,906,152 (units: 1,208)
+ 28. Anonymous                     0.79%    2,908,680 (units: 1,209)
  29. radicaledward                 0.74%    2,717,086 (units:    90)
  30. drwho                         0.67%    2,457,926 (units:   500)
  31. The_Gibson(HTown)             0.64%    2,330,035 (units:   212)
  32. /dev/random                   0.58%    2,135,335 (units:   204)
  33. mandibular joint dysfunction  0.56%    2,055,511 (units:   834)
- 34. pfreak                        0.55%    1,996,770 (units:    48)
+ 34. pfreak                        0.54%    1,996,770 (units:    48)
  35. neil                          0.52%    1,911,870 (units:   470)
  36. avolkov                       0.52%    1,891,826 (units:   104)
  37. rfquerin                      0.45%    1,638,770 (units:   107)
@@ -71,7 +71,7 @@ As of 2020-08-28 11:02:46, hackers.town is rank 1079
  69. jerephil                      0.08%      275,300 (units:   192)
  70. Cyberia                       0.07%      266,610 (units:    22)
  71. Kyresti                       0.07%      262,134 (units:    39)
- 72. pmosetc                       0.07%      261,666 (units:   277)
+ 72. pmosetc                       0.07%      262,116 (units:   278)
  73. Brian                         0.07%      259,022 (units:    82)
  74. Neue.City                     0.06%      235,324 (units:    60)
  75. tbn97                         0.06%      212,337 (units:   157)
