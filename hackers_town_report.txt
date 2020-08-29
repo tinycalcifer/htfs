@@ -1,5 +1,5 @@
-As of 2020-08-29 17:52:37, hackers.town is rank 1081
-   with 33,566 work units for 367,292,075 credits
+As of 2020-08-29 18:32:33, hackers.town is rank 1081
+   with 33,569 work units for 367,295,285 credits
   1. Werekat                      10.64%   39,070,772 (units: 1,379)
   2. wetdryvac                     8.75%   32,148,675 (units:   888)
   3. Polychrome                    5.65%   20,734,896 (units: 1,255)
@@ -14,7 +14,7 @@ As of 2020-08-29 17:52:37, hackers.town is rank 1081
  12. Calcifer                      2.12%    7,802,361 (units:   193)
  13. c0debabe                      1.97%    7,224,123 (units:   245)
  14. elfgirlsarah                  1.86%    6,845,555 (units:   955)
- 15. zx3                           1.74%    6,384,902 (units:   509)
+ 15. zx3                           1.74%    6,386,652 (units:   510)
  16. dafuchs                       1.72%    6,320,938 (units:   393)
  17. SiinaCutie                    1.41%    5,188,566 (units:   235)
  18. FOOL                          1.39%    5,109,247 (units:   413)
@@ -55,7 +55,7 @@ As of 2020-08-29 17:52:37, hackers.town is rank 1081
  53. synfinner                     0.14%      527,623 (units:    14)
  54. tayo                          0.14%      497,485 (units:   150)
  55. LordBowlich                   0.13%      484,674 (units:   141)
- 56. MaxAtCastleMalmeddy           0.13%      477,827 (units:   447)
+ 56. MaxAtCastleMalmeddy           0.13%      478,557 (units:   448)
  57. technolust                    0.12%      458,534 (units:   355)
  58. Mnemonic                      0.12%      434,508 (units:   163)
  59. protospork                    0.12%      423,894 (units:    59)
@@ -69,7 +69,7 @@ As of 2020-08-29 17:52:37, hackers.town is rank 1081
  67. ZenCoder                      0.08%      281,041 (units:    87)
  68. folding_with_gibson           0.08%      276,013 (units:   126)
  69. jerephil                      0.07%      275,300 (units:   192)
- 70. pmosetc                       0.07%      267,801 (units:   280)
+ 70. pmosetc                       0.07%      268,531 (units:   281)
  71. Cyberia                       0.07%      266,610 (units:    22)
  72. Kyresti                       0.07%      262,134 (units:    39)
  73. Brian                         0.07%      259,022 (units:    82)
