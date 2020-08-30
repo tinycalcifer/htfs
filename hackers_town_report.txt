@@ -1,16 +1,16 @@
-As of 2020-08-30 20:02:42, hackers.town is rank 1082
-   with 33,686 work units for 368,301,593 credits
-  1. Werekat                      10.74%   39,540,901 (units: 1,401)
+As of 2020-08-30 20:12:49, hackers.town is rank 1082
+   with 33,688 work units for 368,356,246 credits
+  1. Werekat                      10.73%   39,540,901 (units: 1,401)
   2. wetdryvac                     8.73%   32,148,675 (units:   888)
   3. Polychrome                    5.64%   20,784,922 (units: 1,259)
   4. merimus                       5.59%   20,589,421 (units:   553)
-  5. Kyle                          5.48%   20,192,176 (units: 1,088)
+  5. Kyle                          5.48%   20,201,129 (units: 1,089)
   6. packetcat                     5.38%   19,829,617 (units:   153)
   7. KemoNine                      5.08%   18,705,527 (units:   625)
   8. Freakazoid                    4.99%   18,370,834 (units:   852)
-  9. dokuja                        4.92%   18,104,692 (units:   474)
- 10. CookieMom                     4.14%   15,249,888 (units: 1,260)
- 11. bhtooefr                      4.02%   14,787,915 (units:   667)
+  9. dokuja                        4.91%   18,104,692 (units:   474)
+ 10. CookieMom                     4.15%   15,295,588 (units: 1,261)
+ 11. bhtooefr                      4.01%   14,787,915 (units:   667)
  12. Calcifer                      2.12%    7,802,361 (units:   193)
  13. c0debabe                      1.96%    7,224,123 (units:   245)
  14. elfgirlsarah                  1.86%    6,845,555 (units:   955)
@@ -20,7 +20,7 @@ As of 2020-08-30 20:02:42, hackers.town is rank 1082
  18. FOOL                          1.39%    5,109,247 (units:   413)
  19. felix                         1.33%    4,901,391 (units:   185)
  20.                               1.23%    4,538,324 (units:   879)
- 21. r000t                         1.11%    4,069,816 (units:   121)
+ 21. r000t                         1.10%    4,069,816 (units:   121)
  22. Mr.House                      1.07%    3,947,699 (units:   202)
  23. paullindner                   0.99%    3,664,358 (units:   742)
  24. jkl                           0.92%    3,405,541 (units:   796)
