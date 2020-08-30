@@ -1,10 +1,10 @@
-As of 2020-08-30 13:23:04, hackers.town is rank 1082
-   with 33,655 work units for 367,947,211 credits
+As of 2020-08-30 14:42:53, hackers.town is rank 1082
+   with 33,658 work units for 367,959,836 credits
   1. Werekat                      10.70%   39,355,748 (units: 1,396)
   2. wetdryvac                     8.74%   32,148,675 (units:   888)
   3. Polychrome                    5.64%   20,744,301 (units: 1,256)
   4. merimus                       5.60%   20,589,421 (units:   553)
-  5. Kyle                          5.48%   20,147,560 (units: 1,082)
+  5. Kyle                          5.48%   20,156,522 (units: 1,083)
   6. packetcat                     5.39%   19,829,617 (units:   153)
   7. KemoNine                      5.08%   18,705,527 (units:   625)
   8. Freakazoid                    4.99%   18,370,834 (units:   852)
@@ -14,7 +14,7 @@ As of 2020-08-30 13:23:04, hackers.town is rank 1082
  12. Calcifer                      2.12%    7,802,361 (units:   193)
  13. c0debabe                      1.96%    7,224,123 (units:   245)
  14. elfgirlsarah                  1.86%    6,845,555 (units:   955)
- 15. zx3                           1.75%    6,424,133 (units:   517)
+ 15. zx3                           1.75%    6,425,883 (units:   518)
  16. dafuchs                       1.72%    6,320,938 (units:   393)
  17. SiinaCutie                    1.41%    5,188,566 (units:   235)
  18. FOOL                          1.39%    5,109,247 (units:   413)
@@ -86,7 +86,7 @@ As of 2020-08-30 13:23:04, hackers.town is rank 1082
  84. gwozniak                      0.04%      145,329 (units:   182)
  85. silksnep                      0.04%      141,111 (units:   176)
  86. Anunmouse                     0.04%      140,072 (units:   118)
- 87. Toive8547                     0.04%      136,604 (units: 3,924)
+ 87. Toive8547                     0.04%      138,517 (units: 3,925)
  88. arbu                          0.03%      125,499 (units:     7)
  89. Neil                          0.03%      124,874 (units:    32)
  90. Bingo                         0.03%      124,668 (units:   189)
