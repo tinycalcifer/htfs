@@ -1,9 +1,9 @@
-As of 2020-08-30 15:02:42, hackers.town is rank 1082
-   with 33,660 work units for 367,965,201 credits
-  1. Werekat                      10.70%   39,360,333 (units: 1,397)
-  2. wetdryvac                     8.74%   32,148,675 (units:   888)
-  3. Polychrome                    5.64%   20,744,301 (units: 1,256)
-  4. merimus                       5.60%   20,589,421 (units:   553)
+As of 2020-08-30 15:32:35, hackers.town is rank 1082
+   with 33,662 work units for 368,134,111 credits
+  1. Werekat                      10.74%   39,528,498 (units: 1,398)
+  2. wetdryvac                     8.73%   32,148,675 (units:   888)
+  3. Polychrome                    5.63%   20,744,301 (units: 1,256)
+  4. merimus                       5.59%   20,589,421 (units:   553)
   5. Kyle                          5.48%   20,156,522 (units: 1,083)
   6. packetcat                     5.39%   19,829,617 (units:   153)
   7. KemoNine                      5.08%   18,705,527 (units:   625)
@@ -27,7 +27,7 @@ As of 2020-08-30 15:02:42, hackers.town is rank 1082
  25. skraelingjar                  0.91%    3,352,989 (units:    64)
  26. Kranfahrer                    0.82%    3,024,932 (units:   201)
  27. ryen                          0.80%    2,936,587 (units:   208)
- 28. Anonymous                     0.80%    2,925,730 (units: 1,217)
+ 28. Anonymous                     0.79%    2,925,730 (units: 1,217)
  29. radicaledward                 0.74%    2,717,086 (units:    90)
  30. drwho                         0.67%    2,457,926 (units:   500)
  31. The_Gibson(HTown)             0.63%    2,330,035 (units:   212)
@@ -55,7 +55,7 @@ As of 2020-08-30 15:02:42, hackers.town is rank 1082
  53. synfinner                     0.14%      527,623 (units:    14)
  54. tayo                          0.14%      497,485 (units:   150)
  55. LordBowlich                   0.13%      484,674 (units:   141)
- 56. MaxAtCastleMalmeddy           0.13%      481,494 (units:   452)
+ 56. MaxAtCastleMalmeddy           0.13%      482,239 (units:   453)
  57. technolust                    0.12%      458,534 (units:   355)
  58. Mnemonic                      0.12%      434,508 (units:   163)
  59. protospork                    0.12%      423,894 (units:    59)
@@ -67,7 +67,7 @@ As of 2020-08-30 15:02:42, hackers.town is rank 1082
  65. KitRedgrave                   0.09%      325,409 (units:    68)
  66. debugninja                    0.08%      288,707 (units:    34)
  67. ZenCoder                      0.08%      281,041 (units:    87)
- 68. folding_with_gibson           0.08%      276,013 (units:   126)
+ 68. folding_with_gibson           0.07%      276,013 (units:   126)
  69. jerephil                      0.07%      275,300 (units:   192)
  70. pmosetc                       0.07%      269,216 (units:   282)
  71. Cyberia                       0.07%      266,610 (units:    22)
