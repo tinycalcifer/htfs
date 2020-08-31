@@ -1,5 +1,5 @@
-As of 2020-08-31 18:02:38, hackers.town is rank 1083
-   with 33,805 work units for 369,088,470 credits
+As of 2020-08-31 18:23:11, hackers.town is rank 1083
+   with 33,808 work units for 369,094,883 credits
   1. Werekat                      10.78%   39,794,445 (units: 1,415)
   2. wetdryvac                     8.71%   32,148,675 (units:   888)
   3. Polychrome                    5.63%   20,797,514 (units: 1,265)
@@ -19,11 +19,11 @@ As of 2020-08-31 18:02:38, hackers.town is rank 1083
  17. SiinaCutie                    1.41%    5,188,566 (units:   235)
  18. FOOL                          1.38%    5,109,247 (units:   413)
  19. felix                         1.33%    4,901,391 (units:   185)
- 20.                               1.24%    4,564,928 (units:   886)
+ 20.                               1.24%    4,566,850 (units:   887)
  21. r000t                         1.10%    4,069,816 (units:   121)
  22. Mr.House                      1.07%    3,947,699 (units:   202)
  23. paullindner                   0.99%    3,664,358 (units:   742)
- 24. jkl                           0.93%    3,422,252 (units:   801)
+ 24. jkl                           0.93%    3,426,343 (units:   802)
  25. skraelingjar                  0.91%    3,352,989 (units:    64)
  26. Kranfahrer                    0.82%    3,024,932 (units:   201)
  27. ryen                          0.80%    2,936,587 (units:   208)
@@ -54,7 +54,7 @@ As of 2020-08-31 18:02:38, hackers.town is rank 1083
  52. HolSta                        0.17%      614,460 (units:   108)
  53. synfinner                     0.14%      527,623 (units:    14)
  54. tayo                          0.13%      497,485 (units:   150)
- 55. MaxAtCastleMalmeddy           0.13%      486,132 (units:   459)
+ 55. MaxAtCastleMalmeddy           0.13%      486,532 (units:   460)
  56. LordBowlich                   0.13%      484,674 (units:   141)
  57. technolust                    0.12%      458,534 (units:   355)
  58. Mnemonic                      0.12%      434,508 (units:   163)
