@@ -1,10 +1,10 @@
-As of 2020-08-31 21:12:40, hackers.town is rank 1083
-   with 33,817 work units for 369,108,056 credits
+As of 2020-08-31 21:32:49, hackers.town is rank 1083
+   with 33,820 work units for 369,114,969 credits
   1. Werekat                      10.78%   39,794,445 (units: 1,415)
   2. wetdryvac                     8.71%   32,148,675 (units:   888)
   3. Polychrome                    5.64%   20,801,487 (units: 1,267)
   4. merimus                       5.58%   20,589,421 (units:   553)
-  5. Kyle                          5.51%   20,332,657 (units: 1,105)
+  5. Kyle                          5.51%   20,336,294 (units: 1,106)
   6. packetcat                     5.37%   19,829,617 (units:   153)
   7. KemoNine                      5.07%   18,705,527 (units:   625)
   8. Freakazoid                    4.98%   18,370,834 (units:   852)
@@ -23,7 +23,7 @@ As of 2020-08-31 21:12:40, hackers.town is rank 1083
  21. r000t                         1.10%    4,069,816 (units:   121)
  22. Mr.House                      1.07%    3,947,699 (units:   202)
  23. paullindner                   0.99%    3,664,358 (units:   742)
- 24. jkl                           0.93%    3,426,343 (units:   802)
+ 24. jkl                           0.93%    3,429,169 (units:   803)
  25. skraelingjar                  0.91%    3,352,989 (units:    64)
  26. Kranfahrer                    0.82%    3,024,932 (units:   201)
  27. ryen                          0.80%    2,936,587 (units:   208)
@@ -54,7 +54,7 @@ As of 2020-08-31 21:12:40, hackers.town is rank 1083
  52. HolSta                        0.17%      614,460 (units:   108)
  53. synfinner                     0.14%      527,623 (units:    14)
  54. tayo                          0.13%      497,485 (units:   150)
- 55. MaxAtCastleMalmeddy           0.13%      486,532 (units:   460)
+ 55. MaxAtCastleMalmeddy           0.13%      486,982 (units:   461)
  56. LordBowlich                   0.13%      484,674 (units:   141)
  57. technolust                    0.12%      458,534 (units:   355)
  58. Mnemonic                      0.12%      434,508 (units:   163)
