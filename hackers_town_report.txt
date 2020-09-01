@@ -1,5 +1,5 @@
-As of 2020-09-01 21:32:48, hackers.town is rank 1085
-   with 33,898 work units for 369,804,999 credits
+As of 2020-09-01 21:42:45, hackers.town is rank 1085
+   with 33,900 work units for 369,809,906 credits
   1. Werekat                      10.76%   39,794,445 (units: 1,415)
   2. wetdryvac                     8.69%   32,148,675 (units:   888)
   3. Polychrome                    5.64%   20,865,387 (units: 1,274)
@@ -14,7 +14,7 @@ As of 2020-09-01 21:32:48, hackers.town is rank 1085
  12. Calcifer                      2.11%    7,802,361 (units:   193)
  13. c0debabe                      1.95%    7,224,123 (units:   245)
  14. elfgirlsarah                  1.85%    6,845,555 (units:   955)
- 15. zx3                           1.76%    6,513,058 (units:   549)
+ 15. zx3                           1.76%    6,516,248 (units:   550)
  16. dafuchs                       1.71%    6,320,938 (units:   393)
  17. SiinaCutie                    1.40%    5,188,566 (units:   235)
  18. FOOL                          1.38%    5,109,247 (units:   413)
@@ -26,7 +26,7 @@ As of 2020-09-01 21:32:48, hackers.town is rank 1085
  24. jkl                           0.93%    3,446,415 (units:   808)
  25. skraelingjar                  0.91%    3,352,989 (units:    64)
  26. Kranfahrer                    0.82%    3,024,932 (units:   201)
- 27. Anonymous                     0.80%    2,943,223 (units: 1,224)
+ 27. Anonymous                     0.80%    2,944,940 (units: 1,225)
  28. ryen                          0.79%    2,936,587 (units:   208)
  29. radicaledward                 0.73%    2,717,086 (units:    90)
  30. drwho                         0.66%    2,457,926 (units:   500)
@@ -39,7 +39,7 @@ As of 2020-09-01 21:32:48, hackers.town is rank 1085
  37. rfquerin                      0.44%    1,638,770 (units:   107)
  38. DJ_Sundog                     0.41%    1,513,675 (units:   330)
  39. sungo                         0.39%    1,432,642 (units:   399)
- 40. Canageek                      0.39%    1,423,753 (units:   299)
+ 40. Canageek                      0.38%    1,423,753 (units:   299)
  41. kusuriya                      0.36%    1,314,178 (units:    68)
  42. rmgr                          0.35%    1,290,558 (units:    47)
  43. djsumdog                      0.33%    1,227,802 (units:   202)
