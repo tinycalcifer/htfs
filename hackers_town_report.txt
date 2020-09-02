@@ -1,6 +1,6 @@
-As of 2020-09-02 15:32:53, hackers.town is rank 1087
-   with 33,959 work units for 370,323,957 credits
-  1. Werekat                      10.75%   39,794,445 (units: 1,415)
+As of 2020-09-02 15:52:43, hackers.town is rank 1087
+   with 33,960 work units for 370,369,657 credits
+  1. Werekat                      10.74%   39,794,445 (units: 1,415)
   2. wetdryvac                     8.68%   32,148,675 (units:   888)
   3. Polychrome                    5.65%   20,940,704 (units: 1,280)
   4. Kyle                          5.59%   20,715,262 (units: 1,125)
@@ -9,7 +9,7 @@ As of 2020-09-02 15:32:53, hackers.town is rank 1087
   7. KemoNine                      5.05%   18,705,527 (units:   625)
   8. Freakazoid                    4.96%   18,370,834 (units:   852)
   9. dokuja                        4.89%   18,104,692 (units:   474)
- 10. CookieMom                     4.33%   16,040,305 (units: 1,307)
+ 10. CookieMom                     4.34%   16,086,005 (units: 1,308)
  11. bhtooefr                      3.99%   14,787,915 (units:   667)
  12. Calcifer                      2.11%    7,802,361 (units:   193)
  13. c0debabe                      1.95%    7,224,123 (units:   245)
@@ -19,7 +19,7 @@ As of 2020-09-02 15:32:53, hackers.town is rank 1087
  17. SiinaCutie                    1.40%    5,188,566 (units:   235)
  18. FOOL                          1.38%    5,109,247 (units:   413)
  19. felix                         1.32%    4,901,391 (units:   185)
- 20.                               1.25%    4,611,008 (units:   899)
+ 20.                               1.24%    4,611,008 (units:   899)
  21. r000t                         1.10%    4,069,816 (units:   121)
  22. Mr.House                      1.07%    3,947,699 (units:   202)
  23. paullindner                   0.99%    3,664,358 (units:   742)
@@ -32,7 +32,7 @@ As of 2020-09-02 15:32:53, hackers.town is rank 1087
  30. drwho                         0.66%    2,457,926 (units:   500)
  31. The_Gibson(HTown)             0.63%    2,330,035 (units:   212)
  32. /dev/random                   0.58%    2,135,335 (units:   204)
- 33. mandibular joint dysfunction  0.56%    2,055,511 (units:   834)
+ 33. mandibular joint dysfunction  0.55%    2,055,511 (units:   834)
  34. pfreak                        0.54%    1,996,770 (units:    48)
  35. neil                          0.52%    1,922,857 (units:   486)
  36. avolkov                       0.51%    1,891,826 (units:   104)
