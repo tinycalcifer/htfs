@@ -1,8 +1,8 @@
-As of 2020-09-04 08:12:45, hackers.town is rank 1089
-   with 34,128 work units for 371,425,282 credits
+As of 2020-09-04 09:02:44, hackers.town is rank 1089
+   with 34,132 work units for 371,440,056 credits
   1. Werekat                      10.71%   39,794,445 (units: 1,415)
   2. wetdryvac                     8.66%   32,148,675 (units:   888)
-  3. Kyle                          5.66%   21,030,480 (units: 1,151)
+  3. Kyle                          5.66%   21,039,489 (units: 1,152)
   4. Polychrome                    5.66%   21,012,068 (units: 1,292)
   5. merimus                       5.54%   20,589,421 (units:   553)
   6. packetcat                     5.34%   19,829,617 (units:   153)
@@ -19,14 +19,14 @@ As of 2020-09-04 08:12:45, hackers.town is rank 1089
  17. SiinaCutie                    1.40%    5,188,566 (units:   235)
  18. FOOL                          1.38%    5,109,247 (units:   413)
  19. felix                         1.32%    4,901,391 (units:   185)
- 20.                               1.26%    4,663,105 (units:   915)
+ 20.                               1.26%    4,665,553 (units:   916)
  21. r000t                         1.10%    4,069,816 (units:   121)
  22. Mr.House                      1.06%    3,947,699 (units:   202)
  23. paullindner                   0.99%    3,664,358 (units:   742)
  24. jkl                           0.94%    3,500,880 (units:   821)
  25. skraelingjar                  0.90%    3,352,989 (units:    64)
  26. Kranfahrer                    0.81%    3,024,932 (units:   201)
- 27. Anonymous                     0.80%    2,965,940 (units: 1,232)
+ 27. Anonymous                     0.80%    2,968,357 (units: 1,233)
  28. ryen                          0.79%    2,936,587 (units:   208)
  29. radicaledward                 0.73%    2,717,086 (units:    90)
  30. drwho                         0.66%    2,457,926 (units:   500)
@@ -53,7 +53,7 @@ As of 2020-09-04 08:12:45, hackers.town is rank 1089
  51. TG                            0.19%      694,922 (units:   143)
  52. HolSta                        0.17%      614,460 (units:   108)
  53. synfinner                     0.14%      527,623 (units:    14)
- 54. MaxAtCastleMalmeddy           0.13%      500,279 (units:   477)
+ 54. MaxAtCastleMalmeddy           0.13%      501,179 (units:   478)
  55. tayo                          0.13%      497,485 (units:   150)
  56. LordBowlich                   0.13%      484,674 (units:   141)
  57. technolust                    0.12%      458,534 (units:   355)
