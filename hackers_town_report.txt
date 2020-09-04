@@ -1,5 +1,5 @@
-As of 2020-09-04 12:02:50, hackers.town is rank 1089
-   with 34,142 work units for 371,523,034 credits
+As of 2020-09-04 12:33:09, hackers.town is rank 1089
+   with 34,145 work units for 371,529,321 credits
   1. Werekat                      10.71%   39,794,445 (units: 1,415)
   2. wetdryvac                     8.65%   32,148,675 (units:   888)
   3. Kyle                          5.67%   21,064,416 (units: 1,156)
@@ -14,12 +14,12 @@ As of 2020-09-04 12:02:50, hackers.town is rank 1089
  12. Calcifer                      2.10%    7,802,361 (units:   193)
  13. c0debabe                      1.94%    7,224,123 (units:   245)
  14. elfgirlsarah                  1.84%    6,845,555 (units:   955)
- 15. zx3                           1.79%    6,635,058 (units:   581)
+ 15. zx3                           1.79%    6,636,808 (units:   582)
  16. dafuchs                       1.70%    6,320,938 (units:   393)
  17. SiinaCutie                    1.40%    5,188,566 (units:   235)
  18. FOOL                          1.38%    5,109,247 (units:   413)
  19. felix                         1.32%    4,901,391 (units:   185)
- 20.                               1.26%    4,665,553 (units:   916)
+ 20.                               1.26%    4,669,354 (units:   917)
  21. r000t                         1.10%    4,069,816 (units:   121)
  22. Mr.House                      1.06%    3,947,699 (units:   202)
  23. paullindner                   0.99%    3,664,358 (units:   742)
@@ -82,7 +82,7 @@ As of 2020-09-04 12:02:50, hackers.town is rank 1089
  80. Michael_Simkin                0.04%      163,367 (units:    64)
  81. RandyNose                     0.04%      162,127 (units:   210)
  82. BadGateway                    0.04%      161,439 (units:    84)
- 83. Nemesis                       0.04%      157,282 (units:   117)
+ 83. Nemesis                       0.04%      158,018 (units:   118)
  84. Toive8547                     0.04%      149,107 (units: 3,931)
  85. gwozniak                      0.04%      145,329 (units:   182)
  86. silksnep                      0.04%      141,111 (units:   176)
