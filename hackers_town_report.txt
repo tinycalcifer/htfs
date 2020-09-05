@@ -1,17 +1,17 @@
-As of 2020-09-05 22:12:56, hackers.town is rank 1090
-   with 34,283 work units for 372,384,918 credits
+As of 2020-09-05 23:12:50, hackers.town is rank 1090
+   with 34,285 work units for 372,476,681 credits
   1. Werekat                      10.72%   39,926,012 (units: 1,421)
   2. wetdryvac                     8.63%   32,148,675 (units:   888)
-  3. Kyle                          5.71%   21,259,890 (units: 1,176)
+  3. Kyle                          5.73%   21,347,760 (units: 1,177)
   4. Polychrome                    5.66%   21,091,924 (units: 1,302)
   5. merimus                       5.53%   20,589,421 (units:   553)
-  6. packetcat                     5.33%   19,829,617 (units:   153)
+  6. packetcat                     5.32%   19,829,617 (units:   153)
   7. KemoNine                      5.02%   18,705,527 (units:   625)
   8. Freakazoid                    4.93%   18,370,834 (units:   852)
   9. dokuja                        4.86%   18,104,692 (units:   474)
- 10. CookieMom                     4.54%   16,913,979 (units: 1,352)
+ 10. CookieMom                     4.54%   16,917,872 (units: 1,353)
  11. bhtooefr                      3.97%   14,787,915 (units:   667)
- 12. Calcifer                      2.10%    7,802,361 (units:   193)
+ 12. Calcifer                      2.09%    7,802,361 (units:   193)
  13. c0debabe                      1.94%    7,224,123 (units:   245)
  14. elfgirlsarah                  1.84%    6,845,555 (units:   955)
  15. zx3                           1.78%    6,639,355 (units:   583)
@@ -51,7 +51,7 @@ As of 2020-09-05 22:12:56, hackers.town is rank 1090
  49. Null                          0.22%      818,594 (units:    22)
  50. m68k                          0.22%      812,086 (units:   193)
  51. TG                            0.19%      694,922 (units:   143)
- 52. HolSta                        0.17%      614,460 (units:   108)
+ 52. HolSta                        0.16%      614,460 (units:   108)
  53. synfinner                     0.14%      527,623 (units:    14)
  54. MaxAtCastleMalmeddy           0.14%      509,534 (units:   485)
  55. tayo                          0.13%      497,485 (units:   150)
