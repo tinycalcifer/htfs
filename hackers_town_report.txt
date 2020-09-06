@@ -1,5 +1,5 @@
-As of 2020-09-06 19:13:02, hackers.town is rank 1090
-   with 34,358 work units for 373,273,606 credits
+As of 2020-09-06 19:42:57, hackers.town is rank 1090
+   with 34,362 work units for 373,280,336 credits
   1. Werekat                      10.81%   40,340,882 (units: 1,433)
   2. wetdryvac                     8.61%   32,148,675 (units:   888)
   3. Kyle                          5.74%   21,427,373 (units: 1,187)
@@ -23,10 +23,10 @@ As of 2020-09-06 19:13:02, hackers.town is rank 1090
  21. r000t                         1.09%    4,069,816 (units:   121)
  22. Mr.House                      1.06%    3,947,699 (units:   202)
  23. paullindner                   0.98%    3,664,358 (units:   742)
- 24. jkl                           0.95%    3,551,788 (units:   834)
+ 24. jkl                           0.95%    3,553,969 (units:   835)
  25. skraelingjar                  0.90%    3,352,989 (units:    64)
  26. Kranfahrer                    0.81%    3,024,932 (units:   201)
- 27. Anonymous                     0.80%    2,990,211 (units: 1,240)
+ 27. Anonymous                     0.80%    2,992,772 (units: 1,241)
  28. ryen                          0.79%    2,936,587 (units:   208)
  29. radicaledward                 0.73%    2,717,086 (units:    90)
  30. drwho                         0.66%    2,457,926 (units:   500)
@@ -65,7 +65,7 @@ As of 2020-09-06 19:13:02, hackers.town is rank 1090
  63. csrsuoeb                      0.09%      330,048 (units:    69)
  64. crc32                         0.09%      328,921 (units:   327)
  65. KitRedgrave                   0.09%      325,409 (units:    68)
- 66. pmosetc                       0.08%      299,524 (units:   317)
+ 66. pmosetc                       0.08%      300,304 (units:   318)
  67. debugninja                    0.08%      288,707 (units:    34)
  68. ZenCoder                      0.08%      281,041 (units:    87)
  69. folding_with_gibson           0.07%      276,013 (units:   126)
@@ -83,7 +83,7 @@ As of 2020-09-06 19:13:02, hackers.town is rank 1090
  81. Michael_Simkin                0.04%      163,367 (units:    64)
  82. RandyNose                     0.04%      162,127 (units:   210)
  83. BadGateway                    0.04%      161,439 (units:    84)
- 84. Toive8547                     0.04%      155,758 (units: 3,935)
+ 84. Toive8547                     0.04%      156,966 (units: 3,936)
  85. gwozniak                      0.04%      145,329 (units:   182)
  86. silksnep                      0.04%      141,111 (units:   176)
  87. Anunmouse                     0.04%      140,072 (units:   118)
