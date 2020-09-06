@@ -1,8 +1,8 @@
-As of 2020-09-06 05:52:55, hackers.town is rank 1090
-   with 34,321 work units for 372,731,955 credits
-  1. Werekat                      10.74%   40,047,713 (units: 1,426)
-  2. wetdryvac                     8.63%   32,148,675 (units:   888)
-  3. Kyle                          5.74%   21,399,103 (units: 1,182)
+As of 2020-09-06 06:03:08, hackers.town is rank 1090
+   with 34,323 work units for 372,851,511 credits
+  1. Werekat                      10.77%   40,158,398 (units: 1,427)
+  2. wetdryvac                     8.62%   32,148,675 (units:   888)
+  3. Kyle                          5.74%   21,407,974 (units: 1,183)
   4. Polychrome                    5.66%   21,097,517 (units: 1,304)
   5. merimus                       5.52%   20,589,421 (units:   553)
   6. packetcat                     5.32%   19,829,617 (units:   153)
@@ -19,7 +19,7 @@ As of 2020-09-06 05:52:55, hackers.town is rank 1090
  17. SiinaCutie                    1.39%    5,188,566 (units:   235)
  18. FOOL                          1.37%    5,109,247 (units:   413)
  19. felix                         1.31%    4,901,391 (units:   185)
- 20.                               1.27%    4,715,639 (units:   925)
+ 20.                               1.26%    4,715,639 (units:   925)
  21. r000t                         1.09%    4,069,816 (units:   121)
  22. Mr.House                      1.06%    3,947,699 (units:   202)
  23. paullindner                   0.98%    3,664,358 (units:   742)
@@ -30,7 +30,7 @@ As of 2020-09-06 05:52:55, hackers.town is rank 1090
  28. ryen                          0.79%    2,936,587 (units:   208)
  29. radicaledward                 0.73%    2,717,086 (units:    90)
  30. drwho                         0.66%    2,457,926 (units:   500)
- 31. The_Gibson(HTown)             0.63%    2,330,035 (units:   212)
+ 31. The_Gibson(HTown)             0.62%    2,330,035 (units:   212)
  32. /dev/random                   0.57%    2,135,335 (units:   204)
  33. mandibular joint dysfunction  0.55%    2,055,511 (units:   834)
  34. pfreak                        0.54%    1,996,770 (units:    48)
