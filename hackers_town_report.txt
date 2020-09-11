@@ -1,8 +1,8 @@
-As of 2020-09-11 21:24:25, hackers.town is rank 1101
-   with 34,710 work units for 376,457,934 credits
+As of 2020-09-11 21:43:20, hackers.town is rank 1101
+   with 34,714 work units for 376,474,810 credits
   1. Werekat                      10.80%   40,648,541 (units: 1,439)
   2. wetdryvac                     8.54%   32,148,675 (units:   888)
-  3. Kyle                          5.97%   22,456,438 (units: 1,243)
+  3. Kyle                          5.97%   22,465,381 (units: 1,244)
   4. Polychrome                    5.69%   21,438,270 (units: 1,337)
   5. merimus                       5.47%   20,589,421 (units:   553)
   6. packetcat                     5.27%   19,829,617 (units:   153)
@@ -19,7 +19,7 @@ As of 2020-09-11 21:24:25, hackers.town is rank 1101
  17. SiinaCutie                    1.38%    5,188,566 (units:   235)
  18. FOOL                          1.36%    5,109,247 (units:   413)
  19. felix                         1.30%    4,901,391 (units:   185)
- 20.                               1.26%    4,747,680 (units:   932)
+ 20.                               1.26%    4,750,533 (units:   933)
  21. r000t                         1.08%    4,069,816 (units:   121)
  22. Mr.House                      1.05%    3,947,699 (units:   202)
  23. paullindner                   0.97%    3,664,358 (units:   742)
@@ -78,8 +78,8 @@ As of 2020-09-11 21:24:25, hackers.town is rank 1101
  76. Imani                         0.06%      209,939 (units:   273)
  77. LordMathis                    0.06%      207,717 (units:    36)
  78. atinciona                     0.05%      183,705 (units:   224)
- 79. Nemesis                       0.05%      181,523 (units:   141)
- 80. Toive8547                     0.05%      170,095 (units: 3,943)
+ 79. Nemesis                       0.05%      181,973 (units:   142)
+ 80. Toive8547                     0.05%      174,725 (units: 3,944)
  81. grasshopper                   0.04%      168,249 (units:   192)
  82. Michael_Simkin                0.04%      163,367 (units:    64)
  83. RandyNose                     0.04%      162,127 (units:   210)
