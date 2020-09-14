@@ -1,9 +1,9 @@
-As of 2020-09-14 18:03:08, hackers.town is rank 1103
-   with 34,910 work units for 377,766,741 credits
+As of 2020-09-14 18:53:08, hackers.town is rank 1103
+   with 34,911 work units for 377,829,769 credits
   1. Werekat                      10.76%   40,648,541 (units: 1,439)
   2. wetdryvac                     8.51%   32,148,675 (units:   888)
-  3. Kyle                          6.07%   22,913,267 (units: 1,268)
-  4. Polychrome                    5.72%   21,589,971 (units: 1,353)
+  3. Kyle                          6.08%   22,976,295 (units: 1,269)
+  4. Polychrome                    5.71%   21,589,971 (units: 1,353)
   5. merimus                       5.45%   20,589,421 (units:   553)
   6. packetcat                     5.25%   19,829,617 (units:   153)
   7. CookieMom                     5.00%   18,878,787 (units: 1,470)
@@ -21,7 +21,7 @@ As of 2020-09-14 18:03:08, hackers.town is rank 1103
  19.                               1.30%    4,906,727 (units:   964)
  20. felix                         1.30%    4,901,391 (units:   185)
  21. r000t                         1.08%    4,069,816 (units:   121)
- 22. Mr.House                      1.05%    3,947,699 (units:   202)
+ 22. Mr.House                      1.04%    3,947,699 (units:   202)
  23. paullindner                   0.97%    3,664,358 (units:   742)
  24. jkl                           0.97%    3,650,043 (units:   859)
  25. skraelingjar                  0.89%    3,352,989 (units:    64)
@@ -42,7 +42,7 @@ As of 2020-09-14 18:03:08, hackers.town is rank 1103
  40. Canageek                      0.38%    1,425,178 (units:   301)
  41. kusuriya                      0.35%    1,314,178 (units:    68)
  42. rmgr                          0.34%    1,290,558 (units:    47)
- 43. djsumdog                      0.33%    1,227,802 (units:   202)
+ 43. djsumdog                      0.32%    1,227,802 (units:   202)
  44. qwazix                        0.31%    1,157,676 (units:   220)
  45. niconiconi                    0.29%    1,100,400 (units:   112)
  46. TerrorBite                    0.29%    1,085,432 (units:    36)
