@@ -1,5 +1,5 @@
-As of 2020-09-14 01:23:15, hackers.town is rank 1102
-   with 34,861 work units for 377,570,408 credits
+As of 2020-09-14 01:42:55, hackers.town is rank 1102
+   with 34,862 work units for 377,574,879 credits
   1. Werekat                      10.77%   40,648,541 (units: 1,439)
   2. wetdryvac                     8.51%   32,148,675 (units:   888)
   3. Kyle                          6.05%   22,835,765 (units: 1,264)
@@ -9,7 +9,7 @@ As of 2020-09-14 01:23:15, hackers.town is rank 1102
   7. CookieMom                     5.00%   18,878,787 (units: 1,470)
   8. KemoNine                      4.95%   18,705,527 (units:   625)
   9. Freakazoid                    4.87%   18,370,834 (units:   852)
- 10. dokuja                        4.80%   18,104,692 (units:   474)
+ 10. dokuja                        4.79%   18,104,692 (units:   474)
  11. bhtooefr                      3.92%   14,787,915 (units:   667)
  12. Calcifer                      2.07%    7,802,361 (units:   193)
  13. c0debabe                      1.91%    7,224,123 (units:   245)
@@ -19,7 +19,7 @@ As of 2020-09-14 01:23:15, hackers.town is rank 1102
  17. SiinaCutie                    1.37%    5,188,566 (units:   235)
  18. FOOL                          1.35%    5,109,247 (units:   413)
  19. felix                         1.30%    4,901,391 (units:   185)
- 20.                               1.29%    4,863,197 (units:   957)
+ 20.                               1.29%    4,867,668 (units:   958)
  21. r000t                         1.08%    4,069,816 (units:   121)
  22. Mr.House                      1.05%    3,947,699 (units:   202)
  23. paullindner                   0.97%    3,664,358 (units:   742)
@@ -108,7 +108,7 @@ As of 2020-09-14 01:23:15, hackers.town is rank 1102
 106. technoid_                     0.02%       60,716 (units:    77)
 107. tomatoefolding                0.02%       59,750 (units:     1)
 108. neoninteger                   0.02%       59,260 (units:    46)
-109. daum3ns                       0.02%       56,636 (units:     6)
+109. daum3ns                       0.01%       56,636 (units:     6)
 110. HiRezCanDo                    0.01%       51,658 (units:    59)
 111. amsomniac                     0.01%       50,923 (units:    45)
 112. socketwench                   0.01%       47,849 (units:    49)
