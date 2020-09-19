@@ -1,8 +1,8 @@
-As of 2020-09-19 11:44:48, hackers.town is rank 1112
-   with 35,159 work units for 379,298,914 credits
-  1. Werekat                      10.72%   40,648,541 (units: 1,439)
-  2. wetdryvac                     8.48%   32,148,675 (units:   888)
-  3. Kyle                          6.26%   23,751,877 (units: 1,313)
+As of 2020-09-19 12:03:11, hackers.town is rank 1112
+   with 35,161 work units for 379,362,436 credits
+  1. Werekat                      10.71%   40,648,541 (units: 1,439)
+  2. wetdryvac                     8.47%   32,148,675 (units:   888)
+  3. Kyle                          6.28%   23,814,714 (units: 1,314)
   4. Polychrome                    5.76%   21,860,941 (units: 1,384)
   5. merimus                       5.43%   20,589,421 (units:   553)
   6. packetcat                     5.23%   19,829,617 (units:   153)
@@ -46,7 +46,7 @@ As of 2020-09-19 11:44:48, hackers.town is rank 1112
  44. qwazix                        0.31%    1,157,676 (units:   220)
  45. niconiconi                    0.29%    1,100,400 (units:   112)
  46. TerrorBite                    0.29%    1,085,432 (units:    36)
- 47. mainebot                      0.27%    1,005,210 (units:    58)
+ 47. mainebot                      0.26%    1,005,210 (units:    58)
  48. Requiem                       0.24%      893,950 (units:   296)
  49. Null                          0.22%      818,594 (units:    22)
  50. m68k                          0.21%      812,086 (units:   193)
@@ -77,7 +77,7 @@ As of 2020-09-19 11:44:48, hackers.town is rank 1112
  75. tbn97                         0.06%      212,337 (units:   157)
  76. Imani                         0.06%      209,939 (units:   273)
  77. LordMathis                    0.05%      207,717 (units:    36)
- 78. Nemesis                       0.05%      203,329 (units:   163)
+ 78. Nemesis                       0.05%      204,014 (units:   164)
  79. Toive8547                     0.05%      198,878 (units: 3,953)
  80. atinciona                     0.05%      183,705 (units:   224)
  81. grasshopper                   0.04%      168,249 (units:   192)
