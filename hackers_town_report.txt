@@ -1,9 +1,9 @@
-As of 2020-09-20 20:43:16, hackers.town is rank 1113
-   with 35,237 work units for 380,039,717 credits
+As of 2020-09-20 21:23:25, hackers.town is rank 1113
+   with 35,240 work units for 380,055,045 credits
   1. Werekat                      10.77%   40,925,062 (units: 1,444)
   2. wetdryvac                     8.46%   32,148,675 (units:   888)
   3. Kyle                          6.32%   24,030,828 (units: 1,326)
-  4. Polychrome                    5.77%   21,918,457 (units: 1,392)
+  4. Polychrome                    5.77%   21,920,833 (units: 1,393)
   5. merimus                       5.42%   20,589,421 (units:   553)
   6. packetcat                     5.22%   19,829,617 (units:   153)
   7. CookieMom                     4.97%   18,901,961 (units: 1,485)
@@ -16,7 +16,7 @@ As of 2020-09-20 20:43:16, hackers.town is rank 1113
  14. elfgirlsarah                  1.80%    6,845,555 (units:   955)
  15. zx3                           1.75%    6,639,355 (units:   583)
  16. dafuchs                       1.66%    6,320,938 (units:   393)
- 17.                               1.38%    5,253,202 (units: 1,031)
+ 17.                               1.38%    5,257,413 (units: 1,032)
  18. SiinaCutie                    1.37%    5,188,566 (units:   235)
  19. FOOL                          1.34%    5,109,247 (units:   413)
  20. felix                         1.29%    4,901,391 (units:   185)
@@ -54,8 +54,8 @@ As of 2020-09-20 20:43:16, hackers.town is rank 1113
  52. HolSta                        0.16%      614,460 (units:   108)
  53. MaxAtCastleMalmeddy           0.15%      571,962 (units:   553)
  54. synfinner                     0.14%      527,623 (units:    14)
- 55. tayo                          0.13%      497,485 (units:   150)
- 56. LordBowlich                   0.13%      493,510 (units:   142)
+ 55. LordBowlich                   0.13%      502,251 (units:   143)
+ 56. tayo                          0.13%      497,485 (units:   150)
  57. technolust                    0.12%      458,534 (units:   355)
  58. Mnemonic                      0.11%      434,508 (units:   163)
  59. protospork                    0.11%      423,894 (units:    59)
