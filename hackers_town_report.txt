@@ -1,13 +1,13 @@
-As of 2020-09-21 14:53:12, hackers.town is rank 1115
-   with 35,293 work units for 380,555,533 credits
+As of 2020-09-21 15:43:17, hackers.town is rank 1115
+   with 35,296 work units for 380,609,716 credits
   1. Werekat                      10.81%   41,152,188 (units: 1,451)
   2. wetdryvac                     8.45%   32,148,675 (units:   888)
   3. Kyle                          6.35%   24,181,580 (units: 1,331)
-  4. Polychrome                    5.76%   21,935,577 (units: 1,397)
+  4. Polychrome                    5.78%   21,988,872 (units: 1,398)
   5. merimus                       5.41%   20,589,421 (units:   553)
   6. packetcat                     5.21%   19,829,617 (units:   153)
   7. CookieMom                     4.97%   18,901,961 (units: 1,485)
-  8. KemoNine                      4.92%   18,705,527 (units:   625)
+  8. KemoNine                      4.91%   18,705,527 (units:   625)
   9. Freakazoid                    4.83%   18,370,834 (units:   852)
  10. dokuja                        4.76%   18,104,692 (units:   474)
  11. bhtooefr                      3.89%   14,787,915 (units:   667)
@@ -62,7 +62,7 @@ As of 2020-09-21 14:53:12, hackers.town is rank 1115
  60. Hany                          0.11%      421,021 (units:    99)
  61. fl0wn                         0.10%      388,420 (units:    74)
  62. Logomancer                    0.10%      387,154 (units:   860)
- 63. pmosetc                       0.10%      374,961 (units:   383)
+ 63. pmosetc                       0.10%      375,399 (units:   384)
  64. csrsuoeb                      0.09%      330,048 (units:    69)
  65. crc32                         0.09%      328,921 (units:   327)
  66. KitRedgrave                   0.09%      325,409 (units:    68)
@@ -75,7 +75,7 @@ As of 2020-09-21 14:53:12, hackers.town is rank 1115
  73. Brian                         0.07%      259,022 (units:    82)
  74. Neue.City                     0.06%      235,324 (units:    60)
  75. tbn97                         0.06%      212,337 (units:   157)
- 76. Nemesis                       0.06%      210,225 (units:   170)
+ 76. Nemesis                       0.06%      210,675 (units:   171)
  77. Imani                         0.06%      209,939 (units:   273)
  78. LordMathis                    0.05%      207,717 (units:    36)
  79. Toive8547                     0.05%      202,148 (units: 3,955)
