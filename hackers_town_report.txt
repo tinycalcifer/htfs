@@ -1,9 +1,9 @@
-As of 2020-09-22 04:23:22, hackers.town is rank 1115
-   with 35,322 work units for 380,914,877 credits
-  1. Werekat                      10.83%   41,264,733 (units: 1,455)
+As of 2020-09-22 05:03:18, hackers.town is rank 1115
+   with 35,325 work units for 380,931,824 credits
+  1. Werekat                      10.84%   41,277,440 (units: 1,456)
   2. wetdryvac                     8.44%   32,148,675 (units:   888)
   3. Kyle                          6.38%   24,301,853 (units: 1,335)
-  4. Polychrome                    5.77%   21,997,425 (units: 1,400)
+  4. Polychrome                    5.78%   21,999,118 (units: 1,401)
   5. merimus                       5.41%   20,589,421 (units:   553)
   6. packetcat                     5.21%   19,829,617 (units:   153)
   7. CookieMom                     4.96%   18,901,961 (units: 1,485)
@@ -40,7 +40,7 @@ As of 2020-09-22 04:23:22, hackers.town is rank 1115
  38. DJ_Sundog                     0.40%    1,513,675 (units:   330)
  39. Canageek                      0.39%    1,496,485 (units:   312)
  40. sungo                         0.38%    1,432,642 (units:   399)
- 41. kusuriya                      0.35%    1,314,178 (units:    68)
+ 41. kusuriya                      0.34%    1,314,178 (units:    68)
  42. rmgr                          0.34%    1,290,558 (units:    47)
  43. djsumdog                      0.32%    1,227,802 (units:   202)
  44. qwazix                        0.30%    1,157,676 (units:   220)
@@ -52,7 +52,7 @@ As of 2020-09-22 04:23:22, hackers.town is rank 1115
  50. m68k                          0.21%      812,086 (units:   193)
  51. TG                            0.18%      694,922 (units:   143)
  52. HolSta                        0.16%      614,460 (units:   108)
- 53. MaxAtCastleMalmeddy           0.15%      578,331 (units:   558)
+ 53. MaxAtCastleMalmeddy           0.15%      580,878 (units:   559)
  54. synfinner                     0.14%      527,623 (units:    14)
  55. LordBowlich                   0.14%      523,517 (units:   149)
  56. tayo                          0.13%      497,485 (units:   150)
