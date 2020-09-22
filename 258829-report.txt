@@ -1,11 +1,11 @@
-As of 2020-09-22 17:53:24, r00t f0lds is rank 50
-   with 553,183 work units for 19,971,227,671 credits
+As of 2020-09-22 18:03:22, r00t f0lds is rank 50
+   with 553,189 work units for 19,972,043,066 credits
   1. MasterKore                          14.43% 2,881,210,082 (units: 65,151)
-  2. NeTTwerk                            13.73% 2,741,702,939 (units: 15,808)
+  2. NeTTwerk                            13.73% 2,741,978,324 (units: 15,809)
   3. Ophie                                7.08% 1,413,623,340 (units: 95,821)
-  4. dildog                               5.16% 1,029,970,124 (units: 9,305)
+  4. dildog                               5.16% 1,030,051,384 (units: 9,306)
   5. gaussie                              4.33%  864,972,505 (units: 10,193)
-  6. edsai                                3.47%  693,414,218 (units: 6,043)
+  6. edsai                                3.47%  693,671,033 (units: 6,044)
   7. TommydCat                            3.29%  657,809,669 (units: 8,969)
   8. mowse                                3.08%  614,821,118 (units: 3,556)
   9. Weld                                 3.07%  613,835,113 (units: 6,805)
@@ -19,8 +19,8 @@ As of 2020-09-22 17:53:24, r00t f0lds is rank 50
  17. Scba                                 1.40%  280,292,562 (units: 4,384)
  18. wetdryvac                            1.30%  260,483,127 (units: 3,900)
  19. Swern                                1.20%  239,964,795 (units: 4,518)
- 20. Kranfahrer                           1.09%  217,005,581 (units: 5,222)
- 21. Sangfroid                            1.03%  204,980,281 (units: 6,558)
+ 20. Kranfahrer                           1.09%  217,009,833 (units: 5,223)
+ 21. Sangfroid                            1.03%  205,176,814 (units: 6,559)
  22. sarmento                             0.98%  195,948,473 (units: 4,141)
  23. spam                                 0.96%  192,464,360 (units: 2,663)
  24. SWinder                              0.95%  189,474,647 (units: 4,265)
@@ -164,7 +164,7 @@ As of 2020-09-22 17:53:24, r00t f0lds is rank 50
 162. sckain                               0.01%    2,395,634 (units:   515)
 163. XfavataX                             0.01%    2,388,188 (units: 2,560)
 164. nfran008                             0.01%    2,295,507 (units: 2,524)
-165. mcsalchemy                           0.01%    2,224,170 (units:   669)
+165. mcsalchemy                           0.01%    2,225,320 (units:   670)
 166. fak3r                                0.01%    2,205,695 (units:   419)
 167. robbywan                             0.01%    2,204,025 (units:   204)
 168. Mubok                                0.01%    2,083,552 (units:    97)
