@@ -1,8 +1,8 @@
-As of 2020-09-25 10:03:27, hackers.town is rank 1119
-   with 35,518 work units for 383,663,303 credits
+As of 2020-09-25 10:33:12, hackers.town is rank 1119
+   with 35,522 work units for 383,681,510 credits
   1. Werekat                      11.18%   42,902,188 (units: 1,495)
   2. wetdryvac                     8.38%   32,148,675 (units:   888)
-  3. Kyle                          6.47%   24,818,437 (units: 1,357)
+  3. Kyle                          6.47%   24,827,089 (units: 1,358)
   4. Polychrome                    5.79%   22,210,383 (units: 1,418)
   5. merimus                       5.37%   20,589,421 (units:   553)
   6. packetcat                     5.17%   19,829,617 (units:   153)
@@ -22,7 +22,7 @@ As of 2020-09-25 10:03:27, hackers.town is rank 1119
  20. felix                         1.28%    4,901,391 (units:   185)
  21. r000t                         1.06%    4,069,816 (units:   121)
  22. Mr.House                      1.03%    3,947,699 (units:   202)
- 23. paullindner                   0.97%    3,712,338 (units:   747)
+ 23. paullindner                   0.97%    3,716,799 (units:   748)
  24. jkl                           0.95%    3,650,043 (units:   859)
  25. skraelingjar                  0.87%    3,352,989 (units:    64)
  26. Anonymous                     0.82%    3,154,485 (units: 1,299)
@@ -37,7 +37,7 @@ As of 2020-09-25 10:03:27, hackers.town is rank 1119
  35. neil                          0.51%    1,945,004 (units:   513)
  36. avolkov                       0.49%    1,891,826 (units:   104)
  37. rfquerin                      0.43%    1,638,770 (units:   107)
- 38. Canageek                      0.42%    1,596,720 (units:   320)
+ 38. Canageek                      0.42%    1,599,267 (units:   321)
  39. DJ_Sundog                     0.39%    1,513,675 (units:   330)
  40. sungo                         0.37%    1,432,642 (units:   399)
  41. kusuriya                      0.34%    1,314,178 (units:    68)
@@ -74,7 +74,7 @@ As of 2020-09-25 10:03:27, hackers.town is rank 1119
  72. Kyresti                       0.07%      262,134 (units:    39)
  73. Brian                         0.07%      259,022 (units:    82)
  74. Neue.City                     0.06%      235,324 (units:    60)
- 75. Nemesis                       0.06%      223,301 (units:   179)
+ 75. Nemesis                       0.06%      225,848 (units:   180)
  76. tbn97                         0.06%      212,337 (units:   157)
  77. Toive8547                     0.06%      211,327 (units: 3,958)
  78. Imani                         0.05%      209,939 (units:   273)
