@@ -1,5 +1,5 @@
-As of 2020-09-27 05:43:29, hackers.town is rank 1118
-   with 35,617 work units for 385,045,807 credits
+As of 2020-09-27 07:13:20, hackers.town is rank 1119
+   with 35,627 work units for 385,045,840 credits
   1. Werekat                      11.31%   43,554,874 (units: 1,511)
   2. wetdryvac                     8.35%   32,148,675 (units:   888)
   3. Kyle                          6.56%   25,239,802 (units: 1,372)
@@ -62,7 +62,7 @@ As of 2020-09-27 05:43:29, hackers.town is rank 1118
  60. Hany                          0.11%      421,021 (units:    99)
  61. pmosetc                       0.10%      399,413 (units:   398)
  62. fl0wn                         0.10%      388,420 (units:    74)
- 63. Logomancer                    0.10%      387,521 (units:   910)
+ 63. Logomancer                    0.10%      387,554 (units:   920)
  64. csrsuoeb                      0.09%      330,048 (units:    69)
  65. crc32                         0.09%      328,921 (units:   327)
  66. KitRedgrave                   0.08%      325,409 (units:    68)
