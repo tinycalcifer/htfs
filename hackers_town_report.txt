@@ -1,5 +1,5 @@
-As of 2020-09-28 20:23:27, hackers.town is rank 1125
-   with 35,721 work units for 385,745,300 credits
+As of 2020-09-28 20:53:36, hackers.town is rank 1125
+   with 35,722 work units for 385,786,550 credits
   1. Werekat                      11.32%   43,684,904 (units: 1,515)
   2. wetdryvac                     8.33%   32,148,675 (units:   888)
   3. Kyle                          6.61%   25,500,867 (units: 1,391)
@@ -17,10 +17,10 @@ As of 2020-09-28 20:23:27, hackers.town is rank 1125
  15. zx3                           1.72%    6,639,355 (units:   583)
  16. dafuchs                       1.64%    6,320,938 (units:   393)
  17.                               1.42%    5,477,170 (units: 1,065)
- 18. SiinaCutie                    1.35%    5,188,566 (units:   235)
+ 18. SiinaCutie                    1.34%    5,188,566 (units:   235)
  19. FOOL                          1.32%    5,109,247 (units:   413)
  20. felix                         1.27%    4,901,391 (units:   185)
- 21. r000t                         1.06%    4,069,816 (units:   121)
+ 21. r000t                         1.05%    4,069,816 (units:   121)
  22. paullindner                   1.03%    3,976,223 (units:   783)
  23. Mr.House                      1.02%    3,947,699 (units:   202)
  24. jkl                           0.95%    3,650,043 (units:   859)
@@ -36,8 +36,8 @@ As of 2020-09-28 20:23:27, hackers.town is rank 1125
  34. pfreak                        0.52%    1,996,770 (units:    48)
  35. neil                          0.51%    1,956,961 (units:   520)
  36. avolkov                       0.49%    1,891,826 (units:   104)
- 37. rfquerin                      0.42%    1,638,770 (units:   107)
- 38. Canageek                      0.42%    1,638,063 (units:   327)
+ 37. Canageek                      0.44%    1,679,313 (units:   328)
+ 38. rfquerin                      0.42%    1,638,770 (units:   107)
  39. DJ_Sundog                     0.39%    1,513,675 (units:   330)
  40. sungo                         0.37%    1,432,642 (units:   399)
  41. kusuriya                      0.34%    1,314,178 (units:    68)
