@@ -1,6 +1,6 @@
-As of 2020-10-07 19:03:42, hackers.town is rank 1146
-   with 36,275 work units for 391,274,579 credits
-  1. Werekat                      11.36%   44,458,611 (units: 1,531)
+As of 2020-10-07 19:23:37, hackers.town is rank 1146
+   with 36,288 work units for 391,287,217 credits
+  1. Werekat                      11.37%   44,470,610 (units: 1,532)
   2. wetdryvac                     8.22%   32,148,675 (units:   888)
   3. Kyle                          7.09%   27,755,289 (units: 1,473)
   4. Polychrome                    5.84%   22,862,859 (units: 1,472)
@@ -8,7 +8,7 @@ As of 2020-10-07 19:03:42, hackers.town is rank 1146
   6. packetcat                     5.07%   19,829,617 (units:   153)
   7. CookieMom                     4.93%   19,305,834 (units: 1,547)
   8. KemoNine                      4.78%   18,705,527 (units:   625)
-  9. Freakazoid                    4.70%   18,370,834 (units:   852)
+  9. Freakazoid                    4.69%   18,370,834 (units:   852)
  10. dokuja                        4.63%   18,104,692 (units:   474)
  11. bhtooefr                      3.78%   14,787,915 (units:   667)
  12. Calcifer                      1.99%    7,802,361 (units:   193)
@@ -62,7 +62,7 @@ As of 2020-10-07 19:03:42, hackers.town is rank 1146
  60. protospork                    0.11%      423,894 (units:    59)
  61. Hany                          0.11%      421,021 (units:    99)
  62. fl0wn                         0.10%      388,420 (units:    74)
- 63. Logomancer                    0.10%      388,231 (units: 1,034)
+ 63. Logomancer                    0.10%      388,318 (units: 1,045)
  64. csrsuoeb                      0.08%      330,048 (units:    69)
  65. crc32                         0.08%      328,921 (units:   327)
  66. KitRedgrave                   0.08%      325,409 (units:    68)
@@ -96,7 +96,7 @@ As of 2020-10-07 19:03:42, hackers.town is rank 1146
  94. RandomGeek                    0.03%       99,623 (units:    15)
  95. JoshMulliken                  0.02%       97,080 (units:    23)
  96. claudiom                      0.02%       83,945 (units:   545)
- 97. Alteraner92                   0.02%       82,130 (units:    54)
+ 97. Alteraner92                   0.02%       82,682 (units:    55)
  98. Purple                        0.02%       81,458 (units:    85)
  99. Kirjis                        0.02%       79,781 (units:   106)
 100. Seb                           0.02%       75,368 (units:   128)
