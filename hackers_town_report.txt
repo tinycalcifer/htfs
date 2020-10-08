@@ -1,8 +1,8 @@
-As of 2020-10-08 18:53:38, hackers.town is rank 1145
-   with 36,359 work units for 392,699,727 credits
+As of 2020-10-08 19:43:40, hackers.town is rank 1145
+   with 36,361 work units for 392,794,020 credits
   1. Werekat                      11.48%   45,101,171 (units: 1,544)
-  2. wetdryvac                     8.19%   32,148,675 (units:   888)
-  3. Kyle                          7.13%   27,992,001 (units: 1,480)
+  2. wetdryvac                     8.18%   32,148,675 (units:   888)
+  3. Kyle                          7.15%   28,074,028 (units: 1,481)
   4. Polychrome                    5.84%   22,946,449 (units: 1,476)
   5. merimus                       5.24%   20,589,421 (units:   553)
   6. packetcat                     5.05%   19,829,617 (units:   153)
@@ -10,7 +10,7 @@ As of 2020-10-08 18:53:38, hackers.town is rank 1145
   8. KemoNine                      4.76%   18,705,527 (units:   625)
   9. Freakazoid                    4.68%   18,370,834 (units:   852)
  10. dokuja                        4.61%   18,104,692 (units:   474)
- 11. bhtooefr                      3.77%   14,787,915 (units:   667)
+ 11. bhtooefr                      3.76%   14,787,915 (units:   667)
  12. Calcifer                      1.99%    7,802,361 (units:   193)
  13. c0debabe                      1.84%    7,224,123 (units:   245)
  14. zx3                           1.77%    6,960,194 (units:   599)
@@ -20,7 +20,7 @@ As of 2020-10-08 18:53:38, hackers.town is rank 1145
  18. SiinaCutie                    1.32%    5,188,566 (units:   235)
  19. FOOL                          1.30%    5,109,247 (units:   413)
  20. felix                         1.25%    4,901,391 (units:   185)
- 21. paullindner                   1.22%    4,771,656 (units:   867)
+ 21. paullindner                   1.22%    4,783,922 (units:   868)
  22. r000t                         1.04%    4,069,816 (units:   121)
  23. Mr.House                      1.01%    3,947,699 (units:   202)
  24. jkl                           0.93%    3,650,043 (units:   859)
