@@ -1,13 +1,13 @@
-As of 2020-10-10 00:23:48, hackers.town is rank 1145
-   with 36,473 work units for 394,142,723 credits
+As of 2020-10-10 01:03:48, hackers.town is rank 1145
+   with 36,474 work units for 394,224,800 credits
   1. Werekat                      11.56%   45,571,901 (units: 1,554)
-  2. wetdryvac                     8.16%   32,148,675 (units:   888)
-  3. Kyle                          7.19%   28,336,787 (units: 1,490)
+  2. wetdryvac                     8.15%   32,148,675 (units:   888)
+  3. Kyle                          7.21%   28,418,864 (units: 1,491)
   4. Polychrome                    5.84%   23,018,756 (units: 1,481)
   5. merimus                       5.22%   20,589,421 (units:   553)
   6. packetcat                     5.03%   19,829,617 (units:   153)
   7. CookieMom                     5.01%   19,747,328 (units: 1,566)
-  8. KemoNine                      4.75%   18,705,527 (units:   625)
+  8. KemoNine                      4.74%   18,705,527 (units:   625)
   9. Freakazoid                    4.66%   18,370,834 (units:   852)
  10. dokuja                        4.59%   18,104,692 (units:   474)
  11. bhtooefr                      3.75%   14,787,915 (units:   667)
@@ -27,7 +27,7 @@ As of 2020-10-10 00:23:48, hackers.town is rank 1145
  25. skraelingjar                  0.85%    3,352,989 (units:    64)
  26. Anonymous                     0.83%    3,268,608 (units: 1,334)
  27. Kranfahrer                    0.77%    3,024,932 (units:   201)
- 28. ryen                          0.75%    2,936,587 (units:   208)
+ 28. ryen                          0.74%    2,936,587 (units:   208)
  29. radicaledward                 0.69%    2,717,086 (units:    90)
  30. drwho                         0.62%    2,457,926 (units:   500)
  31. The_Gibson(HTown)             0.59%    2,330,035 (units:   212)
@@ -46,7 +46,7 @@ As of 2020-10-10 00:23:48, hackers.town is rank 1145
  44. qwazix                        0.29%    1,157,676 (units:   220)
  45. niconiconi                    0.28%    1,100,400 (units:   112)
  46. TerrorBite                    0.28%    1,085,432 (units:    36)
- 47. mainebot                      0.26%    1,005,210 (units:    58)
+ 47. mainebot                      0.25%    1,005,210 (units:    58)
  48. Requiem                       0.23%      893,950 (units:   296)
  49. Null                          0.21%      818,594 (units:    22)
  50. m68k                          0.21%      812,086 (units:   193)
