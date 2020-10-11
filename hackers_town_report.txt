@@ -1,9 +1,9 @@
-As of 2020-10-11 21:45:01, hackers.town is rank 1145
-   with 36,627 work units for 396,749,026 credits
-  1. Werekat                      11.75%   46,614,449 (units: 1,571)
+As of 2020-10-11 22:33:49, hackers.town is rank 1145
+   with 36,628 work units for 396,846,514 credits
+  1. Werekat                      11.77%   46,711,937 (units: 1,572)
   2. wetdryvac                     8.10%   32,148,675 (units:   888)
-  3. Kyle                          7.30%   28,944,078 (units: 1,504)
-  4. Polychrome                    5.83%   23,115,552 (units: 1,488)
+  3. Kyle                          7.29%   28,944,078 (units: 1,504)
+  4. Polychrome                    5.82%   23,115,552 (units: 1,488)
   5. merimus                       5.19%   20,589,421 (units:   553)
   6. CookieMom                     5.07%   20,112,127 (units: 1,582)
   7. packetcat                     5.00%   19,829,617 (units:   153)
@@ -14,7 +14,7 @@ As of 2020-10-11 21:45:01, hackers.town is rank 1145
  12. Calcifer                      1.97%    7,802,361 (units:   193)
  13. c0debabe                      1.82%    7,224,123 (units:   245)
  14. zx3                           1.81%    7,197,777 (units:   614)
- 15. elfgirlsarah                  1.73%    6,845,555 (units:   955)
+ 15. elfgirlsarah                  1.72%    6,845,555 (units:   955)
  16. dafuchs                       1.59%    6,320,938 (units:   393)
  17.                               1.51%    5,989,417 (units: 1,126)
  18. SiinaCutie                    1.31%    5,188,566 (units:   235)
@@ -22,9 +22,9 @@ As of 2020-10-11 21:45:01, hackers.town is rank 1145
  20. paullindner                   1.26%    5,012,435 (units:   893)
  21. felix                         1.24%    4,901,391 (units:   185)
  22. r000t                         1.03%    4,069,816 (units:   121)
- 23. Mr.House                      1.00%    3,947,699 (units:   202)
+ 23. Mr.House                      0.99%    3,947,699 (units:   202)
  24. jkl                           0.92%    3,650,043 (units:   859)
- 25. skraelingjar                  0.85%    3,352,989 (units:    64)
+ 25. skraelingjar                  0.84%    3,352,989 (units:    64)
  26. Anonymous                     0.83%    3,283,546 (units: 1,337)
  27. Kranfahrer                    0.76%    3,024,932 (units:   201)
  28. ryen                          0.74%    2,936,587 (units:   208)
