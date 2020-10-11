@@ -1,18 +1,18 @@
-As of 2020-10-11 05:23:48, hackers.town is rank 1147
-   with 36,565 work units for 395,822,078 credits
+As of 2020-10-11 06:03:52, hackers.town is rank 1147
+   with 36,571 work units for 395,847,194 credits
   1. Werekat                      11.67%   46,200,177 (units: 1,565)
   2. wetdryvac                     8.12%   32,148,675 (units:   888)
   3. Kyle                          7.26%   28,745,589 (units: 1,499)
   4. Polychrome                    5.84%   23,102,558 (units: 1,485)
   5. merimus                       5.20%   20,589,421 (units:   553)
-  6. CookieMom                     5.05%   19,978,519 (units: 1,576)
+  6. CookieMom                     5.05%   20,003,619 (units: 1,577)
   7. packetcat                     5.01%   19,829,617 (units:   153)
   8. KemoNine                      4.73%   18,705,527 (units:   625)
   9. Freakazoid                    4.64%   18,370,834 (units:   852)
  10. dokuja                        4.57%   18,104,692 (units:   474)
  11. bhtooefr                      3.74%   14,787,915 (units:   667)
  12. Calcifer                      1.97%    7,802,361 (units:   193)
- 13. c0debabe                      1.83%    7,224,123 (units:   245)
+ 13. c0debabe                      1.82%    7,224,123 (units:   245)
  14. zx3                           1.81%    7,164,569 (units:   610)
  15. elfgirlsarah                  1.73%    6,845,555 (units:   955)
  16. dafuchs                       1.60%    6,320,938 (units:   393)
@@ -61,7 +61,7 @@ As of 2020-10-11 05:23:48, hackers.town is rank 1147
  59. Mnemonic                      0.11%      434,508 (units:   163)
  60. protospork                    0.11%      423,894 (units:    59)
  61. Hany                          0.11%      421,021 (units:    99)
- 62. Logomancer                    0.10%      388,678 (units: 1,118)
+ 62. Logomancer                    0.10%      388,694 (units: 1,123)
  63. fl0wn                         0.10%      388,420 (units:    74)
  64. csrsuoeb                      0.08%      330,048 (units:    69)
  65. crc32                         0.08%      328,921 (units:   327)
