@@ -1,12 +1,12 @@
-As of 2020-10-11 12:23:53, hackers.town is rank 1146
-   with 36,591 work units for 396,083,670 credits
-  1. Werekat                      11.70%   46,353,863 (units: 1,568)
-  2. wetdryvac                     8.12%   32,148,675 (units:   888)
+As of 2020-10-11 12:33:56, hackers.town is rank 1146
+   with 36,594 work units for 396,235,233 credits
+  1. Werekat                      11.73%   46,475,569 (units: 1,569)
+  2. wetdryvac                     8.11%   32,148,675 (units:   888)
   3. Kyle                          7.26%   28,754,394 (units: 1,500)
   4. Polychrome                    5.83%   23,104,965 (units: 1,486)
   5. merimus                       5.20%   20,589,421 (units:   553)
-  6. CookieMom                     5.06%   20,031,219 (units: 1,578)
-  7. packetcat                     5.01%   19,829,617 (units:   153)
+  6. CookieMom                     5.06%   20,056,319 (units: 1,579)
+  7. packetcat                     5.00%   19,829,617 (units:   153)
   8. KemoNine                      4.72%   18,705,527 (units:   625)
   9. Freakazoid                    4.64%   18,370,834 (units:   852)
  10. dokuja                        4.57%   18,104,692 (units:   474)
@@ -16,7 +16,7 @@ As of 2020-10-11 12:23:53, hackers.town is rank 1146
  14. zx3                           1.81%    7,169,597 (units:   613)
  15. elfgirlsarah                  1.73%    6,845,555 (units:   955)
  16. dafuchs                       1.60%    6,320,938 (units:   393)
- 17.                               1.51%    5,962,331 (units: 1,123)
+ 17.                               1.51%    5,967,088 (units: 1,124)
  18. SiinaCutie                    1.31%    5,188,566 (units:   235)
  19. FOOL                          1.29%    5,109,247 (units:   413)
  20. paullindner                   1.26%    4,974,853 (units:   890)
@@ -49,7 +49,7 @@ As of 2020-10-11 12:23:53, hackers.town is rank 1146
  47. mainebot                      0.25%    1,005,210 (units:    58)
  48. Requiem                       0.23%      893,950 (units:   296)
  49. Null                          0.21%      818,594 (units:    22)
- 50. m68k                          0.21%      812,086 (units:   193)
+ 50. m68k                          0.20%      812,086 (units:   193)
  51. TG                            0.18%      694,922 (units:   143)
  52. MaxAtCastleMalmeddy           0.17%      668,129 (units:   605)
  53. HolSta                        0.16%      614,460 (units:   108)
