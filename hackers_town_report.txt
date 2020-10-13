@@ -1,5 +1,5 @@
-As of 2020-10-13 14:33:56, hackers.town is rank 1146
-   with 36,732 work units for 398,475,648 credits
+As of 2020-10-13 14:43:53, hackers.town is rank 1146
+   with 36,733 work units for 398,500,748 credits
   1. Werekat                      11.81%   47,079,257 (units: 1,580)
   2. wetdryvac                     8.07%   32,148,675 (units:   888)
   3. Kyle                          7.37%   29,384,211 (units: 1,515)
@@ -33,7 +33,7 @@ As of 2020-10-13 14:33:56, hackers.town is rank 1146
  31. The_Gibson(HTown)             0.58%    2,330,035 (units:   212)
  32. /dev/random                   0.54%    2,135,335 (units:   204)
  33. mandibular joint dysfunction  0.52%    2,055,511 (units:   834)
- 34. Canageek                      0.50%    2,006,518 (units:   369)
+ 34. Canageek                      0.51%    2,031,618 (units:   370)
  35. pfreak                        0.50%    1,996,770 (units:    48)
  36. neil                          0.50%    1,989,242 (units:   541)
  37. avolkov                       0.47%    1,891,826 (units:   104)
@@ -73,7 +73,7 @@ As of 2020-10-13 14:33:56, hackers.town is rank 1146
  71. jerephil                      0.07%      275,300 (units:   192)
  72. Cyberia                       0.07%      266,610 (units:    22)
  73. Kyresti                       0.07%      262,134 (units:    39)
- 74. Brian                         0.07%      259,022 (units:    82)
+ 74. Brian                         0.06%      259,022 (units:    82)
  75. Neue.City                     0.06%      235,324 (units:    60)
  76. Toive8547                     0.06%      232,636 (units: 3,965)
  77. tbn97                         0.05%      212,337 (units:   157)
@@ -93,7 +93,7 @@ As of 2020-10-13 14:33:56, hackers.town is rank 1146
  91. micmac                        0.03%      117,952 (units:   102)
  92. piggo                         0.03%      108,091 (units:    23)
  93. heliostatic                   0.03%      101,482 (units:    26)
- 94. RandomGeek                    0.03%       99,623 (units:    15)
+ 94. RandomGeek                    0.02%       99,623 (units:    15)
  95. JoshMulliken                  0.02%       97,080 (units:    23)
  96. Alteraner92                   0.02%       93,343 (units:    63)
  97. claudiom                      0.02%       83,945 (units:   545)
