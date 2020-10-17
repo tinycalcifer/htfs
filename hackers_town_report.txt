@@ -1,11 +1,11 @@
-As of 2020-10-17 16:23:57, hackers.town is rank 1152
-   with 36,945 work units for 402,500,306 credits
-  1. Werekat                      12.04%   48,472,401 (units: 1,607)
-  2. wetdryvac                     7.99%   32,148,675 (units:   888)
+As of 2020-10-17 18:33:54, hackers.town is rank 1152
+   with 36,947 work units for 402,621,899 credits
+  1. Werekat                      12.07%   48,593,994 (units: 1,609)
+  2. wetdryvac                     7.98%   32,148,675 (units:   888)
   3. Kyle                          7.57%   30,485,018 (units: 1,545)
   4. Polychrome                    5.83%   23,457,658 (units: 1,510)
-  5. CookieMom                     5.26%   21,154,567 (units: 1,634)
-  6. merimus                       5.12%   20,589,421 (units:   553)
+  5. CookieMom                     5.25%   21,154,567 (units: 1,634)
+  6. merimus                       5.11%   20,589,421 (units:   553)
   7. packetcat                     4.93%   19,829,617 (units:   153)
   8. KemoNine                      4.65%   18,705,527 (units:   625)
   9. Freakazoid                    4.56%   18,370,834 (units:   852)
@@ -28,7 +28,7 @@ As of 2020-10-17 16:23:57, hackers.town is rank 1152
  26. Anonymous                     0.83%    3,334,907 (units: 1,348)
  27. Kranfahrer                    0.75%    3,024,932 (units:   201)
  28. ryen                          0.73%    2,936,587 (units:   208)
- 29. radicaledward                 0.68%    2,717,086 (units:    90)
+ 29. radicaledward                 0.67%    2,717,086 (units:    90)
  30. drwho                         0.61%    2,457,926 (units:   500)
  31. The_Gibson(HTown)             0.58%    2,330,035 (units:   212)
  32. Canageek                      0.54%    2,190,079 (units:   393)
@@ -42,7 +42,7 @@ As of 2020-10-17 16:23:57, hackers.town is rank 1152
  40. sungo                         0.36%    1,432,642 (units:   399)
  41. kusuriya                      0.33%    1,314,178 (units:    68)
  42. rmgr                          0.32%    1,290,558 (units:    47)
- 43. djsumdog                      0.31%    1,227,802 (units:   202)
+ 43. djsumdog                      0.30%    1,227,802 (units:   202)
  44. qwazix                        0.29%    1,157,676 (units:   220)
  45. niconiconi                    0.27%    1,100,400 (units:   112)
  46. TerrorBite                    0.27%    1,085,432 (units:    36)
