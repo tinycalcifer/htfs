@@ -1,8 +1,8 @@
-As of 2020-10-17 00:23:50, hackers.town is rank 1152
-   with 36,903 work units for 401,548,951 credits
+As of 2020-10-17 00:43:51, hackers.town is rank 1152
+   with 36,906 work units for 401,569,220 credits
   1. Werekat                      11.96%   48,012,151 (units: 1,597)
   2. wetdryvac                     8.01%   32,148,675 (units:   888)
-  3. Kyle                          7.53%   30,232,237 (units: 1,538)
+  3. Kyle                          7.53%   30,241,014 (units: 1,539)
   4. Polychrome                    5.83%   23,402,594 (units: 1,507)
   5. CookieMom                     5.25%   21,073,281 (units: 1,628)
   6. merimus                       5.13%   20,589,421 (units:   553)
@@ -16,7 +16,7 @@ As of 2020-10-17 00:23:50, hackers.town is rank 1152
  14. c0debabe                      1.80%    7,224,123 (units:   245)
  15. elfgirlsarah                  1.70%    6,845,555 (units:   955)
  16. dafuchs                       1.57%    6,320,938 (units:   393)
- 17.                               1.56%    6,280,053 (units: 1,165)
+ 17.                               1.57%    6,290,993 (units: 1,166)
  18. SiinaCutie                    1.29%    5,188,566 (units:   235)
  19. paullindner                   1.27%    5,110,810 (units:   909)
  20. FOOL                          1.27%    5,109,247 (units:   413)
@@ -24,7 +24,7 @@ As of 2020-10-17 00:23:50, hackers.town is rank 1152
  22. r000t                         1.01%    4,069,816 (units:   121)
  23. Mr.House                      0.98%    3,947,699 (units:   202)
  24. jkl                           0.91%    3,650,043 (units:   859)
- 25. skraelingjar                  0.84%    3,352,989 (units:    64)
+ 25. skraelingjar                  0.83%    3,352,989 (units:    64)
  26. Anonymous                     0.83%    3,326,320 (units: 1,346)
  27. Kranfahrer                    0.75%    3,024,932 (units:   201)
  28. ryen                          0.73%    2,936,587 (units:   208)
@@ -92,7 +92,7 @@ As of 2020-10-17 00:23:50, hackers.town is rank 1152
  90. Bingo                         0.03%      124,668 (units:   189)
  91. micmac                        0.03%      117,952 (units:   102)
  92. piggo                         0.03%      108,091 (units:    23)
- 93. Alteraner92                   0.03%      101,995 (units:    67)
+ 93. Alteraner92                   0.03%      102,547 (units:    68)
  94. heliostatic                   0.03%      101,482 (units:    26)
  95. RandomGeek                    0.02%       99,623 (units:    15)
  96. JoshMulliken                  0.02%       97,080 (units:    23)
