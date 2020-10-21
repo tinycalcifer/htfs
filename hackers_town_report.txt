@@ -1,5 +1,5 @@
-As of 2020-10-21 18:14:15, hackers.town is rank 1158
-   with 37,144 work units for 406,313,909 credits
+As of 2020-10-21 18:24:05, hackers.town is rank 1158
+   with 37,145 work units for 406,314,594 credits
   1. Werekat                      12.30%   49,974,009 (units: 1,628)
   2. wetdryvac                     7.91%   32,148,675 (units:   888)
   3. Kyle                          7.78%   31,603,416 (units: 1,577)
@@ -34,7 +34,7 @@ As of 2020-10-21 18:14:15, hackers.town is rank 1158
  32. Canageek                      0.55%    2,231,827 (units:   398)
  33. /dev/random                   0.53%    2,135,335 (units:   204)
  34. mandibular joint dysfunction  0.51%    2,055,511 (units:   834)
- 35. neil                          0.49%    2,009,789 (units:   555)
+ 35. neil                          0.49%    2,010,474 (units:   556)
  36. pfreak                        0.49%    1,996,770 (units:    48)
  37. avolkov                       0.47%    1,891,826 (units:   104)
  38. rfquerin                      0.40%    1,638,770 (units:   107)
