@@ -1,15 +1,15 @@
-As of 2020-10-26 11:54:09, r00t f0lds is rank 47
-   with 633,138 work units for 25,442,400,378 credits
+As of 2020-10-26 12:04:10, r00t f0lds is rank 47
+   with 633,146 work units for 25,443,542,227 credits
   1. MasterKore                          12.67% 3,223,517,027 (units: 67,935)
   2. NeTTwerk                            11.00% 2,799,680,571 (units: 16,115)
-  3. gaussie                              6.38% 1,623,794,068 (units: 15,285)
+  3. gaussie                              6.38% 1,624,088,624 (units: 15,288)
   4. Ophie                                6.10% 1,552,137,605 (units: 104,154)
   5. dildog                               5.15% 1,309,180,977 (units: 11,324)
-  6. GOLGO13                              4.19% 1,065,072,449 (units: 16,923)
+  6. GOLGO13                              4.19% 1,065,220,921 (units: 16,924)
   7. edsai                                3.55%  902,657,874 (units: 7,682)
   8. TommydCat                            3.52%  896,605,403 (units: 11,439)
   9. mowse                                3.13%  795,207,119 (units: 4,496)
- 10. Weld                                 3.10%  788,418,090 (units: 8,294)
+ 10. Weld                                 3.10%  788,724,889 (units: 8,296)
  11. Gentry                               2.19%  557,078,407 (units: 8,853)
  12. Nicolas_Dawson                       1.86%  473,116,325 (units: 3,175)
  13. dokuja                               1.77%  450,119,623 (units: 2,934)
@@ -23,7 +23,7 @@ As of 2020-10-26 11:54:09, r00t f0lds is rank 47
  21. Dubhbairn                            1.10%  280,757,932 (units: 3,067)
  22. Kranfahrer                           1.10%  280,598,340 (units: 6,454)
  23. spam                                 1.01%  256,495,496 (units: 3,213)
- 24. SWinder                              0.90%  228,824,152 (units: 4,732)
+ 24. SWinder                              0.90%  229,029,182 (units: 4,733)
  25. crax                                 0.90%  228,344,889 (units: 1,651)
  26. sarmento                             0.77%  196,803,799 (units: 4,279)
  27. coldyfoldz                           0.74%  187,637,865 (units: 2,442)
@@ -35,7 +35,7 @@ As of 2020-10-26 11:54:09, r00t f0lds is rank 47
  33. Erik_Fichtner                        0.56%  142,008,213 (units: 2,459)
  34. tvidas                               0.54%  138,354,556 (units: 3,827)
  35. /dev/random                          0.53%  134,880,698 (units: 3,875)
- 36. Calcifer                             0.50%  127,536,611 (units: 1,838)
+ 36. Calcifer                             0.50%  127,723,603 (units: 1,839)
  37. AWR                                  0.47%  120,636,687 (units: 4,388)
  38. wingisfolding                        0.47%  119,385,401 (units: 17,882)
  39. knarph                               0.41%  104,951,016 (units: 3,378)
