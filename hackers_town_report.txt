@@ -1,7 +1,7 @@
-As of 2020-10-26 16:54:08, hackers.town is rank 1161
-   with 37,414 work units for 409,885,721 credits
-  1. Werekat                      12.50%   51,224,712 (units: 1,656)
-  2. Kyle                          8.02%   32,853,104 (units: 1,608)
+As of 2020-10-26 17:14:07, hackers.town is rank 1161
+   with 37,416 work units for 409,987,680 credits
+  1. Werekat                      12.49%   51,224,712 (units: 1,656)
+  2. Kyle                          8.04%   32,952,516 (units: 1,609)
   3. wetdryvac                     7.84%   32,148,675 (units:   888)
   4. Polychrome                    5.83%   23,900,678 (units: 1,550)
   5. CookieMom                     5.28%   21,657,942 (units: 1,658)
@@ -30,7 +30,7 @@ As of 2020-10-26 16:54:08, hackers.town is rank 1161
  28. ryen                          0.72%    2,936,587 (units:   208)
  29. radicaledward                 0.66%    2,717,086 (units:    90)
  30. drwho                         0.60%    2,457,926 (units:   500)
- 31. Canageek                      0.59%    2,399,842 (units:   407)
+ 31. Canageek                      0.59%    2,402,389 (units:   408)
  32. The_Gibson(HTown)             0.57%    2,330,035 (units:   212)
  33. /dev/random                   0.52%    2,135,335 (units:   204)
  34. mandibular joint dysfunction  0.50%    2,055,511 (units:   834)
@@ -61,7 +61,7 @@ As of 2020-10-26 16:54:08, hackers.town is rank 1161
  59. Mnemonic                      0.11%      434,508 (units:   163)
  60. protospork                    0.10%      423,894 (units:    59)
  61. Hany                          0.10%      421,021 (units:    99)
- 62. Logomancer                    0.10%      389,417 (units: 1,262)
+ 62. Logomancer                    0.09%      389,417 (units: 1,262)
  63. fl0wn                         0.09%      388,420 (units:    74)
  64. csrsuoeb                      0.08%      330,048 (units:    69)
  65. crc32                         0.08%      328,921 (units:   327)
