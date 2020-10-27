@@ -1,12 +1,12 @@
-As of 2020-10-27 00:54:17, r00t f0lds is rank 47
-   with 634,231 work units for 25,526,245,190 credits
+As of 2020-10-27 01:04:03, r00t f0lds is rank 47
+   with 634,237 work units for 25,526,837,022 credits
   1. MasterKore                          12.63% 3,223,695,103 (units: 67,944)
   2. NeTTwerk                            10.97% 2,799,680,571 (units: 16,115)
   3. gaussie                              6.40% 1,632,828,469 (units: 15,350)
-  4. Ophie                                6.09% 1,554,026,543 (units: 104,273)
-  5. dildog                               5.15% 1,314,756,016 (units: 11,362)
-  6. GOLGO13                              4.21% 1,075,617,370 (units: 16,989)
-  7. edsai                                3.55%  906,431,156 (units: 7,714)
+  4. Ophie                                6.09% 1,554,041,324 (units: 104,275)
+  5. dildog                               5.15% 1,314,859,166 (units: 11,363)
+  6. GOLGO13                              4.21% 1,075,806,279 (units: 16,990)
+  7. edsai                                3.55%  906,607,858 (units: 7,715)
   8. TommydCat                            3.55%  905,560,216 (units: 11,490)
   9. mowse                                3.13%  798,272,602 (units: 4,512)
  10. Weld                                 3.10%  792,142,801 (units: 8,323)
@@ -48,7 +48,7 @@ As of 2020-10-27 00:54:17, r00t f0lds is rank 47
  46. Space_Rogue                          0.29%   73,673,259 (units: 5,328)
  47. Privacywonk                          0.28%   72,530,170 (units: 5,156)
  48. jalvaren                             0.28%   72,204,645 (units: 2,014)
- 49. zonksec                              0.27%   69,597,325 (units: 3,302)
+ 49. zonksec                              0.27%   69,705,615 (units: 3,303)
  50. S0l3mn                               0.27%   68,656,199 (units: 3,514)
  51. skipper                              0.26%   66,580,597 (units: 1,039)
  52. KStads                               0.25%   62,782,867 (units:   808)
@@ -389,8 +389,8 @@ As of 2020-10-27 00:54:17, r00t f0lds is rank 47
 387. n0x                                  0.00%        9,858 (units:     2)
 388. Mystic_Chaos                         0.00%        9,716 (units:     8)
 389. ad767                                0.00%        9,657 (units:    10)
-390. r                                    0.00%        9,405 (units:     1)
-391. HailSatan                            0.00%        9,405 (units:     1)
+390. HailSatan                            0.00%        9,405 (units:     1)
+391. r                                    0.00%        9,405 (units:     1)
 392. glawend                              0.00%        8,420 (units:     9)
 393. Elliot                               0.00%        7,685 (units:     1)
 394. ZachBl                               0.00%        6,867 (units:     3)
