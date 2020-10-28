@@ -1,11 +1,11 @@
-As of 2020-10-28 16:54:09, r00t f0lds is rank 46
-   with 637,457 work units for 25,785,480,888 credits
+As of 2020-10-28 17:04:08, r00t f0lds is rank 46
+   with 637,464 work units for 25,786,466,187 credits
   1. MasterKore                          12.50% 3,224,326,278 (units: 67,977)
   2. NeTTwerk                            10.86% 2,799,680,571 (units: 16,115)
-  3. gaussie                              6.44% 1,659,381,844 (units: 15,542)
-  4. Ophie                                6.05% 1,559,180,650 (units: 104,643)
-  5. dildog                               5.16% 1,330,869,010 (units: 11,479)
-  6. GOLGO13                              4.29% 1,106,046,345 (units: 17,205)
+  3. gaussie                              6.44% 1,659,497,914 (units: 15,543)
+  4. Ophie                                6.05% 1,559,228,880 (units: 104,645)
+  5. dildog                               5.16% 1,331,079,775 (units: 11,480)
+  6. GOLGO13                              4.29% 1,106,526,687 (units: 17,207)
   7. TommydCat                            3.63%  934,824,499 (units: 11,639)
   8. edsai                                3.56%  917,007,149 (units: 7,824)
   9. mowse                                3.13%  807,725,175 (units: 4,560)
@@ -17,7 +17,7 @@ As of 2020-10-28 16:54:09, r00t f0lds is rank 46
  15. Steve_Castellarin                    1.50%  386,470,324 (units: 6,333)
  16. Swern                                1.48%  380,408,151 (units: 5,712)
  17. wetdryvac                            1.39%  359,493,102 (units: 5,193)
- 18. Scba                                 1.38%  356,880,726 (units: 5,067)
+ 18. Scba                                 1.38%  357,010,618 (units: 5,068)
  19. BELTIWAN                             1.38%  355,819,482 (units: 3,625)
  20. Sangfroid                            1.24%  320,190,093 (units: 8,105)
  21. Dubhbairn                            1.11%  286,754,124 (units: 3,127)
