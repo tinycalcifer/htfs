@@ -1,6 +1,6 @@
-As of 2020-10-28 05:04:07, r00t f0lds is rank 46
-   with 636,517 work units for 25,708,932,064 credits
-  1. MasterKore                          12.54% 3,224,105,668 (units: 67,967)
+As of 2020-10-28 05:14:08, r00t f0lds is rank 46
+   with 636,521 work units for 25,709,022,948 credits
+  1. MasterKore                          12.54% 3,224,110,838 (units: 67,968)
   2. NeTTwerk                            10.89% 2,799,680,571 (units: 16,115)
   3. gaussie                              6.42% 1,651,635,548 (units: 15,487)
   4. Ophie                                6.06% 1,557,729,869 (units: 104,536)
@@ -19,9 +19,9 @@ As of 2020-10-28 05:04:07, r00t f0lds is rank 46
  17. wetdryvac                            1.39%  357,909,480 (units: 5,177)
  18. Scba                                 1.39%  356,289,595 (units: 5,062)
  19. BELTIWAN                             1.38%  355,816,764 (units: 3,624)
- 20. Sangfroid                            1.24%  319,354,204 (units: 8,088)
+ 20. Sangfroid                            1.24%  319,424,164 (units: 8,089)
  21. Dubhbairn                            1.11%  285,651,694 (units: 3,117)
- 22. Kranfahrer                           1.10%  283,559,312 (units: 6,499)
+ 22. Kranfahrer                           1.10%  283,561,561 (units: 6,500)
  23. spam                                 1.01%  259,720,422 (units: 3,240)
  24. SWinder                              0.90%  230,877,843 (units: 4,756)
  25. crax                                 0.89%  230,012,709 (units: 1,663)
@@ -73,7 +73,7 @@ As of 2020-10-28 05:04:07, r00t f0lds is rank 46
  71. EricO                                0.14%   35,722,051 (units:   467)
  72. SecureFlorindo                       0.13%   33,787,314 (units:   727)
  73. SalusaSecondus                       0.13%   32,477,027 (units:   880)
- 74. davidq                               0.12%   31,754,833 (units: 4,710)
+ 74. davidq                               0.12%   31,768,338 (units: 4,711)
  75. PhreakMonkey                         0.12%   31,602,552 (units: 1,762)
  76. mbm                                  0.12%   29,647,224 (units: 1,578)
  77. c0debabe                             0.11%   29,035,750 (units:   770)
