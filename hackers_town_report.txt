@@ -1,5 +1,5 @@
-As of 2020-10-30 17:04:20, hackers.town is rank 1169
-   with 37,571 work units for 412,376,563 credits
+As of 2020-10-30 17:44:15, hackers.town is rank 1169
+   with 37,574 work units for 412,412,423 credits
   1. Werekat                      12.64%   52,137,258 (units: 1,678)
   2. Kyle                          8.23%   33,954,115 (units: 1,631)
   3. wetdryvac                     7.80%   32,148,675 (units:   888)
@@ -29,9 +29,9 @@ As of 2020-10-30 17:04:20, hackers.town is rank 1169
  27. Kranfahrer                    0.73%    3,024,932 (units:   201)
  28. ryen                          0.71%    2,936,587 (units:   208)
  29. radicaledward                 0.66%    2,717,086 (units:    90)
- 30. Canageek                      0.60%    2,487,885 (units:   420)
+ 30. Canageek                      0.61%    2,514,534 (units:   422)
  31. drwho                         0.60%    2,457,926 (units:   500)
- 32. The_Gibson(HTown)             0.57%    2,330,035 (units:   212)
+ 32. The_Gibson(HTown)             0.56%    2,330,035 (units:   212)
  33. /dev/random                   0.52%    2,135,335 (units:   204)
  34. mandibular joint dysfunction  0.50%    2,055,511 (units:   834)
  35. neil                          0.49%    2,028,218 (units:   567)
@@ -51,8 +51,8 @@ As of 2020-10-30 17:04:20, hackers.town is rank 1169
  49. Null                          0.20%      818,594 (units:    22)
  50. m68k                          0.20%      812,086 (units:   193)
  51. MaxAtCastleMalmeddy           0.18%      761,969 (units:   663)
- 52. TG                            0.17%      694,922 (units:   143)
- 53. LordBowlich                   0.17%      692,071 (units:   176)
+ 52. LordBowlich                   0.17%      701,282 (units:   177)
+ 53. TG                            0.17%      694,922 (units:   143)
  54. HolSta                        0.15%      614,460 (units:   108)
  55. synfinner                     0.13%      527,623 (units:    14)
  56. tayo                          0.12%      497,485 (units:   150)
