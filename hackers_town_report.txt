@@ -1,5 +1,5 @@
-As of 2020-11-01 10:44:24, hackers.town is rank 1172
-   with 37,651 work units for 413,761,095 credits
+As of 2020-11-01 11:54:22, hackers.town is rank 1172
+   with 37,654 work units for 413,774,970 credits
   1. Werekat                      12.78%   52,874,673 (units: 1,689)
   2. Kyle                          8.30%   34,336,824 (units: 1,641)
   3. wetdryvac                     7.77%   32,148,675 (units:   888)
@@ -15,7 +15,7 @@ As of 2020-11-01 10:44:24, hackers.town is rank 1172
  13. Calcifer                      1.89%    7,802,361 (units:   193)
  14. c0debabe                      1.75%    7,224,123 (units:   245)
  15. elfgirlsarah                  1.65%    6,845,555 (units:   955)
- 16.                               1.65%    6,818,803 (units: 1,259)
+ 16.                               1.65%    6,822,772 (units: 1,260)
  17. dafuchs                       1.53%    6,320,938 (units:   393)
  18. SiinaCutie                    1.25%    5,188,566 (units:   235)
  19. paullindner                   1.24%    5,113,989 (units:   911)
@@ -51,7 +51,7 @@ As of 2020-11-01 10:44:24, hackers.town is rank 1172
  49. Null                          0.20%      818,594 (units:    22)
  50. m68k                          0.20%      812,086 (units:   193)
  51. MaxAtCastleMalmeddy           0.19%      765,863 (units:   667)
- 52. LordBowlich                   0.18%      744,536 (units:   183)
+ 52. LordBowlich                   0.18%      753,992 (units:   184)
  53. TG                            0.17%      694,922 (units:   143)
  54. HolSta                        0.15%      614,460 (units:   108)
  55. synfinner                     0.13%      527,623 (units:    14)
@@ -87,7 +87,7 @@ As of 2020-11-01 10:44:24, hackers.town is rank 1172
  85. gwozniak                      0.04%      145,329 (units:   182)
  86. silksnep                      0.03%      141,111 (units:   176)
  87. Anunmouse                     0.03%      140,072 (units:   118)
- 88. Alteraner92                   0.03%      133,599 (units:    91)
+ 88. Alteraner92                   0.03%      134,049 (units:    92)
  89. arbu                          0.03%      125,499 (units:     7)
  90. Neil                          0.03%      124,874 (units:    32)
  91. Bingo                         0.03%      124,668 (units:   189)
