@@ -1,13 +1,13 @@
-As of 2020-11-02 07:54:24, r00t f0lds is rank 44
-   with 646,947 work units for 26,532,232,440 credits
+As of 2020-11-02 08:04:26, r00t f0lds is rank 44
+   with 646,957 work units for 26,533,314,280 credits
   1. MasterKore                          12.18% 3,231,869,695 (units: 68,109)
   2. NeTTwerk                            10.55% 2,799,680,571 (units: 16,115)
   3. gaussie                              6.46% 1,714,856,011 (units: 15,954)
-  4. Ophie                                5.95% 1,577,448,173 (units: 105,717)
+  4. Ophie                                5.95% 1,577,514,159 (units: 105,720)
   5. dildog                               5.18% 1,374,825,662 (units: 11,787)
-  6. GOLGO13                              4.50% 1,194,074,321 (units: 17,929)
+  6. GOLGO13                              4.50% 1,194,491,065 (units: 17,931)
   7. TommydCat                            3.77% 1,001,337,080 (units: 12,043)
-  8. edsai                                3.56%  944,504,426 (units: 8,009)
+  8. edsai                                3.56%  944,744,314 (units: 8,010)
   9. mowse                                3.14%  833,671,735 (units: 4,688)
  10. Weld                                 3.13%  829,169,321 (units: 8,595)
  11. Gentry                               2.20%  584,576,042 (units: 9,112)
@@ -16,8 +16,8 @@ As of 2020-11-02 07:54:24, r00t f0lds is rank 44
  14. dokuja                               1.76%  466,197,156 (units: 3,038)
  15. Steve_Castellarin                    1.50%  398,665,579 (units: 6,479)
  16. Swern                                1.50%  397,575,621 (units: 5,843)
- 17. Sangfroid                            1.47%  391,279,581 (units: 8,597)
- 18. wetdryvac                            1.41%  373,122,821 (units: 5,354)
+ 17. Sangfroid                            1.48%  391,462,651 (units: 8,599)
+ 18. wetdryvac                            1.41%  373,288,881 (units: 5,355)
  19. Scba                                 1.39%  368,523,811 (units: 5,151)
  20. BELTIWAN                             1.35%  357,034,445 (units: 3,649)
  21. Dubhbairn                            1.11%  295,095,496 (units: 3,214)
@@ -39,7 +39,7 @@ As of 2020-11-02 07:54:24, r00t f0lds is rank 44
  37. AWR                                  0.47%  124,332,838 (units: 4,472)
  38. wingisfolding                        0.45%  119,385,401 (units: 17,882)
  39. Moss                                 0.43%  112,907,053 (units: 2,254)
- 40. knarph                               0.43%  112,888,940 (units: 3,611)
+ 40. knarph                               0.43%  112,899,032 (units: 3,612)
  41. tweakt                               0.39%  102,211,830 (units: 1,350)
  42. The_Gibson(HTown)                    0.39%  102,168,965 (units: 1,862)
  43. causticjb                            0.35%   91,825,994 (units: 3,314)
