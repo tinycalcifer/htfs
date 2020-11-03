@@ -1,6 +1,6 @@
-As of 2020-11-03 08:14:28, hackers.town is rank 1174
-   with 37,733 work units for 415,472,242 credits
-  1. Werekat                      12.98%   53,909,829 (units: 1,708)
+As of 2020-11-03 08:35:01, hackers.town is rank 1174
+   with 37,738 work units for 415,503,746 credits
+  1. Werekat                      12.97%   53,909,829 (units: 1,708)
   2. Kyle                          8.37%   34,778,477 (units: 1,650)
   3. wetdryvac                     7.74%   32,148,675 (units:   888)
   4. Polychrome                    5.85%   24,295,412 (units: 1,581)
@@ -14,7 +14,7 @@ As of 2020-11-03 08:14:28, hackers.town is rank 1174
  12. zx3                           1.90%    7,875,382 (units:   655)
  13. Calcifer                      1.88%    7,802,361 (units:   193)
  14. c0debabe                      1.74%    7,224,123 (units:   245)
- 15.                               1.66%    6,889,476 (units: 1,278)
+ 15.                               1.66%    6,891,964 (units: 1,279)
  16. elfgirlsarah                  1.65%    6,845,555 (units:   955)
  17. dafuchs                       1.52%    6,320,938 (units:   393)
  18. SiinaCutie                    1.25%    5,188,566 (units:   235)
@@ -29,7 +29,7 @@ As of 2020-11-03 08:14:28, hackers.town is rank 1174
  27. Kranfahrer                    0.73%    3,024,932 (units:   201)
  28. ryen                          0.71%    2,936,587 (units:   208)
  29. radicaledward                 0.65%    2,717,086 (units:    90)
- 30. Canageek                      0.61%    2,548,350 (units:   429)
+ 30. Canageek                      0.62%    2,577,350 (units:   430)
  31. drwho                         0.59%    2,457,926 (units:   500)
  32. The_Gibson(HTown)             0.56%    2,330,035 (units:   212)
  33. /dev/random                   0.51%    2,135,335 (units:   204)
@@ -61,7 +61,7 @@ As of 2020-11-03 08:14:28, hackers.town is rank 1174
  59. Mnemonic                      0.10%      434,508 (units:   163)
  60. protospork                    0.10%      423,894 (units:    59)
  61. Hany                          0.10%      421,021 (units:    99)
- 62. Logomancer                    0.09%      389,601 (units: 1,309)
+ 62. Logomancer                    0.09%      389,617 (units: 1,312)
  63. fl0wn                         0.09%      388,420 (units:    74)
  64. csrsuoeb                      0.08%      330,048 (units:    69)
  65. crc32                         0.08%      328,921 (units:   327)
