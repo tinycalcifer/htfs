@@ -1,12 +1,12 @@
-As of 2020-11-10 11:34:39, r00t f0lds is rank 43
-   with 664,687 work units for 27,917,470,204 credits
+As of 2020-11-10 11:44:37, r00t f0lds is rank 43
+   with 664,694 work units for 27,918,274,515 credits
   1. MasterKore                          11.68% 3,260,145,325 (units: 68,402)
   2. NeTTwerk                            10.03% 2,799,680,571 (units: 16,115)
   3. gaussie                              6.57% 1,834,866,932 (units: 16,794)
-  4. Ophie                                5.78% 1,613,738,338 (units: 107,676)
-  5. dildog                               5.18% 1,445,531,624 (units: 12,272)
-  6. GOLGO13                              4.85% 1,354,657,644 (units: 19,217)
-  7. TommydCat                            3.80% 1,060,563,843 (units: 12,576)
+  4. Ophie                                5.78% 1,613,763,789 (units: 107,677)
+  5. dildog                               5.18% 1,445,781,662 (units: 12,273)
+  6. GOLGO13                              4.85% 1,354,701,876 (units: 19,219)
+  7. TommydCat                            3.80% 1,060,579,777 (units: 12,577)
   8. edsai                                3.57%  997,832,048 (units: 8,404)
   9. Weld                                 3.18%  886,923,863 (units: 8,977)
  10. mowse                                3.15%  878,254,257 (units: 4,898)
@@ -15,7 +15,7 @@ As of 2020-11-10 11:34:39, r00t f0lds is rank 43
  13. Sangfroid                            1.80%  502,837,354 (units: 9,322)
  14. Chris_Eng                            1.80%  502,193,377 (units: 4,573)
  15. dokuja                               1.73%  483,107,017 (units: 3,144)
- 16. Scba                                 1.59%  444,973,021 (units: 5,563)
+ 16. Scba                                 1.59%  445,274,016 (units: 5,564)
  17. Swern                                1.53%  427,948,553 (units: 6,064)
  18. Steve_Castellarin                    1.49%  415,481,998 (units: 6,702)
  19. wetdryvac                            1.43%  399,109,063 (units: 5,704)
@@ -44,7 +44,7 @@ As of 2020-11-10 11:34:39, r00t f0lds is rank 43
  42. The_Gibson(HTown)                    0.37%  102,168,965 (units: 1,862)
  43. causticjb                            0.35%   96,600,123 (units: 3,482)
  44. Privacywonk                          0.33%   92,202,022 (units: 5,416)
- 45. Space_Rogue                          0.33%   90,987,828 (units: 5,825)
+ 45. Space_Rogue                          0.33%   91,155,489 (units: 5,826)
  46. ethersniffer                         0.31%   86,372,063 (units: 10,625)
  47. dotjrich                             0.31%   85,338,683 (units: 3,524)
  48. skipper                              0.29%   80,399,666 (units: 1,183)
