@@ -1,10 +1,10 @@
-As of 2020-11-16 05:14:45, hackers.town is rank 1196
-   with 38,211 work units for 420,895,284 credits
+As of 2020-11-16 06:34:48, hackers.town is rank 1196
+   with 38,214 work units for 420,960,301 credits
   1. Werekat                      12.84%   54,049,262 (units: 1,727)
   2. Kyle                          9.07%   38,178,375 (units: 1,753)
   3. wetdryvac                     7.64%   32,148,675 (units:   888)
-  4. Polychrome                    5.94%   24,997,625 (units: 1,650)
-  5. CookieMom                     5.15%   21,657,942 (units: 1,658)
+  4. Polychrome                    5.95%   25,043,884 (units: 1,651)
+  5. CookieMom                     5.14%   21,657,942 (units: 1,658)
   6. merimus                       4.89%   20,589,421 (units:   553)
   7. packetcat                     4.71%   19,829,617 (units:   153)
   8. KemoNine                      4.44%   18,705,527 (units:   625)
@@ -13,7 +13,7 @@ As of 2020-11-16 05:14:45, hackers.town is rank 1196
  11. bhtooefr                      3.51%   14,787,915 (units:   667)
  12. zx3                           1.88%    7,932,015 (units:   662)
  13. Calcifer                      1.85%    7,802,361 (units:   193)
- 14.                               1.75%    7,359,239 (units: 1,357)
+ 14.                               1.75%    7,368,514 (units: 1,358)
  15. c0debabe                      1.72%    7,224,123 (units:   245)
  16. elfgirlsarah                  1.63%    6,845,555 (units:   955)
  17. dafuchs                       1.50%    6,320,938 (units:   393)
@@ -44,7 +44,7 @@ As of 2020-11-16 05:14:45, hackers.town is rank 1196
  42. rmgr                          0.31%    1,290,558 (units:    47)
  43. djsumdog                      0.29%    1,227,802 (units:   202)
  44. qwazix                        0.28%    1,157,676 (units:   220)
- 45. LordBowlich                   0.27%    1,133,286 (units:   240)
+ 45. LordBowlich                   0.27%    1,142,769 (units:   241)
  46. niconiconi                    0.26%    1,100,400 (units:   112)
  47. TerrorBite                    0.26%    1,085,432 (units:    36)
  48. mainebot                      0.24%    1,005,210 (units:    58)
