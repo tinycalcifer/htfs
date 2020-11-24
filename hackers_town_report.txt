@@ -1,5 +1,5 @@
-As of 2020-11-24 09:27:16, hackers.town is rank 1203
-   with 38,535 work units for 424,576,969 credits
+As of 2020-11-24 10:34:58, hackers.town is rank 1203
+   with 38,536 work units for 424,579,989 credits
   1. Werekat                      12.74%   54,076,892 (units: 1,731)
   2. Kyle                          9.52%   40,417,958 (units: 1,831)
   3. wetdryvac                     7.57%   32,148,675 (units:   888)
@@ -43,7 +43,7 @@ As of 2020-11-24 09:27:16, hackers.town is rank 1203
  41. kusuriya                      0.31%    1,314,178 (units:    68)
  42. rmgr                          0.30%    1,290,558 (units:    47)
  43. djsumdog                      0.29%    1,227,802 (units:   202)
- 44. LordBowlich                   0.28%    1,186,114 (units:   253)
+ 44. LordBowlich                   0.28%    1,189,134 (units:   254)
  45. qwazix                        0.27%    1,157,676 (units:   220)
  46. niconiconi                    0.26%    1,100,400 (units:   112)
  47. TerrorBite                    0.26%    1,085,432 (units:    36)
