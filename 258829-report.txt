@@ -1,8 +1,8 @@
-As of 2020-11-24 15:35:08, r00t f0lds is rank 43
-   with 692,287 work units for 29,595,414,743 credits
+As of 2020-11-24 15:45:07, r00t f0lds is rank 43
+   with 692,289 work units for 29,595,548,994 credits
   1. MasterKore                          11.03% 3,265,008,741 (units: 68,712)
   2. NeTTwerk                             9.46% 2,799,680,571 (units: 16,115)
-  3. gaussie                              6.40% 1,894,715,102 (units: 17,337)
+  3. gaussie                              6.40% 1,894,845,390 (units: 17,338)
   4. Ophie                                5.50% 1,628,390,583 (units: 108,444)
   5. dildog                               5.35% 1,582,715,735 (units: 13,166)
   6. GOLGO13                              4.77% 1,410,379,587 (units: 20,282)
@@ -110,7 +110,7 @@ As of 2020-11-24 15:35:08, r00t f0lds is rank 43
 108. mikecherry                           0.04%   12,434,221 (units: 1,330)
 109. jnathan                              0.04%   12,146,657 (units: 3,920)
 110. simonlbn                             0.04%   11,756,225 (units: 1,228)
-111. dethveggie                           0.04%   10,906,480 (units: 2,194)
+111. dethveggie                           0.04%   10,910,443 (units: 2,195)
 112. jobe                                 0.04%   10,817,910 (units:   389)
 113. q                                    0.04%   10,638,321 (units:   248)
 114. DK                                   0.03%    9,959,981 (units: 1,106)
@@ -425,8 +425,8 @@ As of 2020-11-24 15:35:08, r00t f0lds is rank 43
 423. rtrevinnoc                           0.00%          896 (units:     2)
 424. VVX7                                 0.00%          842 (units:    11)
 425. Manos                                0.00%          744 (units:     1)
-426. DBoy                                 0.00%          700 (units:     1)
-427. metaproject                          0.00%          700 (units:     1)
+426. metaproject                          0.00%          700 (units:     1)
+427. DBoy                                 0.00%          700 (units:     1)
 428. scr1pt3y                             0.00%          693 (units:     2)
 429. LynxJSA                              0.00%          570 (units:     1)
 430.                                      0.00%          532 (units:     2)
