@@ -1,16 +1,16 @@
-As of 2020-12-01 05:15:05, hackers.town is rank 1207
-   with 38,817 work units for 430,432,012 credits
+As of 2020-12-01 06:15:17, hackers.town is rank 1207
+   with 38,819 work units for 430,591,589 credits
   1. Werekat                      12.56%   54,076,892 (units: 1,731)
-  2. Kyle                          9.86%   42,438,438 (units: 1,893)
+  2. Kyle                          9.86%   42,451,189 (units: 1,894)
   3. wetdryvac                     7.47%   32,148,675 (units:   888)
   4. Polychrome                    5.99%   25,800,114 (units: 1,729)
   5. CookieMom                     5.14%   22,122,789 (units: 1,670)
   6. merimus                       4.78%   20,589,421 (units:   553)
   7. packetcat                     4.61%   19,829,617 (units:   153)
-  8. KemoNine                      4.35%   18,705,527 (units:   625)
+  8. KemoNine                      4.34%   18,705,527 (units:   625)
   9. Freakazoid                    4.27%   18,370,834 (units:   852)
- 10. dokuja                        4.21%   18,104,692 (units:   474)
- 11. bhtooefr                      4.00%   17,237,963 (units:   696)
+ 10. dokuja                        4.20%   18,104,692 (units:   474)
+ 11. bhtooefr                      4.04%   17,384,789 (units:   697)
  12. zx3                           2.00%    8,625,985 (units:   727)
  13.                               1.83%    7,895,430 (units: 1,459)
  14. Calcifer                      1.81%    7,802,361 (units:   193)
@@ -18,7 +18,7 @@ As of 2020-12-01 05:15:05, hackers.town is rank 1207
  16. elfgirlsarah                  1.59%    6,845,555 (units:   955)
  17. dafuchs                       1.47%    6,320,938 (units:   393)
  18. paullindner                   1.21%    5,201,314 (units:   923)
- 19. SiinaCutie                    1.21%    5,188,566 (units:   235)
+ 19. SiinaCutie                    1.20%    5,188,566 (units:   235)
  20. FOOL                          1.19%    5,109,247 (units:   413)
  21. felix                         1.14%    4,901,391 (units:   185)
  22. r000t                         0.95%    4,069,816 (units:   121)
