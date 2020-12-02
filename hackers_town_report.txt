@@ -1,15 +1,15 @@
-As of 2020-12-02 21:35:47, hackers.town is rank 1209
-   with 38,928 work units for 432,440,921 credits
-  1. Werekat                      12.51%   54,076,892 (units: 1,731)
+As of 2020-12-02 21:39:41, hackers.town is rank 1208
+   with 38,931 work units for 432,582,975 credits
+  1. Werekat                      12.50%   54,076,892 (units: 1,731)
   2. Kyle                          9.92%   42,898,048 (units: 1,916)
   3. wetdryvac                     7.43%   32,148,675 (units:   888)
   4. Polychrome                    5.99%   25,916,037 (units: 1,748)
-  5. CookieMom                     5.16%   22,293,489 (units: 1,674)
+  5. CookieMom                     5.16%   22,330,289 (units: 1,675)
   6. merimus                       4.76%   20,589,421 (units:   553)
-  7. packetcat                     4.59%   19,829,617 (units:   153)
-  8. KemoNine                      4.33%   18,705,527 (units:   625)
-  9. Freakazoid                    4.25%   18,370,834 (units:   852)
- 10. bhtooefr                      4.25%   18,368,017 (units:   712)
+  7. packetcat                     4.58%   19,829,617 (units:   153)
+  8. KemoNine                      4.32%   18,705,527 (units:   625)
+  9. bhtooefr                      4.27%   18,470,261 (units:   713)
+ 10. Freakazoid                    4.25%   18,370,834 (units:   852)
  11. dokuja                        4.19%   18,104,692 (units:   474)
  12. zx3                           1.99%    8,625,985 (units:   727)
  13.                               1.85%    8,002,356 (units: 1,490)
@@ -66,7 +66,7 @@ As of 2020-12-02 21:35:47, hackers.town is rank 1209
  64. csrsuoeb                      0.08%      330,048 (units:    69)
  65. crc32                         0.08%      328,921 (units:   327)
  66. KitRedgrave                   0.08%      325,409 (units:    68)
- 67. Nemesis                       0.07%      317,854 (units:   245)
+ 67. Nemesis                       0.07%      320,864 (units:   246)
  68. debugninja                    0.07%      288,707 (units:    34)
  69. ZenCoder                      0.06%      281,041 (units:    87)
  70. folding_with_gibson           0.06%      276,013 (units:   126)
