@@ -1,12 +1,12 @@
-As of 2020-12-12 00:05:14, hackers.town is rank 1213
-   with 39,477 work units for 445,134,022 credits
-  1. Werekat                      12.83%   57,100,518 (units: 1,800)
+As of 2020-12-12 00:35:12, hackers.town is rank 1213
+   with 39,479 work units for 445,207,542 credits
+  1. Werekat                      12.84%   57,172,788 (units: 1,801)
   2. Kyle                         10.21%   45,462,289 (units: 2,004)
   3. wetdryvac                     7.22%   32,148,675 (units:   888)
   4. Polychrome                    5.92%   26,374,042 (units: 1,805)
   5. bhtooefr                      5.33%   23,742,156 (units:   800)
   6. CookieMom                     5.17%   23,035,439 (units: 1,697)
-  7. merimus                       4.63%   20,589,421 (units:   553)
+  7. merimus                       4.62%   20,589,421 (units:   553)
   8. packetcat                     4.45%   19,829,617 (units:   153)
   9. KemoNine                      4.20%   18,705,527 (units:   625)
  10. Freakazoid                    4.13%   18,370,834 (units:   852)
@@ -36,7 +36,7 @@ As of 2020-12-12 00:05:14, hackers.town is rank 1213
  34. neil                          0.47%    2,105,170 (units:   638)
  35. mandibular joint dysfunction  0.46%    2,055,511 (units:   834)
  36. pfreak                        0.45%    1,996,770 (units:    48)
- 37. avolkov                       0.43%    1,891,826 (units:   104)
+ 37. avolkov                       0.42%    1,891,826 (units:   104)
  38. rfquerin                      0.37%    1,638,770 (units:   107)
  39. DJ_Sundog                     0.34%    1,513,675 (units:   330)
  40. sungo                         0.32%    1,432,642 (units:   399)
@@ -63,7 +63,7 @@ As of 2020-12-12 00:05:14, hackers.town is rank 1213
  61. Hany                          0.09%      421,021 (units:    99)
  62. Logomancer                    0.09%      402,203 (units: 1,428)
  63. fl0wn                         0.09%      388,420 (units:    74)
- 64. Nemesis                       0.08%      349,361 (units:   271)
+ 64. Nemesis                       0.08%      350,611 (units:   272)
  65. csrsuoeb                      0.07%      330,048 (units:    69)
  66. crc32                         0.07%      328,921 (units:   327)
  67. KitRedgrave                   0.07%      325,409 (units:    68)
