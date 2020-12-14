@@ -1,17 +1,17 @@
-As of 2020-12-14 09:45:30, hackers.town is rank 1209
-   with 39,621 work units for 448,089,813 credits
-  1. Werekat                      13.09%   58,641,888 (units: 1,834)
+As of 2020-12-14 10:05:36, hackers.town is rank 1209
+   with 39,622 work units for 448,237,890 credits
+  1. Werekat                      13.08%   58,641,888 (units: 1,834)
   2. Kyle                         10.30%   46,146,608 (units: 2,034)
   3. wetdryvac                     7.17%   32,148,675 (units:   888)
   4. Polychrome                    5.89%   26,391,629 (units: 1,813)
-  5. bhtooefr                      5.43%   24,325,568 (units:   819)
+  5. bhtooefr                      5.46%   24,473,645 (units:   820)
   6. CookieMom                     5.14%   23,035,439 (units: 1,697)
   7. merimus                       4.59%   20,589,421 (units:   553)
-  8. packetcat                     4.43%   19,829,617 (units:   153)
+  8. packetcat                     4.42%   19,829,617 (units:   153)
   9. KemoNine                      4.17%   18,705,527 (units:   625)
  10. Freakazoid                    4.10%   18,370,834 (units:   852)
  11. dokuja                        4.04%   18,104,692 (units:   474)
- 12. zx3                           1.93%    8,625,985 (units:   727)
+ 12. zx3                           1.92%    8,625,985 (units:   727)
  13.                               1.88%    8,436,641 (units: 1,596)
  14. Calcifer                      1.74%    7,802,361 (units:   193)
  15. c0debabe                      1.61%    7,224,123 (units:   245)
@@ -26,7 +26,7 @@ As of 2020-12-14 09:45:30, hackers.town is rank 1209
  24. Anonymous                     0.85%    3,826,696 (units: 1,495)
  25. jkl                           0.81%    3,650,043 (units:   859)
  26. skraelingjar                  0.75%    3,352,989 (units:    64)
- 27. Kranfahrer                    0.68%    3,024,932 (units:   201)
+ 27. Kranfahrer                    0.67%    3,024,932 (units:   201)
  28. ryen                          0.66%    2,936,587 (units:   208)
  29. radicaledward                 0.61%    2,717,086 (units:    90)
  30. Canageek                      0.58%    2,577,892 (units:   431)
