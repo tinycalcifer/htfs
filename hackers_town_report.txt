@@ -1,10 +1,10 @@
-As of 2020-12-14 20:05:21, hackers.town is rank 1210
-   with 39,649 work units for 448,809,192 credits
-  1. Werekat                      13.10%   58,814,154 (units: 1,839)
+As of 2020-12-14 20:35:31, hackers.town is rank 1210
+   with 39,652 work units for 448,953,157 credits
+  1. Werekat                      13.13%   58,955,431 (units: 1,840)
   2. Kyle                         10.32%   46,330,784 (units: 2,041)
   3. wetdryvac                     7.16%   32,148,675 (units:   888)
   4. Polychrome                    5.88%   26,393,945 (units: 1,814)
-  5. bhtooefr                      5.50%   24,664,551 (units:   824)
+  5. bhtooefr                      5.49%   24,664,551 (units:   824)
   6. CookieMom                     5.13%   23,035,439 (units: 1,697)
   7. merimus                       4.59%   20,589,421 (units:   553)
   8. packetcat                     4.42%   19,829,617 (units:   153)
@@ -15,7 +15,7 @@ As of 2020-12-14 20:05:21, hackers.town is rank 1210
  13.                               1.88%    8,449,671 (units: 1,599)
  14. Calcifer                      1.74%    7,802,361 (units:   193)
  15. c0debabe                      1.61%    7,224,123 (units:   245)
- 16. elfgirlsarah                  1.53%    6,845,555 (units:   955)
+ 16. elfgirlsarah                  1.52%    6,845,555 (units:   955)
  17. dafuchs                       1.41%    6,320,938 (units:   393)
  18. paullindner                   1.16%    5,201,314 (units:   923)
  19. SiinaCutie                    1.16%    5,188,566 (units:   235)
@@ -23,7 +23,7 @@ As of 2020-12-14 20:05:21, hackers.town is rank 1210
  21. felix                         1.09%    4,901,391 (units:   185)
  22. r000t                         0.91%    4,069,816 (units:   121)
  23. Mr.House                      0.88%    3,947,699 (units:   202)
- 24. Anonymous                     0.85%    3,831,314 (units: 1,497)
+ 24. Anonymous                     0.85%    3,833,102 (units: 1,498)
  25. jkl                           0.81%    3,650,043 (units:   859)
  26. skraelingjar                  0.75%    3,352,989 (units:    64)
  27. Kranfahrer                    0.67%    3,024,932 (units:   201)
@@ -64,7 +64,7 @@ As of 2020-12-14 20:05:21, hackers.town is rank 1210
  62. Logomancer                    0.09%      402,203 (units: 1,428)
  63. fl0wn                         0.09%      388,420 (units:    74)
  64. Nemesis                       0.08%      359,687 (units:   282)
- 65. Neue.City                     0.07%      330,291 (units:   149)
+ 65. Neue.City                     0.07%      331,191 (units:   150)
  66. csrsuoeb                      0.07%      330,048 (units:    69)
  67. crc32                         0.07%      328,921 (units:   327)
  68. KitRedgrave                   0.07%      325,409 (units:    68)
