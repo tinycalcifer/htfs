@@ -1,7 +1,7 @@
-As of 2020-12-14 11:15:30, hackers.town is rank 1209
-   with 39,626 work units for 448,250,127 credits
-  1. Werekat                      13.08%   58,641,888 (units: 1,834)
-  2. Kyle                         10.30%   46,150,116 (units: 2,035)
+As of 2020-12-14 11:45:18, hackers.town is rank 1209
+   with 39,629 work units for 448,335,756 credits
+  1. Werekat                      13.08%   58,652,684 (units: 1,835)
+  2. Kyle                         10.31%   46,224,049 (units: 2,036)
   3. wetdryvac                     7.17%   32,148,675 (units:   888)
   4. Polychrome                    5.89%   26,391,629 (units: 1,813)
   5. bhtooefr                      5.46%   24,473,645 (units:   820)
@@ -27,9 +27,9 @@ As of 2020-12-14 11:15:30, hackers.town is rank 1209
  25. jkl                           0.81%    3,650,043 (units:   859)
  26. skraelingjar                  0.75%    3,352,989 (units:    64)
  27. Kranfahrer                    0.67%    3,024,932 (units:   201)
- 28. ryen                          0.66%    2,936,587 (units:   208)
+ 28. ryen                          0.65%    2,936,587 (units:   208)
  29. radicaledward                 0.61%    2,717,086 (units:    90)
- 30. Canageek                      0.58%    2,577,892 (units:   431)
+ 30. Canageek                      0.57%    2,577,892 (units:   431)
  31. drwho                         0.55%    2,457,926 (units:   500)
  32. The_Gibson(HTown)             0.52%    2,330,035 (units:   212)
  33. /dev/random                   0.48%    2,135,335 (units:   204)
@@ -63,7 +63,7 @@ As of 2020-12-14 11:15:30, hackers.town is rank 1209
  61. Hany                          0.09%      421,021 (units:    99)
  62. Logomancer                    0.09%      402,203 (units: 1,428)
  63. fl0wn                         0.09%      388,420 (units:    74)
- 64. Nemesis                       0.08%      358,057 (units:   280)
+ 64. Nemesis                       0.08%      358,957 (units:   281)
  65. csrsuoeb                      0.07%      330,048 (units:    69)
  66. Neue.City                     0.07%      328,931 (units:   147)
  67. crc32                         0.07%      328,921 (units:   327)
