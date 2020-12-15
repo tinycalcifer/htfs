@@ -1,13 +1,13 @@
-As of 2020-12-15 00:35:20, hackers.town is rank 1210
-   with 39,658 work units for 449,121,964 credits
-  1. Werekat                      13.13%   58,968,774 (units: 1,841)
-  2. Kyle                         10.32%   46,337,679 (units: 2,043)
+As of 2020-12-15 01:05:28, hackers.town is rank 1210
+   with 39,660 work units for 449,237,483 credits
+  1. Werekat                      13.15%   59,081,373 (units: 1,842)
+  2. Kyle                         10.31%   46,337,679 (units: 2,043)
   3. wetdryvac                     7.16%   32,148,675 (units:   888)
   4. Polychrome                    5.88%   26,393,945 (units: 1,814)
-  5. bhtooefr                      5.52%   24,802,890 (units:   825)
+  5. bhtooefr                      5.52%   24,805,810 (units:   826)
   6. CookieMom                     5.13%   23,035,439 (units: 1,697)
   7. merimus                       4.58%   20,589,421 (units:   553)
-  8. packetcat                     4.42%   19,829,617 (units:   153)
+  8. packetcat                     4.41%   19,829,617 (units:   153)
   9. KemoNine                      4.16%   18,705,527 (units:   625)
  10. Freakazoid                    4.09%   18,370,834 (units:   852)
  11. dokuja                        4.03%   18,104,692 (units:   474)
@@ -18,7 +18,7 @@ As of 2020-12-15 00:35:20, hackers.town is rank 1210
  16. elfgirlsarah                  1.52%    6,845,555 (units:   955)
  17. dafuchs                       1.41%    6,320,938 (units:   393)
  18. paullindner                   1.16%    5,201,314 (units:   923)
- 19. SiinaCutie                    1.16%    5,188,566 (units:   235)
+ 19. SiinaCutie                    1.15%    5,188,566 (units:   235)
  20. FOOL                          1.14%    5,109,247 (units:   413)
  21. felix                         1.09%    4,901,391 (units:   185)
  22. r000t                         0.91%    4,069,816 (units:   121)
@@ -45,7 +45,7 @@ As of 2020-12-15 00:35:20, hackers.town is rank 1210
  43. djsumdog                      0.27%    1,227,802 (units:   202)
  44. LordBowlich                   0.26%    1,189,134 (units:   254)
  45. qwazix                        0.26%    1,157,676 (units:   220)
- 46. niconiconi                    0.25%    1,100,400 (units:   112)
+ 46. niconiconi                    0.24%    1,100,400 (units:   112)
  47. TerrorBite                    0.24%    1,085,432 (units:    36)
  48. mainebot                      0.22%    1,005,210 (units:    58)
  49. Requiem                       0.20%      893,950 (units:   296)
