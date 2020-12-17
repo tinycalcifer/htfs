@@ -1,15 +1,15 @@
-As of 2020-12-17 20:55:26, hackers.town is rank 1210
-   with 39,848 work units for 454,025,163 credits
+As of 2020-12-17 21:35:38, hackers.town is rank 1210
+   with 39,850 work units for 454,277,326 credits
   1. Werekat                      13.38%   60,764,748 (units: 1,876)
   2. Kyle                         10.44%   47,411,772 (units: 2,086)
   3. wetdryvac                     7.08%   32,148,675 (units:   888)
-  4. bhtooefr                      5.88%   26,694,965 (units:   857)
-  5. Polychrome                    5.82%   26,416,191 (units: 1,824)
+  4. bhtooefr                      5.93%   26,946,328 (units:   858)
+  5. Polychrome                    5.81%   26,416,191 (units: 1,824)
   6. CookieMom                     5.07%   23,035,439 (units: 1,697)
   7. merimus                       4.53%   20,589,421 (units:   553)
   8. packetcat                     4.37%   19,829,617 (units:   153)
   9. KemoNine                      4.12%   18,705,527 (units:   625)
- 10. Freakazoid                    4.05%   18,370,834 (units:   852)
+ 10. Freakazoid                    4.04%   18,370,834 (units:   852)
  11. dokuja                        3.99%   18,104,692 (units:   474)
  12. zx3                           1.90%    8,625,985 (units:   727)
  13.                               1.88%    8,533,202 (units: 1,620)
@@ -17,7 +17,7 @@ As of 2020-12-17 20:55:26, hackers.town is rank 1210
  15. c0debabe                      1.59%    7,224,123 (units:   245)
  16. elfgirlsarah                  1.51%    6,845,555 (units:   955)
  17. dafuchs                       1.39%    6,320,938 (units:   393)
- 18. paullindner                   1.15%    5,201,314 (units:   923)
+ 18. paullindner                   1.14%    5,201,314 (units:   923)
  19. SiinaCutie                    1.14%    5,188,566 (units:   235)
  20. FOOL                          1.13%    5,114,819 (units:   421)
  21. felix                         1.08%    4,901,391 (units:   185)
@@ -63,7 +63,7 @@ As of 2020-12-17 20:55:26, hackers.town is rank 1210
  61. Hany                          0.09%      421,021 (units:    99)
  62. Logomancer                    0.09%      402,239 (units: 1,438)
  63. fl0wn                         0.09%      388,420 (units:    74)
- 64. Nemesis                       0.08%      368,290 (units:   290)
+ 64. Nemesis                       0.08%      369,090 (units:   291)
  65. Neue.City                     0.07%      339,075 (units:   160)
  66. csrsuoeb                      0.07%      330,048 (units:    69)
  67. crc32                         0.07%      328,921 (units:   327)
