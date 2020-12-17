@@ -1,17 +1,17 @@
-As of 2020-12-17 03:45:29, hackers.town is rank 1211
-   with 39,809 work units for 452,746,713 credits
+As of 2020-12-17 04:35:36, hackers.town is rank 1211
+   with 39,810 work units for 452,895,769 credits
   1. Werekat                      13.30%   60,215,196 (units: 1,865)
-  2. Kyle                         10.44%   47,251,204 (units: 2,079)
+  2. Kyle                         10.43%   47,251,204 (units: 2,079)
   3. wetdryvac                     7.10%   32,148,675 (units:   888)
   4. Polychrome                    5.83%   26,410,345 (units: 1,821)
-  5. bhtooefr                      5.78%   26,149,373 (units:   848)
+  5. bhtooefr                      5.81%   26,298,429 (units:   849)
   6. CookieMom                     5.09%   23,035,439 (units: 1,697)
   7. merimus                       4.55%   20,589,421 (units:   553)
   8. packetcat                     4.38%   19,829,617 (units:   153)
   9. KemoNine                      4.13%   18,705,527 (units:   625)
  10. Freakazoid                    4.06%   18,370,834 (units:   852)
  11. dokuja                        4.00%   18,104,692 (units:   474)
- 12. zx3                           1.91%    8,625,985 (units:   727)
+ 12. zx3                           1.90%    8,625,985 (units:   727)
  13.                               1.88%    8,524,995 (units: 1,617)
  14. Calcifer                      1.72%    7,802,361 (units:   193)
  15. c0debabe                      1.60%    7,224,123 (units:   245)
@@ -41,7 +41,7 @@ As of 2020-12-17 03:45:29, hackers.town is rank 1211
  39. DJ_Sundog                     0.33%    1,513,675 (units:   330)
  40. sungo                         0.32%    1,432,642 (units:   399)
  41. kusuriya                      0.29%    1,314,178 (units:    68)
- 42. rmgr                          0.29%    1,290,558 (units:    47)
+ 42. rmgr                          0.28%    1,290,558 (units:    47)
  43. djsumdog                      0.27%    1,227,802 (units:   202)
  44. LordBowlich                   0.26%    1,189,134 (units:   254)
  45. qwazix                        0.26%    1,157,676 (units:   220)
