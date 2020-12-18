@@ -1,9 +1,9 @@
-As of 2020-12-18 10:45:29, hackers.town is rank 1210
-   with 39,884 work units for 455,112,621 credits
+As of 2020-12-18 11:05:31, hackers.town is rank 1210
+   with 39,885 work units for 455,221,049 credits
   1. Werekat                      13.42%   61,088,906 (units: 1,886)
   2. Kyle                         10.46%   47,609,343 (units: 2,096)
   3. wetdryvac                     7.06%   32,148,675 (units:   888)
-  4. bhtooefr                      5.99%   27,240,975 (units:   862)
+  4. bhtooefr                      6.01%   27,349,403 (units:   863)
   5. Polychrome                    5.80%   26,416,191 (units: 1,824)
   6. CookieMom                     5.06%   23,035,439 (units: 1,697)
   7. merimus                       4.52%   20,589,421 (units:   553)
@@ -11,7 +11,7 @@ As of 2020-12-18 10:45:29, hackers.town is rank 1210
   9. KemoNine                      4.11%   18,705,527 (units:   625)
  10. Freakazoid                    4.04%   18,370,834 (units:   852)
  11. dokuja                        3.98%   18,104,692 (units:   474)
- 12. zx3                           1.90%    8,625,985 (units:   727)
+ 12. zx3                           1.89%    8,625,985 (units:   727)
  13.                               1.88%    8,548,324 (units: 1,625)
  14. Calcifer                      1.71%    7,802,361 (units:   193)
  15. c0debabe                      1.59%    7,224,123 (units:   245)
@@ -53,7 +53,7 @@ As of 2020-12-18 10:45:29, hackers.town is rank 1210
  51. m68k                          0.18%      812,086 (units:   193)
  52. MaxAtCastleMalmeddy           0.17%      773,403 (units:   674)
  53. TG                            0.15%      694,922 (units:   143)
- 54. HolSta                        0.14%      614,460 (units:   108)
+ 54. HolSta                        0.13%      614,460 (units:   108)
  55. synfinner                     0.12%      527,623 (units:    14)
  56. tayo                          0.11%      497,485 (units:   150)
  57. technolust                    0.10%      458,534 (units:   355)
