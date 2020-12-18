@@ -1,8 +1,8 @@
-As of 2020-12-18 18:25:36, r00t f0lds is rank 43
-   with 743,129 work units for 32,744,773,063 credits
+As of 2020-12-18 18:35:25, r00t f0lds is rank 43
+   with 743,134 work units for 32,744,948,113 credits
   1. MasterKore                          10.56% 3,457,087,057 (units: 70,347)
   2. NeTTwerk                             8.55% 2,799,680,571 (units: 16,115)
-  3. gaussie                              6.84% 2,240,631,962 (units: 19,711)
+  3. gaussie                              6.84% 2,240,789,992 (units: 19,712)
   4. dildog                               5.56% 1,819,689,485 (units: 14,820)
   5. Ophie                                4.97% 1,628,947,842 (units: 108,556)
   6. GOLGO13                              4.36% 1,426,187,406 (units: 21,347)
@@ -54,7 +54,7 @@ As of 2020-12-18 18:25:36, r00t f0lds is rank 43
  52. tweakt                               0.31%  102,211,830 (units: 1,350)
  53. The_Gibson(HTown)                    0.31%  102,179,795 (units: 1,863)
  54. hoochmonger                          0.31%  101,444,828 (units: 1,542)
- 55. TachyonStream                        0.25%   82,281,996 (units: 3,336)
+ 55. TachyonStream                        0.25%   82,285,318 (units: 3,337)
  56. zonksec                              0.25%   82,255,531 (units: 3,917)
  57. jalvaren                             0.25%   81,486,259 (units: 2,303)
  58. pizen                                0.24%   78,639,329 (units: 2,086)
@@ -65,7 +65,7 @@ As of 2020-12-18 18:25:36, r00t f0lds is rank 43
  63. EndoftheLine                         0.18%   60,026,219 (units:   788)
  64. Xenophile                            0.17%   54,841,027 (units: 1,328)
  65. LamontWaugh                          0.16%   54,021,118 (units: 3,551)
- 66. OnidTheTRex                          0.15%   49,251,274 (units:   923)
+ 66. OnidTheTRex                          0.15%   49,257,738 (units:   924)
  67. PhreakMonkey                         0.15%   48,581,511 (units: 2,494)
  68. merimus                              0.14%   47,156,855 (units: 1,255)
  69. mbm                                  0.14%   46,564,931 (units: 2,446)
@@ -123,7 +123,7 @@ As of 2020-12-18 18:25:36, r00t f0lds is rank 43
 121. trebach                              0.03%    9,892,103 (units: 2,272)
 122. Anonymous7                           0.03%    9,707,096 (units:   248)
 123. drwho                                0.03%    9,628,991 (units: 4,007)
-124. B10+                                 0.03%    9,624,430 (units: 2,156)
+124. B10+                                 0.03%    9,626,530 (units: 2,157)
 125. bitlifter                            0.03%    9,242,708 (units:   123)
 126. atthewinchester                      0.03%    9,202,359 (units:   203)
 127. argv                                 0.03%    8,996,987 (units: 1,161)
@@ -242,7 +242,7 @@ As of 2020-12-18 18:25:36, r00t f0lds is rank 43
 240. gigabuck                             0.00%      818,387 (units:   168)
 241. nullsector                           0.00%      800,864 (units:    18)
 242. BreadDisease                         0.00%      799,135 (units:   133)
-243. SuRatt                               0.00%      767,606 (units:    65)
+243. SuRatt                               0.00%      772,740 (units:    66)
 244. SenorWatsonSan                       0.00%      764,018 (units:   204)
 245. KMelcher                             0.00%      746,083 (units:    93)
 246. NotSure                              0.00%      717,882 (units:    16)
