@@ -1,9 +1,9 @@
-As of 2020-12-19 15:15:48, hackers.town is rank 1210
-   with 39,955 work units for 457,083,842 credits
-  1. Werekat                      13.51%   61,742,143 (units: 1,904)
-  2. Kyle                         10.49%   47,951,127 (units: 2,111)
+As of 2020-12-19 16:05:37, hackers.town is rank 1210
+   with 39,957 work units for 457,240,481 credits
+  1. Werekat                      13.50%   61,742,143 (units: 1,904)
+  2. Kyle                         10.49%   47,961,430 (units: 2,112)
   3. wetdryvac                     7.03%   32,148,675 (units:   888)
-  4. bhtooefr                      6.16%   28,134,579 (units:   875)
+  4. bhtooefr                      6.19%   28,280,915 (units:   876)
   5. Polychrome                    5.78%   26,426,599 (units: 1,829)
   6. CookieMom                     5.04%   23,035,439 (units: 1,697)
   7. merimus                       4.50%   20,589,421 (units:   553)
@@ -18,7 +18,7 @@ As of 2020-12-19 15:15:48, hackers.town is rank 1210
  16. elfgirlsarah                  1.50%    6,845,555 (units:   955)
  17. dafuchs                       1.38%    6,320,938 (units:   393)
  18. paullindner                   1.14%    5,201,314 (units:   923)
- 19. SiinaCutie                    1.14%    5,188,566 (units:   235)
+ 19. SiinaCutie                    1.13%    5,188,566 (units:   235)
  20. FOOL                          1.12%    5,115,306 (units:   422)
  21. felix                         1.07%    4,901,391 (units:   185)
  22. r000t                         0.89%    4,069,816 (units:   121)
@@ -126,7 +126,7 @@ As of 2020-12-19 15:15:48, hackers.town is rank 1210
 124. nuklearfiziks                 0.01%       23,903 (units:     5)
 125. erosdiscordia                 0.01%       23,836 (units:    18)
 126. TMY                           0.01%       23,206 (units:    40)
-127. SJM                           0.01%       22,862 (units:     9)
+127. SJM                           0.00%       22,862 (units:     9)
 128. pixelpaperyarn                0.00%       19,221 (units:    29)
 129. electric.glowing.surf/        0.00%       17,368 (units:    21)
 130. shellkr                       0.00%       16,190 (units:    14)
