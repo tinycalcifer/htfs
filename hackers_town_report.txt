@@ -1,7 +1,7 @@
-As of 2020-12-20 13:05:40, hackers.town is rank 1211
-   with 40,009 work units for 458,675,976 credits
-  1. Werekat                      13.58%   62,273,811 (units: 1,920)
-  2. Kyle                         10.51%   48,219,195 (units: 2,123)
+As of 2020-12-20 13:45:37, hackers.town is rank 1211
+   with 40,012 work units for 458,859,908 credits
+  1. Werekat                      13.61%   62,447,693 (units: 1,922)
+  2. Kyle                         10.51%   48,229,245 (units: 2,124)
   3. wetdryvac                     7.01%   32,148,675 (units:   888)
   4. bhtooefr                      6.29%   28,862,534 (units:   882)
   5. Polychrome                    5.76%   26,433,615 (units: 1,832)
@@ -9,10 +9,10 @@ As of 2020-12-20 13:05:40, hackers.town is rank 1211
   7. merimus                       4.49%   20,589,421 (units:   553)
   8. packetcat                     4.32%   19,829,617 (units:   153)
   9. KemoNine                      4.08%   18,705,527 (units:   625)
- 10. Freakazoid                    4.01%   18,370,834 (units:   852)
+ 10. Freakazoid                    4.00%   18,370,834 (units:   852)
  11. dokuja                        3.95%   18,104,692 (units:   474)
  12. zx3                           1.88%    8,625,985 (units:   727)
- 13.                               1.88%    8,600,437 (units: 1,636)
+ 13.                               1.87%    8,600,437 (units: 1,636)
  14. Calcifer                      1.70%    7,802,361 (units:   193)
  15. c0debabe                      1.57%    7,224,123 (units:   245)
  16. elfgirlsarah                  1.49%    6,845,555 (units:   955)
@@ -54,7 +54,7 @@ As of 2020-12-20 13:05:40, hackers.town is rank 1211
  52. MaxAtCastleMalmeddy           0.17%      773,403 (units:   674)
  53. TG                            0.15%      694,922 (units:   143)
  54. HolSta                        0.13%      614,460 (units:   108)
- 55. synfinner                     0.12%      527,623 (units:    14)
+ 55. synfinner                     0.11%      527,623 (units:    14)
  56. tayo                          0.11%      497,485 (units:   150)
  57. technolust                    0.10%      458,534 (units:   355)
  58. pmosetc                       0.09%      434,717 (units:   420)
