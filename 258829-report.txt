@@ -1,5 +1,5 @@
-As of 2020-12-28 20:35:56, r00t f0lds is rank 42
-   with 761,426 work units for 34,101,493,292 credits
+As of 2020-12-28 20:45:56, r00t f0lds is rank 42
+   with 761,430 work units for 34,101,630,788 credits
   1. MasterKore                          10.14% 3,457,089,768 (units: 70,348)
   2. NeTTwerk                             8.21% 2,799,680,571 (units: 16,115)
   3. gaussie                              7.23% 2,465,552,766 (units: 20,972)
@@ -7,7 +7,7 @@ As of 2020-12-28 20:35:56, r00t f0lds is rank 42
   5. Ophie                                4.78% 1,629,014,655 (units: 108,571)
   6. GOLGO13                              4.19% 1,429,745,276 (units: 21,578)
   7. TommydCat                            4.04% 1,379,174,883 (units: 16,914)
-  8. Weld                                 3.69% 1,258,354,645 (units: 11,179)
+  8. Weld                                 3.69% 1,258,475,236 (units: 11,180)
   9. edsai                                3.48% 1,185,073,978 (units: 9,977)
  10. mowse                                3.01% 1,026,058,364 (units: 5,519)
  11. Gentry                               2.35%  802,314,652 (units: 11,641)
@@ -92,7 +92,7 @@ As of 2020-12-28 20:35:56, r00t f0lds is rank 42
  90. Shade                                0.07%   25,555,819 (units:   486)
  91. tal0n                                0.07%   23,880,873 (units: 3,460)
  92. Toonopolis                           0.07%   23,499,935 (units:   437)
- 93. 0xMatt                               0.06%   21,443,557 (units: 3,264)
+ 93. 0xMatt                               0.06%   21,455,367 (units: 3,265)
  94. MarvinPAndroid                       0.06%   19,837,004 (units:   874)
  95. just6979                             0.06%   19,059,665 (units:   886)
  96. johann8384                           0.05%   18,594,458 (units:   466)
@@ -112,7 +112,7 @@ As of 2020-12-28 20:35:56, r00t f0lds is rank 42
 110. 0xdeki                               0.04%   14,789,008 (units:   122)
 111. mrmichaeladavis                      0.04%   14,421,823 (units:   546)
 112. Bill_Terwilliger                     0.04%   14,328,609 (units:   424)
-113. jnathan                              0.04%   13,605,174 (units: 4,191)
+113. jnathan                              0.04%   13,609,725 (units: 4,192)
 114. leigh.culley                         0.04%   13,356,036 (units: 1,759)
 115. iparanoid                            0.04%   13,168,060 (units:   753)
 116. mhuletdev                            0.04%   12,687,806 (units:   158)
@@ -271,7 +271,7 @@ As of 2020-12-28 20:35:56, r00t f0lds is rank 42
 269. Syrinx                               0.00%      466,145 (units: 1,297)
 270. Matt_Hargett                         0.00%      459,775 (units:   118)
 271. Mnemonic                             0.00%      447,490 (units:   163)
-272. KbKhan                               0.00%      439,204 (units:   361)
+272. KbKhan                               0.00%      439,748 (units:   362)
 273. yuckf00                              0.00%      439,011 (units:   446)
 274. tapril                               0.00%      425,932 (units:   191)
 275. brianthemediocre                     0.00%      414,800 (units:   154)
