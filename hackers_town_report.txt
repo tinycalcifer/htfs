@@ -1,7 +1,7 @@
-As of 2021-01-01 00:50:35, hackers.town is rank 1223
-   with 40,583 work units for 466,325,944 credits
-  1. Werekat                      13.43%   62,610,542 (units: 1,941)
-  2. Kyle                         11.02%   51,402,762 (units: 2,277)
+As of 2021-01-01 01:16:01, hackers.town is rank 1223
+   with 40,595 work units for 466,331,719 credits
+  1. Werekat                      13.43%   62,613,347 (units: 1,942)
+  2. Kyle                         11.02%   51,405,710 (units: 2,278)
   3. wetdryvac                     6.89%   32,148,675 (units:   888)
   4. bhtooefr                      6.64%   30,962,414 (units:   956)
   5. Polychrome                    5.75%   26,818,834 (units: 1,900)
@@ -43,7 +43,7 @@ As of 2021-01-01 00:50:35, hackers.town is rank 1223
  41. kusuriya                      0.28%    1,314,178 (units:    68)
  42. rmgr                          0.28%    1,290,558 (units:    47)
  43. djsumdog                      0.26%    1,227,802 (units:   202)
- 44. LordBowlich                   0.26%    1,189,134 (units:   254)
+ 44. LordBowlich                   0.25%    1,189,134 (units:   254)
  45. qwazix                        0.25%    1,157,676 (units:   220)
  46. niconiconi                    0.24%    1,100,400 (units:   112)
  47. TerrorBite                    0.23%    1,085,432 (units:    36)
@@ -62,7 +62,7 @@ As of 2021-01-01 00:50:35, hackers.town is rank 1223
  60. protospork                    0.09%      423,894 (units:    59)
  61. Hany                          0.09%      421,021 (units:    99)
  62. Nemesis                       0.09%      410,967 (units:   338)
- 63. Logomancer                    0.09%      402,601 (units: 1,478)
+ 63. Logomancer                    0.09%      402,623 (units: 1,488)
  64. fl0wn                         0.08%      388,420 (units:    74)
  65. Neue.City                     0.07%      339,075 (units:   160)
  66. csrsuoeb                      0.07%      330,048 (units:    69)
