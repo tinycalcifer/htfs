@@ -1,8 +1,8 @@
-As of 2021-01-07 19:16:07, r00t f0lds is rank 42
-   with 777,571 work units for 35,372,578,685 credits
+As of 2021-01-07 19:26:03, r00t f0lds is rank 42
+   with 777,576 work units for 35,372,726,198 credits
   1. MasterKore                           9.77% 3,457,089,768 (units: 70,348)
   2. NeTTwerk                             7.91% 2,799,680,571 (units: 16,115)
-  3. gaussie                              7.61% 2,692,703,655 (units: 22,221)
+  3. gaussie                              7.61% 2,692,842,406 (units: 22,222)
   4. dildog                               5.64% 1,994,880,416 (units: 15,610)
   5. Ophie                                4.61% 1,629,014,655 (units: 108,571)
   6. TommydCat                            4.07% 1,441,132,157 (units: 17,555)
@@ -19,7 +19,7 @@ As of 2021-01-07 19:16:07, r00t f0lds is rank 42
  17. Steve_Castellarin                    1.56%  550,109,590 (units: 8,890)
  18. Sangfroid                            1.55%  548,669,290 (units: 10,510)
  19. Scba                                 1.49%  525,980,642 (units: 6,390)
- 20. Dubhbairn                            1.29%  455,786,576 (units: 4,785)
+ 20. Dubhbairn                            1.29%  455,790,153 (units: 4,786)
  21. spam                                 1.14%  403,098,675 (units: 4,351)
  22. BELTIWAN                             1.05%  370,586,006 (units: 3,785)
  23. crax                                 0.99%  351,331,364 (units: 2,239)
@@ -36,7 +36,7 @@ As of 2021-01-07 19:16:07, r00t f0lds is rank 42
  34. Moss                                 0.61%  217,534,159 (units: 4,201)
  35. Stirling_Goetz                       0.60%  212,849,489 (units: 4,396)
  36. Privacywonk                          0.60%  211,424,986 (units: 6,775)
- 37. /dev/random                          0.57%  202,418,705 (units: 5,245)
+ 37. /dev/random                          0.57%  202,422,153 (units: 5,246)
  38. sarmento                             0.56%  197,801,336 (units: 4,453)
  39. Calcifer                             0.55%  193,371,433 (units: 3,014)
  40. mubix                                0.53%  187,973,835 (units: 2,009)
@@ -162,7 +162,7 @@ As of 2021-01-07 19:16:07, r00t f0lds is rank 42
 160. wurb                                 0.01%    4,396,875 (units:   226)
 161. rhf                                  0.01%    4,137,672 (units: 2,962)
 162. illusive                             0.01%    4,036,974 (units:   655)
-163. silksnep                             0.01%    4,020,333 (units: 2,894)
+163. silksnep                             0.01%    4,021,583 (units: 2,895)
 164. HolSta                               0.01%    4,016,421 (units:   437)
 165. comrade_eevee                        0.01%    3,964,788 (units:   439)
 166. Ubergeeken                           0.01%    3,809,282 (units:   835)
@@ -203,7 +203,7 @@ As of 2021-01-07 19:16:07, r00t f0lds is rank 42
 201. yunginnanet                          0.00%    1,711,486 (units:   251)
 202. kmem                                 0.00%    1,636,668 (units:   364)
 203. Irr3L3vant                           0.00%    1,626,569 (units:   983)
-204. gwozniak                             0.00%    1,608,889 (units: 1,264)
+204. gwozniak                             0.00%    1,609,376 (units: 1,265)
 205. it-awareness                         0.00%    1,573,039 (units:   467)
 206. Adam                                 0.00%    1,563,844 (units:    35)
 207. friedsriracha                        0.00%    1,553,482 (units:    86)
