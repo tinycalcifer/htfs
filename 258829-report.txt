@@ -1,5 +1,5 @@
-As of 2021-01-08 00:05:59, r00t f0lds is rank 42
-   with 777,881 work units for 35,399,045,820 credits
+As of 2021-01-08 00:16:06, r00t f0lds is rank 42
+   with 777,885 work units for 35,399,521,225 credits
   1. MasterKore                           9.77% 3,457,089,768 (units: 70,348)
   2. NeTTwerk                             7.91% 2,799,680,571 (units: 16,115)
   3. gaussie                              7.62% 2,698,128,213 (units: 22,245)
@@ -10,12 +10,12 @@ As of 2021-01-08 00:05:59, r00t f0lds is rank 42
   8. Weld                                 3.66% 1,296,569,431 (units: 11,370)
   9. edsai                                3.44% 1,217,011,939 (units: 10,190)
  10. mowse                                2.90% 1,026,058,364 (units: 5,519)
- 11. Gentry                               2.37%  840,583,268 (units: 11,972)
+ 11. Gentry                               2.37%  840,602,519 (units: 11,973)
  12. Nicolas_Dawson                       2.22%  785,118,443 (units: 4,849)
  13. Chris_Eng                            2.15%  762,008,304 (units: 6,159)
  14. Swern                                1.82%  645,042,923 (units: 7,975)
  15. dokuja                               1.81%  641,143,743 (units: 3,952)
- 16. wetdryvac                            1.63%  577,533,613 (units: 8,184)
+ 16. wetdryvac                            1.63%  577,594,005 (units: 8,185)
  17. Steve_Castellarin                    1.56%  550,723,934 (units: 8,899)
  18. Sangfroid                            1.55%  548,675,235 (units: 10,514)
  19. Scba                                 1.49%  526,211,930 (units: 6,392)
@@ -24,7 +24,7 @@ As of 2021-01-08 00:05:59, r00t f0lds is rank 42
  22. BELTIWAN                             1.05%  370,666,353 (units: 3,786)
  23. crax                                 0.99%  351,747,972 (units: 2,240)
  24. SWinder                              0.96%  340,075,387 (units: 5,925)
- 25. entr0pybitz                          0.94%  334,197,830 (units: 2,698)
+ 25. entr0pybitz                          0.95%  334,593,105 (units: 2,699)
  26. Kranfahrer                           0.91%  322,193,840 (units: 7,094)
  27. coldyfoldz                           0.90%  319,664,173 (units: 3,772)
  28. tvidas                               0.89%  313,911,425 (units: 5,936)
@@ -170,7 +170,7 @@ As of 2021-01-08 00:05:59, r00t f0lds is rank 42
 168. nfran008                             0.01%    3,730,273 (units: 2,793)
 169. Shitty_Folding_Rigs                  0.01%    3,523,633 (units:   821)
 170. JoeWilly                             0.01%    3,402,867 (units: 1,274)
-171. larry0                               0.01%    3,216,876 (units: 2,999)
+171. larry0                               0.01%    3,217,363 (units: 3,000)
 172. m0h4y                                0.01%    3,117,663 (units:   968)
 173. sswheels1904                         0.01%    3,028,487 (units:   343)
 174. savagejen                            0.01%    2,988,235 (units:   109)
