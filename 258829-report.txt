@@ -1,7 +1,7 @@
-As of 2021-01-14 14:46:18, r00t f0lds is rank 42
-   with 787,079 work units for 36,176,438,211 credits
+As of 2021-01-14 14:56:26, r00t f0lds is rank 42
+   with 787,084 work units for 36,176,900,676 credits
   1. MasterKore                           9.56% 3,457,089,768 (units: 70,348)
-  2. gaussie                              7.93% 2,869,746,868 (units: 23,229)
+  2. gaussie                              7.93% 2,870,198,692 (units: 23,232)
   3. NeTTwerk                             7.74% 2,799,680,571 (units: 16,115)
   4. dildog                               5.69% 2,057,701,804 (units: 15,899)
   5. Ophie                                4.50% 1,629,014,655 (units: 108,571)
@@ -41,7 +41,7 @@ As of 2021-01-14 14:46:18, r00t f0lds is rank 42
  39. sarmento                             0.55%  197,801,336 (units: 4,453)
  40. mubix                                0.52%  187,973,835 (units: 2,009)
  41. knarph                               0.48%  174,700,968 (units: 4,608)
- 42. Christian_Townsdin                   0.40%  144,051,180 (units: 2,409)
+ 42. Christian_Townsdin                   0.40%  144,058,811 (units: 2,410)
  43. skipper                              0.39%  142,619,738 (units: 1,766)
  44. Erik_Fichtner                        0.39%  142,008,213 (units: 2,459)
  45. S0l3mn                               0.37%  134,962,958 (units: 5,358)
@@ -161,7 +161,7 @@ As of 2021-01-14 14:46:18, r00t f0lds is rank 42
 159. Miah                                 0.01%    4,499,294 (units:    53)
 160. savagejen                            0.01%    4,478,814 (units:   124)
 161. wurb                                 0.01%    4,396,875 (units:   226)
-162. silksnep                             0.01%    4,227,521 (units: 2,956)
+162. silksnep                             0.01%    4,230,531 (units: 2,957)
 163. rhf                                  0.01%    4,137,672 (units: 2,962)
 164. illusive                             0.01%    4,036,974 (units:   655)
 165. HolSta                               0.01%    4,016,421 (units:   437)
