@@ -1,9 +1,9 @@
-As of 2021-01-16 00:56:22, r00t f0lds is rank 42
-   with 788,854 work units for 36,293,269,840 credits
+As of 2021-01-16 01:06:22, r00t f0lds is rank 42
+   with 788,858 work units for 36,293,645,358 credits
   1. MasterKore                           9.53% 3,457,089,768 (units: 70,348)
-  2. gaussie                              7.93% 2,879,858,281 (units: 23,310)
+  2. gaussie                              7.94% 2,879,976,819 (units: 23,311)
   3. NeTTwerk                             7.71% 2,799,680,571 (units: 16,115)
-  4. dildog                               5.71% 2,072,123,325 (units: 15,984)
+  4. dildog                               5.71% 2,072,374,707 (units: 15,985)
   5. Ophie                                4.49% 1,629,014,655 (units: 108,571)
   6. TommydCat                            4.11% 1,493,119,615 (units: 18,026)
   7. GOLGO13                              3.95% 1,432,785,357 (units: 21,729)
@@ -37,7 +37,7 @@ As of 2021-01-16 00:56:22, r00t f0lds is rank 42
  35. X                                    0.62%  224,787,108 (units: 3,461)
  36. Stirling_Goetz                       0.59%  213,996,382 (units: 4,413)
  37. /dev/random                          0.58%  210,942,368 (units: 5,393)
- 38. Calcifer                             0.56%  202,704,129 (units: 3,151)
+ 38. Calcifer                             0.56%  202,709,686 (units: 3,152)
  39. sarmento                             0.55%  197,801,336 (units: 4,453)
  40. mubix                                0.52%  187,973,835 (units: 2,009)
  41. knarph                               0.48%  174,700,968 (units: 4,608)
@@ -68,7 +68,7 @@ As of 2021-01-16 00:56:22, r00t f0lds is rank 42
  66. Bobaxos                              0.17%   62,654,617 (units:   769)
  67. mbm                                  0.16%   57,671,879 (units: 2,949)
  68. LamontWaugh                          0.16%   56,286,823 (units: 3,842)
- 69. PhreakMonkey                         0.15%   55,935,550 (units: 2,961)
+ 69. PhreakMonkey                         0.15%   55,935,591 (units: 2,962)
  70. Xenophile                            0.15%   54,930,178 (units: 1,371)
  71. timforgot                            0.14%   49,943,609 (units: 2,515)
  72. merimus                              0.13%   47,156,855 (units: 1,255)
