@@ -1,7 +1,7 @@
-As of 2021-01-18 06:16:16, r00t f0lds is rank 42
-   with 792,494 work units for 36,499,115,183 credits
+As of 2021-01-18 06:26:13, r00t f0lds is rank 42
+   with 792,498 work units for 36,499,553,530 credits
   1. MasterKore                           9.47% 3,457,089,768 (units: 70,348)
-  2. gaussie                              7.95% 2,901,529,759 (units: 23,514)
+  2. gaussie                              7.95% 2,901,966,641 (units: 23,516)
   3. NeTTwerk                             7.67% 2,799,680,571 (units: 16,115)
   4. dildog                               5.73% 2,091,096,687 (units: 16,126)
   5. Ophie                                4.46% 1,629,014,655 (units: 108,571)
@@ -68,7 +68,7 @@ As of 2021-01-18 06:16:16, r00t f0lds is rank 42
  66. Bobaxos                              0.17%   62,654,617 (units:   769)
  67. mbm                                  0.16%   58,426,641 (units: 2,991)
  68. LamontWaugh                          0.15%   56,502,818 (units: 3,874)
- 69. PhreakMonkey                         0.15%   55,994,350 (units: 3,294)
+ 69. PhreakMonkey                         0.15%   55,994,455 (units: 3,295)
  70. Xenophile                            0.15%   54,936,963 (units: 1,374)
  71. timforgot                            0.14%   50,507,301 (units: 2,542)
  72. merimus                              0.13%   47,156,855 (units: 1,255)
@@ -309,7 +309,7 @@ As of 2021-01-18 06:16:16, r00t f0lds is rank 42
 307. decius615                            0.00%      201,268 (units:   220)
 308. St4rf1ght3r                          0.00%      194,388 (units:    52)
 309. B0uNc3R                              0.00%      187,760 (units:   195)
-310. secitup                              0.00%      183,980 (units:   176)
+310. secitup                              0.00%      185,340 (units:   177)
 311. FX                                   0.00%      176,104 (units:    24)
 312. padzero                              0.00%      175,004 (units:    81)
 313. Flipper                              0.00%      162,515 (units:    50)
