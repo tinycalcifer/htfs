@@ -1,8 +1,8 @@
-As of 2021-01-19 20:06:25, hackers.town is rank 1248
-   with 41,331 work units for 476,818,151 credits
-  1. Werekat                      13.27%   63,264,748 (units: 2,029)
-  2. Kyle                         11.33%   54,009,061 (units: 2,390)
-  3. bhtooefr                      7.32%   34,885,862 (units: 1,124)
+As of 2021-01-19 20:16:14, hackers.town is rank 1248
+   with 41,332 work units for 476,939,333 credits
+  1. Werekat                      13.26%   63,264,748 (units: 2,029)
+  2. Kyle                         11.32%   54,009,061 (units: 2,390)
+  3. bhtooefr                      7.31%   34,885,862 (units: 1,124)
   4. wetdryvac                     6.74%   32,148,675 (units:   888)
   5. Polychrome                    5.85%   27,907,911 (units: 2,000)
   6. CookieMom                     5.06%   24,133,437 (units: 1,714)
@@ -14,7 +14,7 @@ As of 2021-01-19 20:06:25, hackers.town is rank 1248
  12.                               2.03%    9,700,781 (units: 1,796)
  13. zx3                           1.81%    8,625,985 (units:   727)
  14. Calcifer                      1.64%    7,802,361 (units:   193)
- 15. c0debabe                      1.52%    7,224,123 (units:   245)
+ 15. c0debabe                      1.51%    7,224,123 (units:   245)
  16. elfgirlsarah                  1.44%    6,845,555 (units:   955)
  17. dafuchs                       1.33%    6,320,938 (units:   393)
  18. paullindner                   1.09%    5,201,314 (units:   923)
@@ -40,8 +40,8 @@ As of 2021-01-19 20:06:25, hackers.town is rank 1248
  38. rfquerin                      0.34%    1,638,770 (units:   107)
  39. DJ_Sundog                     0.32%    1,513,675 (units:   330)
  40. sungo                         0.30%    1,432,642 (units:   399)
- 41. kusuriya                      0.28%    1,314,178 (units:    68)
- 42. FractumSeraph                 0.27%    1,291,171 (units:    19)
+ 41. FractumSeraph                 0.30%    1,412,353 (units:    20)
+ 42. kusuriya                      0.28%    1,314,178 (units:    68)
  43. rmgr                          0.27%    1,290,558 (units:    47)
  44. djsumdog                      0.26%    1,227,802 (units:   202)
  45. LordBowlich                   0.25%    1,189,134 (units:   254)
