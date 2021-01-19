@@ -1,8 +1,8 @@
-As of 2021-01-19 06:06:11, hackers.town is rank 1247
-   with 41,304 work units for 475,989,756 credits
-  1. Werekat                      13.23%   62,952,101 (units: 2,023)
+As of 2021-01-19 06:36:13, hackers.town is rank 1247
+   with 41,306 work units for 476,025,362 credits
+  1. Werekat                      13.22%   62,952,101 (units: 2,023)
   2. Kyle                         11.35%   54,009,061 (units: 2,390)
-  3. bhtooefr                      7.30%   34,733,219 (units: 1,118)
+  3. bhtooefr                      7.30%   34,736,250 (units: 1,119)
   4. wetdryvac                     6.75%   32,148,675 (units:   888)
   5. Polychrome                    5.85%   27,866,611 (units: 1,994)
   6. CookieMom                     5.07%   24,133,437 (units: 1,714)
@@ -21,7 +21,7 @@ As of 2021-01-19 06:06:11, hackers.town is rank 1247
  19. SiinaCutie                    1.09%    5,188,566 (units:   235)
  20. FOOL                          1.08%    5,138,460 (units:   445)
  21. felix                         1.03%    4,901,391 (units:   185)
- 22. r000t                         0.86%    4,069,816 (units:   121)
+ 22. r000t                         0.85%    4,069,816 (units:   121)
  23. Anonymous                     0.85%    4,060,785 (units: 1,581)
  24. Mr.House                      0.83%    3,947,699 (units:   202)
  25. jkl                           0.77%    3,650,043 (units:   859)
@@ -47,8 +47,8 @@ As of 2021-01-19 06:06:11, hackers.town is rank 1247
  45. qwazix                        0.24%    1,157,676 (units:   220)
  46. niconiconi                    0.23%    1,100,400 (units:   112)
  47. TerrorBite                    0.23%    1,085,432 (units:    36)
- 48. mainebot                      0.21%    1,005,210 (units:    58)
- 49. FractumSeraph                 0.21%      989,742 (units:    16)
+ 48. FractumSeraph                 0.21%    1,022,317 (units:    17)
+ 49. mainebot                      0.21%    1,005,210 (units:    58)
  50. Requiem                       0.19%      893,950 (units:   296)
  51. Null                          0.17%      818,594 (units:    22)
  52. m68k                          0.17%      812,086 (units:   193)
