@@ -1,6 +1,6 @@
-As of 2021-01-19 22:46:13, hackers.town is rank 1248
-   with 41,335 work units for 477,003,651 credits
-  1. Werekat                      13.26%   63,267,876 (units: 2,030)
+As of 2021-01-20 00:26:27, hackers.town is rank 1248
+   with 41,338 work units for 477,099,301 credits
+  1. Werekat                      13.28%   63,360,442 (units: 2,032)
   2. Kyle                         11.32%   54,009,061 (units: 2,390)
   3. bhtooefr                      7.31%   34,888,503 (units: 1,125)
   4. wetdryvac                     6.74%   32,148,675 (units:   888)
@@ -10,13 +10,13 @@ As of 2021-01-19 22:46:13, hackers.town is rank 1248
   8. packetcat                     4.16%   19,829,617 (units:   153)
   9. KemoNine                      3.92%   18,705,527 (units:   625)
  10. Freakazoid                    3.85%   18,370,834 (units:   852)
- 11. dokuja                        3.80%   18,104,692 (units:   474)
+ 11. dokuja                        3.79%   18,104,692 (units:   474)
  12.                               2.03%    9,700,781 (units: 1,796)
  13. zx3                           1.81%    8,625,985 (units:   727)
  14. Calcifer                      1.64%    7,802,361 (units:   193)
  15. c0debabe                      1.51%    7,224,123 (units:   245)
- 16. elfgirlsarah                  1.44%    6,845,555 (units:   955)
- 17. dafuchs                       1.33%    6,320,938 (units:   393)
+ 16. elfgirlsarah                  1.43%    6,845,555 (units:   955)
+ 17. dafuchs                       1.32%    6,320,938 (units:   393)
  18. paullindner                   1.09%    5,201,314 (units:   923)
  19. SiinaCutie                    1.09%    5,188,566 (units:   235)
  20. FOOL                          1.08%    5,138,460 (units:   445)
@@ -39,7 +39,7 @@ As of 2021-01-19 22:46:13, hackers.town is rank 1248
  37. avolkov                       0.40%    1,891,826 (units:   104)
  38. rfquerin                      0.34%    1,638,770 (units:   107)
  39. DJ_Sundog                     0.32%    1,513,675 (units:   330)
- 40. FractumSeraph                 0.31%    1,470,902 (units:    21)
+ 40. FractumSeraph                 0.31%    1,473,986 (units:    22)
  41. sungo                         0.30%    1,432,642 (units:   399)
  42. kusuriya                      0.28%    1,314,178 (units:    68)
  43. rmgr                          0.27%    1,290,558 (units:    47)
