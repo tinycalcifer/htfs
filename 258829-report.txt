@@ -1,7 +1,7 @@
-As of 2021-01-23 21:26:35, r00t f0lds is rank 42
-   with 800,431 work units for 37,011,937,692 credits
+As of 2021-01-23 21:36:41, r00t f0lds is rank 42
+   with 800,438 work units for 37,012,414,010 credits
   1. MasterKore                           9.34% 3,457,089,768 (units: 70,348)
-  2. gaussie                              8.03% 2,973,243,403 (units: 24,144)
+  2. gaussie                              8.03% 2,973,659,127 (units: 24,146)
   3. NeTTwerk                             7.56% 2,799,680,571 (units: 16,115)
   4. dildog                               5.75% 2,129,918,848 (units: 16,352)
   5. Ophie                                4.40% 1,629,014,655 (units: 108,571)
@@ -32,7 +32,7 @@ As of 2021-01-23 21:26:35, r00t f0lds is rank 42
  30. Resident                             0.73%  268,936,363 (units: 5,929)
  31. silicosis                            0.72%  266,669,755 (units: 3,678)
  32. Privacywonk                          0.67%  247,004,941 (units: 7,045)
- 33. Moss                                 0.66%  243,193,226 (units: 4,660)
+ 33. Moss                                 0.66%  243,239,699 (units: 4,662)
  34. X                                    0.62%  230,322,622 (units: 3,535)
  35. AWR                                  0.62%  228,885,692 (units: 5,772)
  36. Stirling_Goetz                       0.59%  219,924,498 (units: 4,518)
@@ -102,8 +102,8 @@ As of 2021-01-23 21:26:35, r00t f0lds is rank 42
 100. Mudge_Idle                           0.05%   18,383,425 (units: 2,467)
 101. simonlbn                             0.05%   18,136,488 (units: 1,969)
 102. datagoon                             0.05%   17,997,923 (units:   935)
-103. dethveggie                           0.05%   17,676,987 (units: 2,920)
-104. mikecherry                           0.05%   17,673,524 (units: 2,045)
+103. mikecherry                           0.05%   17,685,624 (units: 2,046)
+104. dethveggie                           0.05%   17,676,987 (units: 2,920)
 105. snowchyld                            0.05%   17,657,087 (units:   795)
 106. ghostsarespooky                      0.05%   17,242,418 (units: 3,672)
 107. Brianmoney233                        0.04%   15,949,817 (units: 1,210)
@@ -230,7 +230,7 @@ As of 2021-01-23 21:26:35, r00t f0lds is rank 42
 228. Nops                                 0.00%    1,038,438 (units:   904)
 229. claudiom                             0.00%    1,027,951 (units: 3,238)
 230. Ra                                   0.00%      998,059 (units:   842)
-231. SIGAD                                0.00%      985,439 (units:   393)
+231. SIGAD                                0.00%      987,095 (units:   394)
 232. Ian_Melven                           0.00%      937,138 (units:   160)
 233. 11backslashes                        0.00%      931,714 (units:   250)
 234. icesurfer                            0.00%      925,229 (units:   293)
@@ -329,7 +329,7 @@ As of 2021-01-23 21:26:35, r00t f0lds is rank 42
 327. Artimage                             0.00%      123,791 (units:   134)
 328. autobahn                             0.00%      119,253 (units:    43)
 329. south-oceanside                      0.00%      118,690 (units:    79)
-330. beepbeep                             0.00%      118,029 (units:   114)
+330. beepbeep                             0.00%      118,394 (units:   115)
 331. WillyChuck                           0.00%      117,481 (units:    93)
 332. PNX                                  0.00%      114,644 (units:     8)
 333. Netdude                              0.00%      112,075 (units:   129)
