@@ -1,5 +1,5 @@
-As of 2021-01-23 08:36:35, r00t f0lds is rank 42
-   with 799,808 work units for 36,961,509,033 credits
+As of 2021-01-23 08:46:31, r00t f0lds is rank 42
+   with 799,812 work units for 36,961,683,520 credits
   1. MasterKore                           9.35% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.02% 2,962,848,678 (units: 24,073)
   3. NeTTwerk                             7.57% 2,799,680,571 (units: 16,115)
@@ -12,8 +12,8 @@ As of 2021-01-23 08:36:35, r00t f0lds is rank 42
  10. mowse                                2.78% 1,026,058,364 (units: 5,519)
  11. Gentry                               2.44%  900,838,652 (units: 12,418)
  12. Nicolas_Dawson                       2.33%  861,117,477 (units: 5,311)
- 13. Chris_Eng                            2.24%  828,029,130 (units: 6,711)
- 14. Swern                                1.91%  706,462,205 (units: 8,589)
+ 13. Chris_Eng                            2.24%  828,079,247 (units: 6,712)
+ 14. Swern                                1.91%  706,466,216 (units: 8,590)
  15. dokuja                               1.84%  680,917,401 (units: 4,154)
  16. wetdryvac                            1.69%  623,129,825 (units: 8,775)
  17. Steve_Castellarin                    1.57%  581,571,975 (units: 9,526)
@@ -27,7 +27,7 @@ As of 2021-01-23 08:36:35, r00t f0lds is rank 42
  25. SWinder                              0.99%  365,498,603 (units: 6,122)
  26. coldyfoldz                           0.95%  350,662,189 (units: 4,022)
  27. tvidas                               0.92%  341,693,082 (units: 6,503)
- 28. natrololol                           0.88%  324,010,735 (units: 3,421)
+ 28. natrololol                           0.88%  324,023,107 (units: 3,422)
  29. Kranfahrer                           0.87%  322,193,840 (units: 7,094)
  30. Resident                             0.73%  268,377,016 (units: 5,925)
  31. silicosis                            0.72%  266,669,755 (units: 3,678)
@@ -71,7 +71,7 @@ As of 2021-01-23 08:36:35, r00t f0lds is rank 42
  69. PhreakMonkey                         0.15%   56,094,440 (units: 3,967)
  70. Xenophile                            0.15%   54,953,639 (units: 1,381)
  71. timforgot                            0.14%   51,768,313 (units: 2,594)
- 72. simestd                              0.14%   50,850,290 (units:   464)
+ 72. simestd                              0.14%   50,958,277 (units:   465)
  73. merimus                              0.13%   47,156,855 (units: 1,255)
  74. CoolAcid                             0.13%   46,536,304 (units: 1,745)
  75. martums                              0.13%   46,348,785 (units: 6,085)
@@ -400,8 +400,8 @@ As of 2021-01-23 08:36:35, r00t f0lds is rank 42
 398. n0x                                  0.00%        9,858 (units:     2)
 399. Mystic_Chaos                         0.00%        9,716 (units:     8)
 400. ad767                                0.00%        9,657 (units:    10)
-401. HailSatan                            0.00%        9,405 (units:     1)
-402. r                                    0.00%        9,405 (units:     1)
+401. r                                    0.00%        9,405 (units:     1)
+402. HailSatan                            0.00%        9,405 (units:     1)
 403. glawend                              0.00%        8,420 (units:     9)
 404. Elliot                               0.00%        7,685 (units:     1)
 405. ZachBl                               0.00%        6,867 (units:     3)
