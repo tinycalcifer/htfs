@@ -1,13 +1,13 @@
-As of 2021-01-23 00:56:24, hackers.town is rank 1245
-   with 41,435 work units for 480,660,458 credits
-  1. Werekat                      13.40%   64,431,134 (units: 2,060)
-  2. Kyle                         11.24%   54,009,061 (units: 2,390)
+As of 2021-01-23 01:36:28, hackers.town is rank 1245
+   with 41,438 work units for 480,801,003 credits
+  1. Werekat                      13.42%   64,544,188 (units: 2,062)
+  2. Kyle                         11.23%   54,009,061 (units: 2,390)
   3. bhtooefr                      7.64%   36,721,434 (units: 1,149)
   4. wetdryvac                     6.69%   32,148,675 (units:   888)
-  5. Polychrome                    5.84%   28,056,935 (units: 2,018)
+  5. Polychrome                    5.84%   28,084,426 (units: 2,019)
   6. CookieMom                     5.02%   24,133,437 (units: 1,714)
   7. merimus                       4.28%   20,589,421 (units:   553)
-  8. packetcat                     4.13%   19,829,617 (units:   153)
+  8. packetcat                     4.12%   19,829,617 (units:   153)
   9. KemoNine                      3.89%   18,705,527 (units:   625)
  10. Freakazoid                    3.82%   18,370,834 (units:   852)
  11. dokuja                        3.77%   18,104,692 (units:   474)
@@ -16,7 +16,7 @@ As of 2021-01-23 00:56:24, hackers.town is rank 1245
  14. Calcifer                      1.62%    7,802,361 (units:   193)
  15. c0debabe                      1.50%    7,224,123 (units:   245)
  16. elfgirlsarah                  1.42%    6,845,555 (units:   955)
- 17. dafuchs                       1.32%    6,320,938 (units:   393)
+ 17. dafuchs                       1.31%    6,320,938 (units:   393)
  18. paullindner                   1.08%    5,201,314 (units:   923)
  19. SiinaCutie                    1.08%    5,188,566 (units:   235)
  20. FOOL                          1.07%    5,138,460 (units:   445)
@@ -81,7 +81,7 @@ As of 2021-01-23 00:56:24, hackers.town is rank 1245
  79. Imani                         0.04%      209,939 (units:   273)
  80. LordMathis                    0.04%      207,717 (units:    36)
  81. atinciona                     0.04%      183,705 (units:   224)
- 82. grasshopper                   0.04%      168,249 (units:   192)
+ 82. grasshopper                   0.03%      168,249 (units:   192)
  83. Michael_Simkin                0.03%      163,367 (units:    64)
  84. RandyNose                     0.03%      162,127 (units:   210)
  85. BadGateway                    0.03%      161,439 (units:    84)
