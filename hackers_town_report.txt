@@ -1,16 +1,16 @@
-As of 2021-01-23 04:36:21, hackers.town is rank 1245
-   with 41,442 work units for 480,820,483 credits
-  1. Werekat                      13.43%   64,555,595 (units: 2,065)
+As of 2021-01-23 05:06:25, hackers.town is rank 1245
+   with 41,443 work units for 480,966,384 credits
+  1. Werekat                      13.42%   64,555,595 (units: 2,065)
   2. Kyle                         11.23%   54,009,061 (units: 2,390)
-  3. bhtooefr                      7.64%   36,729,507 (units: 1,150)
-  4. wetdryvac                     6.69%   32,148,675 (units:   888)
+  3. bhtooefr                      7.67%   36,875,408 (units: 1,151)
+  4. wetdryvac                     6.68%   32,148,675 (units:   888)
   5. Polychrome                    5.84%   28,084,426 (units: 2,019)
   6. CookieMom                     5.02%   24,133,437 (units: 1,714)
   7. merimus                       4.28%   20,589,421 (units:   553)
   8. packetcat                     4.12%   19,829,617 (units:   153)
   9. KemoNine                      3.89%   18,705,527 (units:   625)
  10. Freakazoid                    3.82%   18,370,834 (units:   852)
- 11. dokuja                        3.77%   18,104,692 (units:   474)
+ 11. dokuja                        3.76%   18,104,692 (units:   474)
  12.                               2.05%    9,847,524 (units: 1,806)
  13. zx3                           1.79%    8,625,985 (units:   727)
  14. Calcifer                      1.62%    7,802,361 (units:   193)
@@ -28,7 +28,7 @@ As of 2021-01-23 04:36:21, hackers.town is rank 1245
  26. skraelingjar                  0.70%    3,352,989 (units:    64)
  27. Kranfahrer                    0.63%    3,024,932 (units:   201)
  28. ryen                          0.61%    2,936,587 (units:   208)
- 29. radicaledward                 0.57%    2,717,086 (units:    90)
+ 29. radicaledward                 0.56%    2,717,086 (units:    90)
  30. Canageek                      0.54%    2,577,892 (units:   431)
  31. drwho                         0.51%    2,457,926 (units:   500)
  32. The_Gibson(HTown)             0.48%    2,330,035 (units:   212)
