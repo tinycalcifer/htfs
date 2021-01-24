@@ -1,9 +1,9 @@
-As of 2021-01-24 02:36:31, hackers.town is rank 1243
-   with 41,469 work units for 482,310,819 credits
+As of 2021-01-24 02:46:32, hackers.town is rank 1243
+   with 41,470 work units for 482,466,838 credits
   1. Werekat                      13.51%   65,167,555 (units: 2,074)
-  2. Kyle                         11.20%   54,009,061 (units: 2,390)
-  3. bhtooefr                      7.77%   37,486,723 (units: 1,161)
-  4. wetdryvac                     6.67%   32,148,675 (units:   888)
+  2. Kyle                         11.19%   54,009,061 (units: 2,390)
+  3. bhtooefr                      7.80%   37,642,742 (units: 1,162)
+  4. wetdryvac                     6.66%   32,148,675 (units:   888)
   5. Polychrome                    5.83%   28,122,788 (units: 2,023)
   6. CookieMom                     5.00%   24,133,437 (units: 1,714)
   7. merimus                       4.27%   20,589,421 (units:   553)
@@ -25,7 +25,7 @@ As of 2021-01-24 02:36:31, hackers.town is rank 1243
  23. r000t                         0.84%    4,069,816 (units:   121)
  24. Mr.House                      0.82%    3,947,699 (units:   202)
  25. jkl                           0.76%    3,650,043 (units:   859)
- 26. skraelingjar                  0.70%    3,352,989 (units:    64)
+ 26. skraelingjar                  0.69%    3,352,989 (units:    64)
  27. Kranfahrer                    0.63%    3,024,932 (units:   201)
  28. ryen                          0.61%    2,936,587 (units:   208)
  29. radicaledward                 0.56%    2,717,086 (units:    90)
@@ -47,7 +47,7 @@ As of 2021-01-24 02:36:31, hackers.town is rank 1243
  45. LordBowlich                   0.25%    1,189,134 (units:   254)
  46. qwazix                        0.24%    1,157,676 (units:   220)
  47. niconiconi                    0.23%    1,100,400 (units:   112)
- 48. TerrorBite                    0.23%    1,085,432 (units:    36)
+ 48. TerrorBite                    0.22%    1,085,432 (units:    36)
  49. mainebot                      0.21%    1,005,210 (units:    58)
  50. Requiem                       0.19%      893,950 (units:   296)
  51. Null                          0.17%      818,594 (units:    22)
