@@ -1,5 +1,5 @@
-As of 2021-01-24 05:26:36, r00t f0lds is rank 42
-   with 800,817 work units for 37,043,737,388 credits
+As of 2021-01-24 05:36:32, r00t f0lds is rank 42
+   with 800,820 work units for 37,043,798,796 credits
   1. MasterKore                           9.33% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.05% 2,982,994,154 (units: 24,203)
   3. NeTTwerk                             7.56% 2,799,680,571 (units: 16,115)
@@ -89,7 +89,7 @@ As of 2021-01-24 05:26:36, r00t f0lds is rank 42
  87. SecureFlorindo                       0.09%   33,787,314 (units:   727)
  88. technolust                           0.09%   33,448,345 (units: 4,836)
  89. c0debabe                             0.08%   29,051,468 (units:   793)
- 90. Neekop                               0.08%   28,785,539 (units: 2,393)
+ 90. Neekop                               0.08%   28,795,341 (units: 2,394)
  91. MarvinPAndroid                       0.07%   25,774,459 (units: 1,080)
  92. Shade                                0.07%   25,555,819 (units:   486)
  93. tal0n                                0.06%   23,880,873 (units: 3,460)
@@ -100,7 +100,7 @@ As of 2021-01-24 05:26:36, r00t f0lds is rank 42
  98. gattaca                              0.05%   18,845,337 (units: 4,121)
  99. johann8384                           0.05%   18,594,458 (units:   466)
 100. Mudge_Idle                           0.05%   18,441,830 (units: 2,469)
-101. simonlbn                             0.05%   18,199,684 (units: 1,975)
+101. simonlbn                             0.05%   18,250,803 (units: 1,976)
 102. datagoon                             0.05%   17,997,923 (units:   935)
 103. mikecherry                           0.05%   17,713,385 (units: 2,051)
 104. dethveggie                           0.05%   17,689,336 (units: 2,923)
@@ -159,7 +159,7 @@ As of 2021-01-24 05:26:36, r00t f0lds is rank 42
 157. Rajiv_in_North                       0.01%    5,421,795 (units:   757)
 158. jimimage                             0.01%    5,161,761 (units:   663)
 159. DiscoDan                             0.01%    4,995,768 (units:   206)
-160. silksnep                             0.01%    4,575,813 (units: 3,084)
+160. silksnep                             0.01%    4,576,300 (units: 3,085)
 161. Miah                                 0.01%    4,499,294 (units:    53)
 162. wurb                                 0.01%    4,418,875 (units:   228)
 163. nfran008                             0.01%    4,186,308 (units: 2,887)
