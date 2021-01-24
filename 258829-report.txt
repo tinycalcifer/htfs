@@ -1,5 +1,5 @@
-As of 2021-01-24 12:16:24, r00t f0lds is rank 42
-   with 801,107 work units for 37,071,794,123 credits
+As of 2021-01-24 12:26:26, r00t f0lds is rank 42
+   with 801,109 work units for 37,071,976,239 credits
   1. MasterKore                           9.33% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.07% 2,991,156,828 (units: 24,251)
   3. NeTTwerk                             7.55% 2,799,680,571 (units: 16,115)
@@ -32,7 +32,7 @@ As of 2021-01-24 12:16:24, r00t f0lds is rank 42
  30. Resident                             0.73%  269,798,260 (units: 5,936)
  31. silicosis                            0.72%  266,669,755 (units: 3,678)
  32. Privacywonk                          0.67%  247,994,701 (units: 7,051)
- 33. Moss                                 0.66%  244,134,744 (units: 4,675)
+ 33. Moss                                 0.66%  244,306,158 (units: 4,676)
  34. X                                    0.62%  230,829,918 (units: 3,542)
  35. AWR                                  0.62%  228,906,997 (units: 5,775)
  36. Stirling_Goetz                       0.59%  219,924,498 (units: 4,518)
@@ -100,7 +100,7 @@ As of 2021-01-24 12:16:24, r00t f0lds is rank 42
  98. gattaca                              0.05%   18,845,337 (units: 4,121)
  99. johann8384                           0.05%   18,594,458 (units:   466)
 100. Mudge_Idle                           0.05%   18,447,971 (units: 2,470)
-101. simonlbn                             0.05%   18,281,622 (units: 1,980)
+101. simonlbn                             0.05%   18,292,324 (units: 1,981)
 102. datagoon                             0.05%   17,997,923 (units:   935)
 103. mikecherry                           0.05%   17,733,185 (units: 2,056)
 104. dethveggie                           0.05%   17,696,001 (units: 2,924)
