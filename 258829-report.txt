@@ -1,11 +1,11 @@
-As of 2021-01-26 14:16:34, r00t f0lds is rank 42
-   with 803,503 work units for 37,291,343,290 credits
+As of 2021-01-26 14:26:34, r00t f0lds is rank 42
+   with 803,510 work units for 37,292,493,104 credits
   1. MasterKore                           9.27% 3,457,089,768 (units: 70,348)
-  2. gaussie                              8.18% 3,052,046,689 (units: 24,606)
+  2. gaussie                              8.19% 3,052,450,119 (units: 24,608)
   3. NeTTwerk                             7.51% 2,799,680,571 (units: 16,115)
-  4. dildog                               5.74% 2,140,225,535 (units: 16,398)
+  4. dildog                               5.74% 2,140,482,956 (units: 16,399)
   5. Ophie                                4.37% 1,629,014,655 (units: 108,571)
-  6. TommydCat                            4.19% 1,560,939,607 (units: 18,638)
+  6. TommydCat                            4.19% 1,561,200,999 (units: 18,639)
   7. GOLGO13                              3.84% 1,433,004,364 (units: 21,739)
   8. edsai                                3.50% 1,306,544,748 (units: 10,673)
   9. Weld                                 3.48% 1,296,569,431 (units: 11,370)
@@ -25,8 +25,8 @@ As of 2021-01-26 14:16:34, r00t f0lds is rank 42
  23. crax                                 1.03%  384,737,109 (units: 2,420)
  24. BELTIWAN                             1.01%  376,324,616 (units: 3,846)
  25. SWinder                              0.99%  370,673,924 (units: 6,155)
- 26. coldyfoldz                           0.96%  358,399,990 (units: 4,085)
- 27. tvidas                               0.94%  349,597,241 (units: 6,589)
+ 26. coldyfoldz                           0.96%  358,404,566 (units: 4,086)
+ 27. tvidas                               0.94%  349,817,670 (units: 6,590)
  28. natrololol                           0.89%  331,172,030 (units: 3,466)
  29. Kranfahrer                           0.86%  322,193,840 (units: 7,094)
  30. Resident                             0.73%  272,253,415 (units: 5,956)
@@ -142,7 +142,7 @@ As of 2021-01-26 14:16:34, r00t f0lds is rank 42
 140. SplitSingles                         0.02%    7,295,280 (units:   423)
 141. xtremebeing                          0.02%    7,256,095 (units: 1,391)
 142. ryan_jamieson                        0.02%    7,002,020 (units: 1,359)
-143. trashp4nda                           0.02%    6,896,659 (units: 1,087)
+143. trashp4nda                           0.02%    6,899,225 (units: 1,088)
 144. _lennart                             0.02%    6,785,780 (units:   997)
 145. jreinknecht                          0.02%    6,629,724 (units:   144)
 146. JBelle                               0.02%    6,562,722 (units:   365)
