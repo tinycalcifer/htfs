@@ -1,7 +1,7 @@
-As of 2021-01-26 08:26:31, r00t f0lds is rank 42
-   with 803,265 work units for 37,267,278,771 credits
+As of 2021-01-26 08:36:32, r00t f0lds is rank 42
+   with 803,271 work units for 37,268,101,133 credits
   1. MasterKore                           9.28% 3,457,089,768 (units: 70,348)
-  2. gaussie                              8.17% 3,044,891,292 (units: 24,564)
+  2. gaussie                              8.17% 3,045,092,137 (units: 24,565)
   3. NeTTwerk                             7.51% 2,799,680,571 (units: 16,115)
   4. dildog                               5.74% 2,139,400,518 (units: 16,394)
   5. Ophie                                4.37% 1,629,014,655 (units: 108,571)
@@ -24,12 +24,12 @@ As of 2021-01-26 08:26:31, r00t f0lds is rank 42
  22. entr0pybitz                          1.10%  409,614,059 (units: 3,129)
  23. crax                                 1.03%  384,357,125 (units: 2,418)
  24. BELTIWAN                             1.01%  376,246,339 (units: 3,845)
- 25. SWinder                              0.99%  370,031,932 (units: 6,150)
- 26. coldyfoldz                           0.96%  357,686,945 (units: 4,080)
+ 25. SWinder                              0.99%  370,247,937 (units: 6,152)
+ 26. coldyfoldz                           0.96%  357,904,327 (units: 4,081)
  27. tvidas                               0.94%  349,156,003 (units: 6,587)
  28. natrololol                           0.89%  330,578,227 (units: 3,463)
  29. Kranfahrer                           0.86%  322,193,840 (units: 7,094)
- 30. Resident                             0.73%  271,908,029 (units: 5,954)
+ 30. Resident                             0.73%  272,080,858 (units: 5,955)
  31. silicosis                            0.72%  266,669,755 (units: 3,678)
  32. Privacywonk                          0.67%  251,416,334 (units: 7,073)
  33. Moss                                 0.66%  247,351,069 (units: 4,758)
@@ -44,7 +44,7 @@ As of 2021-01-26 08:26:31, r00t f0lds is rank 42
  42. skipper                              0.42%  155,455,790 (units: 1,873)
  43. Christian_Townsdin                   0.39%  145,011,188 (units: 2,470)
  44. Erik_Fichtner                        0.38%  142,008,213 (units: 2,459)
- 45. causticjb                            0.38%  140,033,322 (units: 6,467)
+ 45. causticjb                            0.38%  140,048,623 (units: 6,468)
  46. hoochmonger                          0.37%  138,294,350 (units: 1,931)
  47. S0l3mn                               0.37%  136,862,196 (units: 5,477)
  48. Krypt0Gh0st                          0.36%  132,839,652 (units: 2,658)
