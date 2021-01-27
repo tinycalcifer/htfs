@@ -1,5 +1,5 @@
-As of 2021-01-27 05:46:37, r00t f0lds is rank 42
-   with 804,109 work units for 37,354,906,962 credits
+As of 2021-01-27 05:56:35, r00t f0lds is rank 42
+   with 804,112 work units for 37,355,151,532 credits
   1. MasterKore                           9.25% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.22% 3,069,067,457 (units: 24,708)
   3. NeTTwerk                             7.49% 2,799,680,571 (units: 16,115)
@@ -19,7 +19,7 @@ As of 2021-01-27 05:46:37, r00t f0lds is rank 42
  17. Steve_Castellarin                    1.58%  590,033,645 (units: 9,651)
  18. Sangfroid                            1.47%  549,204,182 (units: 10,744)
  19. Scba                                 1.45%  542,471,456 (units: 6,534)
- 20. Dubhbairn                            1.26%  471,233,957 (units: 4,909)
+ 20. Dubhbairn                            1.26%  471,378,531 (units: 4,910)
  21. spam                                 1.21%  450,312,085 (units: 4,739)
  22. entr0pybitz                          1.10%  411,342,680 (units: 3,138)
  23. crax                                 1.03%  385,832,910 (units: 2,427)
@@ -49,12 +49,12 @@ As of 2021-01-27 05:46:37, r00t f0lds is rank 42
  47. S0l3mn                               0.37%  136,862,196 (units: 5,477)
  48. Krypt0Gh0st                          0.36%  132,852,359 (units: 2,662)
  49. ethersniffer                         0.35%  131,067,286 (units: 15,818)
- 50. dotjrich                             0.35%  130,162,899 (units: 4,909)
+ 50. dotjrich                             0.35%  130,261,151 (units: 4,910)
  51. Space_Rogue                          0.32%  119,678,247 (units: 6,400)
  52. wingisfolding                        0.32%  119,385,401 (units: 17,882)
  53. tweakt                               0.27%  102,211,830 (units: 1,350)
  54. The_Gibson(HTown)                    0.27%  102,194,264 (units: 1,870)
- 55. zonksec                              0.27%  101,500,371 (units: 4,462)
+ 55. zonksec                              0.27%  101,502,115 (units: 4,463)
  56. EndoftheLine                         0.27%  101,463,014 (units: 1,586)
  57. pizen                                0.26%   95,327,988 (units: 2,422)
  58. TachyonStream                        0.25%   94,035,239 (units: 3,822)
@@ -400,8 +400,8 @@ As of 2021-01-27 05:46:37, r00t f0lds is rank 42
 398. n0x                                  0.00%        9,858 (units:     2)
 399. Mystic_Chaos                         0.00%        9,716 (units:     8)
 400. ad767                                0.00%        9,657 (units:    10)
-401. HailSatan                            0.00%        9,405 (units:     1)
-402. r                                    0.00%        9,405 (units:     1)
+401. r                                    0.00%        9,405 (units:     1)
+402. HailSatan                            0.00%        9,405 (units:     1)
 403. glawend                              0.00%        8,420 (units:     9)
 404. Elliot                               0.00%        7,685 (units:     1)
 405. ZachBl                               0.00%        6,867 (units:     3)
