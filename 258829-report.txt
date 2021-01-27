@@ -1,5 +1,5 @@
-As of 2021-01-27 01:46:36, r00t f0lds is rank 42
-   with 803,956 work units for 37,338,878,512 credits
+As of 2021-01-27 01:56:34, r00t f0lds is rank 42
+   with 803,960 work units for 37,339,202,670 credits
   1. MasterKore                           9.26% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.21% 3,065,272,236 (units: 24,684)
   3. NeTTwerk                             7.50% 2,799,680,571 (units: 16,115)
@@ -16,11 +16,11 @@ As of 2021-01-27 01:46:36, r00t f0lds is rank 42
  14. Swern                                1.92%  718,485,877 (units: 8,672)
  15. dokuja                               1.83%  683,385,964 (units: 4,167)
  16. wetdryvac                            1.70%  634,364,336 (units: 8,857)
- 17. Steve_Castellarin                    1.58%  589,881,587 (units: 9,646)
+ 17. Steve_Castellarin                    1.58%  589,884,320 (units: 9,647)
  18. Sangfroid                            1.47%  549,204,182 (units: 10,744)
  19. Scba                                 1.45%  542,471,456 (units: 6,534)
  20. Dubhbairn                            1.26%  470,741,312 (units: 4,906)
- 21. spam                                 1.20%  449,813,848 (units: 4,735)
+ 21. spam                                 1.21%  450,121,396 (units: 4,737)
  22. entr0pybitz                          1.10%  410,925,477 (units: 3,137)
  23. crax                                 1.03%  385,459,291 (units: 2,425)
  24. BELTIWAN                             1.01%  376,446,234 (units: 3,848)
@@ -55,7 +55,7 @@ As of 2021-01-27 01:46:36, r00t f0lds is rank 42
  53. tweakt                               0.27%  102,211,830 (units: 1,350)
  54. The_Gibson(HTown)                    0.27%  102,194,264 (units: 1,870)
  55. zonksec                              0.27%  101,500,371 (units: 4,462)
- 56. EndoftheLine                         0.27%  101,290,813 (units: 1,583)
+ 56. EndoftheLine                         0.27%  101,304,690 (units: 1,584)
  57. pizen                                0.26%   95,327,988 (units: 2,422)
  58. TachyonStream                        0.25%   93,866,150 (units: 3,819)
  59. SalusaSecondus                       0.23%   85,822,708 (units: 1,679)
