@@ -1,7 +1,7 @@
-As of 2021-01-27 15:36:28, r00t f0lds is rank 42
-   with 804,494 work units for 37,398,461,270 credits
+As of 2021-01-27 15:46:31, r00t f0lds is rank 42
+   with 804,498 work units for 37,398,853,499 credits
   1. MasterKore                           9.24% 3,457,089,768 (units: 70,348)
-  2. gaussie                              8.24% 3,081,582,841 (units: 24,773)
+  2. gaussie                              8.24% 3,081,954,012 (units: 24,775)
   3. NeTTwerk                             7.49% 2,799,680,571 (units: 16,115)
   4. dildog                               5.73% 2,143,505,032 (units: 16,415)
   5. Ophie                                4.36% 1,629,014,655 (units: 108,571)
@@ -94,7 +94,7 @@ As of 2021-01-27 15:36:28, r00t f0lds is rank 42
  92. Shade                                0.07%   25,555,819 (units:   486)
  93. tal0n                                0.06%   23,880,873 (units: 3,460)
  94. Toonopolis                           0.06%   23,499,935 (units:   437)
- 95. Professor                            0.06%   23,475,289 (units: 1,812)
+ 95. Professor                            0.06%   23,495,272 (units: 1,813)
  96. 0xMatt                               0.06%   21,640,449 (units: 3,302)
  97. just6979                             0.05%   19,632,850 (units:   995)
  98. gattaca                              0.05%   18,845,337 (units: 4,121)
@@ -226,7 +226,7 @@ As of 2021-01-27 15:36:28, r00t f0lds is rank 42
 224. James                                0.00%    1,098,804 (units:    61)
 225. SynMac                               0.00%    1,076,687 (units:   131)
 226. Man0s                                0.00%    1,059,173 (units:   991)
-227. Dunga                                0.00%    1,052,925 (units:    93)
+227. Dunga                                0.00%    1,054,000 (units:    94)
 228. wurk                                 0.00%    1,048,586 (units:   146)
 229. Nops                                 0.00%    1,038,438 (units:   904)
 230. claudiom                             0.00%    1,027,951 (units: 3,238)
