@@ -1,5 +1,5 @@
-As of 2021-01-28 22:16:41, r00t f0lds is rank 42
-   with 805,636 work units for 37,530,119,788 credits
+As of 2021-01-28 22:26:39, r00t f0lds is rank 42
+   with 805,639 work units for 37,530,515,678 credits
   1. MasterKore                           9.21% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.31% 3,119,303,848 (units: 24,981)
   3. NeTTwerk                             7.46% 2,799,680,571 (units: 16,115)
@@ -10,7 +10,7 @@ As of 2021-01-28 22:16:41, r00t f0lds is rank 42
   8. edsai                                3.51% 1,317,976,513 (units: 10,732)
   9. Weld                                 3.45% 1,296,569,431 (units: 11,370)
  10. mowse                                2.73% 1,026,058,364 (units: 5,519)
- 11. Gentry                               2.45%  920,479,224 (units: 12,556)
+ 11. Gentry                               2.45%  920,540,573 (units: 12,557)
  12. Nicolas_Dawson                       2.37%  889,001,518 (units: 5,466)
  13. Chris_Eng                            2.25%  843,867,696 (units: 6,838)
  14. Swern                                1.93%  725,861,724 (units: 8,725)
@@ -43,8 +43,8 @@ As of 2021-01-28 22:16:41, r00t f0lds is rank 42
  41. knarph                               0.48%  180,644,091 (units: 4,655)
  42. skipper                              0.42%  158,548,648 (units: 1,891)
  43. Christian_Townsdin                   0.39%  145,011,188 (units: 2,470)
- 44. Erik_Fichtner                        0.38%  142,008,213 (units: 2,459)
- 45. hoochmonger                          0.38%  141,990,917 (units: 1,954)
+ 44. hoochmonger                          0.38%  142,321,145 (units: 1,955)
+ 45. Erik_Fichtner                        0.38%  142,008,213 (units: 2,459)
  46. causticjb                            0.38%  140,964,599 (units: 6,527)
  47. S0l3mn                               0.36%  136,866,527 (units: 5,479)
  48. Krypt0Gh0st                          0.35%  132,852,359 (units: 2,662)
@@ -116,7 +116,7 @@ As of 2021-01-28 22:16:41, r00t f0lds is rank 42
 114. Bill_Terwilliger                     0.04%   14,328,609 (units:   424)
 115. RetroSilicon                         0.04%   14,308,365 (units: 1,018)
 116. leigh.culley                         0.04%   13,356,036 (units: 1,759)
-117. SuRatt                               0.04%   13,293,279 (units:   435)
+117. SuRatt                               0.04%   13,297,592 (units:   436)
 118. B10+                                 0.03%   12,690,034 (units: 2,965)
 119. mhuletdev                            0.03%   12,687,806 (units:   158)
 120. trebach                              0.03%   12,345,976 (units: 2,523)
