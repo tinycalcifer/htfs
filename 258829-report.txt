@@ -1,7 +1,7 @@
-As of 2021-01-28 04:56:36, r00t f0lds is rank 42
-   with 804,987 work units for 37,455,817,786 credits
+As of 2021-01-28 05:07:09, r00t f0lds is rank 42
+   with 804,993 work units for 37,456,292,066 credits
   1. MasterKore                           9.23% 3,457,089,768 (units: 70,348)
-  2. gaussie                              8.27% 3,097,459,508 (units: 24,861)
+  2. gaussie                              8.27% 3,097,786,876 (units: 24,863)
   3. NeTTwerk                             7.47% 2,799,680,571 (units: 16,115)
   4. dildog                               5.73% 2,146,225,967 (units: 16,426)
   5. Ophie                                4.35% 1,629,014,655 (units: 108,571)
@@ -16,12 +16,12 @@ As of 2021-01-28 04:56:36, r00t f0lds is rank 42
  14. Swern                                1.93%  723,100,014 (units: 8,708)
  15. dokuja                               1.82%  683,385,964 (units: 4,167)
  16. wetdryvac                            1.70%  637,613,110 (units: 8,875)
- 17. Steve_Castellarin                    1.58%  592,308,914 (units: 9,677)
+ 17. Steve_Castellarin                    1.58%  592,411,069 (units: 9,679)
  18. Sangfroid                            1.47%  549,208,644 (units: 10,747)
  19. Scba                                 1.45%  542,471,456 (units: 6,534)
  20. Dubhbairn                            1.27%  474,535,844 (units: 4,931)
  21. spam                                 1.21%  452,623,557 (units: 4,753)
- 22. entr0pybitz                          1.10%  413,190,993 (units: 3,148)
+ 22. entr0pybitz                          1.10%  413,225,057 (units: 3,149)
  23. crax                                 1.03%  387,229,688 (units: 2,435)
  24. BELTIWAN                             1.01%  376,863,248 (units: 3,852)
  25. SWinder                              0.99%  372,413,913 (units: 6,167)
@@ -97,7 +97,7 @@ As of 2021-01-28 04:56:36, r00t f0lds is rank 42
  95. Toonopolis                           0.06%   23,499,935 (units:   437)
  96. 0xMatt                               0.06%   21,640,449 (units: 3,302)
  97. just6979                             0.05%   19,632,850 (units:   995)
- 98. simonlbn                             0.05%   18,853,063 (units: 2,036)
+ 98. simonlbn                             0.05%   18,863,756 (units: 2,037)
  99. gattaca                              0.05%   18,845,337 (units: 4,121)
 100. Mudge_Idle                           0.05%   18,649,205 (units: 2,477)
 101. johann8384                           0.05%   18,594,458 (units:   466)
