@@ -1,7 +1,7 @@
-As of 2021-01-29 03:16:38, r00t f0lds is rank 42
-   with 805,838 work units for 37,548,957,107 credits
+As of 2021-01-29 03:26:28, r00t f0lds is rank 42
+   with 805,842 work units for 37,549,270,287 credits
   1. MasterKore                           9.21% 3,457,089,768 (units: 70,348)
-  2. gaussie                              8.32% 3,123,703,590 (units: 25,009)
+  2. gaussie                              8.32% 3,123,902,150 (units: 25,011)
   3. NeTTwerk                             7.46% 2,799,680,571 (units: 16,115)
   4. dildog                               5.73% 2,150,021,660 (units: 16,440)
   5. Ophie                                4.34% 1,629,014,655 (units: 108,571)
@@ -69,7 +69,7 @@ As of 2021-01-29 03:16:38, r00t f0lds is rank 42
  67. mbm                                  0.16%   58,966,630 (units: 3,018)
  68. LamontWaugh                          0.15%   57,105,591 (units: 3,949)
  69. simestd                              0.15%   56,208,853 (units:   511)
- 70. PhreakMonkey                         0.15%   56,101,352 (units: 3,990)
+ 70. PhreakMonkey                         0.15%   56,101,419 (units: 3,991)
  71. Xenophile                            0.15%   54,962,690 (units: 1,385)
  72. timforgot                            0.14%   53,042,548 (units: 2,663)
  73. Fifi314                              0.13%   48,201,861 (units: 2,672)
@@ -115,7 +115,7 @@ As of 2021-01-29 03:16:38, r00t f0lds is rank 42
 113. jnathan                              0.04%   14,351,173 (units: 4,377)
 114. Bill_Terwilliger                     0.04%   14,328,609 (units:   424)
 115. RetroSilicon                         0.04%   14,308,365 (units: 1,018)
-116. SuRatt                               0.04%   13,365,569 (units:   437)
+116. SuRatt                               0.04%   13,480,122 (units:   438)
 117. leigh.culley                         0.04%   13,356,036 (units: 1,759)
 118. B10+                                 0.03%   12,690,034 (units: 2,965)
 119. mhuletdev                            0.03%   12,687,806 (units:   158)
