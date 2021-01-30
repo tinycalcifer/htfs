@@ -1,7 +1,7 @@
-As of 2021-01-30 00:26:36, r00t f0lds is rank 42
-   with 806,732 work units for 37,631,191,238 credits
+As of 2021-01-30 00:36:34, r00t f0lds is rank 42
+   with 806,737 work units for 37,631,299,585 credits
   1. MasterKore                           9.19% 3,457,089,768 (units: 70,348)
-  2. gaussie                              8.36% 3,145,820,604 (units: 25,154)
+  2. gaussie                              8.36% 3,145,925,602 (units: 25,155)
   3. NeTTwerk                             7.44% 2,799,680,571 (units: 16,115)
   4. dildog                               5.72% 2,153,761,452 (units: 16,461)
   5. Ophie                                4.33% 1,629,014,655 (units: 108,571)
@@ -69,7 +69,7 @@ As of 2021-01-30 00:26:36, r00t f0lds is rank 42
  67. mbm                                  0.16%   58,966,630 (units: 3,018)
  68. LamontWaugh                          0.15%   57,106,078 (units: 3,950)
  69. simestd                              0.15%   56,950,916 (units:   518)
- 70. PhreakMonkey                         0.15%   56,125,309 (units: 4,122)
+ 70. PhreakMonkey                         0.15%   56,125,408 (units: 4,123)
  71. Xenophile                            0.15%   54,964,185 (units: 1,386)
  72. timforgot                            0.14%   53,289,097 (units: 2,675)
  73. Fifi314                              0.13%   48,454,784 (units: 2,680)
@@ -160,9 +160,9 @@ As of 2021-01-30 00:26:36, r00t f0lds is rank 42
 158. Rajiv_in_North                       0.01%    5,421,795 (units:   757)
 159. jimimage                             0.01%    5,161,761 (units:   663)
 160. DiscoDan                             0.01%    4,995,768 (units:   206)
-161. silksnep                             0.01%    4,774,690 (units: 3,178)
+161. silksnep                             0.01%    4,775,109 (units: 3,179)
 162. Miah                                 0.01%    4,499,294 (units:    53)
-163. nfran008                             0.01%    4,396,095 (units: 2,898)
+163. nfran008                             0.01%    4,398,439 (units: 2,899)
 164. rhf                                  0.01%    4,137,672 (units: 2,962)
 165. illusive                             0.01%    4,036,974 (units:   655)
 166. HolSta                               0.01%    4,016,421 (units:   437)
@@ -225,7 +225,7 @@ As of 2021-01-30 00:26:36, r00t f0lds is rank 42
 223. aph                                  0.00%    1,119,334 (units: 1,204)
 224. James                                0.00%    1,098,804 (units:    61)
 225. SynMac                               0.00%    1,076,687 (units:   131)
-226. Man0s                                0.00%    1,059,173 (units:   991)
+226. Man0s                                0.00%    1,059,660 (units:   992)
 227. Dunga                                0.00%    1,054,000 (units:    94)
 228. wurk                                 0.00%    1,048,586 (units:   146)
 229. Nops                                 0.00%    1,038,438 (units:   904)
