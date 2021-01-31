@@ -1,11 +1,11 @@
-As of 2021-01-31 11:06:34, hackers.town is rank 1251
-   with 41,618 work units for 487,349,625 credits
-  1. Werekat                      13.90%   67,735,648 (units: 2,124)
+As of 2021-01-31 12:36:32, hackers.town is rank 1251
+   with 41,619 work units for 487,548,145 credits
+  1. Werekat                      13.93%   67,934,168 (units: 2,125)
   2. Kyle                         11.08%   54,009,061 (units: 2,390)
-  3. bhtooefr                      8.03%   39,118,587 (units: 1,202)
-  4. wetdryvac                     6.60%   32,148,675 (units:   888)
+  3. bhtooefr                      8.02%   39,118,587 (units: 1,202)
+  4. wetdryvac                     6.59%   32,148,675 (units:   888)
   5. Polychrome                    5.82%   28,382,532 (units: 2,040)
-  6. CookieMom                     5.00%   24,345,937 (units: 1,722)
+  6. CookieMom                     4.99%   24,345,937 (units: 1,722)
   7. merimus                       4.22%   20,589,421 (units:   553)
   8. packetcat                     4.07%   19,829,617 (units:   153)
   9. KemoNine                      3.84%   18,705,527 (units:   625)
@@ -22,7 +22,7 @@ As of 2021-01-31 11:06:34, hackers.town is rank 1251
  20. FOOL                          1.05%    5,138,460 (units:   445)
  21. felix                         1.01%    4,901,391 (units:   185)
  22. Anonymous                     0.84%    4,092,284 (units: 1,591)
- 23. r000t                         0.84%    4,069,816 (units:   121)
+ 23. r000t                         0.83%    4,069,816 (units:   121)
  24. Mr.House                      0.81%    3,947,699 (units:   202)
  25. jkl                           0.75%    3,650,043 (units:   859)
  26. skraelingjar                  0.69%    3,352,989 (units:    64)
@@ -32,7 +32,7 @@ As of 2021-01-31 11:06:34, hackers.town is rank 1251
  30. Canageek                      0.53%    2,577,892 (units:   431)
  31. drwho                         0.50%    2,457,926 (units:   500)
  32. The_Gibson(HTown)             0.48%    2,330,035 (units:   212)
- 33. neil                          0.45%    2,168,994 (units:   718)
+ 33. neil                          0.44%    2,168,994 (units:   718)
  34. /dev/random                   0.44%    2,135,335 (units:   204)
  35. mandibular joint dysfunction  0.42%    2,055,511 (units:   834)
  36. pfreak                        0.41%    1,996,770 (units:    48)
