@@ -1,7 +1,7 @@
-As of 2021-01-31 08:46:37, r00t f0lds is rank 43
-   with 808,104 work units for 37,756,137,377 credits
+As of 2021-01-31 08:56:38, r00t f0lds is rank 43
+   with 808,107 work units for 37,756,301,590 credits
   1. MasterKore                           9.16% 3,457,089,768 (units: 70,348)
-  2. gaussie                              8.43% 3,181,717,407 (units: 25,377)
+  2. gaussie                              8.43% 3,181,870,205 (units: 25,378)
   3. NeTTwerk                             7.42% 2,799,680,571 (units: 16,115)
   4. dildog                               5.72% 2,158,276,373 (units: 16,484)
   5. Ophie                                4.31% 1,629,014,655 (units: 108,571)
@@ -69,7 +69,7 @@ As of 2021-01-31 08:46:37, r00t f0lds is rank 43
  67. mbm                                  0.16%   58,966,630 (units: 3,018)
  68. simestd                              0.15%   58,136,193 (units:   528)
  69. LamontWaugh                          0.15%   57,181,971 (units: 3,956)
- 70. PhreakMonkey                         0.15%   56,397,687 (units: 4,330)
+ 70. PhreakMonkey                         0.15%   56,398,049 (units: 4,331)
  71. Xenophile                            0.15%   54,965,650 (units: 1,387)
  72. timforgot                            0.14%   53,688,995 (units: 2,689)
  73. Fifi314                              0.13%   48,811,934 (units: 2,694)
@@ -117,7 +117,7 @@ As of 2021-01-31 08:46:37, r00t f0lds is rank 43
 115. Bill_Terwilliger                     0.04%   14,328,609 (units:   424)
 116. RetroSilicon                         0.04%   14,308,365 (units: 1,018)
 117. leigh.culley                         0.04%   13,356,036 (units: 1,759)
-118. mhuletdev                            0.03%   13,044,450 (units:   160)
+118. mhuletdev                            0.03%   13,055,503 (units:   161)
 119. B10+                                 0.03%   12,690,034 (units: 2,965)
 120. trebach                              0.03%   12,345,976 (units: 2,523)
 121. DaKahuna                             0.03%   11,463,843 (units:   152)
