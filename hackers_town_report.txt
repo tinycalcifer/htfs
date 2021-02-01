@@ -1,6 +1,6 @@
-As of 2021-02-01 09:06:47, hackers.town is rank 1252
-   with 41,647 work units for 488,363,242 credits
-  1. Werekat                      13.98%   68,262,222 (units: 2,131)
+As of 2021-02-01 09:46:39, hackers.town is rank 1252
+   with 41,648 work units for 488,416,441 credits
+  1. Werekat                      13.99%   68,315,421 (units: 2,132)
   2. Kyle                         11.06%   54,009,061 (units: 2,390)
   3. bhtooefr                      8.03%   39,213,919 (units: 1,205)
   4. wetdryvac                     6.58%   32,148,675 (units:   888)
@@ -17,7 +17,7 @@ As of 2021-02-01 09:06:47, hackers.town is rank 1252
  15. c0debabe                      1.48%    7,224,123 (units:   245)
  16. elfgirlsarah                  1.40%    6,845,555 (units:   955)
  17. dafuchs                       1.29%    6,320,938 (units:   393)
- 18. paullindner                   1.07%    5,201,314 (units:   923)
+ 18. paullindner                   1.06%    5,201,314 (units:   923)
  19. SiinaCutie                    1.06%    5,188,566 (units:   235)
  20. FOOL                          1.05%    5,138,460 (units:   445)
  21. felix                         1.00%    4,901,391 (units:   185)
