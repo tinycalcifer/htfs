@@ -1,5 +1,5 @@
-As of 2021-02-03 20:55:51, hackers.town is rank 1260
-   with 41,758 work units for 490,619,517 credits
+As of 2021-02-03 21:46:18, hackers.town is rank 1260
+   with 41,760 work units for 490,639,436 credits
   1. Werekat                      14.20%   69,671,640 (units: 2,155)
   2. Kyle                         11.01%   54,009,061 (units: 2,390)
   3. bhtooefr                      8.09%   39,677,774 (units: 1,226)
@@ -12,7 +12,7 @@ As of 2021-02-03 20:55:51, hackers.town is rank 1260
  10. Freakazoid                    3.74%   18,370,834 (units:   852)
  11. dokuja                        3.69%   18,104,692 (units:   474)
  12.                               2.08%   10,208,511 (units: 1,837)
- 13. zx3                           1.84%    9,034,993 (units:   768)
+ 13. zx3                           1.85%    9,054,493 (units:   769)
  14. Calcifer                      1.59%    7,802,361 (units:   193)
  15. c0debabe                      1.47%    7,224,123 (units:   245)
  16. elfgirlsarah                  1.40%    6,845,555 (units:   955)
@@ -32,7 +32,7 @@ As of 2021-02-03 20:55:51, hackers.town is rank 1260
  30. Canageek                      0.53%    2,577,892 (units:   431)
  31. drwho                         0.50%    2,457,926 (units:   500)
  32. The_Gibson(HTown)             0.47%    2,330,035 (units:   212)
- 33. neil                          0.44%    2,172,397 (units:   725)
+ 33. neil                          0.44%    2,172,816 (units:   726)
  34. /dev/random                   0.44%    2,135,335 (units:   204)
  35. mandibular joint dysfunction  0.42%    2,055,511 (units:   834)
  36. pfreak                        0.41%    1,996,770 (units:    48)
