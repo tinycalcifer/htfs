@@ -1,16 +1,16 @@
-As of 2021-02-06 13:06:04, hackers.town is rank 1262
-   with 41,846 work units for 492,627,410 credits
-  1. Werekat                      14.40%   70,954,350 (units: 2,193)
+As of 2021-02-06 13:26:04, hackers.town is rank 1262
+   with 41,847 work units for 492,742,923 credits
+  1. Werekat                      14.42%   71,069,863 (units: 2,194)
   2. Kyle                         10.96%   54,009,061 (units: 2,390)
   3. bhtooefr                      8.11%   39,972,773 (units: 1,237)
-  4. wetdryvac                     6.53%   32,148,675 (units:   888)
+  4. wetdryvac                     6.52%   32,148,675 (units:   888)
   5. Polychrome                    5.83%   28,734,735 (units: 2,068)
   6. CookieMom                     4.98%   24,550,173 (units: 1,728)
   7. merimus                       4.18%   20,589,421 (units:   553)
-  8. packetcat                     4.03%   19,829,617 (units:   153)
+  8. packetcat                     4.02%   19,829,617 (units:   153)
   9. KemoNine                      3.80%   18,705,527 (units:   625)
  10. Freakazoid                    3.73%   18,370,834 (units:   852)
- 11. dokuja                        3.68%   18,104,692 (units:   474)
+ 11. dokuja                        3.67%   18,104,692 (units:   474)
  12.                               2.09%   10,304,729 (units: 1,844)
  13. zx3                           1.87%    9,207,367 (units:   786)
  14. Calcifer                      1.58%    7,802,361 (units:   193)
@@ -45,7 +45,7 @@ As of 2021-02-06 13:06:04, hackers.town is rank 1262
  43. rmgr                          0.26%    1,290,558 (units:    47)
  44. djsumdog                      0.25%    1,227,802 (units:   202)
  45. LordBowlich                   0.24%    1,189,134 (units:   254)
- 46. qwazix                        0.24%    1,157,676 (units:   220)
+ 46. qwazix                        0.23%    1,157,676 (units:   220)
  47. niconiconi                    0.22%    1,100,400 (units:   112)
  48. TerrorBite                    0.22%    1,085,432 (units:    36)
  49. mainebot                      0.20%    1,005,210 (units:    58)
