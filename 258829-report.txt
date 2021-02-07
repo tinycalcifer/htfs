@@ -1,5 +1,5 @@
-As of 2021-02-07 20:56:08, r00t f0lds is rank 43
-   with 816,297 work units for 38,283,747,763 credits
+As of 2021-02-07 21:06:02, r00t f0lds is rank 43
+   with 816,300 work units for 38,284,081,613 credits
   1. MasterKore                           9.03% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.52% 3,261,274,097 (units: 25,993)
   3. NeTTwerk                             7.31% 2,799,680,571 (units: 16,115)
@@ -10,7 +10,7 @@ As of 2021-02-07 20:56:08, r00t f0lds is rank 43
   8. edsai                                3.56% 1,364,335,696 (units: 11,005)
   9. Weld                                 3.39% 1,296,741,569 (units: 11,374)
  10. mowse                                2.68% 1,026,058,364 (units: 5,519)
- 11. Gentry                               2.48%  951,068,248 (units: 12,790)
+ 11. Gentry                               2.48%  951,263,472 (units: 12,791)
  12. Nicolas_Dawson                       2.44%  934,479,960 (units: 5,765)
  13. Chris_Eng                            2.24%  857,115,893 (units: 6,913)
  14. Swern                                1.99%  761,808,558 (units: 9,036)
@@ -21,8 +21,8 @@ As of 2021-02-07 20:56:08, r00t f0lds is rank 43
  19. Scba                                 1.43%  546,650,827 (units: 6,583)
  20. Dubhbairn                            1.33%  508,269,050 (units: 5,203)
  21. spam                                 1.23%  470,780,852 (units: 4,907)
- 22. entr0pybitz                          1.13%  430,894,108 (units: 3,257)
- 23. crax                                 1.06%  406,351,590 (units: 2,579)
+ 22. entr0pybitz                          1.13%  430,965,731 (units: 3,258)
+ 23. crax                                 1.06%  406,418,593 (units: 2,580)
  24. coldyfoldz                           1.00%  381,764,551 (units: 4,274)
  25. tvidas                               0.99%  378,175,922 (units: 6,876)
  26. BELTIWAN                             0.99%  378,061,554 (units: 3,865)
