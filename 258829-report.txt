@@ -1,5 +1,5 @@
-As of 2021-02-08 03:36:18, r00t f0lds is rank 43
-   with 816,473 work units for 38,294,537,746 credits
+As of 2021-02-08 03:57:33, r00t f0lds is rank 43
+   with 816,476 work units for 38,294,931,442 credits
   1. MasterKore                           9.03% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.52% 3,261,274,097 (units: 25,993)
   3. NeTTwerk                             7.31% 2,799,680,571 (units: 16,115)
@@ -13,7 +13,7 @@ As of 2021-02-08 03:36:18, r00t f0lds is rank 43
  11. Gentry                               2.49%  951,723,725 (units: 12,795)
  12. Nicolas_Dawson                       2.44%  935,068,318 (units: 5,770)
  13. Chris_Eng                            2.24%  857,115,893 (units: 6,913)
- 14. Swern                                1.99%  762,509,526 (units: 9,043)
+ 14. Swern                                1.99%  762,715,626 (units: 9,044)
  15. dokuja                               1.78%  683,385,964 (units: 4,167)
  16. wetdryvac                            1.67%  638,837,267 (units: 8,937)
  17. Steve_Castellarin                    1.60%  614,233,207 (units: 10,031)
@@ -70,7 +70,7 @@ As of 2021-02-08 03:36:18, r00t f0lds is rank 43
  68. mbm                                  0.15%   58,967,756 (units: 3,024)
  69. PhreakMonkey                         0.15%   58,394,037 (units: 5,456)
  70. LamontWaugh                          0.15%   57,483,876 (units: 3,992)
- 71. timforgot                            0.14%   55,454,188 (units: 2,769)
+ 71. timforgot                            0.14%   55,456,367 (units: 2,770)
  72. Xenophile                            0.14%   54,976,590 (units: 1,396)
  73. Fifi314                              0.13%   50,788,157 (units: 2,775)
  74. merimus                              0.12%   47,156,855 (units: 1,255)
@@ -90,7 +90,7 @@ As of 2021-02-08 03:36:18, r00t f0lds is rank 43
  88. SecureFlorindo                       0.09%   33,787,314 (units:   727)
  89. Neekop                               0.08%   29,181,738 (units: 2,440)
  90. c0debabe                             0.08%   29,128,562 (units:   846)
- 91. mhuletdev                            0.07%   28,145,108 (units:   285)
+ 91. mhuletdev                            0.07%   28,330,525 (units:   286)
  92. Professor                            0.07%   26,065,495 (units: 1,939)
  93. MarvinPAndroid                       0.07%   25,775,597 (units: 1,086)
  94. Shade                                0.07%   25,555,819 (units:   486)
