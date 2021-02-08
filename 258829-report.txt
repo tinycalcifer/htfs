@@ -1,5 +1,5 @@
-As of 2021-02-08 05:46:24, r00t f0lds is rank 43
-   with 816,531 work units for 38,298,588,220 credits
+As of 2021-02-08 05:56:17, r00t f0lds is rank 43
+   with 816,534 work units for 38,298,662,882 credits
   1. MasterKore                           9.03% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.52% 3,261,274,097 (units: 25,993)
   3. NeTTwerk                             7.31% 2,799,680,571 (units: 16,115)
@@ -47,7 +47,7 @@ As of 2021-02-08 05:46:24, r00t f0lds is rank 43
  45. Christian_Townsdin                   0.38%  145,049,336 (units: 2,483)
  46. Erik_Fichtner                        0.37%  142,008,213 (units: 2,459)
  47. S0l3mn                               0.36%  136,941,389 (units: 5,505)
- 48. dotjrich                             0.36%  136,596,501 (units: 5,075)
+ 48. dotjrich                             0.36%  136,638,481 (units: 5,076)
  49. ethersniffer                         0.35%  133,871,977 (units: 16,000)
  50. Krypt0Gh0st                          0.35%  132,864,465 (units: 2,669)
  51. EndoftheLine                         0.34%  130,653,513 (units: 1,811)
@@ -91,7 +91,7 @@ As of 2021-02-08 05:46:24, r00t f0lds is rank 43
  89. Neekop                               0.08%   29,181,738 (units: 2,440)
  90. c0debabe                             0.08%   29,129,812 (units:   847)
  91. mhuletdev                            0.07%   28,498,632 (units:   289)
- 92. Professor                            0.07%   26,065,495 (units: 1,939)
+ 92. Professor                            0.07%   26,096,927 (units: 1,940)
  93. MarvinPAndroid                       0.07%   25,775,597 (units: 1,086)
  94. Shade                                0.07%   25,555,819 (units:   486)
  95. tal0n                                0.06%   23,880,873 (units: 3,460)
@@ -316,8 +316,8 @@ As of 2021-02-08 05:46:24, r00t f0lds is rank 43
 314. vonnopsled                           0.00%      161,797 (units:     7)
 315. USSjoin                              0.00%      147,333 (units:    40)
 316. NitzerEbb                            0.00%      146,652 (units:    37)
-317. mattjay                              0.00%      143,337 (units:    25)
-318. ginger_hax                           0.00%      142,162 (units:   176)
+317. ginger_hax                           0.00%      143,412 (units:   177)
+318. mattjay                              0.00%      143,337 (units:    25)
 319. twitch                               0.00%      140,532 (units:   109)
 320. The_Game                             0.00%      137,549 (units:   136)
 321. Kirjis                               0.00%      137,390 (units:   123)
@@ -430,8 +430,8 @@ As of 2021-02-08 05:46:24, r00t f0lds is rank 43
 428. rtrevinnoc                           0.00%          896 (units:     2)
 429. VVX7                                 0.00%          842 (units:    11)
 430. Manos                                0.00%          744 (units:     1)
-431. metaproject                          0.00%          700 (units:     1)
-432. DBoy                                 0.00%          700 (units:     1)
+431. DBoy                                 0.00%          700 (units:     1)
+432. metaproject                          0.00%          700 (units:     1)
 433. scr1pt3y                             0.00%          693 (units:     2)
 434. LynxJSA                              0.00%          570 (units:     1)
 435.                                      0.00%          532 (units:     2)
