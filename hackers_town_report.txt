@@ -1,18 +1,18 @@
-As of 2021-02-10 04:06:18, hackers.town is rank 1259
-   with 42,005 work units for 496,725,769 credits
+As of 2021-02-10 04:26:09, hackers.town is rank 1259
+   with 42,006 work units for 496,746,299 credits
   1. Werekat                      14.86%   73,835,020 (units: 2,258)
   2. Kyle                         10.87%   54,009,061 (units: 2,390)
   3. bhtooefr                      8.18%   40,639,033 (units: 1,255)
   4. wetdryvac                     6.47%   32,148,675 (units:   888)
   5. Polychrome                    5.81%   28,861,978 (units: 2,080)
   6. CookieMom                     4.94%   24,550,173 (units: 1,728)
-  7. merimus                       4.15%   20,589,421 (units:   553)
+  7. merimus                       4.14%   20,589,421 (units:   553)
   8. packetcat                     3.99%   19,829,617 (units:   153)
   9. KemoNine                      3.77%   18,705,527 (units:   625)
  10. Freakazoid                    3.70%   18,370,834 (units:   852)
  11. dokuja                        3.64%   18,104,692 (units:   474)
  12.                               2.10%   10,420,148 (units: 1,858)
- 13. zx3                           1.91%    9,492,925 (units:   820)
+ 13. zx3                           1.92%    9,513,455 (units:   821)
  14. Calcifer                      1.57%    7,802,361 (units:   193)
  15. c0debabe                      1.45%    7,224,123 (units:   245)
  16. elfgirlsarah                  1.38%    6,845,555 (units:   955)
@@ -25,7 +25,7 @@ As of 2021-02-10 04:06:18, hackers.town is rank 1259
  23. r000t                         0.82%    4,069,816 (units:   121)
  24. Mr.House                      0.79%    3,947,699 (units:   202)
  25. jkl                           0.73%    3,650,043 (units:   859)
- 26. skraelingjar                  0.68%    3,352,989 (units:    64)
+ 26. skraelingjar                  0.67%    3,352,989 (units:    64)
  27. Kranfahrer                    0.61%    3,024,932 (units:   201)
  28. ryen                          0.59%    2,936,587 (units:   208)
  29. radicaledward                 0.55%    2,717,086 (units:    90)
