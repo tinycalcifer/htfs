@@ -1,10 +1,10 @@
-As of 2021-02-10 05:56:20, r00t f0lds is rank 43
-   with 818,646 work units for 38,468,768,787 credits
+As of 2021-02-10 06:06:18, r00t f0lds is rank 43
+   with 818,650 work units for 38,469,115,027 credits
   1. MasterKore                           8.99% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.53% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.28% 2,799,680,571 (units: 16,115)
   4. dildog                               5.63% 2,164,810,954 (units: 16,520)
-  5. TommydCat                            4.29% 1,651,689,023 (units: 19,413)
+  5. TommydCat                            4.29% 1,651,836,633 (units: 19,414)
   6. Ophie                                4.23% 1,629,014,655 (units: 108,571)
   7. GOLGO13                              3.73% 1,433,360,795 (units: 21,752)
   8. edsai                                3.57% 1,373,817,691 (units: 11,068)
@@ -25,12 +25,12 @@ As of 2021-02-10 05:56:20, r00t f0lds is rank 43
  23. crax                                 1.07%  409,925,041 (units: 2,627)
  24. coldyfoldz                           1.00%  385,713,063 (units: 4,302)
  25. tvidas                               1.00%  384,900,353 (units: 6,941)
- 26. BELTIWAN                             0.98%  378,564,523 (units: 3,868)
+ 26. BELTIWAN                             0.98%  378,718,791 (units: 3,869)
  27. SWinder                              0.98%  376,171,778 (units: 6,231)
  28. natrololol                           0.93%  356,152,556 (units: 3,694)
  29. Kranfahrer                           0.84%  322,193,840 (units: 7,094)
  30. Resident                             0.72%  277,661,622 (units: 6,030)
- 31. Moss                                 0.70%  270,006,253 (units: 5,128)
+ 31. Moss                                 0.70%  270,038,305 (units: 5,129)
  32. Privacywonk                          0.69%  267,171,459 (units: 7,253)
  33. silicosis                            0.69%  266,677,117 (units: 3,681)
  34. X                                    0.61%  236,017,508 (units: 3,616)
@@ -170,7 +170,7 @@ As of 2021-02-10 05:56:20, r00t f0lds is rank 43
 168. pinky.                               0.01%    3,839,391 (units:   603)
 169. Ubergeeken                           0.01%    3,809,282 (units:   835)
 170. JoeWilly                             0.01%    3,724,228 (units: 1,361)
-171. m0h4y                                0.01%    3,614,454 (units: 1,009)
+171. m0h4y                                0.01%    3,626,764 (units: 1,010)
 172. Shitty_Folding_Rigs                  0.01%    3,576,776 (units:   841)
 173. larry0                               0.01%    3,428,069 (units: 3,193)
 174. sswheels1904                         0.01%    3,195,884 (units:   350)
