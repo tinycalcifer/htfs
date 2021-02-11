@@ -1,5 +1,5 @@
-As of 2021-02-11 07:06:23, r00t f0lds is rank 43
-   with 819,532 work units for 38,519,600,467 credits
+As of 2021-02-11 07:16:26, r00t f0lds is rank 43
+   with 819,535 work units for 38,519,787,199 credits
   1. MasterKore                           8.97% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.52% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.27% 2,799,680,571 (units: 16,115)
@@ -13,10 +13,10 @@ As of 2021-02-11 07:06:23, r00t f0lds is rank 43
  11. Gentry                               2.50%  964,220,479 (units: 12,891)
  12. Nicolas_Dawson                       2.47%  951,217,587 (units: 5,884)
  13. Chris_Eng                            2.23%  857,115,893 (units: 6,913)
- 14. Swern                                2.01%  773,709,267 (units: 9,149)
+ 14. Swern                                2.01%  773,888,780 (units: 9,150)
  15. dokuja                               1.77%  683,385,964 (units: 4,167)
  16. wetdryvac                            1.66%  638,851,582 (units: 8,943)
- 17. Steve_Castellarin                    1.61%  620,825,168 (units: 10,144)
+ 17. Steve_Castellarin                    1.61%  620,828,599 (units: 10,145)
  18. Scba                                 1.43%  551,662,914 (units: 6,634)
  19. Sangfroid                            1.43%  549,479,230 (units: 10,870)
  20. Dubhbairn                            1.35%  520,323,922 (units: 5,304)
@@ -30,7 +30,7 @@ As of 2021-02-11 07:06:23, r00t f0lds is rank 43
  28. natrololol                           0.93%  356,562,223 (units: 3,698)
  29. Kranfahrer                           0.84%  322,193,840 (units: 7,094)
  30. Resident                             0.72%  277,676,484 (units: 6,034)
- 31. Moss                                 0.71%  271,747,710 (units: 5,168)
+ 31. Moss                                 0.71%  271,751,498 (units: 5,169)
  32. Privacywonk                          0.70%  269,066,154 (units: 7,269)
  33. silicosis                            0.69%  266,677,117 (units: 3,681)
  34. X                                    0.61%  236,755,116 (units: 3,625)
@@ -430,8 +430,8 @@ As of 2021-02-11 07:06:23, r00t f0lds is rank 43
 428. rtrevinnoc                           0.00%          896 (units:     2)
 429. VVX7                                 0.00%          842 (units:    11)
 430. Manos                                0.00%          744 (units:     1)
-431. metaproject                          0.00%          700 (units:     1)
-432. DBoy                                 0.00%          700 (units:     1)
+431. DBoy                                 0.00%          700 (units:     1)
+432. metaproject                          0.00%          700 (units:     1)
 433. scr1pt3y                             0.00%          693 (units:     2)
 434. LynxJSA                              0.00%          570 (units:     1)
 435.                                      0.00%          532 (units:     2)
