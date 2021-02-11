@@ -1,5 +1,5 @@
-As of 2021-02-11 08:06:10, r00t f0lds is rank 43
-   with 819,559 work units for 38,520,559,705 credits
+As of 2021-02-11 08:16:14, r00t f0lds is rank 43
+   with 819,562 work units for 38,520,695,061 credits
   1. MasterKore                           8.97% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.52% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.27% 2,799,680,571 (units: 16,115)
@@ -43,7 +43,7 @@ As of 2021-02-11 08:06:10, r00t f0lds is rank 43
  41. knarph                               0.48%  184,810,644 (units: 4,691)
  42. skipper                              0.45%  172,798,577 (units: 1,990)
  43. hoochmonger                          0.41%  158,129,530 (units: 2,104)
- 44. causticjb                            0.38%  148,030,343 (units: 6,853)
+ 44. causticjb                            0.38%  148,046,028 (units: 6,854)
  45. Christian_Townsdin                   0.38%  145,049,336 (units: 2,483)
  46. Erik_Fichtner                        0.37%  142,008,213 (units: 2,459)
  47. EndoftheLine                         0.37%  141,551,985 (units: 1,899)
@@ -54,7 +54,7 @@ As of 2021-02-11 08:06:10, r00t f0lds is rank 43
  52. Space_Rogue                          0.31%  119,678,247 (units: 6,400)
  53. wingisfolding                        0.31%  119,385,401 (units: 17,882)
  54. zonksec                              0.28%  106,341,343 (units: 4,564)
- 55. TachyonStream                        0.28%  106,141,026 (units: 4,090)
+ 55. TachyonStream                        0.28%  106,240,747 (units: 4,091)
  56. tweakt                               0.27%  102,211,830 (units: 1,350)
  57. The_Gibson(HTown)                    0.27%  102,194,264 (units: 1,870)
  58. pizen                                0.26%   98,831,149 (units: 2,495)
@@ -84,7 +84,7 @@ As of 2021-02-11 08:06:10, r00t f0lds is rank 43
  82. w0zz                                 0.10%   38,150,894 (units: 2,009)
  83. mhuletdev                            0.10%   37,302,437 (units:   358)
  84. st0ner                               0.10%   36,945,918 (units:   960)
- 85. technolust                           0.10%   36,627,872 (units: 4,995)
+ 85. technolust                           0.10%   36,647,822 (units: 4,996)
  86. Chuk                                 0.09%   36,461,769 (units:   943)
  87. EricO                                0.09%   35,722,051 (units:   467)
  88. Jabolotai                            0.09%   35,299,579 (units: 1,860)
