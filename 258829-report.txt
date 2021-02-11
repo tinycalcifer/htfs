@@ -1,5 +1,5 @@
-As of 2021-02-11 13:36:14, r00t f0lds is rank 43
-   with 819,689 work units for 38,525,769,346 credits
+As of 2021-02-11 13:46:15, r00t f0lds is rank 43
+   with 819,692 work units for 38,526,048,218 credits
   1. MasterKore                           8.97% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.51% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.27% 2,799,680,571 (units: 16,115)
@@ -11,7 +11,7 @@ As of 2021-02-11 13:36:14, r00t f0lds is rank 43
   9. Weld                                 3.37% 1,297,087,319 (units: 11,380)
  10. mowse                                2.66% 1,026,058,364 (units: 5,519)
  11. Gentry                               2.50%  965,002,360 (units: 12,897)
- 12. Nicolas_Dawson                       2.47%  951,662,765 (units: 5,887)
+ 12. Nicolas_Dawson                       2.47%  951,811,213 (units: 5,888)
  13. Chris_Eng                            2.22%  857,115,893 (units: 6,913)
  14. Swern                                2.01%  774,233,072 (units: 9,152)
  15. dokuja                               1.77%  683,385,964 (units: 4,167)
@@ -19,7 +19,7 @@ As of 2021-02-11 13:36:14, r00t f0lds is rank 43
  17. Steve_Castellarin                    1.61%  621,149,763 (units: 10,150)
  18. Scba                                 1.43%  551,716,845 (units: 6,635)
  19. Sangfroid                            1.43%  549,482,960 (units: 10,872)
- 20. Dubhbairn                            1.35%  520,732,769 (units: 5,308)
+ 20. Dubhbairn                            1.35%  520,860,381 (units: 5,309)
  21. spam                                 1.24%  478,482,591 (units: 4,978)
  22. entr0pybitz                          1.14%  437,786,785 (units: 3,304)
  23. crax                                 1.07%  411,580,923 (units: 2,643)
@@ -58,7 +58,7 @@ As of 2021-02-11 13:36:14, r00t f0lds is rank 43
  56. tweakt                               0.27%  102,211,830 (units: 1,350)
  57. The_Gibson(HTown)                    0.27%  102,194,264 (units: 1,870)
  58. pizen                                0.26%   98,918,346 (units: 2,497)
- 59. SalusaSecondus                       0.24%   93,433,644 (units: 1,782)
+ 59. SalusaSecondus                       0.24%   93,436,456 (units: 1,783)
  60. Carson_English                       0.23%   89,974,531 (units: 1,192)
  61. jalvaren                             0.21%   82,134,054 (units: 2,308)
  62. OnidTheTRex                          0.21%   79,424,062 (units: 1,379)
