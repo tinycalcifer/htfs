@@ -1,5 +1,5 @@
-As of 2021-02-12 00:16:44, hackers.town is rank 1258
-   with 42,081 work units for 497,595,486 credits
+As of 2021-02-12 01:06:22, hackers.town is rank 1259
+   with 42,082 work units for 497,615,986 credits
   1. Werekat                      14.86%   73,929,529 (units: 2,264)
   2. Kyle                         10.85%   54,009,061 (units: 2,390)
   3. bhtooefr                      8.21%   40,830,800 (units: 1,262)
@@ -7,12 +7,12 @@ As of 2021-02-12 00:16:44, hackers.town is rank 1258
   5. Polychrome                    5.82%   28,958,413 (units: 2,086)
   6. CookieMom                     5.00%   24,856,168 (units: 1,743)
   7. merimus                       4.14%   20,589,421 (units:   553)
-  8. packetcat                     3.99%   19,829,617 (units:   153)
+  8. packetcat                     3.98%   19,829,617 (units:   153)
   9. KemoNine                      3.76%   18,705,527 (units:   625)
  10. Freakazoid                    3.69%   18,370,834 (units:   852)
  11. dokuja                        3.64%   18,104,692 (units:   474)
  12.                               2.10%   10,435,619 (units: 1,863)
- 13. zx3                           1.94%    9,644,868 (units:   849)
+ 13. zx3                           1.94%    9,665,368 (units:   850)
  14. Calcifer                      1.57%    7,802,361 (units:   193)
  15. c0debabe                      1.45%    7,224,123 (units:   245)
  16. elfgirlsarah                  1.38%    6,845,555 (units:   955)
@@ -20,7 +20,7 @@ As of 2021-02-12 00:16:44, hackers.town is rank 1258
  18. paullindner                   1.05%    5,201,314 (units:   923)
  19. SiinaCutie                    1.04%    5,188,566 (units:   235)
  20. FOOL                          1.03%    5,138,460 (units:   445)
- 21. felix                         0.99%    4,901,391 (units:   185)
+ 21. felix                         0.98%    4,901,391 (units:   185)
  22. Anonymous                     0.83%    4,129,035 (units: 1,609)
  23. r000t                         0.82%    4,069,816 (units:   121)
  24. Mr.House                      0.79%    3,947,699 (units:   202)
