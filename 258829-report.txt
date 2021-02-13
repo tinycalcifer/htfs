@@ -1,5 +1,5 @@
-As of 2021-02-13 04:16:25, r00t f0lds is rank 43
-   with 821,158 work units for 38,633,127,345 credits
+As of 2021-02-13 04:26:17, r00t f0lds is rank 43
+   with 821,161 work units for 38,633,220,630 credits
   1. MasterKore                           8.95% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.49% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.25% 2,799,680,571 (units: 16,115)
@@ -13,14 +13,14 @@ As of 2021-02-13 04:16:25, r00t f0lds is rank 43
  11. Gentry                               2.51%  970,276,827 (units: 12,940)
  12. Nicolas_Dawson                       2.48%  959,586,769 (units: 5,936)
  13. Chris_Eng                            2.22%  857,115,893 (units: 6,913)
- 14. Swern                                2.02%  780,533,016 (units: 9,216)
+ 14. Swern                                2.02%  780,536,714 (units: 9,217)
  15. dokuja                               1.77%  683,385,964 (units: 4,167)
  16. wetdryvac                            1.65%  638,863,729 (units: 8,947)
  17. Steve_Castellarin                    1.62%  625,091,567 (units: 10,207)
  18. Scba                                 1.43%  553,768,698 (units: 6,660)
  19. Sangfroid                            1.42%  549,509,489 (units: 10,884)
  20. Dubhbairn                            1.36%  524,595,374 (units: 5,343)
- 21. spam                                 1.25%  483,077,297 (units: 5,021)
+ 21. spam                                 1.25%  483,146,384 (units: 5,022)
  22. entr0pybitz                          1.14%  441,474,092 (units: 3,332)
  23. crax                                 1.07%  414,325,701 (units: 2,674)
  24. tvidas                               1.01%  391,958,065 (units: 7,052)
@@ -83,7 +83,7 @@ As of 2021-02-13 04:16:25, r00t f0lds is rank 43
  81. JurisHacker                          0.11%   42,002,059 (units:   920)
  82. davidq                               0.11%   40,898,245 (units: 6,094)
  83. w0zz                                 0.10%   38,150,894 (units: 2,009)
- 84. technolust                           0.10%   36,946,187 (units: 5,017)
+ 84. technolust                           0.10%   36,966,687 (units: 5,018)
  85. st0ner                               0.10%   36,945,918 (units:   960)
  86. Chuk                                 0.09%   36,461,769 (units:   943)
  87. EricO                                0.09%   35,722,051 (units:   467)
