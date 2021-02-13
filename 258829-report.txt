@@ -1,5 +1,5 @@
-As of 2021-02-13 04:46:18, r00t f0lds is rank 43
-   with 821,172 work units for 38,633,918,147 credits
+As of 2021-02-13 04:56:19, r00t f0lds is rank 43
+   with 821,176 work units for 38,634,489,558 credits
   1. MasterKore                           8.95% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.49% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.25% 2,799,680,571 (units: 16,115)
@@ -19,10 +19,10 @@ As of 2021-02-13 04:46:18, r00t f0lds is rank 43
  17. Steve_Castellarin                    1.62%  625,091,567 (units: 10,207)
  18. Scba                                 1.43%  553,768,698 (units: 6,660)
  19. Sangfroid                            1.42%  549,509,489 (units: 10,884)
- 20. Dubhbairn                            1.36%  524,595,374 (units: 5,343)
+ 20. Dubhbairn                            1.36%  524,791,707 (units: 5,344)
  21. spam                                 1.25%  483,149,282 (units: 5,023)
  22. entr0pybitz                          1.14%  441,474,092 (units: 3,332)
- 23. crax                                 1.07%  414,325,701 (units: 2,674)
+ 23. crax                                 1.07%  414,393,765 (units: 2,675)
  24. tvidas                               1.01%  391,958,065 (units: 7,052)
  25. coldyfoldz                           1.00%  385,713,063 (units: 4,302)
  26. BELTIWAN                             0.98%  378,718,791 (units: 3,869)
@@ -30,8 +30,8 @@ As of 2021-02-13 04:46:18, r00t f0lds is rank 43
  28. natrololol                           0.92%  356,562,223 (units: 3,698)
  29. Kranfahrer                           0.83%  322,193,840 (units: 7,094)
  30. Resident                             0.72%  277,750,518 (units: 6,042)
- 31. Moss                                 0.71%  274,474,174 (units: 5,220)
- 32. Privacywonk                          0.71%  273,809,856 (units: 7,308)
+ 31. Moss                                 0.71%  274,532,129 (units: 5,221)
+ 32. Privacywonk                          0.71%  274,058,915 (units: 7,309)
  33. silicosis                            0.69%  266,677,117 (units: 3,681)
  34. /dev/random                          0.62%  237,992,158 (units: 5,774)
  35. X                                    0.62%  237,662,628 (units: 3,640)
