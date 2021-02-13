@@ -1,5 +1,5 @@
-As of 2021-02-13 11:06:20, r00t f0lds is rank 43
-   with 821,357 work units for 38,647,217,385 credits
+As of 2021-02-13 11:16:23, r00t f0lds is rank 43
+   with 821,363 work units for 38,647,392,726 credits
   1. MasterKore                           8.95% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.49% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.24% 2,799,680,571 (units: 16,115)
@@ -53,12 +53,12 @@ As of 2021-02-13 11:06:20, r00t f0lds is rank 43
  51. Krypt0Gh0st                          0.34%  132,864,465 (units: 2,669)
  52. Space_Rogue                          0.31%  119,678,247 (units: 6,400)
  53. wingisfolding                        0.31%  119,385,401 (units: 17,882)
- 54. TachyonStream                        0.28%  108,074,840 (units: 4,145)
+ 54. TachyonStream                        0.28%  108,082,073 (units: 4,147)
  55. zonksec                              0.28%  107,841,261 (units: 4,589)
  56. tweakt                               0.26%  102,211,830 (units: 1,350)
  57. The_Gibson(HTown)                    0.26%  102,194,264 (units: 1,870)
- 58. pizen                                0.26%   99,840,913 (units: 2,519)
- 59. SalusaSecondus                       0.25%   94,786,558 (units: 1,801)
+ 58. pizen                                0.26%   99,888,946 (units: 2,520)
+ 59. SalusaSecondus                       0.25%   94,876,473 (units: 1,802)
  60. Carson_English                       0.23%   90,477,276 (units: 1,197)
  61. jalvaren                             0.21%   82,134,054 (units: 2,308)
  62. OnidTheTRex                          0.21%   79,424,062 (units: 1,379)
@@ -110,7 +110,7 @@ As of 2021-02-13 11:06:20, r00t f0lds is rank 43
 108. ghostsarespooky                      0.04%   17,242,418 (units: 3,672)
 109. iparanoid                            0.04%   16,313,793 (units:   908)
 110. Brianmoney233                        0.04%   16,237,721 (units: 1,226)
-111. B10+                                 0.04%   15,501,559 (units: 3,044)
+111. B10+                                 0.04%   15,531,232 (units: 3,045)
 112. steve_c137                           0.04%   15,253,686 (units:   539)
 113. devi0us                              0.04%   15,093,423 (units: 2,779)
 114. 0xdeki                               0.04%   14,789,008 (units:   122)
@@ -188,7 +188,7 @@ As of 2021-02-13 11:06:20, r00t f0lds is rank 43
 186. DefConPlexxer                        0.01%    2,361,867 (units:   627)
 187. PHPete                               0.01%    2,356,772 (units: 1,329)
 188. mcsalchemy                           0.01%    2,294,325 (units:   688)
-189. gwozniak                             0.01%    2,291,067 (units: 1,534)
+189. gwozniak                             0.01%    2,291,554 (units: 1,535)
 190. fak3r                                0.01%    2,205,695 (units:   419)
 191. robbywan                             0.01%    2,204,025 (units:   204)
 192. noobtodamax                          0.01%    2,198,449 (units:   255)
