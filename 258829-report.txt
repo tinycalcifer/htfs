@@ -1,5 +1,5 @@
-As of 2021-02-13 15:36:26, r00t f0lds is rank 43
-   with 821,494 work units for 38,657,919,062 credits
+As of 2021-02-13 15:46:28, r00t f0lds is rank 43
+   with 821,499 work units for 38,658,445,334 credits
   1. MasterKore                           8.94% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.49% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.24% 2,799,680,571 (units: 16,115)
@@ -10,7 +10,7 @@ As of 2021-02-13 15:36:26, r00t f0lds is rank 43
   8. edsai                                3.58% 1,383,853,126 (units: 11,147)
   9. Weld                                 3.36% 1,297,226,219 (units: 11,383)
  10. mowse                                2.65% 1,026,058,364 (units: 5,519)
- 11. Gentry                               2.51%  972,096,047 (units: 12,953)
+ 11. Gentry                               2.52%  972,273,185 (units: 12,954)
  12. Nicolas_Dawson                       2.49%  961,355,127 (units: 5,943)
  13. Chris_Eng                            2.22%  857,115,893 (units: 6,913)
  14. Swern                                2.02%  782,394,529 (units: 9,230)
@@ -30,8 +30,8 @@ As of 2021-02-13 15:36:26, r00t f0lds is rank 43
  28. natrololol                           0.92%  356,562,223 (units: 3,698)
  29. Kranfahrer                           0.83%  322,193,840 (units: 7,094)
  30. Resident                             0.72%  277,755,463 (units: 6,043)
- 31. Moss                                 0.71%  275,210,422 (units: 5,232)
- 32. Privacywonk                          0.71%  275,008,064 (units: 7,315)
+ 31. Moss                                 0.71%  275,213,190 (units: 5,233)
+ 32. Privacywonk                          0.71%  275,181,160 (units: 7,316)
  33. silicosis                            0.69%  266,677,117 (units: 3,681)
  34. /dev/random                          0.62%  238,483,192 (units: 5,779)
  35. X                                    0.62%  238,046,082 (units: 3,645)
@@ -44,7 +44,7 @@ As of 2021-02-13 15:36:26, r00t f0lds is rank 43
  42. skipper                              0.45%  175,418,420 (units: 2,010)
  43. hoochmonger                          0.42%  161,362,622 (units: 2,134)
  44. causticjb                            0.39%  149,416,156 (units: 6,915)
- 45. EndoftheLine                         0.38%  147,648,823 (units: 1,947)
+ 45. EndoftheLine                         0.38%  147,820,843 (units: 1,948)
  46. Christian_Townsdin                   0.38%  145,049,336 (units: 2,483)
  47. Erik_Fichtner                        0.37%  142,008,213 (units: 2,459)
  48. dotjrich                             0.36%  140,018,600 (units: 5,162)
@@ -221,7 +221,7 @@ As of 2021-02-13 15:36:26, r00t f0lds is rank 43
 219. dark_ma773r                          0.00%    1,224,774 (units:    55)
 220. CoDeCoMPLeXX                         0.00%    1,203,251 (units:   469)
 221. aph                                  0.00%    1,175,641 (units: 1,254)
-222. Dunga                                0.00%    1,163,827 (units:   100)
+222. Dunga                                0.00%    1,165,077 (units:   101)
 223. kloaker                              0.00%    1,150,524 (units:   340)
 224. mmeeooow                             0.00%    1,134,642 (units: 1,272)
 225. James                                0.00%    1,098,804 (units:    61)
