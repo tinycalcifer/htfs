@@ -1,5 +1,5 @@
-As of 2021-02-13 06:46:19, r00t f0lds is rank 43
-   with 821,231 work units for 38,637,698,761 credits
+As of 2021-02-13 07:01:14, r00t f0lds is rank 43
+   with 821,234 work units for 38,638,079,233 credits
   1. MasterKore                           8.95% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.49% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.25% 2,799,680,571 (units: 16,115)
@@ -10,10 +10,10 @@ As of 2021-02-13 06:46:19, r00t f0lds is rank 43
   8. edsai                                3.58% 1,383,134,863 (units: 11,142)
   9. Weld                                 3.36% 1,297,226,219 (units: 11,383)
  10. mowse                                2.66% 1,026,058,364 (units: 5,519)
- 11. Gentry                               2.51%  970,695,560 (units: 12,943)
+ 11. Gentry                               2.51%  970,751,631 (units: 12,944)
  12. Nicolas_Dawson                       2.48%  959,822,877 (units: 5,937)
  13. Chris_Eng                            2.22%  857,115,893 (units: 6,913)
- 14. Swern                                2.02%  780,632,393 (units: 9,220)
+ 14. Swern                                2.02%  780,953,262 (units: 9,221)
  15. dokuja                               1.77%  683,385,964 (units: 4,167)
  16. wetdryvac                            1.65%  638,863,729 (units: 8,947)
  17. Steve_Castellarin                    1.62%  625,177,742 (units: 10,210)
@@ -49,7 +49,7 @@ As of 2021-02-13 06:46:19, r00t f0lds is rank 43
  47. Erik_Fichtner                        0.37%  142,008,213 (units: 2,459)
  48. dotjrich                             0.36%  139,819,275 (units: 5,158)
  49. S0l3mn                               0.35%  136,962,889 (units: 5,515)
- 50. ethersniffer                         0.35%  135,110,699 (units: 16,075)
+ 50. ethersniffer                         0.35%  135,114,231 (units: 16,076)
  51. Krypt0Gh0st                          0.34%  132,864,465 (units: 2,669)
  52. Space_Rogue                          0.31%  119,678,247 (units: 6,400)
  53. wingisfolding                        0.31%  119,385,401 (units: 17,882)
