@@ -1,5 +1,5 @@
-As of 2021-02-13 20:36:16, r00t f0lds is rank 43
-   with 821,661 work units for 38,669,499,904 credits
+As of 2021-02-13 20:46:19, r00t f0lds is rank 43
+   with 821,664 work units for 38,669,694,661 credits
   1. MasterKore                           8.94% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.48% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.24% 2,799,680,571 (units: 16,115)
@@ -13,7 +13,7 @@ As of 2021-02-13 20:36:16, r00t f0lds is rank 43
  11. Gentry                               2.52%  972,840,263 (units: 12,960)
  12. Nicolas_Dawson                       2.49%  962,640,732 (units: 5,949)
  13. Chris_Eng                            2.22%  857,115,893 (units: 6,913)
- 14. Swern                                2.02%  782,993,566 (units: 9,239)
+ 14. Swern                                2.03%  783,082,671 (units: 9,240)
  15. dokuja                               1.77%  683,385,964 (units: 4,167)
  16. wetdryvac                            1.65%  638,867,190 (units: 8,948)
  17. Steve_Castellarin                    1.62%  626,742,793 (units: 10,222)
@@ -91,7 +91,7 @@ As of 2021-02-13 20:36:16, r00t f0lds is rank 43
  89. SecureFlorindo                       0.09%   33,787,314 (units:   727)
  90. Neekop                               0.08%   29,308,683 (units: 2,462)
  91. c0debabe                             0.08%   29,151,067 (units:   861)
- 92. Professor                            0.07%   27,085,742 (units: 2,015)
+ 92. Professor                            0.07%   27,140,142 (units: 2,016)
  93. MarvinPAndroid                       0.07%   25,775,597 (units: 1,086)
  94. Shade                                0.07%   25,555,819 (units:   486)
  95. tal0n                                0.06%   23,880,878 (units: 3,465)
@@ -100,7 +100,7 @@ As of 2021-02-13 20:36:16, r00t f0lds is rank 43
  98. simonlbn                             0.05%   20,492,571 (units: 2,168)
  99. just6979                             0.05%   20,400,358 (units: 1,014)
 100. Mudge_Idle                           0.05%   19,710,490 (units: 2,556)
-101. dethveggie                           0.05%   19,370,223 (units: 3,007)
+101. dethveggie                           0.05%   19,421,475 (units: 3,008)
 102. SuRatt                               0.05%   19,280,686 (units:   529)
 103. mikecherry                           0.05%   19,045,398 (units: 2,230)
 104. gattaca                              0.05%   18,941,073 (units: 4,152)
