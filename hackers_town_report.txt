@@ -1,16 +1,16 @@
-As of 2021-02-14 17:36:17, hackers.town is rank 1258
-   with 42,165 work units for 499,369,228 credits
+As of 2021-02-14 17:56:17, hackers.town is rank 1258
+   with 42,166 work units for 499,539,850 credits
   1. Werekat                      14.87%   74,273,176 (units: 2,276)
-  2. Kyle                         10.82%   54,009,061 (units: 2,390)
-  3. bhtooefr                      8.31%   41,482,143 (units: 1,273)
+  2. Kyle                         10.81%   54,009,061 (units: 2,390)
+  3. bhtooefr                      8.34%   41,652,765 (units: 1,274)
   4. wetdryvac                     6.44%   32,148,675 (units:   888)
   5. Polychrome                    5.80%   28,963,900 (units: 2,089)
   6. CookieMom                     5.07%   25,322,561 (units: 1,758)
   7. merimus                       4.12%   20,589,421 (units:   553)
   8. packetcat                     3.97%   19,829,617 (units:   153)
-  9. KemoNine                      3.75%   18,705,527 (units:   625)
+  9. KemoNine                      3.74%   18,705,527 (units:   625)
  10. Freakazoid                    3.68%   18,370,834 (units:   852)
- 11. dokuja                        3.63%   18,104,692 (units:   474)
+ 11. dokuja                        3.62%   18,104,692 (units:   474)
  12.                               2.10%   10,506,461 (units: 1,873)
  13. zx3                           1.97%    9,855,910 (units:   872)
  14. Calcifer                      1.56%    7,802,361 (units:   193)
@@ -90,7 +90,7 @@ As of 2021-02-14 17:36:17, hackers.town is rank 1258
  88. silksnep                      0.03%      141,111 (units:   176)
  89. Anunmouse                     0.03%      140,072 (units:   118)
  90. arbu                          0.03%      125,499 (units:     7)
- 91. Neil                          0.03%      124,874 (units:    32)
+ 91. Neil                          0.02%      124,874 (units:    32)
  92. Bingo                         0.02%      124,668 (units:   189)
  93. micmac                        0.02%      117,952 (units:   102)
  94. amsomniac                     0.02%      117,900 (units:    61)
