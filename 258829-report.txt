@@ -1,5 +1,5 @@
-As of 2021-02-14 17:26:15, r00t f0lds is rank 43
-   with 822,269 work units for 38,711,093,698 credits
+As of 2021-02-14 17:36:17, r00t f0lds is rank 43
+   with 822,272 work units for 38,711,319,924 credits
   1. MasterKore                           8.93% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.47% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.23% 2,799,680,571 (units: 16,115)
@@ -13,7 +13,7 @@ As of 2021-02-14 17:26:15, r00t f0lds is rank 43
  11. Gentry                               2.52%  975,701,028 (units: 12,985)
  12. Nicolas_Dawson                       2.50%  966,352,035 (units: 5,967)
  13. Chris_Eng                            2.21%  857,115,893 (units: 6,913)
- 14. Swern                                2.03%  786,071,733 (units: 9,267)
+ 14. Swern                                2.03%  786,074,739 (units: 9,268)
  15. dokuja                               1.77%  683,385,964 (units: 4,167)
  16. wetdryvac                            1.65%  638,867,190 (units: 8,948)
  17. Steve_Castellarin                    1.62%  628,545,370 (units: 10,239)
@@ -31,7 +31,7 @@ As of 2021-02-14 17:26:15, r00t f0lds is rank 43
  29. Kranfahrer                           0.83%  322,193,840 (units: 7,094)
  30. Resident                             0.72%  277,801,850 (units: 6,045)
  31. Privacywonk                          0.72%  277,430,150 (units: 7,327)
- 32. Moss                                 0.71%  276,723,963 (units: 5,260)
+ 32. Moss                                 0.71%  276,783,565 (units: 5,261)
  33. silicosis                            0.69%  266,677,117 (units: 3,681)
  34. /dev/random                          0.62%  239,468,719 (units: 5,790)
  35. X                                    0.61%  238,046,082 (units: 3,645)
@@ -77,7 +77,7 @@ As of 2021-02-14 17:26:15, r00t f0lds is rank 43
  75. merimus                              0.12%   47,156,855 (units: 1,255)
  76. CoolAcid                             0.12%   46,664,620 (units: 1,778)
  77. martums                              0.12%   46,348,785 (units: 6,085)
- 78. mhuletdev                            0.12%   45,752,703 (units:   432)
+ 78. mhuletdev                            0.12%   45,916,321 (units:   433)
  79. Rumble                               0.11%   43,557,050 (units: 12,786)
  80. KeithS                               0.11%   43,032,963 (units: 1,969)
  81. JurisHacker                          0.11%   42,002,059 (units:   920)
