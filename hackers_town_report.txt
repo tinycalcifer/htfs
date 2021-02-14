@@ -1,8 +1,8 @@
-As of 2021-02-14 04:26:10, hackers.town is rank 1261
-   with 42,146 work units for 498,641,351 credits
-  1. Werekat                      14.86%   74,086,084 (units: 2,272)
+As of 2021-02-14 05:26:19, hackers.town is rank 1261
+   with 42,147 work units for 498,748,880 credits
+  1. Werekat                      14.85%   74,086,084 (units: 2,272)
   2. Kyle                         10.83%   54,009,061 (units: 2,390)
-  3. bhtooefr                      8.25%   41,140,700 (units: 1,267)
+  3. bhtooefr                      8.27%   41,248,229 (units: 1,268)
   4. wetdryvac                     6.45%   32,148,675 (units:   888)
   5. Polychrome                    5.81%   28,963,900 (units: 2,089)
   6. CookieMom                     5.05%   25,179,961 (units: 1,756)
@@ -61,7 +61,7 @@ As of 2021-02-14 04:26:10, hackers.town is rank 1261
  59. Nemesis                       0.09%      449,123 (units:   388)
  60. pmosetc                       0.09%      434,717 (units:   420)
  61. Mnemonic                      0.09%      434,508 (units:   163)
- 62. protospork                    0.09%      423,894 (units:    59)
+ 62. protospork                    0.08%      423,894 (units:    59)
  63. Logomancer                    0.08%      422,087 (units: 1,528)
  64. Hany                          0.08%      421,021 (units:    99)
  65. fl0wn                         0.08%      388,420 (units:    74)
@@ -91,7 +91,7 @@ As of 2021-02-14 04:26:10, hackers.town is rank 1261
  89. Anunmouse                     0.03%      140,072 (units:   118)
  90. arbu                          0.03%      125,499 (units:     7)
  91. Neil                          0.03%      124,874 (units:    32)
- 92. Bingo                         0.03%      124,668 (units:   189)
+ 92. Bingo                         0.02%      124,668 (units:   189)
  93. micmac                        0.02%      117,952 (units:   102)
  94. amsomniac                     0.02%      117,900 (units:    61)
  95. piggo                         0.02%      108,091 (units:    23)
