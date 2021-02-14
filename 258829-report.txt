@@ -1,5 +1,5 @@
-As of 2021-02-14 04:36:13, r00t f0lds is rank 43
-   with 821,895 work units for 38,684,951,075 credits
+As of 2021-02-14 04:46:13, r00t f0lds is rank 43
+   with 821,900 work units for 38,685,325,946 credits
   1. MasterKore                           8.94% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.48% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.24% 2,799,680,571 (units: 16,115)
@@ -10,7 +10,7 @@ As of 2021-02-14 04:36:13, r00t f0lds is rank 43
   8. edsai                                3.58% 1,384,474,567 (units: 11,154)
   9. Weld                                 3.35% 1,297,310,809 (units: 11,384)
  10. mowse                                2.65% 1,026,058,364 (units: 5,519)
- 11. Gentry                               2.52%  974,012,427 (units: 12,969)
+ 11. Gentry                               2.52%  974,102,528 (units: 12,970)
  12. Nicolas_Dawson                       2.49%  963,764,820 (units: 5,955)
  13. Chris_Eng                            2.22%  857,115,893 (units: 6,913)
  14. Swern                                2.03%  784,097,648 (units: 9,249)
@@ -43,8 +43,8 @@ As of 2021-02-14 04:36:13, r00t f0lds is rank 43
  41. knarph                               0.48%  184,810,644 (units: 4,691)
  42. skipper                              0.46%  176,040,728 (units: 2,017)
  43. hoochmonger                          0.42%  161,742,685 (units: 2,137)
- 44. causticjb                            0.39%  149,720,778 (units: 6,926)
- 45. EndoftheLine                         0.38%  148,039,182 (units: 1,953)
+ 44. causticjb                            0.39%  149,763,080 (units: 6,927)
+ 45. EndoftheLine                         0.38%  148,088,263 (units: 1,954)
  46. Christian_Townsdin                   0.37%  145,049,336 (units: 2,483)
  47. Erik_Fichtner                        0.37%  142,008,213 (units: 2,459)
  48. dotjrich                             0.36%  140,311,989 (units: 5,165)
@@ -73,11 +73,11 @@ As of 2021-02-14 04:36:13, r00t f0lds is rank 43
  71. timforgot                            0.15%   57,707,264 (units: 2,862)
  72. Xenophile                            0.14%   54,976,590 (units: 1,396)
  73. Fifi314                              0.14%   52,535,846 (units: 2,837)
- 74. fib.seq                              0.13%   50,591,571 (units: 1,293)
+ 74. fib.seq                              0.13%   50,703,669 (units: 1,294)
  75. merimus                              0.12%   47,156,855 (units: 1,255)
  76. CoolAcid                             0.12%   46,662,715 (units: 1,777)
  77. martums                              0.12%   46,348,785 (units: 6,085)
- 78. mhuletdev                            0.12%   44,628,155 (units:   420)
+ 78. mhuletdev                            0.12%   44,709,444 (units:   421)
  79. Rumble                               0.11%   43,557,050 (units: 12,786)
  80. KeithS                               0.11%   42,947,963 (units: 1,963)
  81. JurisHacker                          0.11%   42,002,059 (units:   920)
