@@ -1,8 +1,8 @@
-As of 2021-02-15 15:36:16, hackers.town is rank 1257
-   with 42,193 work units for 500,382,705 credits
+As of 2021-02-15 16:26:17, hackers.town is rank 1257
+   with 42,195 work units for 500,565,555 credits
   1. Werekat                      14.86%   74,370,992 (units: 2,277)
   2. Kyle                         10.79%   54,009,061 (units: 2,390)
-  3. bhtooefr                      8.44%   42,214,303 (units: 1,281)
+  3. bhtooefr                      8.47%   42,389,498 (units: 1,282)
   4. wetdryvac                     6.42%   32,148,675 (units:   888)
   5. Polychrome                    5.79%   28,965,722 (units: 2,090)
   6. CookieMom                     5.07%   25,391,501 (units: 1,760)
@@ -12,7 +12,7 @@ As of 2021-02-15 15:36:16, hackers.town is rank 1257
  10. Freakazoid                    3.67%   18,370,834 (units:   852)
  11. dokuja                        3.62%   18,104,692 (units:   474)
  12.                               2.10%   10,520,733 (units: 1,876)
- 13. zx3                           1.99%    9,942,480 (units:   882)
+ 13. zx3                           1.99%    9,950,135 (units:   883)
  14. Calcifer                      1.56%    7,802,361 (units:   193)
  15. c0debabe                      1.44%    7,224,123 (units:   245)
  16. elfgirlsarah                  1.37%    6,845,555 (units:   955)
@@ -29,7 +29,7 @@ As of 2021-02-15 15:36:16, hackers.town is rank 1257
  27. Kranfahrer                    0.60%    3,024,932 (units:   201)
  28. ryen                          0.59%    2,936,587 (units:   208)
  29. radicaledward                 0.54%    2,717,086 (units:    90)
- 30. Canageek                      0.52%    2,577,892 (units:   431)
+ 30. Canageek                      0.51%    2,577,892 (units:   431)
  31. drwho                         0.49%    2,457,926 (units:   500)
  32. The_Gibson(HTown)             0.47%    2,330,035 (units:   212)
  33. neil                          0.44%    2,190,817 (units:   751)
@@ -72,7 +72,7 @@ As of 2021-02-15 15:36:16, hackers.town is rank 1257
  70. debugninja                    0.06%      288,707 (units:    34)
  71. ZenCoder                      0.06%      281,041 (units:    87)
  72. folding_with_gibson           0.06%      276,013 (units:   126)
- 73. jerephil                      0.06%      275,300 (units:   192)
+ 73. jerephil                      0.05%      275,300 (units:   192)
  74. Cyberia                       0.05%      266,610 (units:    22)
  75. Kyresti                       0.05%      262,134 (units:    39)
  76. Brian                         0.05%      259,022 (units:    82)
