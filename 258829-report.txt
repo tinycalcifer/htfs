@@ -1,5 +1,5 @@
-As of 2021-02-15 01:56:24, r00t f0lds is rank 43
-   with 822,503 work units for 38,727,563,966 credits
+As of 2021-02-15 02:06:24, r00t f0lds is rank 43
+   with 822,508 work units for 38,728,281,096 credits
   1. MasterKore                           8.93% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.47% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.23% 2,799,680,571 (units: 16,115)
@@ -10,10 +10,10 @@ As of 2021-02-15 01:56:24, r00t f0lds is rank 43
   8. edsai                                3.58% 1,385,873,486 (units: 11,166)
   9. Weld                                 3.35% 1,297,310,809 (units: 11,384)
  10. mowse                                2.65% 1,026,058,364 (units: 5,519)
- 11. Gentry                               2.52%  976,976,145 (units: 12,994)
- 12. Nicolas_Dawson                       2.50%  967,747,748 (units: 5,974)
+ 11. Gentry                               2.52%  977,163,975 (units: 12,995)
+ 12. Nicolas_Dawson                       2.50%  967,946,417 (units: 5,975)
  13. Chris_Eng                            2.21%  857,115,893 (units: 6,913)
- 14. Swern                                2.03%  787,258,669 (units: 9,278)
+ 14. Swern                                2.03%  787,347,217 (units: 9,279)
  15. dokuja                               1.76%  683,385,964 (units: 4,167)
  16. wetdryvac                            1.65%  638,867,190 (units: 8,948)
  17. Steve_Castellarin                    1.63%  629,511,529 (units: 10,249)
@@ -75,8 +75,8 @@ As of 2021-02-15 01:56:24, r00t f0lds is rank 43
  73. Fifi314                              0.14%   52,757,899 (units: 2,844)
  74. fib.seq                              0.13%   51,250,623 (units: 1,301)
  75. merimus                              0.12%   47,156,855 (units: 1,255)
- 76. CoolAcid                             0.12%   46,664,620 (units: 1,778)
- 77. mhuletdev                            0.12%   46,593,847 (units:   438)
+ 76. mhuletdev                            0.12%   46,833,530 (units:   439)
+ 77. CoolAcid                             0.12%   46,667,020 (units: 1,779)
  78. martums                              0.12%   46,348,785 (units: 6,085)
  79. Rumble                               0.11%   43,557,050 (units: 12,786)
  80. KeithS                               0.11%   43,075,576 (units: 1,971)
