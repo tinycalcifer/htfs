@@ -1,5 +1,5 @@
-As of 2021-02-15 09:16:28, r00t f0lds is rank 43
-   with 822,704 work units for 38,741,958,935 credits
+As of 2021-02-15 09:26:25, r00t f0lds is rank 43
+   with 822,706 work units for 38,742,117,417 credits
   1. MasterKore                           8.92% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.47% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.23% 2,799,680,571 (units: 16,115)
@@ -23,7 +23,7 @@ As of 2021-02-15 09:16:28, r00t f0lds is rank 43
  21. spam                                 1.26%  488,669,149 (units: 5,071)
  22. entr0pybitz                          1.14%  442,455,065 (units: 3,336)
  23. crax                                 1.08%  417,293,764 (units: 2,716)
- 24. tvidas                               1.03%  397,203,156 (units: 7,107)
+ 24. tvidas                               1.03%  397,355,737 (units: 7,108)
  25. coldyfoldz                           1.00%  385,713,063 (units: 4,302)
  26. BELTIWAN                             0.98%  378,718,791 (units: 3,869)
  27. SWinder                              0.97%  376,529,121 (units: 6,245)
@@ -100,7 +100,7 @@ As of 2021-02-15 09:16:28, r00t f0lds is rank 43
  98. just6979                             0.05%   20,556,468 (units: 1,016)
  99. simonlbn                             0.05%   20,554,301 (units: 2,172)
 100. Mudge_Idle                           0.05%   19,792,962 (units: 2,562)
-101. dethveggie                           0.05%   19,549,182 (units: 3,015)
+101. dethveggie                           0.05%   19,555,083 (units: 3,016)
 102. SuRatt                               0.05%   19,280,686 (units:   529)
 103. mikecherry                           0.05%   19,149,753 (units: 2,235)
 104. gattaca                              0.05%   18,997,967 (units: 4,158)
@@ -432,8 +432,8 @@ As of 2021-02-15 09:16:28, r00t f0lds is rank 43
 430. rtrevinnoc                           0.00%          896 (units:     2)
 431. VVX7                                 0.00%          842 (units:    11)
 432. Manos                                0.00%          744 (units:     1)
-433. metaproject                          0.00%          700 (units:     1)
-434. DBoy                                 0.00%          700 (units:     1)
+433. DBoy                                 0.00%          700 (units:     1)
+434. metaproject                          0.00%          700 (units:     1)
 435. scr1pt3y                             0.00%          693 (units:     2)
 436. LynxJSA                              0.00%          570 (units:     1)
 437.                                      0.00%          532 (units:     2)
