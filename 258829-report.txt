@@ -1,5 +1,5 @@
-As of 2021-02-15 14:46:28, r00t f0lds is rank 43
-   with 822,864 work units for 38,756,172,309 credits
+As of 2021-02-15 14:56:27, r00t f0lds is rank 43
+   with 822,867 work units for 38,756,523,024 credits
   1. MasterKore                           8.92% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.46% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.22% 2,799,680,571 (units: 16,115)
@@ -11,7 +11,7 @@ As of 2021-02-15 14:46:28, r00t f0lds is rank 43
   9. Weld                                 3.35% 1,297,310,809 (units: 11,384)
  10. mowse                                2.65% 1,026,058,364 (units: 5,519)
  11. Gentry                               2.53%  979,064,757 (units: 13,007)
- 12. Nicolas_Dawson                       2.50%  970,266,245 (units: 5,985)
+ 12. Nicolas_Dawson                       2.50%  970,507,906 (units: 5,986)
  13. Chris_Eng                            2.21%  857,455,832 (units: 6,925)
  14. Swern                                2.04%  789,065,780 (units: 9,296)
  15. dokuja                               1.76%  683,385,964 (units: 4,167)
@@ -43,7 +43,7 @@ As of 2021-02-15 14:46:28, r00t f0lds is rank 43
  41. knarph                               0.48%  184,810,644 (units: 4,691)
  42. skipper                              0.46%  177,445,755 (units: 2,027)
  43. hoochmonger                          0.42%  161,742,685 (units: 2,137)
- 44. causticjb                            0.39%  150,563,017 (units: 6,958)
+ 44. causticjb                            0.39%  150,590,109 (units: 6,959)
  45. EndoftheLine                         0.38%  148,797,051 (units: 1,968)
  46. Christian_Townsdin                   0.37%  145,049,336 (units: 2,483)
  47. Erik_Fichtner                        0.37%  142,008,213 (units: 2,459)
@@ -74,7 +74,7 @@ As of 2021-02-15 14:46:28, r00t f0lds is rank 43
  72. Xenophile                            0.14%   54,976,590 (units: 1,396)
  73. Fifi314                              0.14%   52,935,317 (units: 2,849)
  74. fib.seq                              0.13%   51,525,491 (units: 1,305)
- 75. mhuletdev                            0.12%   48,201,620 (units:   450)
+ 75. mhuletdev                            0.12%   48,283,582 (units:   451)
  76. merimus                              0.12%   47,156,855 (units: 1,255)
  77. CoolAcid                             0.12%   46,667,020 (units: 1,779)
  78. martums                              0.12%   46,348,785 (units: 6,085)
