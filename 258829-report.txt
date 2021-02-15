@@ -1,5 +1,5 @@
-As of 2021-02-15 07:46:28, r00t f0lds is rank 43
-   with 822,662 work units for 38,739,058,073 credits
+As of 2021-02-15 07:56:28, r00t f0lds is rank 43
+   with 822,666 work units for 38,739,506,461 credits
   1. MasterKore                           8.92% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.47% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.23% 2,799,680,571 (units: 16,115)
@@ -13,7 +13,7 @@ As of 2021-02-15 07:46:28, r00t f0lds is rank 43
  11. Gentry                               2.52%  977,781,735 (units: 12,999)
  12. Nicolas_Dawson                       2.50%  969,131,778 (units: 5,980)
  13. Chris_Eng                            2.21%  857,150,368 (units: 6,916)
- 14. Swern                                2.03%  787,944,948 (units: 9,286)
+ 14. Swern                                2.03%  788,150,005 (units: 9,288)
  15. dokuja                               1.76%  683,385,964 (units: 4,167)
  16. wetdryvac                            1.65%  638,867,190 (units: 8,948)
  17. Steve_Castellarin                    1.63%  629,859,299 (units: 10,251)
@@ -23,7 +23,7 @@ As of 2021-02-15 07:46:28, r00t f0lds is rank 43
  21. spam                                 1.26%  488,516,508 (units: 5,070)
  22. entr0pybitz                          1.14%  442,455,065 (units: 3,336)
  23. crax                                 1.08%  417,223,992 (units: 2,715)
- 24. tvidas                               1.02%  396,962,728 (units: 7,106)
+ 24. tvidas                               1.03%  397,203,156 (units: 7,107)
  25. coldyfoldz                           1.00%  385,713,063 (units: 4,302)
  26. BELTIWAN                             0.98%  378,718,791 (units: 3,869)
  27. SWinder                              0.97%  376,529,121 (units: 6,245)
@@ -53,7 +53,7 @@ As of 2021-02-15 07:46:28, r00t f0lds is rank 43
  51. Krypt0Gh0st                          0.34%  132,864,465 (units: 2,669)
  52. Space_Rogue                          0.31%  119,678,247 (units: 6,400)
  53. wingisfolding                        0.31%  119,385,401 (units: 17,882)
- 54. TachyonStream                        0.28%  109,554,523 (units: 4,193)
+ 54. TachyonStream                        0.28%  109,557,426 (units: 4,194)
  55. zonksec                              0.28%  109,122,643 (units: 4,607)
  56. tweakt                               0.26%  102,211,830 (units: 1,350)
  57. The_Gibson(HTown)                    0.26%  102,194,264 (units: 1,870)
