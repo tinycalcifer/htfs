@@ -1,5 +1,5 @@
-As of 2021-02-15 18:46:25, r00t f0lds is rank 43
-   with 822,976 work units for 38,764,109,927 credits
+As of 2021-02-15 18:56:26, r00t f0lds is rank 43
+   with 822,979 work units for 38,764,259,417 credits
   1. MasterKore                           8.92% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.46% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.22% 2,799,680,571 (units: 16,115)
@@ -47,9 +47,9 @@ As of 2021-02-15 18:46:25, r00t f0lds is rank 43
  45. EndoftheLine                         0.38%  148,940,296 (units: 1,970)
  46. Christian_Townsdin                   0.37%  145,049,336 (units: 2,483)
  47. Erik_Fichtner                        0.37%  142,008,213 (units: 2,459)
- 48. dotjrich                             0.36%  141,097,756 (units: 5,184)
+ 48. dotjrich                             0.36%  141,224,962 (units: 5,185)
  49. S0l3mn                               0.35%  136,981,200 (units: 5,522)
- 50. ethersniffer                         0.35%  135,757,997 (units: 16,099)
+ 50. ethersniffer                         0.35%  135,761,181 (units: 16,100)
  51. Krypt0Gh0st                          0.34%  132,864,465 (units: 2,669)
  52. Space_Rogue                          0.31%  119,678,247 (units: 6,400)
  53. wingisfolding                        0.31%  119,385,401 (units: 17,882)
@@ -72,7 +72,7 @@ As of 2021-02-15 18:46:25, r00t f0lds is rank 43
  70. LamontWaugh                          0.15%   58,025,338 (units: 4,059)
  71. timforgot                            0.15%   57,948,649 (units: 2,873)
  72. Xenophile                            0.14%   54,976,590 (units: 1,396)
- 73. Fifi314                              0.14%   52,935,317 (units: 2,849)
+ 73. Fifi314                              0.14%   52,954,417 (units: 2,850)
  74. fib.seq                              0.13%   51,525,491 (units: 1,305)
  75. mhuletdev                            0.12%   48,447,519 (units:   453)
  76. merimus                              0.12%   47,156,855 (units: 1,255)
