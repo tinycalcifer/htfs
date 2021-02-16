@@ -1,5 +1,5 @@
-As of 2021-02-16 17:36:26, r00t f0lds is rank 43
-   with 823,628 work units for 38,808,629,876 credits
+As of 2021-02-16 17:46:26, r00t f0lds is rank 43
+   with 823,632 work units for 38,808,984,365 credits
   1. MasterKore                           8.91% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.45% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.21% 2,799,680,571 (units: 16,115)
@@ -11,8 +11,8 @@ As of 2021-02-16 17:36:26, r00t f0lds is rank 43
   9. Weld                                 3.34% 1,297,310,809 (units: 11,384)
  10. mowse                                2.64% 1,026,058,364 (units: 5,519)
  11. Gentry                               2.53%  982,987,085 (units: 13,029)
- 12. Nicolas_Dawson                       2.51%  975,057,940 (units: 6,008)
- 13. Chris_Eng                            2.21%  859,104,131 (units: 6,961)
+ 12. Nicolas_Dawson                       2.51%  975,383,596 (units: 6,009)
+ 13. Chris_Eng                            2.21%  859,107,483 (units: 6,962)
  14. Swern                                2.04%  792,776,944 (units: 9,336)
  15. dokuja                               1.76%  683,385,964 (units: 4,167)
  16. wetdryvac                            1.65%  638,878,851 (units: 8,952)
@@ -27,7 +27,7 @@ As of 2021-02-16 17:36:26, r00t f0lds is rank 43
  25. coldyfoldz                           0.99%  385,713,063 (units: 4,302)
  26. BELTIWAN                             0.98%  378,718,791 (units: 3,869)
  27. SWinder                              0.97%  376,608,728 (units: 6,249)
- 28. natrololol                           0.93%  361,779,435 (units: 3,752)
+ 28. natrololol                           0.93%  361,784,933 (units: 3,753)
  29. Kranfahrer                           0.83%  322,193,840 (units: 7,094)
  30. Privacywonk                          0.73%  282,163,913 (units: 7,357)
  31. Moss                                 0.72%  278,882,201 (units: 5,302)
@@ -83,7 +83,7 @@ As of 2021-02-16 17:36:26, r00t f0lds is rank 43
  81. JurisHacker                          0.11%   42,002,059 (units:   920)
  82. davidq                               0.11%   40,932,865 (units: 6,096)
  83. w0zz                                 0.10%   38,150,894 (units: 2,009)
- 84. technolust                           0.10%   37,620,978 (units: 5,044)
+ 84. technolust                           0.10%   37,640,961 (units: 5,045)
  85. st0ner                               0.10%   36,945,918 (units:   960)
  86. Chuk                                 0.09%   36,461,769 (units:   943)
  87. EricO                                0.09%   35,722,051 (units:   467)
@@ -432,8 +432,8 @@ As of 2021-02-16 17:36:26, r00t f0lds is rank 43
 430. rtrevinnoc                           0.00%          896 (units:     2)
 431. VVX7                                 0.00%          842 (units:    11)
 432. Manos                                0.00%          744 (units:     1)
-433. metaproject                          0.00%          700 (units:     1)
-434. DBoy                                 0.00%          700 (units:     1)
+433. DBoy                                 0.00%          700 (units:     1)
+434. metaproject                          0.00%          700 (units:     1)
 435. scr1pt3y                             0.00%          693 (units:     2)
 436. LynxJSA                              0.00%          570 (units:     1)
 437.                                      0.00%          532 (units:     2)
