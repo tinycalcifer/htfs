@@ -1,8 +1,8 @@
-As of 2021-02-16 07:56:20, hackers.town is rank 1256
-   with 42,214 work units for 501,277,534 credits
-  1. Werekat                      14.84%   74,370,992 (units: 2,277)
+As of 2021-02-16 08:16:20, hackers.town is rank 1256
+   with 42,215 work units for 501,334,574 credits
+  1. Werekat                      14.83%   74,370,992 (units: 2,277)
   2. Kyle                         10.77%   54,009,061 (units: 2,390)
-  3. bhtooefr                      8.55%   42,862,214 (units: 1,289)
+  3. bhtooefr                      8.56%   42,919,254 (units: 1,290)
   4. wetdryvac                     6.41%   32,148,675 (units:   888)
   5. Polychrome                    5.78%   28,967,308 (units: 2,091)
   6. CookieMom                     5.10%   25,581,974 (units: 1,765)
@@ -18,8 +18,8 @@ As of 2021-02-16 07:56:20, hackers.town is rank 1256
  16. elfgirlsarah                  1.37%    6,845,555 (units:   955)
  17. dafuchs                       1.26%    6,320,938 (units:   393)
  18. paullindner                   1.04%    5,201,314 (units:   923)
- 19. SiinaCutie                    1.04%    5,188,566 (units:   235)
- 20. FOOL                          1.03%    5,138,460 (units:   445)
+ 19. SiinaCutie                    1.03%    5,188,566 (units:   235)
+ 20. FOOL                          1.02%    5,138,460 (units:   445)
  21. felix                         0.98%    4,901,391 (units:   185)
  22. Anonymous                     0.83%    4,151,394 (units: 1,613)
  23. r000t                         0.81%    4,069,816 (units:   121)
@@ -102,7 +102,7 @@ As of 2021-02-16 07:56:20, hackers.town is rank 1256
 100. Purple                        0.02%       81,458 (units:    85)
 101. Kirjis                        0.02%       79,781 (units:   106)
 102. Seb                           0.02%       75,368 (units:   128)
-103. George_                       0.02%       75,198 (units:    12)
+103. George_                       0.01%       75,198 (units:    12)
 104. Murph                         0.01%       71,069 (units:    21)
 105. deowyth                       0.01%       68,655 (units:     5)
 106.                               0.01%       65,445 (units:    39)
