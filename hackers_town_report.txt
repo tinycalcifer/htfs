@@ -1,9 +1,9 @@
-As of 2021-02-16 23:06:24, hackers.town is rank 1257
-   with 42,237 work units for 501,895,398 credits
+As of 2021-02-16 23:36:17, hackers.town is rank 1257
+   with 42,238 work units for 501,998,939 credits
   1. Werekat                      14.82%   74,396,402 (units: 2,279)
   2. Kyle                         10.76%   54,009,061 (units: 2,390)
-  3. bhtooefr                      8.62%   43,280,449 (units: 1,295)
-  4. wetdryvac                     6.41%   32,148,675 (units:   888)
+  3. bhtooefr                      8.64%   43,383,990 (units: 1,296)
+  4. wetdryvac                     6.40%   32,148,675 (units:   888)
   5. Polychrome                    5.77%   28,971,480 (units: 2,093)
   6. CookieMom                     5.12%   25,703,920 (units: 1,770)
   7. merimus                       4.10%   20,589,421 (units:   553)
@@ -27,7 +27,7 @@ As of 2021-02-16 23:06:24, hackers.town is rank 1257
  25. jkl                           0.73%    3,650,043 (units:   859)
  26. skraelingjar                  0.67%    3,352,989 (units:    64)
  27. Kranfahrer                    0.60%    3,024,932 (units:   201)
- 28. ryen                          0.59%    2,936,587 (units:   208)
+ 28. ryen                          0.58%    2,936,587 (units:   208)
  29. radicaledward                 0.54%    2,717,086 (units:    90)
  30. Canageek                      0.51%    2,577,892 (units:   431)
  31. drwho                         0.49%    2,457,926 (units:   500)
@@ -89,7 +89,7 @@ As of 2021-02-16 23:06:24, hackers.town is rank 1257
  87. gwozniak                      0.03%      145,329 (units:   182)
  88. silksnep                      0.03%      141,111 (units:   176)
  89. Anunmouse                     0.03%      140,072 (units:   118)
- 90. arbu                          0.03%      125,499 (units:     7)
+ 90. arbu                          0.02%      125,499 (units:     7)
  91. Neil                          0.02%      124,874 (units:    32)
  92. Bingo                         0.02%      124,668 (units:   189)
  93. micmac                        0.02%      117,952 (units:   102)
