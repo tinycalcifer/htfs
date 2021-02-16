@@ -1,5 +1,5 @@
-As of 2021-02-16 18:56:19, r00t f0lds is rank 43
-   with 823,661 work units for 38,811,033,550 credits
+As of 2021-02-16 19:06:22, r00t f0lds is rank 43
+   with 823,665 work units for 38,811,149,102 credits
   1. MasterKore                           8.91% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.45% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.21% 2,799,680,571 (units: 16,115)
@@ -63,7 +63,7 @@ As of 2021-02-16 18:56:19, r00t f0lds is rank 43
  61. jalvaren                             0.21%   82,134,054 (units: 2,308)
  62. OnidTheTRex                          0.20%   79,424,062 (units: 1,379)
  63. simestd                              0.19%   74,031,939 (units:   680)
- 64. Gedvondur                            0.17%   65,391,133 (units: 1,286)
+ 64. Gedvondur                            0.17%   65,393,863 (units: 1,287)
  65. Anonymous                            0.16%   63,462,403 (units: 1,731)
  66. KStads                               0.16%   62,782,867 (units:   808)
  67. Bobaxos                              0.16%   62,654,617 (units:   769)
@@ -72,9 +72,9 @@ As of 2021-02-16 18:56:19, r00t f0lds is rank 43
  70. LamontWaugh                          0.15%   58,030,102 (units: 4,062)
  71. timforgot                            0.15%   57,948,649 (units: 2,873)
  72. Xenophile                            0.14%   54,976,590 (units: 1,396)
- 73. Fifi314                              0.14%   53,172,450 (units: 2,861)
+ 73. Fifi314                              0.14%   53,203,882 (units: 2,862)
  74. fib.seq                              0.13%   51,525,491 (units: 1,305)
- 75. mhuletdev                            0.13%   51,341,506 (units:   471)
+ 75. mhuletdev                            0.13%   51,422,446 (units:   472)
  76. merimus                              0.12%   47,156,855 (units: 1,255)
  77. CoolAcid                             0.12%   46,670,566 (units: 1,781)
  78. martums                              0.12%   46,348,785 (units: 6,085)
@@ -173,7 +173,7 @@ As of 2021-02-16 18:56:19, r00t f0lds is rank 43
 171. Ubergeeken                           0.01%    3,809,282 (units:   835)
 172. JoeWilly                             0.01%    3,791,840 (units: 1,374)
 173. Shitty_Folding_Rigs                  0.01%    3,576,776 (units:   841)
-174. larry0                               0.01%    3,552,943 (units: 3,250)
+174. larry0                               0.01%    3,553,393 (units: 3,251)
 175. sswheels1904                         0.01%    3,195,884 (units:   350)
 176. mechbob                              0.01%    2,985,711 (units:   348)
 177. fah-crackuser                        0.01%    2,961,115 (units:   442)
