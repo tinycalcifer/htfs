@@ -1,10 +1,10 @@
-As of 2021-02-16 05:36:29, r00t f0lds is rank 43
-   with 823,273 work units for 38,785,434,331 credits
+As of 2021-02-16 05:46:27, r00t f0lds is rank 43
+   with 823,277 work units for 38,785,620,274 credits
   1. MasterKore                           8.91% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.46% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.22% 2,799,680,571 (units: 16,115)
   4. dildog                               5.58% 2,164,810,954 (units: 16,520)
-  5. TommydCat                            4.34% 1,684,321,826 (units: 19,647)
+  5. TommydCat                            4.34% 1,684,498,711 (units: 19,648)
   6. Ophie                                4.20% 1,629,014,655 (units: 108,571)
   7. GOLGO13                              3.70% 1,433,789,876 (units: 21,773)
   8. edsai                                3.57% 1,386,116,042 (units: 11,168)
@@ -12,8 +12,8 @@ As of 2021-02-16 05:36:29, r00t f0lds is rank 43
  10. mowse                                2.65% 1,026,058,364 (units: 5,519)
  11. Gentry                               2.53%  981,069,583 (units: 13,021)
  12. Nicolas_Dawson                       2.51%  973,130,034 (units: 5,999)
- 13. Chris_Eng                            2.21%  858,438,723 (units: 6,951)
- 14. Swern                                2.04%  790,976,778 (units: 9,321)
+ 13. Chris_Eng                            2.21%  858,441,968 (units: 6,952)
+ 14. Swern                                2.04%  790,980,335 (units: 9,322)
  15. dokuja                               1.76%  683,385,964 (units: 4,167)
  16. wetdryvac                            1.65%  638,878,851 (units: 8,952)
  17. Steve_Castellarin                    1.63%  631,987,765 (units: 10,284)
@@ -27,7 +27,7 @@ As of 2021-02-16 05:36:29, r00t f0lds is rank 43
  25. coldyfoldz                           0.99%  385,713,063 (units: 4,302)
  26. BELTIWAN                             0.98%  378,718,791 (units: 3,869)
  27. SWinder                              0.97%  376,581,645 (units: 6,246)
- 28. natrololol                           0.93%  360,693,067 (units: 3,741)
+ 28. natrololol                           0.93%  360,695,323 (units: 3,742)
  29. Kranfahrer                           0.83%  322,193,840 (units: 7,094)
  30. Privacywonk                          0.72%  281,074,191 (units: 7,348)
  31. Moss                                 0.72%  278,010,119 (units: 5,282)
