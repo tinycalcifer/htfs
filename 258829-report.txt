@@ -1,5 +1,5 @@
-As of 2021-02-16 06:06:30, r00t f0lds is rank 43
-   with 823,289 work units for 38,786,697,036 credits
+As of 2021-02-16 06:16:30, r00t f0lds is rank 43
+   with 823,291 work units for 38,786,702,165 credits
   1. MasterKore                           8.91% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.46% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.22% 2,799,680,571 (units: 16,115)
@@ -31,7 +31,7 @@ As of 2021-02-16 06:06:30, r00t f0lds is rank 43
  29. Kranfahrer                           0.83%  322,193,840 (units: 7,094)
  30. Privacywonk                          0.72%  281,083,281 (units: 7,349)
  31. Moss                                 0.72%  278,131,290 (units: 5,283)
- 32. Resident                             0.72%  277,854,184 (units: 6,049)
+ 32. Resident                             0.72%  277,855,924 (units: 6,050)
  33. silicosis                            0.69%  266,677,117 (units: 3,681)
  34. /dev/random                          0.62%  240,614,732 (units: 5,804)
  35. X                                    0.61%  238,046,082 (units: 3,645)
@@ -43,7 +43,7 @@ As of 2021-02-16 06:06:30, r00t f0lds is rank 43
  41. knarph                               0.48%  184,810,644 (units: 4,691)
  42. skipper                              0.46%  178,102,785 (units: 2,032)
  43. hoochmonger                          0.42%  161,838,869 (units: 2,138)
- 44. causticjb                            0.39%  150,938,424 (units: 6,972)
+ 44. causticjb                            0.39%  150,941,813 (units: 6,973)
  45. EndoftheLine                         0.38%  148,940,296 (units: 1,970)
  46. Christian_Townsdin                   0.37%  145,049,336 (units: 2,483)
  47. Erik_Fichtner                        0.37%  142,008,213 (units: 2,459)
