@@ -1,10 +1,10 @@
-As of 2021-02-16 02:16:24, r00t f0lds is rank 43
-   with 823,182 work units for 38,778,108,438 credits
-  1. MasterKore                           8.92% 3,457,089,768 (units: 70,348)
+As of 2021-02-16 02:36:28, r00t f0lds is rank 43
+   with 823,186 work units for 38,778,359,713 credits
+  1. MasterKore                           8.91% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.46% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.22% 2,799,680,571 (units: 16,115)
   4. dildog                               5.58% 2,164,810,954 (units: 16,520)
-  5. TommydCat                            4.34% 1,683,659,333 (units: 19,643)
+  5. TommydCat                            4.34% 1,683,852,979 (units: 19,644)
   6. Ophie                                4.20% 1,629,014,655 (units: 108,571)
   7. GOLGO13                              3.70% 1,433,789,876 (units: 21,773)
   8. edsai                                3.57% 1,386,116,042 (units: 11,168)
@@ -12,8 +12,8 @@ As of 2021-02-16 02:16:24, r00t f0lds is rank 43
  10. mowse                                2.65% 1,026,058,364 (units: 5,519)
  11. Gentry                               2.53%  980,391,367 (units: 13,018)
  12. Nicolas_Dawson                       2.51%  972,649,533 (units: 5,997)
- 13. Chris_Eng                            2.21%  858,247,414 (units: 6,943)
- 14. Swern                                2.04%  790,515,303 (units: 9,314)
+ 13. Chris_Eng                            2.21%  858,301,128 (units: 6,944)
+ 14. Swern                                2.04%  790,518,799 (units: 9,315)
  15. dokuja                               1.76%  683,385,964 (units: 4,167)
  16. wetdryvac                            1.65%  638,878,851 (units: 8,952)
  17. Steve_Castellarin                    1.63%  631,758,815 (units: 10,280)
@@ -173,7 +173,7 @@ As of 2021-02-16 02:16:24, r00t f0lds is rank 43
 171. Ubergeeken                           0.01%    3,809,282 (units:   835)
 172. JoeWilly                             0.01%    3,772,365 (units: 1,373)
 173. Shitty_Folding_Rigs                  0.01%    3,576,776 (units:   841)
-174. larry0                               0.01%    3,534,750 (units: 3,233)
+174. larry0                               0.01%    3,535,169 (units: 3,234)
 175. sswheels1904                         0.01%    3,195,884 (units:   350)
 176. mechbob                              0.01%    2,985,711 (units:   348)
 177. fah-crackuser                        0.01%    2,961,115 (units:   442)
