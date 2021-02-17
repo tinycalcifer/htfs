@@ -1,5 +1,5 @@
-As of 2021-02-17 10:56:26, r00t f0lds is rank 43
-   with 824,168 work units for 38,847,000,867 credits
+As of 2021-02-17 11:06:28, r00t f0lds is rank 43
+   with 824,173 work units for 38,847,636,204 credits
   1. MasterKore                           8.90% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.44% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.21% 2,799,680,571 (units: 16,115)
@@ -15,7 +15,7 @@ As of 2021-02-17 10:56:26, r00t f0lds is rank 43
  13. Chris_Eng                            2.21%  860,138,233 (units: 6,994)
  14. Swern                                2.05%  795,294,508 (units: 9,366)
  15. dokuja                               1.76%  683,385,964 (units: 4,167)
- 16. wetdryvac                            1.65%  640,121,404 (units: 8,964)
+ 16. wetdryvac                            1.65%  640,270,754 (units: 8,965)
  17. Steve_Castellarin                    1.63%  634,866,816 (units: 10,336)
  18. Scba                                 1.44%  558,736,621 (units: 6,714)
  19. Sangfroid                            1.41%  549,605,101 (units: 10,921)
@@ -23,7 +23,7 @@ As of 2021-02-17 10:56:26, r00t f0lds is rank 43
  21. spam                                 1.26%  491,075,995 (units: 5,093)
  22. entr0pybitz                          1.14%  442,455,065 (units: 3,336)
  23. crax                                 1.08%  417,787,037 (units: 2,723)
- 24. tvidas                               1.04%  402,152,139 (units: 7,162)
+ 24. tvidas                               1.04%  402,317,151 (units: 7,163)
  25. coldyfoldz                           0.99%  385,713,063 (units: 4,302)
  26. BELTIWAN                             0.97%  378,718,791 (units: 3,869)
  27. SWinder                              0.97%  376,659,104 (units: 6,252)
@@ -34,7 +34,7 @@ As of 2021-02-17 10:56:26, r00t f0lds is rank 43
  32. Resident                             0.72%  277,877,261 (units: 6,055)
  33. silicosis                            0.69%  266,677,117 (units: 3,681)
  34. /dev/random                          0.62%  241,765,188 (units: 5,823)
- 35. X                                    0.61%  238,154,558 (units: 3,651)
+ 35. X                                    0.61%  238,363,781 (units: 3,653)
  36. AWR                                  0.60%  231,511,756 (units: 5,812)
  37. Stirling_Goetz                       0.57%  220,821,654 (units: 4,533)
  38. Calcifer                             0.57%  220,486,364 (units: 3,536)
@@ -63,7 +63,7 @@ As of 2021-02-17 10:56:26, r00t f0lds is rank 43
  61. jalvaren                             0.21%   82,134,054 (units: 2,308)
  62. OnidTheTRex                          0.20%   79,585,022 (units: 1,381)
  63. simestd                              0.19%   74,653,540 (units:   685)
- 64. Gedvondur                            0.17%   65,693,619 (units: 1,290)
+ 64. Gedvondur                            0.17%   65,805,371 (units: 1,291)
  65. Anonymous                            0.16%   63,462,403 (units: 1,731)
  66. KStads                               0.16%   62,782,867 (units:   808)
  67. Bobaxos                              0.16%   62,654,617 (units:   769)
