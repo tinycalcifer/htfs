@@ -1,5 +1,5 @@
-As of 2021-02-17 21:26:21, r00t f0lds is rank 43
-   with 824,513 work units for 38,871,341,911 credits
+As of 2021-02-17 21:46:26, r00t f0lds is rank 43
+   with 824,517 work units for 38,871,671,541 credits
   1. MasterKore                           8.89% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.44% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.20% 2,799,680,571 (units: 16,115)
@@ -11,8 +11,8 @@ As of 2021-02-17 21:26:21, r00t f0lds is rank 43
   9. Weld                                 3.34% 1,297,352,678 (units: 11,385)
  10. mowse                                2.64% 1,026,058,364 (units: 5,519)
  11. Gentry                               2.54%  987,238,681 (units: 13,056)
- 12. Nicolas_Dawson                       2.52%  980,155,385 (units: 6,030)
- 13. Chris_Eng                            2.21%  860,729,346 (units: 7,011)
+ 12. Nicolas_Dawson                       2.52%  980,385,874 (units: 6,031)
+ 13. Chris_Eng                            2.21%  860,826,762 (units: 7,012)
  14. Swern                                2.05%  796,641,167 (units: 9,376)
  15. dokuja                               1.76%  683,385,964 (units: 4,167)
  16. wetdryvac                            1.65%  641,241,283 (units: 8,971)
@@ -90,7 +90,7 @@ As of 2021-02-17 21:26:21, r00t f0lds is rank 43
  88. Jabolotai                            0.09%   35,429,482 (units: 1,865)
  89. SecureFlorindo                       0.09%   33,787,314 (units:   727)
  90. Neekop                               0.08%   29,432,822 (units: 2,476)
- 91. c0debabe                             0.08%   29,159,190 (units:   871)
+ 91. c0debabe                             0.08%   29,159,609 (units:   872)
  92. Professor                            0.07%   28,065,608 (units: 2,056)
  93. MarvinPAndroid                       0.07%   25,775,597 (units: 1,086)
  94. Shade                                0.07%   25,555,819 (units:   486)
@@ -185,7 +185,7 @@ As of 2021-02-17 21:26:21, r00t f0lds is rank 43
 183. ZenCoder                             0.01%    2,623,938 (units:   628)
 184. dewke                                0.01%    2,622,400 (units: 1,246)
 185. sckain                               0.01%    2,477,124 (units:   537)
-186. DefConPlexxer                        0.01%    2,395,957 (units:   639)
+186. DefConPlexxer                        0.01%    2,397,263 (units:   640)
 187. PHPete                               0.01%    2,389,114 (units: 1,345)
 188. XfavataX                             0.01%    2,388,188 (units: 2,560)
 189. gwozniak                             0.01%    2,384,730 (units: 1,573)
@@ -432,8 +432,8 @@ As of 2021-02-17 21:26:21, r00t f0lds is rank 43
 430. rtrevinnoc                           0.00%          896 (units:     2)
 431. VVX7                                 0.00%          842 (units:    11)
 432. Manos                                0.00%          744 (units:     1)
-433. metaproject                          0.00%          700 (units:     1)
-434. DBoy                                 0.00%          700 (units:     1)
+433. DBoy                                 0.00%          700 (units:     1)
+434. metaproject                          0.00%          700 (units:     1)
 435. scr1pt3y                             0.00%          693 (units:     2)
 436. LynxJSA                              0.00%          570 (units:     1)
 437.                                      0.00%          532 (units:     2)
