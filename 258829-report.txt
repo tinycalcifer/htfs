@@ -1,5 +1,5 @@
-As of 2021-02-17 14:16:27, r00t f0lds is rank 43
-   with 824,280 work units for 38,854,877,149 credits
+As of 2021-02-17 14:26:26, r00t f0lds is rank 43
+   with 824,282 work units for 38,855,303,236 credits
   1. MasterKore                           8.90% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.44% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.21% 2,799,680,571 (units: 16,115)
@@ -13,7 +13,7 @@ As of 2021-02-17 14:16:27, r00t f0lds is rank 43
  11. Gentry                               2.54%  986,306,224 (units: 13,049)
  12. Nicolas_Dawson                       2.52%  978,957,232 (units: 6,024)
  13. Chris_Eng                            2.21%  860,303,482 (units: 6,999)
- 14. Swern                                2.05%  795,589,688 (units: 9,368)
+ 14. Swern                                2.05%  795,868,069 (units: 9,369)
  15. dokuja                               1.76%  683,385,964 (units: 4,167)
  16. wetdryvac                            1.65%  640,420,527 (units: 8,966)
  17. Steve_Castellarin                    1.63%  635,130,709 (units: 10,341)
@@ -42,7 +42,7 @@ As of 2021-02-17 14:16:27, r00t f0lds is rank 43
  40. mubix                                0.48%  188,387,283 (units: 2,049)
  41. knarph                               0.48%  184,810,644 (units: 4,691)
  42. skipper                              0.46%  179,416,338 (units: 2,043)
- 43. hoochmonger                          0.42%  162,310,441 (units: 2,143)
+ 43. hoochmonger                          0.42%  162,458,147 (units: 2,144)
  44. causticjb                            0.39%  151,792,881 (units: 7,009)
  45. EndoftheLine                         0.38%  148,940,296 (units: 1,970)
  46. Christian_Townsdin                   0.37%  145,049,352 (units: 2,484)
