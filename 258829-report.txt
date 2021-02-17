@@ -1,5 +1,5 @@
-As of 2021-02-17 16:16:34, r00t f0lds is rank 43
-   with 824,347 work units for 38,859,930,329 credits
+As of 2021-02-17 16:26:28, r00t f0lds is rank 43
+   with 824,350 work units for 38,860,438,931 credits
   1. MasterKore                           8.90% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.44% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.20% 2,799,680,571 (units: 16,115)
@@ -19,7 +19,7 @@ As of 2021-02-17 16:16:34, r00t f0lds is rank 43
  17. Steve_Castellarin                    1.64%  635,475,995 (units: 10,345)
  18. Scba                                 1.44%  559,055,037 (units: 6,718)
  19. Sangfroid                            1.41%  549,612,060 (units: 10,924)
- 20. Dubhbairn                            1.38%  535,325,946 (units: 5,413)
+ 20. Dubhbairn                            1.38%  535,520,568 (units: 5,414)
  21. spam                                 1.26%  491,391,302 (units: 5,097)
  22. entr0pybitz                          1.14%  442,455,065 (units: 3,336)
  23. crax                                 1.08%  417,787,037 (units: 2,723)
@@ -27,7 +27,7 @@ As of 2021-02-17 16:16:34, r00t f0lds is rank 43
  25. coldyfoldz                           0.99%  385,713,063 (units: 4,302)
  26. BELTIWAN                             0.97%  378,718,791 (units: 3,869)
  27. SWinder                              0.97%  376,659,104 (units: 6,252)
- 28. natrololol                           0.94%  363,847,098 (units: 3,771)
+ 28. natrololol                           0.94%  364,124,398 (units: 3,772)
  29. Kranfahrer                           0.83%  322,193,840 (units: 7,094)
  30. Privacywonk                          0.73%  284,241,686 (units: 7,369)
  31. Moss                                 0.72%  280,328,560 (units: 5,325)
@@ -42,7 +42,7 @@ As of 2021-02-17 16:16:34, r00t f0lds is rank 43
  40. mubix                                0.48%  188,387,283 (units: 2,049)
  41. knarph                               0.48%  184,810,644 (units: 4,691)
  42. skipper                              0.46%  179,679,043 (units: 2,044)
- 43. hoochmonger                          0.42%  162,458,147 (units: 2,144)
+ 43. hoochmonger                          0.42%  162,494,827 (units: 2,145)
  44. causticjb                            0.39%  151,859,281 (units: 7,012)
  45. EndoftheLine                         0.38%  148,940,296 (units: 1,970)
  46. Christian_Townsdin                   0.37%  145,049,352 (units: 2,484)
