@@ -1,16 +1,16 @@
-As of 2021-02-17 08:26:26, r00t f0lds is rank 43
-   with 824,093 work units for 38,841,393,513 credits
+As of 2021-02-17 08:36:17, r00t f0lds is rank 43
+   with 824,096 work units for 38,841,834,854 credits
   1. MasterKore                           8.90% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.45% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.21% 2,799,680,571 (units: 16,115)
   4. dildog                               5.57% 2,164,810,954 (units: 16,520)
-  5. TommydCat                            4.35% 1,691,217,002 (units: 19,691)
+  5. TommydCat                            4.35% 1,691,416,612 (units: 19,692)
   6. Ophie                                4.19% 1,629,014,655 (units: 108,571)
   7. GOLGO13                              3.69% 1,433,789,876 (units: 21,773)
   8. edsai                                3.57% 1,386,116,042 (units: 11,168)
   9. Weld                                 3.34% 1,297,352,678 (units: 11,385)
  10. mowse                                2.64% 1,026,058,364 (units: 5,519)
- 11. Gentry                               2.54%  985,306,231 (units: 13,043)
+ 11. Gentry                               2.54%  985,307,534 (units: 13,044)
  12. Nicolas_Dawson                       2.52%  977,708,305 (units: 6,019)
  13. Chris_Eng                            2.21%  859,979,735 (units: 6,990)
  14. Swern                                2.05%  795,013,400 (units: 9,362)
@@ -23,7 +23,7 @@ As of 2021-02-17 08:26:26, r00t f0lds is rank 43
  21. spam                                 1.26%  491,075,995 (units: 5,093)
  22. entr0pybitz                          1.14%  442,455,065 (units: 3,336)
  23. crax                                 1.08%  417,787,037 (units: 2,723)
- 24. tvidas                               1.03%  401,830,344 (units: 7,160)
+ 24. tvidas                               1.04%  402,070,772 (units: 7,161)
  25. coldyfoldz                           0.99%  385,713,063 (units: 4,302)
  26. BELTIWAN                             0.98%  378,718,791 (units: 3,869)
  27. SWinder                              0.97%  376,649,798 (units: 6,250)
