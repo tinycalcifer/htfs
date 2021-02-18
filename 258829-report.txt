@@ -1,5 +1,5 @@
-As of 2021-02-18 21:36:32, r00t f0lds is rank 43
-   with 825,250 work units for 38,926,426,325 credits
+As of 2021-02-18 21:46:21, r00t f0lds is rank 43
+   with 825,254 work units for 38,926,676,132 credits
   1. MasterKore                           8.88% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.43% 3,280,843,653 (units: 26,146)
   3. NeTTwerk                             7.19% 2,799,680,571 (units: 16,115)
@@ -12,14 +12,14 @@ As of 2021-02-18 21:36:32, r00t f0lds is rank 43
  10. mowse                                2.64% 1,026,058,364 (units: 5,519)
  11. Gentry                               2.55%  990,875,544 (units: 13,082)
  12. Nicolas_Dawson                       2.53%  984,648,236 (units: 6,051)
- 13. Chris_Eng                            2.21%  862,109,394 (units: 7,048)
+ 13. Chris_Eng                            2.21%  862,113,077 (units: 7,049)
  14. Swern                                2.06%  800,169,876 (units: 9,411)
  15. dokuja                               1.76%  683,385,964 (units: 4,167)
  16. wetdryvac                            1.65%  643,797,288 (units: 8,991)
  17. Steve_Castellarin                    1.64%  638,242,646 (units: 10,389)
  18. Scba                                 1.44%  560,603,243 (units: 6,735)
  19. Sangfroid                            1.41%  549,628,723 (units: 10,931)
- 20. Dubhbairn                            1.39%  540,044,739 (units: 5,452)
+ 20. Dubhbairn                            1.39%  540,188,195 (units: 5,453)
  21. spam                                 1.27%  493,745,899 (units: 5,123)
  22. entr0pybitz                          1.14%  442,455,065 (units: 3,336)
  23. crax                                 1.07%  417,787,037 (units: 2,723)
@@ -46,10 +46,10 @@ As of 2021-02-18 21:36:32, r00t f0lds is rank 43
  44. causticjb                            0.39%  152,568,258 (units: 7,039)
  45. EndoftheLine                         0.38%  148,940,296 (units: 1,970)
  46. Christian_Townsdin                   0.37%  145,049,352 (units: 2,484)
- 47. dotjrich                             0.37%  142,762,073 (units: 5,215)
+ 47. dotjrich                             0.37%  142,813,354 (units: 5,216)
  48. Erik_Fichtner                        0.36%  142,008,213 (units: 2,459)
  49. S0l3mn                               0.35%  136,999,977 (units: 5,529)
- 50. ethersniffer                         0.35%  136,516,433 (units: 16,138)
+ 50. ethersniffer                         0.35%  136,567,820 (units: 16,139)
  51. Krypt0Gh0st                          0.34%  132,864,465 (units: 2,669)
  52. Space_Rogue                          0.31%  119,678,247 (units: 6,400)
  53. wingisfolding                        0.31%  119,385,401 (units: 17,882)
