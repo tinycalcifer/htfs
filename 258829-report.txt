@@ -1,5 +1,5 @@
-As of 2021-02-18 16:07:39, r00t f0lds is rank 43
-   with 825,068 work units for 38,912,303,089 credits
+As of 2021-02-18 16:16:29, r00t f0lds is rank 43
+   with 825,071 work units for 38,912,307,343 credits
   1. MasterKore                           8.88% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.43% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.19% 2,799,680,571 (units: 16,115)
@@ -34,7 +34,7 @@ As of 2021-02-18 16:07:39, r00t f0lds is rank 43
  32. Resident                             0.71%  277,928,960 (units: 6,058)
  33. silicosis                            0.69%  266,677,117 (units: 3,681)
  34. /dev/random                          0.62%  242,939,219 (units: 5,839)
- 35. X                                    0.61%  239,307,388 (units: 3,669)
+ 35. X                                    0.61%  239,310,357 (units: 3,670)
  36. AWR                                  0.59%  231,511,756 (units: 5,812)
  37. Stirling_Goetz                       0.57%  220,821,654 (units: 4,533)
  38. Calcifer                             0.57%  220,738,455 (units: 3,541)
@@ -205,8 +205,8 @@ As of 2021-02-18 16:07:39, r00t f0lds is rank 43
 203. Parmaster                            0.00%    1,746,000 (units: 1,614)
 204. yunginnanet                          0.00%    1,711,486 (units:   251)
 205. Irr3L3vant                           0.00%    1,709,464 (units: 1,007)
-206. tresronours                          0.00%    1,669,346 (units: 1,375)
-207. kmem                                 0.00%    1,655,943 (units:   365)
+206. tresronours                          0.00%    1,669,765 (units: 1,376)
+207. kmem                                 0.00%    1,656,809 (units:   366)
 208. Aiptasia                             0.00%    1,596,479 (units:   242)
 209. it-awareness                         0.00%    1,573,039 (units:   467)
 210. Adam                                 0.00%    1,563,844 (units:    35)
