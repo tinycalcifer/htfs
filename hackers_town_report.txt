@@ -1,8 +1,8 @@
-As of 2021-02-18 13:36:27, hackers.town is rank 1254
-   with 42,307 work units for 504,166,448 credits
-  1. Werekat                      14.84%   74,808,705 (units: 2,286)
+As of 2021-02-18 14:46:19, hackers.town is rank 1254
+   with 42,308 work units for 504,282,809 credits
+  1. Werekat                      14.83%   74,808,705 (units: 2,286)
   2. Kyle                         10.71%   54,009,061 (units: 2,390)
-  3. bhtooefr                      8.84%   44,557,569 (units: 1,318)
+  3. bhtooefr                      8.86%   44,673,930 (units: 1,319)
   4. wetdryvac                     6.38%   32,148,675 (units:   888)
   5. Polychrome                    5.75%   28,974,951 (units: 2,095)
   6. CookieMom                     5.17%   26,077,366 (units: 1,784)
@@ -25,7 +25,7 @@ As of 2021-02-18 13:36:27, hackers.town is rank 1254
  23. r000t                         0.81%    4,069,816 (units:   121)
  24. Mr.House                      0.78%    3,947,699 (units:   202)
  25. jkl                           0.72%    3,650,043 (units:   859)
- 26. skraelingjar                  0.67%    3,352,989 (units:    64)
+ 26. skraelingjar                  0.66%    3,352,989 (units:    64)
  27. Kranfahrer                    0.60%    3,024,932 (units:   201)
  28. ryen                          0.58%    2,936,587 (units:   208)
  29. radicaledward                 0.54%    2,717,086 (units:    90)
@@ -38,7 +38,7 @@ As of 2021-02-18 13:36:27, hackers.town is rank 1254
  36. pfreak                        0.40%    1,996,770 (units:    48)
  37. avolkov                       0.38%    1,891,826 (units:   104)
  38. FractumSeraph                 0.36%    1,808,542 (units:    28)
- 39. rfquerin                      0.33%    1,638,770 (units:   107)
+ 39. rfquerin                      0.32%    1,638,770 (units:   107)
  40. DJ_Sundog                     0.30%    1,513,675 (units:   330)
  41. sungo                         0.28%    1,432,642 (units:   399)
  42. kusuriya                      0.26%    1,314,178 (units:    68)
