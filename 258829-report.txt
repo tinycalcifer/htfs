@@ -1,5 +1,5 @@
-As of 2021-02-18 00:06:30, r00t f0lds is rank 43
-   with 824,598 work units for 38,877,624,572 credits
+As of 2021-02-18 00:26:32, r00t f0lds is rank 43
+   with 824,601 work units for 38,877,931,497 credits
   1. MasterKore                           8.89% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.44% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.20% 2,799,680,571 (units: 16,115)
@@ -11,7 +11,7 @@ As of 2021-02-18 00:06:30, r00t f0lds is rank 43
   9. Weld                                 3.34% 1,297,352,678 (units: 11,385)
  10. mowse                                2.64% 1,026,058,364 (units: 5,519)
  11. Gentry                               2.54%  987,593,501 (units: 13,059)
- 12. Nicolas_Dawson                       2.52%  980,627,161 (units: 6,032)
+ 12. Nicolas_Dawson                       2.52%  980,825,830 (units: 6,033)
  13. Chris_Eng                            2.21%  860,880,359 (units: 7,013)
  14. Swern                                2.05%  797,164,961 (units: 9,380)
  15. dokuja                               1.76%  683,385,964 (units: 4,167)
@@ -20,7 +20,7 @@ As of 2021-02-18 00:06:30, r00t f0lds is rank 43
  18. Scba                                 1.44%  559,504,397 (units: 6,722)
  19. Sangfroid                            1.41%  549,616,741 (units: 10,926)
  20. Dubhbairn                            1.38%  536,746,129 (units: 5,424)
- 21. spam                                 1.27%  492,055,417 (units: 5,103)
+ 21. spam                                 1.27%  492,112,172 (units: 5,104)
  22. entr0pybitz                          1.14%  442,455,065 (units: 3,336)
  23. crax                                 1.07%  417,787,037 (units: 2,723)
  24. tvidas                               1.04%  402,817,936 (units: 7,170)
@@ -34,7 +34,7 @@ As of 2021-02-18 00:06:30, r00t f0lds is rank 43
  32. Resident                             0.71%  277,886,735 (units: 6,057)
  33. silicosis                            0.69%  266,677,117 (units: 3,681)
  34. /dev/random                          0.62%  242,280,425 (units: 5,831)
- 35. X                                    0.61%  238,716,799 (units: 3,659)
+ 35. X                                    0.61%  238,768,300 (units: 3,660)
  36. AWR                                  0.60%  231,511,756 (units: 5,812)
  37. Stirling_Goetz                       0.57%  220,821,654 (units: 4,533)
  38. Calcifer                             0.57%  220,602,407 (units: 3,537)
