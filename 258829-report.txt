@@ -1,5 +1,5 @@
-As of 2021-02-18 06:16:23, r00t f0lds is rank 43
-   with 824,764 work units for 38,889,785,917 credits
+As of 2021-02-18 06:26:22, r00t f0lds is rank 43
+   with 824,767 work units for 38,889,995,742 credits
   1. MasterKore                           8.89% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.43% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.20% 2,799,680,571 (units: 16,115)
@@ -26,7 +26,7 @@ As of 2021-02-18 06:16:23, r00t f0lds is rank 43
  24. tvidas                               1.04%  402,851,502 (units: 7,171)
  25. coldyfoldz                           0.99%  385,713,063 (units: 4,302)
  26. BELTIWAN                             0.97%  378,718,791 (units: 3,869)
- 27. SWinder                              0.97%  376,721,946 (units: 6,255)
+ 27. SWinder                              0.97%  376,727,801 (units: 6,256)
  28. natrololol                           0.94%  365,410,929 (units: 3,786)
  29. Kranfahrer                           0.83%  322,193,840 (units: 7,094)
  30. Privacywonk                          0.73%  285,541,058 (units: 7,376)
@@ -54,7 +54,7 @@ As of 2021-02-18 06:16:23, r00t f0lds is rank 43
  52. Space_Rogue                          0.31%  119,678,247 (units: 6,400)
  53. wingisfolding                        0.31%  119,385,401 (units: 17,882)
  54. TachyonStream                        0.29%  112,129,065 (units: 4,252)
- 55. zonksec                              0.29%  111,062,308 (units: 4,636)
+ 55. zonksec                              0.29%  111,265,028 (units: 4,637)
  56. tweakt                               0.26%  102,211,830 (units: 1,350)
  57. The_Gibson(HTown)                    0.26%  102,194,264 (units: 1,870)
  58. pizen                                0.26%  102,068,473 (units: 2,558)
@@ -222,7 +222,7 @@ As of 2021-02-18 06:16:23, r00t f0lds is rank 43
 220. dark_ma773r                          0.00%    1,224,774 (units:    55)
 221. CoDeCoMPLeXX                         0.00%    1,203,251 (units:   469)
 222. Dunga                                0.00%    1,185,027 (units:   102)
-223. aph                                  0.00%    1,181,800 (units: 1,262)
+223. aph                                  0.00%    1,183,050 (units: 1,263)
 224. kloaker                              0.00%    1,150,524 (units:   340)
 225. mmeeooow                             0.00%    1,134,642 (units: 1,272)
 226. James                                0.00%    1,098,804 (units:    61)
