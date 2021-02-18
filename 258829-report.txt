@@ -1,5 +1,5 @@
-As of 2021-02-18 07:46:31, r00t f0lds is rank 43
-   with 824,809 work units for 38,892,960,647 credits
+As of 2021-02-18 07:56:31, r00t f0lds is rank 43
+   with 824,814 work units for 38,893,565,133 credits
   1. MasterKore                           8.89% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.43% 3,280,252,556 (units: 26,140)
   3. NeTTwerk                             7.20% 2,799,680,571 (units: 16,115)
@@ -10,9 +10,9 @@ As of 2021-02-18 07:46:31, r00t f0lds is rank 43
   8. edsai                                3.56% 1,386,116,042 (units: 11,168)
   9. Weld                                 3.34% 1,297,352,678 (units: 11,385)
  10. mowse                                2.64% 1,026,058,364 (units: 5,519)
- 11. Gentry                               2.54%  988,461,224 (units: 13,065)
- 12. Nicolas_Dawson                       2.52%  981,866,024 (units: 6,037)
- 13. Chris_Eng                            2.21%  861,441,763 (units: 7,023)
+ 11. Gentry                               2.54%  988,869,261 (units: 13,066)
+ 12. Nicolas_Dawson                       2.52%  982,030,679 (units: 6,038)
+ 13. Chris_Eng                            2.21%  861,472,307 (units: 7,025)
  14. Swern                                2.05%  798,322,132 (units: 9,391)
  15. dokuja                               1.76%  683,385,964 (units: 4,167)
  16. wetdryvac                            1.65%  642,364,079 (units: 8,980)
@@ -172,7 +172,7 @@ As of 2021-02-18 07:46:31, r00t f0lds is rank 43
 170. m0h4y                                0.01%    3,817,883 (units: 1,024)
 171. Ubergeeken                           0.01%    3,809,282 (units:   835)
 172. JoeWilly                             0.01%    3,794,320 (units: 1,376)
-173. larry0                               0.01%    3,580,367 (units: 3,283)
+173. larry0                               0.01%    3,581,617 (units: 3,284)
 174. Shitty_Folding_Rigs                  0.01%    3,576,776 (units:   841)
 175. sswheels1904                         0.01%    3,195,884 (units:   350)
 176. mechbob                              0.01%    2,985,711 (units:   348)
