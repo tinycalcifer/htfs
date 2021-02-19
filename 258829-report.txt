@@ -1,5 +1,5 @@
-As of 2021-02-19 01:07:42, r00t f0lds is rank 43
-   with 825,355 work units for 38,933,257,063 credits
+As of 2021-02-19 01:16:43, r00t f0lds is rank 43
+   with 825,360 work units for 38,933,979,597 credits
   1. MasterKore                           8.88% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.43% 3,280,843,653 (units: 26,146)
   3. NeTTwerk                             7.19% 2,799,680,571 (units: 16,115)
@@ -10,9 +10,9 @@ As of 2021-02-19 01:07:42, r00t f0lds is rank 43
   8. edsai                                3.56% 1,386,116,042 (units: 11,168)
   9. Weld                                 3.33% 1,297,410,817 (units: 11,386)
  10. mowse                                2.64% 1,026,166,994 (units: 5,520)
- 11. Gentry                               2.55%  991,130,681 (units: 13,085)
- 12. Nicolas_Dawson                       2.53%  985,039,678 (units: 6,054)
- 13. Chris_Eng                            2.22%  862,472,233 (units: 7,056)
+ 11. Gentry                               2.55%  991,341,418 (units: 13,086)
+ 12. Nicolas_Dawson                       2.53%  985,219,305 (units: 6,055)
+ 13. Chris_Eng                            2.22%  862,525,636 (units: 7,057)
  14. Swern                                2.06%  800,563,472 (units: 9,415)
  15. dokuja                               1.76%  683,385,964 (units: 4,167)
  16. wetdryvac                            1.65%  644,143,459 (units: 8,993)
@@ -20,7 +20,7 @@ As of 2021-02-19 01:07:42, r00t f0lds is rank 43
  18. Scba                                 1.44%  560,603,243 (units: 6,735)
  19. Sangfroid                            1.41%  549,635,559 (units: 10,933)
  20. Dubhbairn                            1.39%  540,660,558 (units: 5,458)
- 21. spam                                 1.27%  493,907,268 (units: 5,125)
+ 21. spam                                 1.27%  494,016,827 (units: 5,126)
  22. entr0pybitz                          1.14%  442,455,065 (units: 3,336)
  23. crax                                 1.07%  417,787,037 (units: 2,723)
  24. tvidas                               1.03%  402,907,270 (units: 7,177)
@@ -42,7 +42,7 @@ As of 2021-02-19 01:07:42, r00t f0lds is rank 43
  40. mubix                                0.48%  188,387,283 (units: 2,049)
  41. knarph                               0.47%  184,810,644 (units: 4,691)
  42. skipper                              0.46%  181,003,706 (units: 2,052)
- 43. hoochmonger                          0.42%  164,756,281 (units: 2,167)
+ 43. hoochmonger                          0.42%  164,925,489 (units: 2,168)
  44. causticjb                            0.39%  152,640,960 (units: 7,044)
  45. EndoftheLine                         0.38%  148,940,296 (units: 1,970)
  46. Christian_Townsdin                   0.37%  145,049,352 (units: 2,484)
