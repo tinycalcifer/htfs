@@ -1,5 +1,5 @@
-As of 2021-02-19 02:36:25, r00t f0lds is rank 43
-   with 825,401 work units for 38,936,709,314 credits
+As of 2021-02-19 02:46:32, r00t f0lds is rank 43
+   with 825,403 work units for 38,936,713,827 credits
   1. MasterKore                           8.88% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.43% 3,280,843,653 (units: 26,146)
   3. NeTTwerk                             7.19% 2,799,680,571 (units: 16,115)
@@ -18,7 +18,7 @@ As of 2021-02-19 02:36:25, r00t f0lds is rank 43
  16. wetdryvac                            1.65%  644,330,049 (units: 8,994)
  17. Steve_Castellarin                    1.64%  638,582,735 (units: 10,392)
  18. Scba                                 1.44%  560,852,964 (units: 6,737)
- 19. Sangfroid                            1.41%  549,635,559 (units: 10,933)
+ 19. Sangfroid                            1.41%  549,637,650 (units: 10,934)
  20. Dubhbairn                            1.39%  540,814,054 (units: 5,460)
  21. spam                                 1.27%  494,016,827 (units: 5,126)
  22. entr0pybitz                          1.14%  442,455,065 (units: 3,336)
@@ -33,7 +33,7 @@ As of 2021-02-19 02:36:25, r00t f0lds is rank 43
  31. Moss                                 0.73%  282,685,172 (units: 5,355)
  32. Resident                             0.71%  277,928,960 (units: 6,058)
  33. silicosis                            0.68%  266,677,117 (units: 3,681)
- 34. /dev/random                          0.62%  243,341,281 (units: 5,844)
+ 34. /dev/random                          0.62%  243,343,703 (units: 5,845)
  35. X                                    0.62%  239,675,630 (units: 3,676)
  36. AWR                                  0.59%  231,511,756 (units: 5,812)
  37. Stirling_Goetz                       0.57%  220,821,654 (units: 4,533)
