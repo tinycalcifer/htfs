@@ -1,5 +1,5 @@
-As of 2021-02-19 22:56:25, r00t f0lds is rank 43
-   with 826,053 work units for 38,979,742,598 credits
+As of 2021-02-19 23:06:26, r00t f0lds is rank 43
+   with 826,059 work units for 38,980,105,221 credits
   1. MasterKore                           8.87% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.42% 3,280,843,653 (units: 26,146)
   3. NeTTwerk                             7.18% 2,799,680,571 (units: 16,115)
@@ -8,15 +8,15 @@ As of 2021-02-19 22:56:25, r00t f0lds is rank 43
   6. Ophie                                4.18% 1,629,014,655 (units: 108,571)
   7. GOLGO13                              3.68% 1,433,789,876 (units: 21,773)
   8. edsai                                3.56% 1,386,116,042 (units: 11,168)
-  9. Weld                                 3.33% 1,297,410,817 (units: 11,386)
+  9. Weld                                 3.33% 1,297,440,855 (units: 11,388)
  10. mowse                                2.63% 1,026,166,994 (units: 5,520)
  11. Gentry                               2.55%  994,530,070 (units: 13,113)
- 12. Nicolas_Dawson                       2.54%  988,721,836 (units: 6,077)
- 13. Chris_Eng                            2.22%  863,674,969 (units: 7,096)
+ 12. Nicolas_Dawson                       2.54%  988,902,649 (units: 6,078)
+ 13. Chris_Eng                            2.22%  863,678,730 (units: 7,097)
  14. Swern                                2.06%  803,789,170 (units: 9,439)
  15. dokuja                               1.75%  683,385,964 (units: 4,167)
  16. wetdryvac                            1.66%  646,219,558 (units: 9,009)
- 17. Steve_Castellarin                    1.64%  640,586,218 (units: 10,419)
+ 17. Steve_Castellarin                    1.64%  640,589,237 (units: 10,420)
  18. Scba                                 1.44%  561,769,470 (units: 6,748)
  19. Sangfroid                            1.41%  549,744,555 (units: 10,943)
  20. Dubhbairn                            1.39%  543,054,247 (units: 5,481)
@@ -30,7 +30,7 @@ As of 2021-02-19 22:56:25, r00t f0lds is rank 43
  28. natrololol                           0.95%  369,100,163 (units: 3,818)
  29. Kranfahrer                           0.83%  322,193,840 (units: 7,094)
  30. Privacywonk                          0.74%  289,722,007 (units: 7,407)
- 31. Moss                                 0.73%  283,879,507 (units: 5,373)
+ 31. Moss                                 0.73%  284,024,499 (units: 5,374)
  32. Resident                             0.71%  277,976,838 (units: 6,060)
  33. silicosis                            0.68%  266,677,117 (units: 3,681)
  34. /dev/random                          0.63%  244,271,254 (units: 5,854)
