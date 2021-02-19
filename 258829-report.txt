@@ -1,5 +1,5 @@
-As of 2021-02-19 12:56:24, r00t f0lds is rank 43
-   with 825,748 work units for 38,958,898,713 credits
+As of 2021-02-19 13:08:20, r00t f0lds is rank 43
+   with 825,753 work units for 38,958,970,017 credits
   1. MasterKore                           8.87% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.42% 3,280,843,653 (units: 26,146)
   3. NeTTwerk                             7.19% 2,799,680,571 (units: 16,115)
@@ -12,7 +12,7 @@ As of 2021-02-19 12:56:24, r00t f0lds is rank 43
  10. mowse                                2.63% 1,026,166,994 (units: 5,520)
  11. Gentry                               2.55%  993,186,186 (units: 13,101)
  12. Nicolas_Dawson                       2.53%  987,194,265 (units: 6,068)
- 13. Chris_Eng                            2.22%  863,067,765 (units: 7,074)
+ 13. Chris_Eng                            2.22%  863,071,643 (units: 7,075)
  14. Swern                                2.06%  802,529,772 (units: 9,429)
  15. dokuja                               1.75%  683,385,964 (units: 4,167)
  16. wetdryvac                            1.66%  645,327,212 (units: 9,003)
@@ -78,7 +78,7 @@ As of 2021-02-19 12:56:24, r00t f0lds is rank 43
  76. merimus                              0.12%   47,156,855 (units: 1,255)
  77. CoolAcid                             0.12%   46,690,480 (units: 1,788)
  78. martums                              0.12%   46,348,785 (units: 6,085)
- 79. KeithS                               0.11%   44,050,473 (units: 2,031)
+ 79. KeithS                               0.11%   44,051,723 (units: 2,032)
  80. Rumble                               0.11%   43,557,050 (units: 12,786)
  81. JurisHacker                          0.11%   42,002,059 (units:   920)
  82. davidq                               0.11%   40,970,709 (units: 6,099)
@@ -99,7 +99,7 @@ As of 2021-02-19 12:56:24, r00t f0lds is rank 43
  97. 0xMatt                               0.06%   21,644,451 (units: 3,304)
  98. just6979                             0.05%   20,655,350 (units: 1,020)
  99. simonlbn                             0.05%   20,603,265 (units: 2,175)
-100. Mudge_Idle                           0.05%   20,034,196 (units: 2,571)
+100. Mudge_Idle                           0.05%   20,086,566 (units: 2,572)
 101. dethveggie                           0.05%   19,881,725 (units: 3,030)
 102. SuRatt                               0.05%   19,280,686 (units:   529)
 103. mikecherry                           0.05%   19,149,753 (units: 2,235)
@@ -182,7 +182,7 @@ As of 2021-02-19 12:56:24, r00t f0lds is rank 43
 180. algorythm                            0.01%    2,720,892 (units:   461)
 181. BorisRosenow                         0.01%    2,665,846 (units:   177)
 182. evm                                  0.01%    2,660,782 (units: 2,603)
-183. dewke                                0.01%    2,644,400 (units: 1,249)
+183. dewke                                0.01%    2,657,340 (units: 1,250)
 184. ZenCoder                             0.01%    2,623,938 (units:   628)
 185. sckain                               0.01%    2,477,124 (units:   537)
 186. gwozniak                             0.01%    2,427,699 (units: 1,582)
@@ -214,7 +214,7 @@ As of 2021-02-19 12:56:24, r00t f0lds is rank 43
 212.                                      0.00%    1,486,859 (units:    86)
 213. noogie                               0.00%    1,482,989 (units:   359)
 214. TommyTorty10                         0.00%    1,433,911 (units:    81)
-215. downsey84                            0.00%    1,389,349 (units: 1,373)
+215. downsey84                            0.00%    1,390,215 (units: 1,374)
 216. Deker                                0.00%    1,358,424 (units:   240)
 217. Unregistered436                      0.00%    1,285,174 (units:   439)
 218. Ed_Gum                               0.00%    1,271,553 (units:   198)
