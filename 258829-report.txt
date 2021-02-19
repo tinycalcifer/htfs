@@ -1,5 +1,5 @@
-As of 2021-02-19 02:06:23, r00t f0lds is rank 43
-   with 825,389 work units for 38,936,038,938 credits
+As of 2021-02-19 02:16:23, r00t f0lds is rank 43
+   with 825,390 work units for 38,936,090,530 credits
   1. MasterKore                           8.88% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.43% 3,280,843,653 (units: 26,146)
   3. NeTTwerk                             7.19% 2,799,680,571 (units: 16,115)
@@ -46,7 +46,7 @@ As of 2021-02-19 02:06:23, r00t f0lds is rank 43
  44. causticjb                            0.39%  152,655,496 (units: 7,045)
  45. EndoftheLine                         0.38%  148,940,296 (units: 1,970)
  46. Christian_Townsdin                   0.37%  145,049,352 (units: 2,484)
- 47. dotjrich                             0.37%  142,864,881 (units: 5,217)
+ 47. dotjrich                             0.37%  142,916,473 (units: 5,218)
  48. Erik_Fichtner                        0.36%  142,008,213 (units: 2,459)
  49. S0l3mn                               0.35%  136,999,977 (units: 5,529)
  50. ethersniffer                         0.35%  136,571,630 (units: 16,140)
@@ -402,8 +402,8 @@ As of 2021-02-19 02:06:23, r00t f0lds is rank 43
 400. n0x                                  0.00%        9,858 (units:     2)
 401. Mystic_Chaos                         0.00%        9,716 (units:     8)
 402. ad767                                0.00%        9,657 (units:    10)
-403. HailSatan                            0.00%        9,405 (units:     1)
-404. r                                    0.00%        9,405 (units:     1)
+403. r                                    0.00%        9,405 (units:     1)
+404. HailSatan                            0.00%        9,405 (units:     1)
 405. glawend                              0.00%        8,420 (units:     9)
 406. Elliot                               0.00%        7,685 (units:     1)
 407. ZachBl                               0.00%        6,867 (units:     3)
@@ -432,8 +432,8 @@ As of 2021-02-19 02:06:23, r00t f0lds is rank 43
 430. rtrevinnoc                           0.00%          896 (units:     2)
 431. VVX7                                 0.00%          842 (units:    11)
 432. Manos                                0.00%          744 (units:     1)
-433. DBoy                                 0.00%          700 (units:     1)
-434. metaproject                          0.00%          700 (units:     1)
+433. metaproject                          0.00%          700 (units:     1)
+434. DBoy                                 0.00%          700 (units:     1)
 435. scr1pt3y                             0.00%          693 (units:     2)
 436. LynxJSA                              0.00%          570 (units:     1)
 437.                                      0.00%          532 (units:     2)
