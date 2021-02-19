@@ -1,10 +1,10 @@
-As of 2021-02-19 21:26:33, r00t f0lds is rank 43
-   with 826,010 work units for 38,976,246,114 credits
+As of 2021-02-19 21:36:33, r00t f0lds is rank 43
+   with 826,013 work units for 38,976,549,528 credits
   1. MasterKore                           8.87% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.42% 3,280,843,653 (units: 26,146)
   3. NeTTwerk                             7.18% 2,799,680,571 (units: 16,115)
   4. dildog                               5.55% 2,164,810,954 (units: 16,520)
-  5. TommydCat                            4.38% 1,706,521,645 (units: 19,806)
+  5. TommydCat                            4.38% 1,706,708,687 (units: 19,807)
   6. Ophie                                4.18% 1,629,014,655 (units: 108,571)
   7. GOLGO13                              3.68% 1,433,789,876 (units: 21,773)
   8. edsai                                3.56% 1,386,116,042 (units: 11,168)
@@ -34,7 +34,7 @@ As of 2021-02-19 21:26:33, r00t f0lds is rank 43
  32. Resident                             0.71%  277,976,838 (units: 6,060)
  33. silicosis                            0.68%  266,677,117 (units: 3,681)
  34. /dev/random                          0.63%  244,258,314 (units: 5,853)
- 35. X                                    0.62%  240,432,104 (units: 3,685)
+ 35. X                                    0.62%  240,545,784 (units: 3,686)
  36. AWR                                  0.59%  231,511,756 (units: 5,812)
  37. Calcifer                             0.57%  220,944,021 (units: 3,549)
  38. Stirling_Goetz                       0.57%  220,821,654 (units: 4,533)
@@ -73,7 +73,7 @@ As of 2021-02-19 21:26:33, r00t f0lds is rank 43
  71. PhreakMonkey                         0.15%   58,555,142 (units: 5,525)
  72. LamontWaugh                          0.15%   58,134,902 (units: 4,080)
  73. Xenophile                            0.14%   54,976,590 (units: 1,396)
- 74. fib.seq                              0.14%   54,348,869 (units: 1,342)
+ 74. fib.seq                              0.14%   54,351,561 (units: 1,343)
  75. Fifi314                              0.14%   54,006,414 (units: 2,896)
  76. merimus                              0.12%   47,156,855 (units: 1,255)
  77. CoolAcid                             0.12%   46,690,480 (units: 1,788)
