@@ -1,5 +1,5 @@
-As of 2021-02-20 02:16:32, r00t f0lds is rank 43
-   with 826,166 work units for 38,987,756,551 credits
+As of 2021-02-20 02:26:33, r00t f0lds is rank 43
+   with 826,169 work units for 38,987,880,617 credits
   1. MasterKore                           8.87% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.42% 3,280,843,653 (units: 26,146)
   3. NeTTwerk                             7.18% 2,799,680,571 (units: 16,115)
@@ -20,7 +20,7 @@ As of 2021-02-20 02:16:32, r00t f0lds is rank 43
  18. Scba                                 1.44%  562,025,788 (units: 6,751)
  19. Sangfroid                            1.41%  549,744,555 (units: 10,943)
  20. Dubhbairn                            1.39%  543,347,709 (units: 5,483)
- 21. spam                                 1.27%  495,653,836 (units: 5,145)
+ 21. spam                                 1.27%  495,757,702 (units: 5,146)
  22. entr0pybitz                          1.13%  442,455,065 (units: 3,336)
  23. crax                                 1.07%  417,787,037 (units: 2,723)
  24. tvidas                               1.03%  403,030,216 (units: 7,184)
@@ -185,7 +185,7 @@ As of 2021-02-20 02:16:32, r00t f0lds is rank 43
 183. dewke                                0.01%    2,658,590 (units: 1,251)
 184. ZenCoder                             0.01%    2,623,938 (units:   628)
 185. sckain                               0.01%    2,477,124 (units:   537)
-186. gwozniak                             0.01%    2,427,699 (units: 1,582)
+186. gwozniak                             0.01%    2,447,412 (units: 1,583)
 187. DefConPlexxer                        0.01%    2,413,459 (units:   646)
 188. PHPete                               0.01%    2,405,470 (units: 1,358)
 189. XfavataX                             0.01%    2,388,188 (units: 2,560)
@@ -259,7 +259,7 @@ As of 2021-02-20 02:16:32, r00t f0lds is rank 43
 257. hissister                            0.00%      644,518 (units:   569)
 258. huobijubajeebajoba                   0.00%      635,660 (units:    71)
 259. notnotnotveg                         0.00%      632,975 (units:    57)
-260. JelknuPEznoJ                         0.00%      621,455 (units:   616)
+260. JelknuPEznoJ                         0.00%      621,942 (units:   617)
 261. Tim_Scanlon                          0.00%      610,340 (units:   180)
 262. yuckf00                              0.00%      575,616 (units:   649)
 263. DPS                                  0.00%      564,659 (units:   525)
