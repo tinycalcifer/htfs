@@ -1,17 +1,17 @@
-As of 2021-02-20 18:46:32, r00t f0lds is rank 43
-   with 826,679 work units for 39,028,085,969 credits
+As of 2021-02-20 18:56:28, r00t f0lds is rank 43
+   with 826,683 work units for 39,028,322,000 credits
   1. MasterKore                           8.86% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.41% 3,280,843,653 (units: 26,146)
   3. NeTTwerk                             7.17% 2,799,680,571 (units: 16,115)
   4. dildog                               5.55% 2,164,810,954 (units: 16,520)
-  5. TommydCat                            4.39% 1,712,003,004 (units: 19,847)
+  5. TommydCat                            4.39% 1,712,009,597 (units: 19,848)
   6. Ophie                                4.17% 1,629,014,655 (units: 108,571)
   7. GOLGO13                              3.67% 1,433,789,876 (units: 21,773)
   8. edsai                                3.55% 1,386,116,042 (units: 11,168)
   9. Weld                                 3.32% 1,297,440,855 (units: 11,388)
  10. mowse                                2.63% 1,027,063,178 (units: 5,526)
- 11. Gentry                               2.56%  997,601,576 (units: 13,138)
- 12. Nicolas_Dawson                       2.54%  992,181,663 (units: 6,096)
+ 11. Gentry                               2.56%  997,657,820 (units: 13,139)
+ 12. Nicolas_Dawson                       2.54%  992,347,321 (units: 6,097)
  13. Chris_Eng                            2.22%  864,755,465 (units: 7,124)
  14. Swern                                2.07%  806,993,800 (units: 9,465)
  15. dokuja                               1.75%  683,385,964 (units: 4,167)
@@ -118,7 +118,7 @@ As of 2021-02-20 18:46:32, r00t f0lds is rank 43
 116. jnathan                              0.04%   14,401,968 (units: 4,405)
 117. RetroSilicon                         0.04%   14,385,243 (units: 1,030)
 118. Bill_Terwilliger                     0.04%   14,328,609 (units:   424)
-119. scottsizemore                        0.03%   13,383,085 (units:    99)
+119. scottsizemore                        0.03%   13,390,621 (units:   100)
 120. leigh.culley                         0.03%   13,356,036 (units: 1,759)
 121. trebach                              0.03%   12,347,912 (units: 2,533)
 122. atthewinchester                      0.03%   11,765,036 (units:   247)
