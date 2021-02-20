@@ -1,6 +1,6 @@
-As of 2021-02-20 06:16:27, r00t f0lds is rank 43
-   with 826,279 work units for 38,996,939,463 credits
-  1. MasterKore                           8.87% 3,457,089,768 (units: 70,348)
+As of 2021-02-20 06:26:27, r00t f0lds is rank 43
+   with 826,282 work units for 38,997,129,534 credits
+  1. MasterKore                           8.86% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.41% 3,280,843,653 (units: 26,146)
   3. NeTTwerk                             7.18% 2,799,680,571 (units: 16,115)
   4. dildog                               5.55% 2,164,810,954 (units: 16,520)
@@ -10,9 +10,9 @@ As of 2021-02-20 06:16:27, r00t f0lds is rank 43
   8. edsai                                3.55% 1,386,116,042 (units: 11,168)
   9. Weld                                 3.33% 1,297,440,855 (units: 11,388)
  10. mowse                                2.63% 1,026,315,801 (units: 5,521)
- 11. Gentry                               2.55%  995,620,602 (units: 13,123)
+ 11. Gentry                               2.55%  995,709,590 (units: 13,124)
  12. Nicolas_Dawson                       2.54%  990,054,152 (units: 6,084)
- 13. Chris_Eng                            2.22%  864,018,152 (units: 7,106)
+ 13. Chris_Eng                            2.22%  864,021,423 (units: 7,107)
  14. Swern                                2.06%  804,982,762 (units: 9,448)
  15. dokuja                               1.75%  683,385,964 (units: 4,167)
  16. wetdryvac                            1.66%  646,903,458 (units: 9,014)
@@ -54,7 +54,7 @@ As of 2021-02-20 06:16:27, r00t f0lds is rank 43
  52. Space_Rogue                          0.31%  119,678,247 (units: 6,400)
  53. wingisfolding                        0.31%  119,385,401 (units: 17,882)
  54. TachyonStream                        0.29%  113,630,078 (units: 4,282)
- 55. zonksec                              0.29%  112,603,117 (units: 4,666)
+ 55. zonksec                              0.29%  112,700,929 (units: 4,667)
  56. pizen                                0.26%  102,936,594 (units: 2,572)
  57. tweakt                               0.26%  102,211,830 (units: 1,350)
  58. The_Gibson(HTown)                    0.26%  102,194,264 (units: 1,870)
