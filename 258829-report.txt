@@ -1,5 +1,5 @@
-As of 2021-02-20 06:46:34, r00t f0lds is rank 43
-   with 826,294 work units for 38,998,010,589 credits
+As of 2021-02-20 06:56:34, r00t f0lds is rank 43
+   with 826,297 work units for 38,998,075,154 credits
   1. MasterKore                           8.86% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.41% 3,280,843,653 (units: 26,146)
   3. NeTTwerk                             7.18% 2,799,680,571 (units: 16,115)
@@ -33,7 +33,7 @@ As of 2021-02-20 06:46:34, r00t f0lds is rank 43
  31. Moss                                 0.73%  284,496,847 (units: 5,380)
  32. Resident                             0.71%  277,976,838 (units: 6,060)
  33. silicosis                            0.68%  266,677,117 (units: 3,681)
- 34. /dev/random                          0.63%  244,604,381 (units: 5,856)
+ 34. /dev/random                          0.63%  244,664,914 (units: 5,857)
  35. X                                    0.62%  240,845,871 (units: 3,693)
  36. AWR                                  0.59%  231,511,756 (units: 5,812)
  37. Calcifer                             0.57%  220,960,533 (units: 3,550)
@@ -98,7 +98,7 @@ As of 2021-02-20 06:46:34, r00t f0lds is rank 43
  96. Toonopolis                           0.06%   23,499,935 (units:   437)
  97. 0xMatt                               0.06%   21,644,451 (units: 3,304)
  98. just6979                             0.05%   20,655,350 (units: 1,020)
- 99. simonlbn                             0.05%   20,605,641 (units: 2,176)
+ 99. simonlbn                             0.05%   20,608,311 (units: 2,177)
 100. Mudge_Idle                           0.05%   20,138,994 (units: 2,573)
 101. dethveggie                           0.05%   19,943,503 (units: 3,034)
 102. SuRatt                               0.05%   19,280,686 (units:   529)
@@ -108,7 +108,7 @@ As of 2021-02-20 06:46:34, r00t f0lds is rank 43
 106. datagoon                             0.05%   17,998,116 (units:   936)
 107. snowchyld                            0.05%   17,657,087 (units:   795)
 108. ghostsarespooky                      0.04%   17,242,418 (units: 3,672)
-109. iparanoid                            0.04%   16,852,925 (units:   928)
+109. iparanoid                            0.04%   16,854,287 (units:   929)
 110. Brianmoney233                        0.04%   16,237,721 (units: 1,226)
 111. B10+                                 0.04%   15,897,231 (units: 3,051)
 112. steve_c137                           0.04%   15,253,686 (units:   539)
