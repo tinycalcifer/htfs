@@ -1,10 +1,10 @@
-As of 2021-02-20 05:16:35, r00t f0lds is rank 43
-   with 826,253 work units for 38,994,417,242 credits
+As of 2021-02-20 05:26:21, r00t f0lds is rank 43
+   with 826,256 work units for 38,994,513,664 credits
   1. MasterKore                           8.87% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.41% 3,280,843,653 (units: 26,146)
   3. NeTTwerk                             7.18% 2,799,680,571 (units: 16,115)
   4. dildog                               5.55% 2,164,810,954 (units: 16,520)
-  5. TommydCat                            4.38% 1,708,551,277 (units: 19,821)
+  5. TommydCat                            4.38% 1,708,641,663 (units: 19,822)
   6. Ophie                                4.18% 1,629,014,655 (units: 108,571)
   7. GOLGO13                              3.68% 1,433,789,876 (units: 21,773)
   8. edsai                                3.55% 1,386,116,042 (units: 11,168)
@@ -16,7 +16,7 @@ As of 2021-02-20 05:16:35, r00t f0lds is rank 43
  14. Swern                                2.06%  804,895,288 (units: 9,447)
  15. dokuja                               1.75%  683,385,964 (units: 4,167)
  16. wetdryvac                            1.66%  646,903,458 (units: 9,014)
- 17. Steve_Castellarin                    1.64%  641,011,430 (units: 10,427)
+ 17. Steve_Castellarin                    1.64%  641,013,684 (units: 10,428)
  18. Scba                                 1.44%  562,166,350 (units: 6,752)
  19. Sangfroid                            1.41%  549,746,878 (units: 10,944)
  20. Dubhbairn                            1.39%  543,643,367 (units: 5,485)
@@ -103,7 +103,7 @@ As of 2021-02-20 05:16:35, r00t f0lds is rank 43
 101. dethveggie                           0.05%   19,943,503 (units: 3,034)
 102. SuRatt                               0.05%   19,280,686 (units:   529)
 103. mikecherry                           0.05%   19,149,753 (units: 2,235)
-104. gattaca                              0.05%   19,049,608 (units: 4,168)
+104. gattaca                              0.05%   19,053,390 (units: 4,169)
 105. johann8384                           0.05%   18,900,673 (units:   482)
 106. datagoon                             0.05%   17,998,116 (units:   936)
 107. snowchyld                            0.05%   17,657,087 (units:   795)
