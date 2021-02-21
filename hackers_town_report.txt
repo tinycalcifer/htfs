@@ -1,11 +1,11 @@
-As of 2021-02-21 00:36:31, hackers.town is rank 1255
-   with 42,391 work units for 505,507,912 credits
+As of 2021-02-21 00:46:26, hackers.town is rank 1255
+   with 42,393 work units for 505,523,559 credits
   1. Werekat                      14.86%   75,130,457 (units: 2,300)
   2. Kyle                         10.68%   54,009,061 (units: 2,390)
   3. bhtooefr                      8.87%   44,843,874 (units: 1,324)
   4. wetdryvac                     6.36%   32,148,675 (units:   888)
   5. Polychrome                    5.73%   28,978,783 (units: 2,097)
-  6. CookieMom                     5.25%   26,553,218 (units: 1,803)
+  6. CookieMom                     5.26%   26,566,158 (units: 1,804)
   7. merimus                       4.07%   20,589,421 (units:   553)
   8. packetcat                     3.92%   19,829,617 (units:   153)
   9. KemoNine                      3.70%   18,705,527 (units:   625)
@@ -21,7 +21,7 @@ As of 2021-02-21 00:36:31, hackers.town is rank 1255
  19. SiinaCutie                    1.03%    5,188,566 (units:   235)
  20. FOOL                          1.02%    5,138,460 (units:   445)
  21. felix                         0.97%    4,901,391 (units:   185)
- 22. Anonymous                     0.82%    4,162,628 (units: 1,618)
+ 22. Anonymous                     0.82%    4,165,335 (units: 1,619)
  23. r000t                         0.81%    4,069,816 (units:   121)
  24. Mr.House                      0.78%    3,947,699 (units:   202)
  25. jkl                           0.72%    3,650,043 (units:   859)
@@ -35,7 +35,7 @@ As of 2021-02-21 00:36:31, hackers.town is rank 1255
  33. neil                          0.43%    2,197,292 (units:   757)
  34. /dev/random                   0.42%    2,135,335 (units:   204)
  35. mandibular joint dysfunction  0.41%    2,055,511 (units:   834)
- 36. pfreak                        0.40%    1,996,770 (units:    48)
+ 36. pfreak                        0.39%    1,996,770 (units:    48)
  37. avolkov                       0.37%    1,891,826 (units:   104)
  38. FractumSeraph                 0.36%    1,808,542 (units:    28)
  39. rfquerin                      0.32%    1,638,770 (units:   107)
