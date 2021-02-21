@@ -1,5 +1,5 @@
-As of 2021-02-21 18:46:31, r00t f0lds is rank 43
-   with 827,457 work units for 39,081,045,482 credits
+As of 2021-02-21 18:56:27, r00t f0lds is rank 43
+   with 827,460 work units for 39,081,076,302 credits
   1. MasterKore                           8.85% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.39% 3,280,843,653 (units: 26,146)
   3. NeTTwerk                             7.16% 2,799,680,571 (units: 16,115)
@@ -43,7 +43,7 @@ As of 2021-02-21 18:46:31, r00t f0lds is rank 43
  41. knarph                               0.47%  184,810,644 (units: 4,691)
  42. skipper                              0.47%  183,842,220 (units: 2,084)
  43. hoochmonger                          0.42%  165,268,310 (units: 2,170)
- 44. causticjb                            0.39%  154,016,841 (units: 7,143)
+ 44. causticjb                            0.39%  154,031,417 (units: 7,144)
  45. EndoftheLine                         0.38%  148,940,296 (units: 1,970)
  46. Christian_Townsdin                   0.37%  145,049,352 (units: 2,484)
  47. dotjrich                             0.37%  144,494,788 (units: 5,241)
@@ -71,7 +71,7 @@ As of 2021-02-21 18:46:31, r00t f0lds is rank 43
  69. timforgot                            0.15%   59,204,422 (units: 2,912)
  70. mbm                                  0.15%   58,967,756 (units: 3,024)
  71. PhreakMonkey                         0.15%   58,555,142 (units: 5,525)
- 72. LamontWaugh                          0.15%   58,266,578 (units: 4,094)
+ 72. LamontWaugh                          0.15%   58,269,890 (units: 4,095)
  73. fib.seq                              0.14%   54,981,807 (units: 1,352)
  74. Xenophile                            0.14%   54,976,590 (units: 1,396)
  75. Fifi314                              0.14%   54,503,159 (units: 2,922)
@@ -86,7 +86,7 @@ As of 2021-02-21 18:46:31, r00t f0lds is rank 43
  84. w0zz                                 0.10%   38,150,894 (units: 2,009)
  85. st0ner                               0.09%   36,945,918 (units:   960)
  86. Chuk                                 0.09%   36,461,769 (units:   943)
- 87. Jabolotai                            0.09%   36,445,671 (units: 1,936)
+ 87. Jabolotai                            0.09%   36,458,603 (units: 1,937)
  88. EricO                                0.09%   35,722,051 (units:   467)
  89. SecureFlorindo                       0.09%   33,787,314 (units:   727)
  90. Neekop                               0.08%   29,493,295 (units: 2,482)
