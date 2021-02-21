@@ -1,5 +1,5 @@
-As of 2021-02-21 20:36:38, r00t f0lds is rank 43
-   with 827,511 work units for 39,084,643,439 credits
+As of 2021-02-21 20:46:40, r00t f0lds is rank 43
+   with 827,514 work units for 39,084,683,366 credits
   1. MasterKore                           8.85% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.39% 3,280,843,653 (units: 26,146)
   3. NeTTwerk                             7.16% 2,799,680,571 (units: 16,115)
@@ -16,7 +16,7 @@ As of 2021-02-21 20:36:38, r00t f0lds is rank 43
  14. Swern                                2.07%  810,882,339 (units: 9,501)
  15. dokuja                               1.75%  683,385,964 (units: 4,167)
  16. wetdryvac                            1.67%  650,856,819 (units: 9,042)
- 17. Steve_Castellarin                    1.65%  644,916,739 (units: 10,471)
+ 17. Steve_Castellarin                    1.65%  644,953,586 (units: 10,472)
  18. Scba                                 1.44%  564,029,866 (units: 6,773)
  19. Sangfroid                            1.41%  549,784,644 (units: 10,962)
  20. Dubhbairn                            1.40%  547,673,476 (units: 5,517)
@@ -30,7 +30,7 @@ As of 2021-02-21 20:36:38, r00t f0lds is rank 43
  28. natrololol                           0.95%  373,253,890 (units: 3,858)
  29. Kranfahrer                           0.82%  322,193,840 (units: 7,094)
  30. Privacywonk                          0.75%  294,182,294 (units: 7,439)
- 31. Moss                                 0.73%  286,994,603 (units: 5,418)
+ 31. Moss                                 0.73%  286,997,233 (units: 5,419)
  32. Resident                             0.71%  278,028,070 (units: 6,063)
  33. silicosis                            0.68%  266,677,117 (units: 3,681)
  34. /dev/random                          0.63%  246,179,499 (units: 5,881)
@@ -264,7 +264,7 @@ As of 2021-02-21 20:36:38, r00t f0lds is rank 43
 262. yuckf00                              0.00%      577,582 (units:   651)
 263. DPS                                  0.00%      564,659 (units:   525)
 264. tigfox                               0.00%      563,691 (units:    78)
-265. KbKhan                               0.00%      559,675 (units:   484)
+265. KbKhan                               0.00%      560,125 (units:   485)
 266. justpaul                             0.00%      556,246 (units:   197)
 267. langzi                               0.00%      545,010 (units:   475)
 268. send9                                0.00%      543,445 (units:   173)
