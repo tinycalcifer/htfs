@@ -1,5 +1,5 @@
-As of 2021-02-21 03:36:33, r00t f0lds is rank 43
-   with 826,977 work units for 39,047,814,993 credits
+As of 2021-02-21 03:46:34, r00t f0lds is rank 43
+   with 826,980 work units for 39,048,104,745 credits
   1. MasterKore                           8.85% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.40% 3,280,843,653 (units: 26,146)
   3. NeTTwerk                             7.17% 2,799,680,571 (units: 16,115)
@@ -15,7 +15,7 @@ As of 2021-02-21 03:36:33, r00t f0lds is rank 43
  13. Chris_Eng                            2.22%  865,439,874 (units: 7,134)
  14. Swern                                2.07%  808,275,974 (units: 9,477)
  15. dokuja                               1.75%  683,385,964 (units: 4,167)
- 16. wetdryvac                            1.66%  649,045,025 (units: 9,029)
+ 16. wetdryvac                            1.66%  649,219,931 (units: 9,030)
  17. Steve_Castellarin                    1.65%  643,265,744 (units: 10,450)
  18. Scba                                 1.44%  563,266,206 (units: 6,766)
  19. Sangfroid                            1.41%  549,768,842 (units: 10,954)
@@ -86,7 +86,7 @@ As of 2021-02-21 03:36:33, r00t f0lds is rank 43
  84. w0zz                                 0.10%   38,150,894 (units: 2,009)
  85. st0ner                               0.09%   36,945,918 (units:   960)
  86. Chuk                                 0.09%   36,461,769 (units:   943)
- 87. Jabolotai                            0.09%   36,283,912 (units: 1,922)
+ 87. Jabolotai                            0.09%   36,296,373 (units: 1,923)
  88. EricO                                0.09%   35,722,051 (units:   467)
  89. SecureFlorindo                       0.09%   33,787,314 (units:   727)
  90. Neekop                               0.08%   29,490,230 (units: 2,481)
@@ -121,7 +121,7 @@ As of 2021-02-21 03:36:33, r00t f0lds is rank 43
 119. Bill_Terwilliger                     0.04%   14,328,609 (units:   424)
 120. leigh.culley                         0.03%   13,356,036 (units: 1,759)
 121. trebach                              0.03%   12,347,912 (units: 2,533)
-122. atthewinchester                      0.03%   11,868,417 (units:   248)
+122. atthewinchester                      0.03%   11,970,802 (units:   249)
 123. DaKahuna                             0.03%   11,463,843 (units:   152)
 124. jobe                                 0.03%   10,817,910 (units:   389)
 125. q                                    0.03%   10,638,321 (units:   248)
