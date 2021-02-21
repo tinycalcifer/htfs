@@ -1,10 +1,10 @@
-As of 2021-02-21 23:06:36, r00t f0lds is rank 43
-   with 827,578 work units for 39,088,426,037 credits
+As of 2021-02-21 23:16:34, r00t f0lds is rank 43
+   with 827,581 work units for 39,088,758,491 credits
   1. MasterKore                           8.84% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.39% 3,280,843,653 (units: 26,146)
   3. NeTTwerk                             7.16% 2,799,680,571 (units: 16,115)
   4. dildog                               5.54% 2,164,810,954 (units: 16,520)
-  5. TommydCat                            4.40% 1,718,142,189 (units: 19,893)
+  5. TommydCat                            4.40% 1,718,470,907 (units: 19,894)
   6. Ophie                                4.17% 1,629,014,655 (units: 108,571)
   7. GOLGO13                              3.67% 1,433,789,876 (units: 21,773)
   8. edsai                                3.55% 1,387,906,532 (units: 11,180)
@@ -12,7 +12,7 @@ As of 2021-02-21 23:06:36, r00t f0lds is rank 43
  10. mowse                                2.63% 1,028,042,450 (units: 5,533)
  11. Gentry                               2.55%  998,578,719 (units: 13,152)
  12. Nicolas_Dawson                       2.55%  997,387,415 (units: 6,124)
- 13. Chris_Eng                            2.22%  866,470,110 (units: 7,151)
+ 13. Chris_Eng                            2.22%  866,473,359 (units: 7,152)
  14. Swern                                2.07%  810,972,559 (units: 9,503)
  15. dokuja                               1.75%  683,385,964 (units: 4,167)
  16. wetdryvac                            1.67%  651,155,557 (units: 9,045)
@@ -196,7 +196,7 @@ As of 2021-02-21 23:06:36, r00t f0lds is rank 43
 194. ThreeChip                            0.01%    2,177,261 (units:   311)
 195. JohnCalnan                           0.01%    2,154,474 (units:   708)
 196. rv                                   0.01%    2,120,485 (units: 1,915)
-197. RandyNose                            0.01%    2,083,514 (units: 1,959)
+197. RandyNose                            0.01%    2,084,001 (units: 1,960)
 198. b0bb0bb0bb0bb0bb0bb0b                0.01%    2,081,887 (units:   565)
 199. ViciousData                          0.01%    2,023,118 (units:   123)
 200. TwirX                                0.00%    1,921,592 (units:   114)
