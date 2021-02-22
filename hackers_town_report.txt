@@ -1,6 +1,6 @@
-As of 2021-02-22 01:11:17, hackers.town is rank 1256
-   with 42,425 work units for 506,003,416 credits
-  1. Werekat                      14.87%   75,218,072 (units: 2,310)
+As of 2021-02-22 01:56:37, hackers.town is rank 1256
+   with 42,426 work units for 506,118,865 credits
+  1. Werekat                      14.88%   75,333,521 (units: 2,311)
   2. Kyle                         10.67%   54,009,061 (units: 2,390)
   3. bhtooefr                      8.87%   44,900,566 (units: 1,326)
   4. wetdryvac                     6.35%   32,148,675 (units:   888)
@@ -42,9 +42,9 @@ As of 2021-02-22 01:11:17, hackers.town is rank 1256
  40. DJ_Sundog                     0.30%    1,513,675 (units:   330)
  41. sungo                         0.28%    1,432,642 (units:   399)
  42. kusuriya                      0.26%    1,314,178 (units:    68)
- 43. rmgr                          0.26%    1,290,558 (units:    47)
+ 43. rmgr                          0.25%    1,290,558 (units:    47)
  44. djsumdog                      0.24%    1,227,802 (units:   202)
- 45. LordBowlich                   0.24%    1,189,134 (units:   254)
+ 45. LordBowlich                   0.23%    1,189,134 (units:   254)
  46. qwazix                        0.23%    1,157,676 (units:   220)
  47. niconiconi                    0.22%    1,100,400 (units:   112)
  48. TerrorBite                    0.21%    1,085,432 (units:    36)
@@ -67,7 +67,7 @@ As of 2021-02-22 01:11:17, hackers.town is rank 1256
  65. fl0wn                         0.08%      388,420 (units:    74)
  66. Neue.City                     0.07%      368,144 (units:   165)
  67. csrsuoeb                      0.07%      330,048 (units:    69)
- 68. crc32                         0.07%      328,921 (units:   327)
+ 68. crc32                         0.06%      328,921 (units:   327)
  69. KitRedgrave                   0.06%      325,409 (units:    68)
  70. debugninja                    0.06%      288,707 (units:    34)
  71. ZenCoder                      0.06%      281,041 (units:    87)
