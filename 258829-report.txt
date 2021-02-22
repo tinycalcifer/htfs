@@ -1,5 +1,5 @@
-As of 2021-02-22 03:36:37, r00t f0lds is rank 43
-   with 827,720 work units for 39,098,299,553 credits
+As of 2021-02-22 03:46:35, r00t f0lds is rank 43
+   with 827,722 work units for 39,098,316,823 credits
   1. MasterKore                           8.84% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.39% 3,280,843,653 (units: 26,146)
   3. NeTTwerk                             7.16% 2,799,680,571 (units: 16,115)
@@ -23,7 +23,7 @@ As of 2021-02-22 03:36:37, r00t f0lds is rank 43
  21. spam                                 1.28%  499,337,977 (units: 5,183)
  22. entr0pybitz                          1.13%  442,455,065 (units: 3,336)
  23. crax                                 1.07%  417,787,037 (units: 2,723)
- 24. tvidas                               1.03%  403,605,542 (units: 7,202)
+ 24. tvidas                               1.03%  403,619,711 (units: 7,203)
  25. coldyfoldz                           0.99%  385,713,063 (units: 4,302)
  26. BELTIWAN                             0.97%  378,718,791 (units: 3,869)
  27. SWinder                              0.96%  376,963,413 (units: 6,265)
@@ -187,7 +187,7 @@ As of 2021-02-22 03:36:37, r00t f0lds is rank 43
 185. gwozniak                             0.01%    2,491,817 (units: 1,598)
 186. sckain                               0.01%    2,477,124 (units:   537)
 187. PHPete                               0.01%    2,428,332 (units: 1,362)
-188. DefConPlexxer                        0.01%    2,419,644 (units:   648)
+188. DefConPlexxer                        0.01%    2,422,745 (units:   649)
 189. XfavataX                             0.01%    2,388,188 (units: 2,560)
 190. mcsalchemy                           0.01%    2,294,325 (units:   688)
 191. fak3r                                0.01%    2,205,695 (units:   419)
