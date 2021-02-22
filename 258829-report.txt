@@ -1,5 +1,5 @@
-As of 2021-02-22 09:26:33, r00t f0lds is rank 43
-   with 827,911 work units for 39,112,614,742 credits
+As of 2021-02-22 09:36:35, r00t f0lds is rank 43
+   with 827,916 work units for 39,112,927,813 credits
   1. MasterKore                           8.84% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.39% 3,280,843,653 (units: 26,146)
   3. NeTTwerk                             7.16% 2,799,680,571 (units: 16,115)
@@ -10,7 +10,7 @@ As of 2021-02-22 09:26:33, r00t f0lds is rank 43
   8. edsai                                3.55% 1,388,270,255 (units: 11,182)
   9. Weld                                 3.32% 1,297,440,855 (units: 11,388)
  10. mowse                                2.63% 1,028,042,450 (units: 5,533)
- 11. Gentry                               2.56%  999,846,073 (units: 13,165)
+ 11. Gentry                               2.56% 1,000,008,652 (units: 13,166)
  12. Nicolas_Dawson                       2.55%  999,272,641 (units: 6,136)
  13. Chris_Eng                            2.22%  866,802,617 (units: 7,163)
  14. Swern                                2.08%  812,844,591 (units: 9,516)
@@ -30,7 +30,7 @@ As of 2021-02-22 09:26:33, r00t f0lds is rank 43
  28. natrololol                           0.96%  374,332,205 (units: 3,867)
  29. Kranfahrer                           0.82%  322,193,840 (units: 7,094)
  30. Privacywonk                          0.76%  295,464,130 (units: 7,451)
- 31. Moss                                 0.74%  287,867,857 (units: 5,432)
+ 31. Moss                                 0.74%  287,910,611 (units: 5,433)
  32. Resident                             0.71%  278,028,070 (units: 6,063)
  33. silicosis                            0.68%  266,677,117 (units: 3,681)
  34. /dev/random                          0.63%  246,715,077 (units: 5,889)
@@ -62,7 +62,7 @@ As of 2021-02-22 09:26:33, r00t f0lds is rank 43
  60. Carson_English                       0.24%   94,053,374 (units: 1,229)
  61. jalvaren                             0.21%   82,134,054 (units: 2,308)
  62. OnidTheTRex                          0.20%   79,585,022 (units: 1,381)
- 63. simestd                              0.20%   79,354,421 (units:   728)
+ 63. simestd                              0.20%   79,456,071 (units:   729)
  64. Gedvondur                            0.17%   68,250,733 (units: 1,323)
  65. Anonymous                            0.16%   63,464,958 (units: 1,735)
  66. mhuletdev                            0.16%   63,051,109 (units:   577)
@@ -89,7 +89,7 @@ As of 2021-02-22 09:26:33, r00t f0lds is rank 43
  87. Chuk                                 0.09%   36,461,769 (units:   943)
  88. EricO                                0.09%   35,722,051 (units:   467)
  89. SecureFlorindo                       0.09%   33,787,314 (units:   727)
- 90. Neekop                               0.08%   29,537,536 (units: 2,484)
+ 90. Neekop                               0.08%   29,540,647 (units: 2,485)
  91. c0debabe                             0.07%   29,168,811 (units:   882)
  92. Professor                            0.07%   28,760,810 (units: 2,095)
  93. MarvinPAndroid                       0.07%   25,775,597 (units: 1,086)
@@ -136,7 +136,7 @@ As of 2021-02-22 09:26:33, r00t f0lds is rank 43
 134. savagejen                            0.02%    8,482,563 (units:   150)
 135. GluffiS                              0.02%    8,069,768 (units: 2,072)
 136. trashp4nda                           0.02%    7,963,441 (units: 1,200)
-137. StephenWuebker                       0.02%    7,740,267 (units: 2,012)
+137. StephenWuebker                       0.02%    7,743,244 (units: 2,013)
 138. nebuka                               0.02%    7,682,204 (units: 1,611)
 139. DJ_Sundog                            0.02%    7,531,382 (units: 1,487)
 140. mandibular joint dysfunction         0.02%    7,529,171 (units: 2,802)
