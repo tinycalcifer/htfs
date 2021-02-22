@@ -1,5 +1,5 @@
-As of 2021-02-22 06:06:33, r00t f0lds is rank 43
-   with 827,797 work units for 39,104,549,645 credits
+As of 2021-02-22 06:16:31, r00t f0lds is rank 43
+   with 827,800 work units for 39,104,762,339 credits
   1. MasterKore                           8.84% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.39% 3,280,843,653 (units: 26,146)
   3. NeTTwerk                             7.16% 2,799,680,571 (units: 16,115)
@@ -12,7 +12,7 @@ As of 2021-02-22 06:06:33, r00t f0lds is rank 43
  10. mowse                                2.63% 1,028,042,450 (units: 5,533)
  11. Gentry                               2.56%  999,388,187 (units: 13,162)
  12. Nicolas_Dawson                       2.55%  998,704,819 (units: 6,133)
- 13. Chris_Eng                            2.22%  866,544,875 (units: 7,158)
+ 13. Chris_Eng                            2.22%  866,548,646 (units: 7,159)
  14. Swern                                2.08%  812,210,238 (units: 9,510)
  15. dokuja                               1.75%  683,385,964 (units: 4,167)
  16. wetdryvac                            1.67%  651,721,449 (units: 9,049)
@@ -20,7 +20,7 @@ As of 2021-02-22 06:06:33, r00t f0lds is rank 43
  18. Scba                                 1.44%  564,405,809 (units: 6,778)
  19. Sangfroid                            1.41%  549,789,211 (units: 10,964)
  20. Dubhbairn                            1.40%  549,264,282 (units: 5,527)
- 21. spam                                 1.28%  499,482,934 (units: 5,184)
+ 21. spam                                 1.28%  499,627,157 (units: 5,185)
  22. entr0pybitz                          1.13%  442,455,065 (units: 3,336)
  23. crax                                 1.07%  417,787,037 (units: 2,723)
  24. tvidas                               1.03%  403,789,083 (units: 7,206)
@@ -30,7 +30,7 @@ As of 2021-02-22 06:06:33, r00t f0lds is rank 43
  28. natrololol                           0.96%  374,150,416 (units: 3,866)
  29. Kranfahrer                           0.82%  322,193,840 (units: 7,094)
  30. Privacywonk                          0.75%  295,107,367 (units: 7,449)
- 31. Moss                                 0.74%  287,580,084 (units: 5,429)
+ 31. Moss                                 0.74%  287,644,784 (units: 5,430)
  32. Resident                             0.71%  278,028,070 (units: 6,063)
  33. silicosis                            0.68%  266,677,117 (units: 3,681)
  34. /dev/random                          0.63%  246,574,621 (units: 5,887)
