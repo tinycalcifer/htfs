@@ -1,5 +1,5 @@
-As of 2021-02-23 03:56:39, r00t f0lds is rank 43
-   with 828,568 work units for 39,156,266,505 credits
+As of 2021-02-23 04:12:22, r00t f0lds is rank 43
+   with 828,571 work units for 39,156,410,988 credits
   1. MasterKore                           8.83% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.38% 3,280,843,653 (units: 26,146)
   3. NeTTwerk                             7.15% 2,799,680,571 (units: 16,115)
@@ -26,7 +26,7 @@ As of 2021-02-23 03:56:39, r00t f0lds is rank 43
  24. tvidas                               1.04%  405,991,890 (units: 7,234)
  25. coldyfoldz                           0.99%  385,713,063 (units: 4,302)
  26. BELTIWAN                             0.97%  378,718,791 (units: 3,869)
- 27. SWinder                              0.96%  377,364,012 (units: 6,268)
+ 27. SWinder                              0.96%  377,507,129 (units: 6,269)
  28. natrololol                           0.96%  375,878,120 (units: 3,885)
  29. Kranfahrer                           0.82%  322,193,840 (units: 7,094)
  30. Privacywonk                          0.76%  297,372,141 (units: 7,467)
@@ -70,7 +70,7 @@ As of 2021-02-23 03:56:39, r00t f0lds is rank 43
  68. Bobaxos                              0.16%   62,654,617 (units:   769)
  69. timforgot                            0.15%   59,595,238 (units: 2,927)
  70. mbm                                  0.15%   58,967,756 (units: 3,024)
- 71. PhreakMonkey                         0.15%   58,644,425 (units: 5,580)
+ 71. PhreakMonkey                         0.15%   58,644,541 (units: 5,581)
  72. LamontWaugh                          0.15%   58,341,270 (units: 4,100)
  73. fib.seq                              0.14%   55,518,853 (units: 1,358)
  74. Xenophile                            0.14%   54,976,590 (units: 1,396)
@@ -157,7 +157,7 @@ As of 2021-02-23 03:56:39, r00t f0lds is rank 43
 155. godminusone                          0.01%    5,851,837 (units:   494)
 156. DiscoDan                             0.01%    5,827,321 (units:   224)
 157. B1u                                  0.01%    5,732,698 (units:   481)
-158. silksnep                             0.01%    5,630,489 (units: 3,336)
+158. silksnep                             0.01%    5,631,739 (units: 3,337)
 159. Code_X                               0.01%    5,619,770 (units:   137)
 160. J4CK4L                               0.01%    5,480,250 (units:   146)
 161. Rajiv_in_North                       0.01%    5,421,795 (units:   757)
