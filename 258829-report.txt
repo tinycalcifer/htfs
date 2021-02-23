@@ -1,5 +1,5 @@
-As of 2021-02-23 00:26:34, r00t f0lds is rank 43
-   with 828,446 work units for 39,147,876,528 credits
+As of 2021-02-23 00:36:36, r00t f0lds is rank 43
+   with 828,450 work units for 39,148,058,129 credits
   1. MasterKore                           8.83% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.38% 3,280,843,653 (units: 26,146)
   3. NeTTwerk                             7.15% 2,799,680,571 (units: 16,115)
@@ -7,7 +7,7 @@ As of 2021-02-23 00:26:34, r00t f0lds is rank 43
   5. TommydCat                            4.40% 1,724,207,433 (units: 19,937)
   6. Ophie                                4.16% 1,629,014,655 (units: 108,571)
   7. GOLGO13                              3.66% 1,433,789,876 (units: 21,773)
-  8. edsai                                3.55% 1,390,696,783 (units: 11,200)
+  8. edsai                                3.55% 1,390,856,553 (units: 11,201)
   9. Weld                                 3.31% 1,297,440,855 (units: 11,388)
  10. mowse                                2.63% 1,028,042,450 (units: 5,533)
  11. Gentry                               2.56% 1,002,141,732 (units: 13,180)
@@ -42,7 +42,7 @@ As of 2021-02-23 00:26:34, r00t f0lds is rank 43
  40. mubix                                0.48%  188,387,283 (units: 2,049)
  41. skipper                              0.47%  185,115,505 (units: 2,099)
  42. knarph                               0.47%  184,810,644 (units: 4,691)
- 43. hoochmonger                          0.42%  166,061,989 (units: 2,179)
+ 43. hoochmonger                          0.42%  166,070,763 (units: 2,180)
  44. causticjb                            0.40%  154,660,137 (units: 7,187)
  45. EndoftheLine                         0.38%  148,940,296 (units: 1,970)
  46. dotjrich                             0.37%  145,254,797 (units: 5,254)
@@ -70,11 +70,11 @@ As of 2021-02-23 00:26:34, r00t f0lds is rank 43
  68. Bobaxos                              0.16%   62,654,617 (units:   769)
  69. timforgot                            0.15%   59,595,238 (units: 2,927)
  70. mbm                                  0.15%   58,967,756 (units: 3,024)
- 71. PhreakMonkey                         0.15%   58,603,567 (units: 5,555)
+ 71. PhreakMonkey                         0.15%   58,603,684 (units: 5,556)
  72. LamontWaugh                          0.15%   58,305,702 (units: 4,099)
  73. fib.seq                              0.14%   55,518,853 (units: 1,358)
  74. Xenophile                            0.14%   54,976,590 (units: 1,396)
- 75. Fifi314                              0.14%   54,857,807 (units: 2,937)
+ 75. Fifi314                              0.14%   54,870,747 (units: 2,938)
  76. merimus                              0.12%   47,156,855 (units: 1,255)
  77. CoolAcid                             0.12%   46,697,066 (units: 1,792)
  78. martums                              0.12%   46,348,785 (units: 6,085)
