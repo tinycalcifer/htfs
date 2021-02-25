@@ -1,5 +1,5 @@
-As of 2021-02-25 23:16:41, r00t f0lds is rank 43
-   with 830,903 work units for 39,319,097,984 credits
+As of 2021-02-25 23:26:41, r00t f0lds is rank 43
+   with 830,906 work units for 39,319,164,763 credits
   1. MasterKore                           8.79% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.34% 3,280,843,653 (units: 26,146)
   3. NeTTwerk                             7.12% 2,799,680,571 (units: 16,115)
@@ -11,7 +11,7 @@ As of 2021-02-25 23:16:41, r00t f0lds is rank 43
   9. Weld                                 3.30% 1,297,440,855 (units: 11,388)
  10. mowse                                2.62% 1,028,376,219 (units: 5,536)
  11. Nicolas_Dawson                       2.58% 1,014,389,721 (units: 6,227)
- 12. Gentry                               2.58% 1,012,940,152 (units: 13,258)
+ 12. Gentry                               2.58% 1,013,000,311 (units: 13,259)
  13. Chris_Eng                            2.21%  868,081,627 (units: 7,188)
  14. Swern                                2.10%  825,289,581 (units: 9,605)
  15. dokuja                               1.74%  683,385,964 (units: 4,167)
@@ -157,7 +157,7 @@ As of 2021-02-25 23:16:41, r00t f0lds is rank 43
 155. azk                                  0.02%    6,227,223 (units:   982)
 156. godminusone                          0.01%    5,851,837 (units:   494)
 157. B1u                                  0.01%    5,732,698 (units:   481)
-158. silksnep                             0.01%    5,708,909 (units: 3,350)
+158. silksnep                             0.01%    5,712,219 (units: 3,351)
 159. Code_X                               0.01%    5,619,770 (units:   137)
 160. J4CK4L                               0.01%    5,480,250 (units:   146)
 161. Rajiv_in_North                       0.01%    5,421,795 (units:   757)
@@ -180,7 +180,7 @@ As of 2021-02-25 23:16:41, r00t f0lds is rank 43
 178. Mubok                                0.01%    2,866,317 (units:   243)
 179. [REDACTED]                           0.01%    2,847,112 (units:   274)
 180. algorythm                            0.01%    2,720,892 (units:   461)
-181. evm                                  0.01%    2,701,608 (units: 2,639)
+181. evm                                  0.01%    2,704,918 (units: 2,640)
 182. dewke                                0.01%    2,666,197 (units: 1,262)
 183. BorisRosenow                         0.01%    2,665,846 (units:   177)
 184. ZenCoder                             0.01%    2,623,938 (units:   628)
