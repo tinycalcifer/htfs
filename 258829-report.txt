@@ -1,5 +1,5 @@
-As of 2021-02-26 04:46:43, r00t f0lds is rank 43
-   with 831,055 work units for 39,332,333,388 credits
+As of 2021-02-26 04:56:40, r00t f0lds is rank 43
+   with 831,060 work units for 39,332,641,255 credits
   1. MasterKore                           8.79% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.34% 3,280,843,653 (units: 26,146)
   3. NeTTwerk                             7.12% 2,799,680,571 (units: 16,115)
@@ -10,7 +10,7 @@ As of 2021-02-26 04:46:43, r00t f0lds is rank 43
   8. edsai                                3.57% 1,404,120,526 (units: 11,297)
   9. Weld                                 3.30% 1,297,440,855 (units: 11,388)
  10. mowse                                2.61% 1,028,376,219 (units: 5,536)
- 11. Nicolas_Dawson                       2.58% 1,015,213,024 (units: 6,235)
+ 11. Nicolas_Dawson                       2.58% 1,015,379,492 (units: 6,239)
  12. Gentry                               2.58% 1,013,721,406 (units: 13,265)
  13. Chris_Eng                            2.21%  868,081,627 (units: 7,188)
  14. Swern                                2.10%  826,253,993 (units: 9,611)
@@ -51,7 +51,7 @@ As of 2021-02-26 04:46:43, r00t f0lds is rank 43
  49. ethersniffer                         0.35%  138,562,373 (units: 16,237)
  50. S0l3mn                               0.35%  136,999,977 (units: 5,529)
  51. Krypt0Gh0st                          0.34%  132,864,465 (units: 2,669)
- 52. Space_Rogue                          0.31%  121,481,169 (units: 6,418)
+ 52. Space_Rogue                          0.31%  121,622,568 (units: 6,419)
  53. wingisfolding                        0.30%  119,385,401 (units: 17,882)
  54. TachyonStream                        0.30%  118,559,717 (units: 4,356)
  55. zonksec                              0.29%  113,202,764 (units: 4,683)
