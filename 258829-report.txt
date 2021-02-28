@@ -1,5 +1,5 @@
-As of 2021-02-27 23:25:33, r00t f0lds is rank 43
-   with 832,447 work units for 39,437,537,517 credits
+As of 2021-02-27 23:35:32, r00t f0lds is rank 43
+   with 832,449 work units for 39,437,717,785 credits
   1. MasterKore                           8.77% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.32% 3,280,843,653 (units: 26,146)
   3. NeTTwerk                             7.10% 2,799,680,571 (units: 16,115)
@@ -10,7 +10,7 @@ As of 2021-02-27 23:25:33, r00t f0lds is rank 43
   8. edsai                                3.58% 1,410,108,796 (units: 11,342)
   9. Weld                                 3.29% 1,297,440,855 (units: 11,388)
  10. mowse                                2.61% 1,028,376,219 (units: 5,536)
- 11. Nicolas_Dawson                       2.60% 1,023,795,170 (units: 6,299)
+ 11. Nicolas_Dawson                       2.60% 1,023,975,355 (units: 6,300)
  12. Gentry                               2.58% 1,018,802,080 (units: 13,302)
  13. Chris_Eng                            2.20%  868,081,627 (units: 7,188)
  14. Swern                                2.11%  831,789,429 (units: 9,652)
@@ -69,7 +69,7 @@ As of 2021-02-27 23:25:33, r00t f0lds is rank 43
  67. KStads                               0.16%   62,782,867 (units:   808)
  68. Bobaxos                              0.16%   62,654,617 (units:   769)
  69. timforgot                            0.15%   60,915,240 (units: 2,952)
- 70. PhreakMonkey                         0.15%   59,874,529 (units: 6,201)
+ 70. PhreakMonkey                         0.15%   59,874,612 (units: 6,202)
  71. mbm                                  0.15%   58,967,756 (units: 3,024)
  72. LamontWaugh                          0.15%   58,525,161 (units: 4,113)
  73. fib.seq                              0.15%   57,716,401 (units: 1,385)
