@@ -1,5 +1,5 @@
-As of 2021-03-01 00:35:43, r00t f0lds is rank 43
-   with 833,317 work units for 39,497,023,859 credits
+As of 2021-03-01 00:45:43, r00t f0lds is rank 43
+   with 833,319 work units for 39,497,099,501 credits
   1. MasterKore                           8.75% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.31% 3,280,843,653 (units: 26,146)
   3. NeTTwerk                             7.09% 2,799,680,571 (units: 16,115)
@@ -68,8 +68,8 @@ As of 2021-03-01 00:35:43, r00t f0lds is rank 43
  66. Anonymous                            0.16%   63,480,266 (units: 1,745)
  67. KStads                               0.16%   62,782,867 (units:   808)
  68. Bobaxos                              0.16%   62,654,617 (units:   769)
- 69. timforgot                            0.15%   61,195,958 (units: 2,958)
- 70. PhreakMonkey                         0.15%   59,941,864 (units: 6,361)
+ 69. timforgot                            0.16%   61,271,515 (units: 2,959)
+ 70. PhreakMonkey                         0.15%   59,941,949 (units: 6,362)
  71. mbm                                  0.15%   58,967,756 (units: 3,024)
  72. LamontWaugh                          0.15%   58,607,314 (units: 4,117)
  73. fib.seq                              0.15%   58,405,153 (units: 1,396)
@@ -439,8 +439,8 @@ As of 2021-03-01 00:35:43, r00t f0lds is rank 43
 437. scr1pt3y                             0.00%          693 (units:     2)
 438. LynxJSA                              0.00%          570 (units:     1)
 439.                                      0.00%          532 (units:     2)
-440. Dom0                                 0.00%          525 (units:     1)
-441.                                      0.00%          525 (units:     1)
+440.                                      0.00%          525 (units:     1)
+441. Dom0                                 0.00%          525 (units:     1)
 442. ziraffa                              0.00%          501 (units:     1)
 443. MarkKriegsman                        0.00%          420 (units:     1)
 444. pourjour                             0.00%          300 (units:     1)
