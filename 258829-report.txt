@@ -1,5 +1,5 @@
-As of 2021-03-02 19:15:34, r00t f0lds is rank 43
-   with 834,871 work units for 39,606,196,547 credits
+As of 2021-03-02 19:25:35, r00t f0lds is rank 43
+   with 834,873 work units for 39,606,226,149 credits
   1. MasterKore                           8.73% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.30% 3,286,056,804 (units: 26,188)
   3. NeTTwerk                             7.07% 2,799,680,571 (units: 16,115)
@@ -33,7 +33,7 @@ As of 2021-03-02 19:15:34, r00t f0lds is rank 43
  31. Moss                                 0.76%  301,415,308 (units: 5,616)
  32. Resident                             0.70%  278,219,698 (units: 6,083)
  33. silicosis                            0.67%  266,677,117 (units: 3,681)
- 34. /dev/random                          0.64%  254,126,251 (units: 5,976)
+ 34. /dev/random                          0.64%  254,155,785 (units: 5,977)
  35. X                                    0.63%  250,963,341 (units: 3,798)
  36. AWR                                  0.58%  231,511,756 (units: 5,812)
  37. Calcifer                             0.56%  220,960,533 (units: 3,550)
@@ -70,7 +70,7 @@ As of 2021-03-02 19:15:34, r00t f0lds is rank 43
  68. Bobaxos                              0.16%   62,654,617 (units:   769)
  69. timforgot                            0.16%   61,716,334 (units: 2,966)
  70. fib.seq                              0.15%   60,144,464 (units: 1,414)
- 71. PhreakMonkey                         0.15%   59,967,330 (units: 6,627)
+ 71. PhreakMonkey                         0.15%   59,967,398 (units: 6,628)
  72. mbm                                  0.15%   58,967,756 (units: 3,024)
  73. LamontWaugh                          0.15%   58,718,421 (units: 4,122)
  74. Fifi314                              0.14%   56,918,366 (units: 3,035)
@@ -439,8 +439,8 @@ As of 2021-03-02 19:15:34, r00t f0lds is rank 43
 437. scr1pt3y                             0.00%          693 (units:     2)
 438. LynxJSA                              0.00%          570 (units:     1)
 439.                                      0.00%          532 (units:     2)
-440.                                      0.00%          525 (units:     1)
-441. Dom0                                 0.00%          525 (units:     1)
+440. Dom0                                 0.00%          525 (units:     1)
+441.                                      0.00%          525 (units:     1)
 442. ziraffa                              0.00%          501 (units:     1)
 443. MarkKriegsman                        0.00%          420 (units:     1)
 444. pourjour                             0.00%          300 (units:     1)
