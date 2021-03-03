@@ -1,5 +1,5 @@
-As of 2021-03-03 21:35:42, r00t f0lds is rank 43
-   with 835,804 work units for 39,669,622,493 credits
+As of 2021-03-03 21:45:43, r00t f0lds is rank 43
+   with 835,809 work units for 39,670,276,682 credits
   1. MasterKore                           8.71% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.28% 3,286,056,804 (units: 26,188)
   3. NeTTwerk                             7.06% 2,799,680,571 (units: 16,115)
@@ -21,7 +21,7 @@ As of 2021-03-03 21:35:42, r00t f0lds is rank 43
  19. Scba                                 1.45%  575,928,933 (units: 6,901)
  20. Sangfroid                            1.39%  551,727,940 (units: 11,055)
  21. spam                                 1.32%  522,102,884 (units: 5,389)
- 22. entr0pybitz                          1.18%  467,934,179 (units: 3,525)
+ 22. entr0pybitz                          1.18%  468,514,102 (units: 3,528)
  23. crax                                 1.05%  417,787,037 (units: 2,723)
  24. tvidas                               1.04%  412,236,227 (units: 7,347)
  25. SWinder                              0.98%  390,083,435 (units: 6,366)
@@ -68,9 +68,9 @@ As of 2021-03-03 21:35:42, r00t f0lds is rank 43
  66. Anonymous                            0.16%   63,490,636 (units: 1,751)
  67. KStads                               0.16%   62,782,867 (units:   808)
  68. Bobaxos                              0.16%   62,654,617 (units:   769)
- 69. timforgot                            0.16%   62,020,607 (units: 2,972)
+ 69. timforgot                            0.16%   62,094,801 (units: 2,973)
  70. fib.seq                              0.15%   61,038,464 (units: 1,424)
- 71. PhreakMonkey                         0.15%   59,988,718 (units: 6,793)
+ 71. PhreakMonkey                         0.15%   59,988,790 (units: 6,794)
  72. mbm                                  0.15%   58,967,756 (units: 3,024)
  73. LamontWaugh                          0.15%   58,784,121 (units: 4,125)
  74. Fifi314                              0.14%   57,212,423 (units: 3,049)
