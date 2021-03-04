@@ -1,5 +1,5 @@
-As of 2021-03-04 14:55:38, r00t f0lds is rank 43
-   with 836,459 work units for 39,716,459,471 credits
+As of 2021-03-04 15:05:42, r00t f0lds is rank 43
+   with 836,462 work units for 39,716,612,320 credits
   1. MasterKore                           8.70% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.27% 3,286,056,804 (units: 26,188)
   3. NeTTwerk                             7.05% 2,799,680,571 (units: 16,115)
@@ -17,7 +17,7 @@ As of 2021-03-04 14:55:38, r00t f0lds is rank 43
  15. dokuja                               1.72%  683,385,964 (units: 4,167)
  16. wetdryvac                            1.70%  674,944,200 (units: 9,241)
  17. Steve_Castellarin                    1.68%  668,210,297 (units: 10,712)
- 18. Dubhbairn                            1.47%  581,996,113 (units: 5,781)
+ 18. Dubhbairn                            1.47%  582,146,755 (units: 5,782)
  19. Scba                                 1.45%  576,725,621 (units: 6,909)
  20. Sangfroid                            1.39%  551,966,002 (units: 11,059)
  21. spam                                 1.32%  523,758,884 (units: 5,405)
@@ -70,7 +70,7 @@ As of 2021-03-04 14:55:38, r00t f0lds is rank 43
  68. Bobaxos                              0.16%   62,654,617 (units:   769)
  69. timforgot                            0.16%   62,251,284 (units: 2,977)
  70. fib.seq                              0.15%   61,531,794 (units: 1,430)
- 71. PhreakMonkey                         0.15%   59,998,182 (units: 6,901)
+ 71. PhreakMonkey                         0.15%   59,998,298 (units: 6,902)
  72. mbm                                  0.15%   58,967,756 (units: 3,024)
  73. LamontWaugh                          0.15%   58,840,846 (units: 4,128)
  74. Fifi314                              0.14%   57,415,521 (units: 3,059)
@@ -137,7 +137,7 @@ As of 2021-03-04 14:55:38, r00t f0lds is rank 43
 135. mad_dog2020                          0.02%    8,534,850 (units: 1,328)
 136. rmgr                                 0.02%    8,508,688 (units:   174)
 137. GluffiS                              0.02%    8,393,684 (units: 2,183)
-138. trashp4nda                           0.02%    8,268,155 (units: 1,212)
+138. trashp4nda                           0.02%    8,270,246 (units: 1,213)
 139. StephenWuebker                       0.02%    7,941,133 (units: 2,045)
 140. nebuka                               0.02%    7,682,204 (units: 1,611)
 141. DJ_Sundog                            0.02%    7,531,382 (units: 1,487)
