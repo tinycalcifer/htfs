@@ -1,10 +1,10 @@
 As of 2021-03-06 21:55:47, r00t f0lds is rank 43
-   with 839,442 work units for 39,930,844,718 credits
+   with 839,448 work units for 39,931,290,404 credits
   1. MasterKore                           8.66% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.23% 3,286,056,804 (units: 26,188)
   3. NeTTwerk                             7.01% 2,799,680,571 (units: 16,115)
   4. dildog                               5.46% 2,179,433,781 (units: 16,613)
-  5. TommydCat                            4.49% 1,793,833,199 (units: 20,510)
+  5. TommydCat                            4.49% 1,794,100,191 (units: 20,512)
   6. Ophie                                4.08% 1,629,014,655 (units: 108,571)
   7. edsai                                3.61% 1,440,329,287 (units: 11,566)
   8. GOLGO13                              3.59% 1,433,789,876 (units: 21,773)
@@ -21,7 +21,7 @@ As of 2021-03-06 21:55:47, r00t f0lds is rank 43
  19. Scba                                 1.45%  580,450,947 (units: 6,951)
  20. Sangfroid                            1.39%  553,148,665 (units: 11,090)
  21. spam                                 1.33%  531,306,637 (units: 5,479)
- 22. entr0pybitz                          1.24%  495,524,352 (units: 3,740)
+ 22. entr0pybitz                          1.24%  495,668,051 (units: 3,742)
  23. crax                                 1.05%  417,787,037 (units: 2,723)
  24. tvidas                               1.04%  417,249,634 (units: 7,426)
  25. SWinder                              0.99%  396,425,389 (units: 6,420)
@@ -70,8 +70,8 @@ As of 2021-03-06 21:55:47, r00t f0lds is rank 43
  68. timforgot                            0.16%   63,345,036 (units: 3,005)
  69. KStads                               0.16%   62,782,867 (units:   808)
  70. Bobaxos                              0.16%   62,654,617 (units:   769)
- 71. PhreakMonkey                         0.15%   60,061,690 (units: 7,402)
- 72. mbm                                  0.15%   59,865,341 (units: 3,071)
+ 71. PhreakMonkey                         0.15%   60,061,806 (units: 7,403)
+ 72. mbm                                  0.15%   59,900,220 (units: 3,072)
  73. scottsizemore                        0.15%   59,248,113 (units:   340)
  74. LamontWaugh                          0.15%   59,099,556 (units: 4,140)
  75. Fifi314                              0.15%   58,277,660 (units: 3,105)
