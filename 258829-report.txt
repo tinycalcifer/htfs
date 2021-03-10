@@ -1,5 +1,5 @@
 As of 2021-03-08 05:29:01, r00t f0lds is rank 42
-   with 845,316 work units for 40,111,708,595 credits
+   with 845,321 work units for 40,112,009,642 credits
   1. MasterKore                           8.62% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.19% 3,286,122,288 (units: 26,192)
   3. NeTTwerk                             6.98% 2,799,680,571 (units: 16,115)
@@ -65,14 +65,14 @@ As of 2021-03-08 05:29:01, r00t f0lds is rank 42
  63. OnidTheTRex                          0.20%   79,779,968 (units: 1,389)
  64. simestd                              0.20%   79,667,785 (units:   731)
  65. Gedvondur                            0.19%   74,287,328 (units: 1,397)
- 66. scottsizemore                        0.18%   73,876,330 (units:   440)
+ 66. scottsizemore                        0.18%   74,101,334 (units:   441)
  67. fib.seq                              0.17%   66,250,008 (units: 1,515)
  68. timforgot                            0.16%   64,324,975 (units: 3,039)
  69. Anonymous                            0.16%   63,561,801 (units: 1,789)
  70. KStads                               0.16%   62,782,867 (units:   808)
  71. Bobaxos                              0.16%   62,654,617 (units:   769)
- 72. mbm                                  0.15%   60,617,209 (units: 3,111)
- 73. PhreakMonkey                         0.15%   60,140,813 (units: 7,769)
+ 72. mbm                                  0.15%   60,673,604 (units: 3,112)
+ 73. PhreakMonkey                         0.15%   60,140,958 (units: 7,771)
  74. LamontWaugh                          0.15%   59,417,829 (units: 4,179)
  75. Fifi314                              0.15%   59,025,369 (units: 3,166)
  76. Xenophile                            0.14%   54,989,668 (units: 1,399)
@@ -102,7 +102,7 @@ As of 2021-03-08 05:29:01, r00t f0lds is rank 42
 100. 0xMatt                               0.05%   21,644,451 (units: 3,304)
 101. dethveggie                           0.05%   21,546,430 (units: 3,149)
 102. just6979                             0.05%   21,471,354 (units: 1,048)
-103. simonlbn                             0.05%   20,961,175 (units: 2,223)
+103. simonlbn                             0.05%   20,980,678 (units: 2,224)
 104. gattaca                              0.05%   19,679,643 (units: 4,234)
 105. SuRatt                               0.05%   19,431,729 (units:   541)
 106. mikecherry                           0.05%   19,175,159 (units: 2,251)
