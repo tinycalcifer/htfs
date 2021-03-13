@@ -1,5 +1,5 @@
-As of 2021-03-13 14:06:02, r00t f0lds is rank 42
-   with 848,337 work units for 40,317,414,864 credits
+As of 2021-03-13 14:16:01, r00t f0lds is rank 42
+   with 848,341 work units for 40,317,431,932 credits
   1. MasterKore                           8.57% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.15% 3,286,122,288 (units: 26,192)
   3. NeTTwerk                             6.94% 2,799,680,571 (units: 16,115)
@@ -43,7 +43,7 @@ As of 2021-03-13 14:06:02, r00t f0lds is rank 42
  41. mubix                                0.47%  188,719,178 (units: 2,073)
  42. knarph                               0.46%  185,383,123 (units: 4,701)
  43. hoochmonger                          0.42%  170,585,852 (units: 2,264)
- 44. causticjb                            0.41%  166,582,275 (units: 7,931)
+ 44. causticjb                            0.41%  166,598,029 (units: 7,932)
  45. dotjrich                             0.39%  156,045,459 (units: 5,475)
  46. EndoftheLine                         0.37%  148,995,679 (units: 1,973)
  47. ethersniffer                         0.36%  145,831,471 (units: 16,603)
@@ -72,7 +72,7 @@ As of 2021-03-13 14:06:02, r00t f0lds is rank 42
  70. KStads                               0.16%   62,782,867 (units:   808)
  71. Bobaxos                              0.16%   62,654,617 (units:   769)
  72. mbm                                  0.15%   61,761,343 (units: 3,168)
- 73. PhreakMonkey                         0.15%   60,201,404 (units: 8,276)
+ 73. PhreakMonkey                         0.15%   60,201,618 (units: 8,278)
  74. Fifi314                              0.15%   60,029,660 (units: 3,204)
  75. LamontWaugh                          0.15%   59,557,862 (units: 4,186)
  76. Xenophile                            0.14%   54,989,668 (units: 1,399)
@@ -298,7 +298,7 @@ As of 2021-03-13 14:06:02, r00t f0lds is rank 42
 296. FuSeb0x                              0.00%      292,004 (units:   233)
 297. SciaticNerd                          0.00%      291,381 (units:   148)
 298. Doctor_413_Who                       0.00%      290,206 (units:   213)
-299. secitup                              0.00%      283,812 (units:   261)
+299. secitup                              0.00%      284,912 (units:   262)
 300. csrsuoeb                             0.00%      282,473 (units:   109)
 301. Arcans                               0.00%      282,341 (units:   268)
 302. qwejibo                              0.00%      281,007 (units:    76)
