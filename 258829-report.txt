@@ -1,5 +1,5 @@
-As of 2021-03-14 22:15:59, r00t f0lds is rank 42
-   with 849,445 work units for 40,396,444,551 credits
+As of 2021-03-14 22:26:01, r00t f0lds is rank 42
+   with 849,448 work units for 40,396,448,586 credits
   1. MasterKore                           8.56% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.13% 3,286,122,288 (units: 26,192)
   3. NeTTwerk                             6.93% 2,799,680,571 (units: 16,115)
@@ -53,7 +53,7 @@ As of 2021-03-14 22:15:59, r00t f0lds is rank 42
  51. S0l3mn                               0.34%  137,124,785 (units: 5,535)
  52. Krypt0Gh0st                          0.33%  133,020,834 (units: 2,687)
  53. TachyonStream                        0.33%  132,963,716 (units: 4,626)
- 54. zonksec                              0.30%  120,491,753 (units: 4,911)
+ 54. zonksec                              0.30%  120,494,250 (units: 4,912)
  55. wingisfolding                        0.30%  119,385,401 (units: 17,882)
  56. pizen                                0.28%  113,278,010 (units: 2,787)
  57. SalusaSecondus                       0.28%  112,588,841 (units: 2,180)
@@ -73,7 +73,7 @@ As of 2021-03-14 22:15:59, r00t f0lds is rank 42
  71. Bobaxos                              0.16%   62,654,617 (units:   769)
  72. mbm                                  0.15%   62,188,851 (units: 3,189)
  73. Fifi314                              0.15%   60,432,605 (units: 3,221)
- 74. PhreakMonkey                         0.15%   60,223,577 (units: 8,475)
+ 74. PhreakMonkey                         0.15%   60,223,695 (units: 8,476)
  75. LamontWaugh                          0.15%   59,670,636 (units: 4,195)
  76. Xenophile                            0.14%   54,989,668 (units: 1,399)
  77. KeithS                               0.12%   47,914,334 (units: 2,248)
@@ -279,7 +279,7 @@ As of 2021-03-14 22:15:59, r00t f0lds is rank 42
 277. Syrinx                               0.00%      466,145 (units: 1,297)
 278. Matt_Hargett                         0.00%      459,775 (units:   118)
 279. odzihozo                             0.00%      459,730 (units:   304)
-280. FX                                   0.00%      455,469 (units:    35)
+280. FX                                   0.00%      456,889 (units:    36)
 281. Mnemonic                             0.00%      447,490 (units:   163)
 282. vamegabyte                           0.00%      445,417 (units:   205)
 283. tapril                               0.00%      425,932 (units:   191)
