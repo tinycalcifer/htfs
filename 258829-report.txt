@@ -1,5 +1,5 @@
-As of 2021-03-15 16:15:57, r00t f0lds is rank 42
-   with 850,025 work units for 40,435,147,992 credits
+As of 2021-03-15 16:25:59, r00t f0lds is rank 42
+   with 850,028 work units for 40,435,150,185 credits
   1. MasterKore                           8.55% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.13% 3,286,122,288 (units: 26,192)
   3. NeTTwerk                             6.92% 2,799,680,571 (units: 16,115)
@@ -73,7 +73,7 @@ As of 2021-03-15 16:15:57, r00t f0lds is rank 42
  71. Bobaxos                              0.15%   62,654,617 (units:   769)
  72. mbm                                  0.15%   62,408,560 (units: 3,202)
  73. Fifi314                              0.15%   60,644,067 (units: 3,230)
- 74. PhreakMonkey                         0.15%   60,233,815 (units: 8,587)
+ 74. PhreakMonkey                         0.15%   60,233,892 (units: 8,588)
  75. LamontWaugh                          0.15%   59,711,163 (units: 4,197)
  76. Xenophile                            0.14%   54,989,668 (units: 1,399)
  77. KeithS                               0.12%   48,009,164 (units: 2,252)
@@ -178,7 +178,7 @@ As of 2021-03-15 16:15:57, r00t f0lds is rank 42
 176. sswheels1904                         0.01%    3,201,384 (units:   351)
 177. mechbob                              0.01%    2,985,711 (units:   348)
 178. fah-crackuser                        0.01%    2,961,115 (units:   442)
-179. evm                                  0.01%    2,935,912 (units: 2,765)
+179. evm                                  0.01%    2,936,778 (units: 2,766)
 180. gwozniak                             0.01%    2,926,128 (units: 1,653)
 181. Mubok                                0.01%    2,907,513 (units:   249)
 182. DefConPlexxer                        0.01%    2,889,929 (units:   718)
@@ -213,7 +213,7 @@ As of 2021-03-15 16:15:57, r00t f0lds is rank 42
 211. Dunga                                0.00%    1,566,768 (units:   125)
 212. Adam                                 0.00%    1,563,844 (units:    35)
 213. friedsriracha                        0.00%    1,553,482 (units:    86)
-214. downsey84                            0.00%    1,538,486 (units: 1,458)
+214. downsey84                            0.00%    1,539,736 (units: 1,459)
 215. noogie                               0.00%    1,510,310 (units:   362)
 216.                                      0.00%    1,486,859 (units:    86)
 217. TommyTorty10                         0.00%    1,433,911 (units:    81)
@@ -434,8 +434,8 @@ As of 2021-03-15 16:15:57, r00t f0lds is rank 42
 432. rtrevinnoc                           0.00%          896 (units:     2)
 433. VVX7                                 0.00%          842 (units:    11)
 434. Manos                                0.00%          744 (units:     1)
-435. DBoy                                 0.00%          700 (units:     1)
-436. metaproject                          0.00%          700 (units:     1)
+435. metaproject                          0.00%          700 (units:     1)
+436. DBoy                                 0.00%          700 (units:     1)
 437. scr1pt3y                             0.00%          693 (units:     2)
 438. LynxJSA                              0.00%          570 (units:     1)
 439.                                      0.00%          532 (units:     2)
