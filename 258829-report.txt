@@ -1,9 +1,9 @@
-As of 2021-03-19 13:06:08, r00t f0lds is rank 42
-   with 853,472 work units for 40,671,679,906 credits
+As of 2021-03-19 13:16:08, r00t f0lds is rank 42
+   with 853,478 work units for 40,672,057,893 credits
   1. MasterKore                           8.50% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.09% 3,289,397,286 (units: 26,245)
   3. NeTTwerk                             6.88% 2,799,680,571 (units: 16,115)
-  4. dildog                               5.40% 2,196,996,392 (units: 16,708)
+  4. dildog                               5.40% 2,197,101,750 (units: 16,709)
   5. TommydCat                            4.60% 1,868,891,467 (units: 21,282)
   6. Ophie                                4.01% 1,629,014,655 (units: 108,571)
   7. edsai                                3.65% 1,484,776,431 (units: 11,862)
@@ -17,7 +17,7 @@ As of 2021-03-19 13:06:08, r00t f0lds is rank 42
  15. wetdryvac                            1.75%  711,188,573 (units: 9,561)
  16. Steve_Castellarin                    1.73%  704,102,010 (units: 11,198)
  17. dokuja                               1.68%  683,385,964 (units: 4,167)
- 18. Dubhbairn                            1.54%  627,683,070 (units: 6,228)
+ 18. Dubhbairn                            1.54%  627,833,299 (units: 6,229)
  19. Scba                                 1.46%  595,052,556 (units: 7,125)
  20. Sangfroid                            1.37%  558,003,721 (units: 11,302)
  21. spam                                 1.36%  555,159,795 (units: 5,686)
@@ -25,7 +25,7 @@ As of 2021-03-19 13:06:08, r00t f0lds is rank 42
  23. tvidas                               1.08%  438,014,023 (units: 7,668)
  24. crax                                 1.03%  417,787,037 (units: 2,723)
  25. SWinder                              1.02%  415,503,519 (units: 6,641)
- 26. natrololol                           0.98%  399,468,599 (units: 4,162)
+ 26. natrololol                           0.98%  399,473,798 (units: 4,163)
  27. coldyfoldz                           0.95%  386,195,081 (units: 4,329)
  28. BELTIWAN                             0.93%  378,718,791 (units: 3,869)
  29. Privacywonk                          0.87%  355,416,948 (units: 7,922)
@@ -56,7 +56,7 @@ As of 2021-03-19 13:06:08, r00t f0lds is rank 42
  54. zonksec                              0.30%  122,096,304 (units: 4,938)
  55. wingisfolding                        0.29%  119,385,401 (units: 17,882)
  56. pizen                                0.28%  115,379,440 (units: 2,824)
- 57. SalusaSecondus                       0.28%  115,076,933 (units: 2,222)
+ 57. SalusaSecondus                       0.28%  115,194,080 (units: 2,224)
  58. Carson_English                       0.26%  105,412,984 (units: 1,338)
  59. tweakt                               0.25%  102,211,830 (units: 1,350)
  60. The_Gibson(HTown)                    0.25%  102,194,264 (units: 1,870)
@@ -73,7 +73,7 @@ As of 2021-03-19 13:06:08, r00t f0lds is rank 42
  71. KStads                               0.15%   62,782,867 (units:   808)
  72. Bobaxos                              0.15%   62,654,617 (units:   769)
  73. Fifi314                              0.15%   61,745,349 (units: 3,276)
- 74. PhreakMonkey                         0.15%   60,289,065 (units: 9,167)
+ 74. PhreakMonkey                         0.15%   60,289,119 (units: 9,168)
  75. LamontWaugh                          0.15%   59,768,476 (units: 4,204)
  76. Xenophile                            0.14%   54,989,668 (units: 1,399)
  77. KeithS                               0.12%   48,766,419 (units: 2,290)
