@@ -1,5 +1,5 @@
-As of 2021-03-21 03:01:00, r00t f0lds is rank 42
-   with 855,005 work units for 40,777,172,849 credits
+As of 2021-03-21 03:10:58, r00t f0lds is rank 42
+   with 855,011 work units for 40,777,394,257 credits
   1. MasterKore                           8.48% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.08% 3,293,203,332 (units: 26,302)
   3. NeTTwerk                             6.87% 2,799,680,571 (units: 16,115)
@@ -13,12 +13,12 @@ As of 2021-03-21 03:01:00, r00t f0lds is rank 42
  11. Gentry                               2.68% 1,094,864,270 (units: 13,909)
  12. mowse                                2.52% 1,028,376,219 (units: 5,536)
  13. Swern                                2.15%  877,969,034 (units: 9,896)
- 14. Chris_Eng                            2.14%  874,628,612 (units: 7,359)
+ 14. Chris_Eng                            2.15%  874,682,468 (units: 7,360)
  15. wetdryvac                            1.75%  715,472,232 (units: 9,587)
  16. Steve_Castellarin                    1.74%  707,867,091 (units: 11,228)
  17. dokuja                               1.68%  683,385,964 (units: 4,167)
- 18. Dubhbairn                            1.55%  633,649,330 (units: 6,272)
- 19. Scba                                 1.46%  596,917,284 (units: 7,142)
+ 18. Dubhbairn                            1.55%  633,798,228 (units: 6,273)
+ 19. Scba                                 1.46%  596,930,000 (units: 7,143)
  20. spam                                 1.37%  558,352,932 (units: 5,713)
  21. Sangfroid                            1.37%  558,038,884 (units: 11,305)
  22. entr0pybitz                          1.25%  510,325,839 (units: 3,869)
@@ -46,7 +46,7 @@ As of 2021-03-21 03:01:00, r00t f0lds is rank 42
  44. causticjb                            0.42%  171,419,588 (units: 8,246)
  45. dotjrich                             0.39%  160,183,851 (units: 5,557)
  46. EndoftheLine                         0.37%  148,995,679 (units: 1,973)
- 47. ethersniffer                         0.36%  147,650,506 (units: 16,697)
+ 47. ethersniffer                         0.36%  147,655,290 (units: 16,698)
  48. Space_Rogue                          0.36%  145,484,255 (units: 6,608)
  49. Christian_Townsdin                   0.36%  145,274,484 (units: 2,494)
  50. Erik_Fichtner                        0.35%  142,008,213 (units: 2,459)
@@ -72,8 +72,8 @@ As of 2021-03-21 03:01:00, r00t f0lds is rank 42
  70. Anonymous                            0.16%   63,608,493 (units: 1,809)
  71. KStads                               0.15%   62,782,867 (units:   808)
  72. Bobaxos                              0.15%   62,654,617 (units:   769)
- 73. Fifi314                              0.15%   62,207,414 (units: 3,295)
- 74. PhreakMonkey                         0.15%   60,326,805 (units: 9,405)
+ 73. Fifi314                              0.15%   62,208,514 (units: 3,296)
+ 74. PhreakMonkey                         0.15%   60,326,859 (units: 9,406)
  75. LamontWaugh                          0.15%   59,770,826 (units: 4,206)
  76. Xenophile                            0.13%   54,989,668 (units: 1,399)
  77. KeithS                               0.12%   49,283,361 (units: 2,307)
