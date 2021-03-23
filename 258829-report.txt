@@ -1,5 +1,5 @@
-As of 2021-03-23 03:10:57, r00t f0lds is rank 42
-   with 856,857 work units for 40,897,161,528 credits
+As of 2021-03-23 03:20:56, r00t f0lds is rank 42
+   with 856,859 work units for 40,897,215,352 credits
   1. MasterKore                           8.45% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.06% 3,298,302,048 (units: 26,372)
   3. NeTTwerk                             6.85% 2,799,680,571 (units: 16,115)
@@ -13,7 +13,7 @@ As of 2021-03-23 03:10:57, r00t f0lds is rank 42
  11. Gentry                               2.69% 1,102,147,304 (units: 13,959)
  12. mowse                                2.51% 1,028,376,219 (units: 5,536)
  13. Swern                                2.17%  885,641,181 (units: 9,939)
- 14. Chris_Eng                            2.14%  877,182,132 (units: 7,443)
+ 14. Chris_Eng                            2.14%  877,235,911 (units: 7,444)
  15. wetdryvac                            1.76%  720,676,694 (units: 9,627)
  16. Steve_Castellarin                    1.74%  711,668,720 (units: 11,262)
  17. dokuja                               1.67%  683,385,964 (units: 4,167)
@@ -73,7 +73,7 @@ As of 2021-03-23 03:10:57, r00t f0lds is rank 42
  71. Fifi314                              0.15%   62,885,659 (units: 3,319)
  72. KStads                               0.15%   62,782,867 (units:   808)
  73. Bobaxos                              0.15%   62,654,617 (units:   769)
- 74. PhreakMonkey                         0.15%   60,388,890 (units: 9,710)
+ 74. PhreakMonkey                         0.15%   60,388,935 (units: 9,711)
  75. LamontWaugh                          0.15%   59,776,486 (units: 4,209)
  76. Xenophile                            0.13%   54,989,668 (units: 1,399)
  77. KeithS                               0.12%   49,822,916 (units: 2,333)
