@@ -1,5 +1,5 @@
-As of 2021-03-24 05:31:02, r00t f0lds is rank 42
-   with 857,801 work units for 40,958,453,262 credits
+As of 2021-03-24 05:41:00, r00t f0lds is rank 42
+   with 857,804 work units for 40,958,520,870 credits
   1. MasterKore                           8.44% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.06% 3,300,764,895 (units: 26,406)
   3. NeTTwerk                             6.84% 2,799,680,571 (units: 16,115)
@@ -10,7 +10,7 @@ As of 2021-03-24 05:31:02, r00t f0lds is rank 42
   8. GOLGO13                              3.50% 1,434,338,226 (units: 21,800)
   9. Weld                                 3.17% 1,297,440,855 (units: 11,388)
  10. Nicolas_Dawson                       2.74% 1,120,881,192 (units: 6,925)
- 11. Gentry                               2.70% 1,106,415,239 (units: 13,989)
+ 11. Gentry                               2.70% 1,106,440,249 (units: 13,990)
  12. mowse                                2.51% 1,028,376,219 (units: 5,536)
  13. Swern                                2.17%  889,566,206 (units: 9,957)
  14. Chris_Eng                            2.14%  877,953,555 (units: 7,466)
@@ -73,14 +73,14 @@ As of 2021-03-24 05:31:02, r00t f0lds is rank 42
  71. Fifi314                              0.15%   63,253,890 (units: 3,332)
  72. KStads                               0.15%   62,782,867 (units:   808)
  73. Bobaxos                              0.15%   62,654,617 (units:   769)
- 74. PhreakMonkey                         0.15%   60,422,040 (units: 9,876)
+ 74. PhreakMonkey                         0.15%   60,422,156 (units: 9,877)
  75. LamontWaugh                          0.15%   59,777,736 (units: 4,210)
  76. Xenophile                            0.13%   54,989,668 (units: 1,399)
  77. KeithS                               0.12%   50,081,136 (units: 2,345)
  78. merimus                              0.12%   47,156,855 (units: 1,255)
  79. CoolAcid                             0.11%   47,053,043 (units: 1,854)
  80. martums                              0.11%   46,348,785 (units: 6,085)
- 81. Jabolotai                            0.11%   44,253,105 (units: 2,518)
+ 81. Jabolotai                            0.11%   44,295,587 (units: 2,519)
  82. technolust                           0.11%   43,957,205 (units: 5,397)
  83. Rumble                               0.11%   43,557,050 (units: 12,786)
  84. JurisHacker                          0.10%   42,002,059 (units:   920)
