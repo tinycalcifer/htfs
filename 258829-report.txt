@@ -1,5 +1,5 @@
-As of 2021-03-25 20:20:58, r00t f0lds is rank 42
-   with 859,072 work units for 41,040,783,909 credits
+As of 2021-03-25 20:30:55, r00t f0lds is rank 42
+   with 859,075 work units for 41,040,827,177 credits
   1. MasterKore                           8.42% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.05% 3,305,563,737 (units: 26,469)
   3. NeTTwerk                             6.82% 2,799,680,571 (units: 16,115)
@@ -17,7 +17,7 @@ As of 2021-03-25 20:20:58, r00t f0lds is rank 42
  15. wetdryvac                            1.77%  727,799,207 (units: 9,685)
  16. Steve_Castellarin                    1.74%  715,433,155 (units: 11,293)
  17. dokuja                               1.67%  683,385,964 (units: 4,167)
- 18. Dubhbairn                            1.58%  649,618,492 (units: 6,395)
+ 18. Dubhbairn                            1.58%  649,652,932 (units: 6,396)
  19. Scba                                 1.47%  603,057,379 (units: 7,200)
  20. spam                                 1.36%  559,830,850 (units: 5,725)
  21. Sangfroid                            1.36%  558,167,046 (units: 11,325)
@@ -56,7 +56,7 @@ As of 2021-03-25 20:20:58, r00t f0lds is rank 42
  54. zonksec                              0.30%  124,776,816 (units: 4,999)
  55. wingisfolding                        0.29%  119,385,401 (units: 17,882)
  56. SalusaSecondus                       0.29%  118,093,084 (units: 2,278)
- 57. pizen                                0.29%  117,985,444 (units: 2,871)
+ 57. pizen                                0.29%  117,994,156 (units: 2,872)
  58. Carson_English                       0.26%  108,448,193 (units: 1,361)
  59. tweakt                               0.25%  102,211,830 (units: 1,350)
  60. The_Gibson(HTown)                    0.25%  102,194,264 (units: 1,870)
@@ -73,7 +73,7 @@ As of 2021-03-25 20:20:58, r00t f0lds is rank 42
  71. Anonymous                            0.16%   63,632,583 (units: 1,817)
  72. KStads                               0.15%   62,782,867 (units:   808)
  73. Bobaxos                              0.15%   62,654,617 (units:   769)
- 74. PhreakMonkey                         0.15%   60,466,704 (units: 10,123)
+ 74. PhreakMonkey                         0.15%   60,466,820 (units: 10,124)
  75. LamontWaugh                          0.15%   59,782,452 (units: 4,212)
  76. Xenophile                            0.13%   54,989,668 (units: 1,399)
  77. KeithS                               0.12%   50,547,512 (units: 2,361)
