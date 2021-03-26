@@ -1,8 +1,8 @@
-As of 2021-03-26 05:40:58, hackers.town is rank 1258
-   with 43,597 work units for 532,463,116 credits
+As of 2021-03-26 05:50:59, hackers.town is rank 1258
+   with 43,598 work units for 532,507,837 credits
   1. Werekat                      15.32%   81,558,878 (units: 2,420)
   2. Kyle                         10.14%   54,009,061 (units: 2,390)
-  3. bhtooefr                      9.70%   51,634,411 (units: 1,530)
+  3. bhtooefr                      9.70%   51,679,132 (units: 1,531)
   4. CookieMom                     6.45%   34,350,564 (units: 2,120)
   5. wetdryvac                     6.04%   32,148,675 (units:   888)
   6. Polychrome                    5.61%   29,847,070 (units: 2,193)
@@ -19,7 +19,7 @@ As of 2021-03-26 05:40:58, hackers.town is rank 1258
  17. dafuchs                       1.19%    6,320,938 (units:   393)
  18. paullindner                   0.98%    5,201,314 (units:   923)
  19. SiinaCutie                    0.97%    5,188,566 (units:   235)
- 20. FOOL                          0.97%    5,138,460 (units:   445)
+ 20. FOOL                          0.96%    5,138,460 (units:   445)
  21. felix                         0.92%    4,901,391 (units:   185)
  22. Anonymous                     0.84%    4,488,088 (units: 1,676)
  23. r000t                         0.76%    4,069,816 (units:   121)
@@ -35,7 +35,7 @@ As of 2021-03-26 05:40:58, hackers.town is rank 1258
  33. neil                          0.43%    2,283,457 (units:   810)
  34. /dev/random                   0.40%    2,135,335 (units:   204)
  35. mandibular joint dysfunction  0.39%    2,055,511 (units:   834)
- 36. pfreak                        0.38%    1,996,770 (units:    48)
+ 36. pfreak                        0.37%    1,996,770 (units:    48)
  37. avolkov                       0.36%    1,891,826 (units:   104)
  38. FractumSeraph                 0.34%    1,808,542 (units:    28)
  39. rfquerin                      0.31%    1,638,770 (units:   107)
