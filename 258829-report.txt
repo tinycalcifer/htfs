@@ -1,7 +1,7 @@
-As of 2021-03-26 17:41:03, r00t f0lds is rank 42
-   with 859,780 work units for 41,089,423,762 credits
+As of 2021-03-26 17:51:03, r00t f0lds is rank 42
+   with 859,784 work units for 41,089,490,488 credits
   1. MasterKore                           8.41% 3,457,089,768 (units: 70,348)
-  2. gaussie                              8.05% 3,307,794,646 (units: 26,498)
+  2. gaussie                              8.05% 3,307,853,648 (units: 26,500)
   3. NeTTwerk                             6.81% 2,799,680,571 (units: 16,115)
   4. dildog                               5.41% 2,222,384,198 (units: 16,835)
   5. TommydCat                            4.66% 1,916,813,039 (units: 21,697)
@@ -73,7 +73,7 @@ As of 2021-03-26 17:41:03, r00t f0lds is rank 42
  71. Anonymous                            0.15%   63,635,193 (units: 1,819)
  72. KStads                               0.15%   62,782,867 (units:   808)
  73. Bobaxos                              0.15%   62,654,617 (units:   769)
- 74. PhreakMonkey                         0.15%   60,496,935 (units: 10,258)
+ 74. PhreakMonkey                         0.15%   60,497,051 (units: 10,259)
  75. LamontWaugh                          0.15%   59,782,452 (units: 4,212)
  76. Xenophile                            0.13%   54,989,668 (units: 1,399)
  77. KeithS                               0.12%   50,793,827 (units: 2,374)
@@ -133,7 +133,7 @@ As of 2021-03-26 17:41:03, r00t f0lds is rank 42
 131. Anonymous7                           0.02%    9,707,096 (units:   248)
 132. drwho                                0.02%    9,628,991 (units: 4,007)
 133. bitlifter                            0.02%    9,242,708 (units:   123)
-134. trashp4nda                           0.02%    9,009,732 (units: 1,255)
+134. trashp4nda                           0.02%    9,017,340 (units: 1,256)
 135. argv                                 0.02%    8,998,237 (units: 1,162)
 136. GluffiS                              0.02%    8,785,327 (units: 2,359)
 137. StephenWuebker                       0.02%    8,712,749 (units: 2,143)
