@@ -1,10 +1,10 @@
-As of 2021-03-27 19:31:14, r00t f0lds is rank 42
-   with 860,615 work units for 41,146,259,928 credits
+As of 2021-03-27 19:41:14, r00t f0lds is rank 42
+   with 860,618 work units for 41,146,465,618 credits
   1. MasterKore                           8.40% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.05% 3,310,698,453 (units: 26,539)
   3. NeTTwerk                             6.80% 2,799,680,571 (units: 16,115)
   4. dildog                               5.40% 2,222,384,198 (units: 16,835)
-  5. TommydCat                            4.68% 1,923,712,676 (units: 21,751)
+  5. TommydCat                            4.68% 1,923,916,948 (units: 21,752)
   6. Ophie                                3.96% 1,629,014,655 (units: 108,571)
   7. edsai                                3.67% 1,511,056,098 (units: 12,021)
   8. GOLGO13                              3.49% 1,434,338,226 (units: 21,800)
@@ -73,7 +73,7 @@ As of 2021-03-27 19:31:14, r00t f0lds is rank 42
  71. Anonymous                            0.15%   63,639,603 (units: 1,821)
  72. KStads                               0.15%   62,782,867 (units:   808)
  73. Bobaxos                              0.15%   62,654,617 (units:   769)
- 74. PhreakMonkey                         0.15%   60,528,457 (units: 10,422)
+ 74. PhreakMonkey                         0.15%   60,528,515 (units: 10,423)
  75. LamontWaugh                          0.15%   59,783,812 (units: 4,213)
  76. Xenophile                            0.13%   54,989,668 (units: 1,399)
  77. KeithS                               0.12%   50,929,120 (units: 2,379)
@@ -189,7 +189,7 @@ As of 2021-03-27 19:31:14, r00t f0lds is rank 42
 187. BorisRosenow                         0.01%    2,665,846 (units:   177)
 188. ZenCoder                             0.01%    2,623,938 (units:   628)
 189. JohnCalnan                           0.01%    2,547,627 (units:   777)
-190. RandyNose                            0.01%    2,527,157 (units: 2,192)
+190. RandyNose                            0.01%    2,528,517 (units: 2,193)
 191. sckain                               0.01%    2,477,124 (units:   537)
 192. XfavataX                             0.01%    2,388,188 (units: 2,560)
 193. mcsalchemy                           0.01%    2,294,325 (units:   688)
