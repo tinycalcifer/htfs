@@ -1,5 +1,5 @@
-As of 2021-03-29 20:11:18, r00t f0lds is rank 42
-   with 862,256 work units for 41,251,736,932 credits
+As of 2021-03-29 20:21:15, r00t f0lds is rank 42
+   with 862,261 work units for 41,251,808,217 credits
   1. MasterKore                           8.38% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.04% 3,315,133,446 (units: 26,622)
   3. NeTTwerk                             6.79% 2,799,680,571 (units: 16,115)
@@ -42,7 +42,7 @@ As of 2021-03-29 20:11:18, r00t f0lds is rank 42
  40. sarmento                             0.48%  197,801,336 (units: 4,453)
  41. mubix                                0.46%  188,915,085 (units: 2,087)
  42. knarph                               0.45%  185,383,123 (units: 4,701)
- 43. hoochmonger                          0.44%  180,211,910 (units: 2,356)
+ 43. hoochmonger                          0.44%  180,230,998 (units: 2,357)
  44. causticjb                            0.43%  177,065,103 (units: 8,436)
  45. dotjrich                             0.40%  164,805,590 (units: 5,656)
  46. Space_Rogue                          0.37%  151,887,282 (units: 6,651)
@@ -69,11 +69,11 @@ As of 2021-03-29 20:11:18, r00t f0lds is rank 42
  67. fib.seq                              0.19%   79,927,017 (units: 1,683)
  68. timforgot                            0.17%   70,752,642 (units: 3,225)
  69. mbm                                  0.16%   65,871,742 (units: 3,361)
- 70. Fifi314                              0.16%   65,184,116 (units: 3,402)
+ 70. Fifi314                              0.16%   65,218,995 (units: 3,403)
  71. Anonymous                            0.15%   63,649,913 (units: 1,825)
  72. KStads                               0.15%   62,782,867 (units:   808)
  73. Bobaxos                              0.15%   62,654,617 (units:   769)
- 74. PhreakMonkey                         0.15%   60,577,902 (units: 10,729)
+ 74. PhreakMonkey                         0.15%   60,578,018 (units: 10,730)
  75. LamontWaugh                          0.14%   59,785,172 (units: 4,214)
  76. Xenophile                            0.13%   54,989,668 (units: 1,399)
  77. KeithS                               0.12%   50,932,720 (units: 2,380)
@@ -132,7 +132,7 @@ As of 2021-03-29 20:11:18, r00t f0lds is rank 42
 130. DK                                   0.02%   10,094,851 (units: 1,166)
 131. Anonymous7                           0.02%    9,707,096 (units:   248)
 132. drwho                                0.02%    9,628,991 (units: 4,007)
-133. trashp4nda                           0.02%    9,324,837 (units: 1,273)
+133. trashp4nda                           0.02%    9,341,173 (units: 1,274)
 134. bitlifter                            0.02%    9,242,708 (units:   123)
 135. argv                                 0.02%    8,998,237 (units: 1,162)
 136. GluffiS                              0.02%    8,785,327 (units: 2,359)
@@ -200,7 +200,7 @@ As of 2021-03-29 20:11:18, r00t f0lds is rank 42
 198. rv                                   0.01%    2,120,485 (units: 1,915)
 199. b0bb0bb0bb0bb0bb0bb0b                0.01%    2,081,887 (units:   565)
 200. ViciousData                          0.00%    2,023,118 (units:   123)
-201. tresronours                          0.00%    1,978,724 (units: 1,485)
+201. tresronours                          0.00%    1,979,590 (units: 1,486)
 202. TwirX                                0.00%    1,921,592 (units:   114)
 203. KdubYa                               0.00%    1,803,698 (units:   166)
 204. TheDarkTangent                       0.00%    1,786,793 (units:   279)
