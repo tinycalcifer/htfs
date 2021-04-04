@@ -1,10 +1,10 @@
-As of 2021-04-04 03:21:13, r00t f0lds is rank 42
-   with 866,346 work units for 41,504,356,482 credits
+As of 2021-04-04 03:31:13, r00t f0lds is rank 42
+   with 866,349 work units for 41,504,378,605 credits
   1. MasterKore                           8.33% 3,457,089,768 (units: 70,348)
   2. gaussie                              8.00% 3,321,408,860 (units: 26,737)
   3. NeTTwerk                             6.75% 2,799,680,571 (units: 16,115)
   4. dildog                               5.35% 2,222,384,198 (units: 16,835)
-  5. TommydCat                            4.75% 1,970,417,852 (units: 22,166)
+  5. TommydCat                            4.75% 1,970,439,859 (units: 22,168)
   6. Ophie                                3.92% 1,629,014,655 (units: 108,571)
   7. edsai                                3.70% 1,535,109,659 (units: 12,188)
   8. GOLGO13                              3.46% 1,434,338,226 (units: 21,800)
@@ -73,7 +73,7 @@ As of 2021-04-04 03:21:13, r00t f0lds is rank 42
  71. Anonymous                            0.15%   63,672,513 (units: 1,835)
  72. KStads                               0.15%   62,782,867 (units:   808)
  73. Bobaxos                              0.15%   62,654,617 (units:   769)
- 74. PhreakMonkey                         0.15%   60,677,899 (units: 11,474)
+ 74. PhreakMonkey                         0.15%   60,678,015 (units: 11,475)
  75. LamontWaugh                          0.14%   59,798,742 (units: 4,218)
  76. Xenophile                            0.13%   54,989,668 (units: 1,399)
  77. KeithS                               0.13%   52,088,257 (units: 2,434)
@@ -403,8 +403,8 @@ As of 2021-04-04 03:21:13, r00t f0lds is rank 42
 401. n0x                                  0.00%        9,858 (units:     2)
 402. Mystic_Chaos                         0.00%        9,716 (units:     8)
 403. ad767                                0.00%        9,657 (units:    10)
-404. r                                    0.00%        9,405 (units:     1)
-405. HailSatan                            0.00%        9,405 (units:     1)
+404. HailSatan                            0.00%        9,405 (units:     1)
+405. r                                    0.00%        9,405 (units:     1)
 406. glawend                              0.00%        8,420 (units:     9)
 407. Elliot                               0.00%        7,685 (units:     1)
 408. ZachBl                               0.00%        6,867 (units:     3)
