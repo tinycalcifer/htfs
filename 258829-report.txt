@@ -1,5 +1,5 @@
-As of 2021-04-05 03:11:19, r00t f0lds is rank 42
-   with 867,089 work units for 41,548,759,657 credits
+As of 2021-04-05 03:21:28, r00t f0lds is rank 42
+   with 867,092 work units for 41,548,790,314 credits
   1. MasterKore                           8.32% 3,457,089,768 (units: 70,348)
   2. gaussie                              7.99% 3,321,408,860 (units: 26,737)
   3. NeTTwerk                             6.74% 2,799,680,571 (units: 16,115)
@@ -68,12 +68,12 @@ As of 2021-04-05 03:11:19, r00t f0lds is rank 42
  66. jalvaren                             0.20%   82,134,054 (units: 2,308)
  67. OnidTheTRex                          0.19%   80,417,613 (units: 1,398)
  68. timforgot                            0.18%   73,605,177 (units: 3,311)
- 69. mbm                                  0.16%   67,892,885 (units: 3,475)
+ 69. mbm                                  0.16%   67,894,245 (units: 3,476)
  70. Fifi314                              0.16%   66,979,328 (units: 3,497)
  71. Anonymous                            0.15%   63,675,123 (units: 1,837)
  72. KStads                               0.15%   62,782,867 (units:   808)
  73. Bobaxos                              0.15%   62,654,617 (units:   769)
- 74. PhreakMonkey                         0.15%   60,694,267 (units: 11,626)
+ 74. PhreakMonkey                         0.15%   60,694,351 (units: 11,627)
  75. LamontWaugh                          0.14%   59,802,052 (units: 4,219)
  76. Xenophile                            0.13%   54,989,668 (units: 1,399)
  77. KeithS                               0.13%   52,382,030 (units: 2,448)
@@ -96,7 +96,7 @@ As of 2021-04-05 03:11:19, r00t f0lds is rank 42
  94. Sewrn                                0.07%   29,286,171 (units:   183)
  95. MarvinPAndroid                       0.06%   25,775,597 (units: 1,086)
  96. Shade                                0.06%   25,555,819 (units:   486)
- 97. Mudge_Idle                           0.06%   25,062,560 (units: 2,890)
+ 97. Mudge_Idle                           0.06%   25,091,773 (units: 2,891)
  98. tal0n                                0.06%   24,033,712 (units: 3,526)
  99. Toonopolis                           0.06%   23,499,935 (units:   437)
 100. 0xMatt                               0.05%   21,644,451 (units: 3,304)
