@@ -1,10 +1,10 @@
-As of 2021-04-07 17:31:29, r00t f0lds is rank 43
-   with 869,004 work units for 41,666,648,137 credits
+As of 2021-04-07 17:51:27, r00t f0lds is rank 43
+   with 869,007 work units for 41,667,232,603 credits
   1. MasterKore                           8.30% 3,457,089,768 (units: 70,348)
   2. gaussie                              7.97% 3,321,408,860 (units: 26,737)
   3. NeTTwerk                             6.72% 2,799,680,571 (units: 16,115)
   4. dildog                               5.34% 2,223,181,512 (units: 16,844)
-  5. TommydCat                            4.77% 1,989,207,796 (units: 22,335)
+  5. TommydCat                            4.78% 1,989,631,853 (units: 22,336)
   6. Ophie                                3.91% 1,629,014,655 (units: 108,571)
   7. edsai                                3.71% 1,547,714,535 (units: 12,271)
   8. GOLGO13                              3.44% 1,434,538,402 (units: 21,809)
@@ -16,7 +16,7 @@ As of 2021-04-07 17:31:29, r00t f0lds is rank 43
  14. Chris_Eng                            2.11%  878,741,543 (units: 7,481)
  15. Steve_Castellarin                    1.79%  744,360,174 (units: 11,561)
  16. wetdryvac                            1.76%  732,402,790 (units: 9,748)
- 17. Dubhbairn                            1.67%  696,952,777 (units: 6,785)
+ 17. Dubhbairn                            1.67%  697,101,098 (units: 6,786)
  18. dokuja                               1.64%  683,385,964 (units: 4,167)
  19. Scba                                 1.48%  618,500,189 (units: 7,361)
  20. spam                                 1.35%  561,751,821 (units: 5,739)
@@ -113,7 +113,7 @@ As of 2021-04-07 17:31:29, r00t f0lds is rank 43
 111. snowchyld                            0.04%   17,657,087 (units:   795)
 112. ghostsarespooky                      0.04%   17,242,418 (units: 3,672)
 113. Brianmoney233                        0.04%   16,239,421 (units: 1,227)
-114. jnathan                              0.04%   15,903,724 (units: 4,568)
+114. jnathan                              0.04%   15,915,812 (units: 4,569)
 115. B10+                                 0.04%   15,897,231 (units: 3,051)
 116. steve_c137                           0.04%   15,253,686 (units:   539)
 117. devi0us                              0.04%   15,093,423 (units: 2,779)
