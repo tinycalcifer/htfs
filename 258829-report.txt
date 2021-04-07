@@ -1,5 +1,5 @@
-As of 2021-04-07 18:11:13, r00t f0lds is rank 43
-   with 869,016 work units for 41,667,907,444 credits
+As of 2021-04-07 18:21:16, r00t f0lds is rank 43
+   with 869,019 work units for 41,668,368,401 credits
   1. MasterKore                           8.30% 3,457,089,768 (units: 70,348)
   2. gaussie                              7.97% 3,321,408,860 (units: 26,737)
   3. NeTTwerk                             6.72% 2,799,680,571 (units: 16,115)
@@ -10,11 +10,11 @@ As of 2021-04-07 18:11:13, r00t f0lds is rank 43
   8. GOLGO13                              3.44% 1,434,538,402 (units: 21,809)
   9. Weld                                 3.11% 1,297,440,855 (units: 11,388)
  10. Nicolas_Dawson                       2.83% 1,181,056,835 (units: 7,343)
- 11. Gentry                               2.77% 1,155,665,775 (units: 14,345)
+ 11. Gentry                               2.77% 1,155,873,071 (units: 14,346)
  12. mowse                                2.47% 1,028,376,219 (units: 5,536)
  13. Swern                                2.27%  946,513,120 (units: 10,267)
  14. Chris_Eng                            2.11%  878,741,543 (units: 7,481)
- 15. Steve_Castellarin                    1.79%  744,360,174 (units: 11,561)
+ 15. Steve_Castellarin                    1.79%  744,548,915 (units: 11,562)
  16. wetdryvac                            1.76%  732,402,790 (units: 9,748)
  17. Dubhbairn                            1.67%  697,248,427 (units: 6,787)
  18. dokuja                               1.64%  683,385,964 (units: 4,167)
@@ -29,7 +29,7 @@ As of 2021-04-07 18:11:13, r00t f0lds is rank 43
  27. Privacywonk                          0.96%  399,985,614 (units: 8,244)
  28. coldyfoldz                           0.93%  386,195,081 (units: 4,329)
  29. BELTIWAN                             0.91%  378,718,791 (units: 3,869)
- 30. Moss                                 0.86%  359,662,797 (units: 6,569)
+ 30. Moss                                 0.86%  359,727,717 (units: 6,570)
  31. Kranfahrer                           0.77%  322,193,840 (units: 7,094)
  32. /dev/random                          0.69%  286,876,461 (units: 6,492)
  33. X                                    0.68%  282,186,210 (units: 4,105)
