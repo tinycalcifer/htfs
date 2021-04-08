@@ -1,10 +1,10 @@
-As of 2021-04-08 18:41:27, r00t f0lds is rank 43
-   with 869,600 work units for 41,715,150,099 credits
+As of 2021-04-08 18:51:26, r00t f0lds is rank 43
+   with 869,602 work units for 41,715,556,551 credits
   1. MasterKore                           8.29% 3,457,089,768 (units: 70,348)
   2. gaussie                              7.96% 3,321,408,860 (units: 26,737)
   3. NeTTwerk                             6.71% 2,799,680,571 (units: 16,115)
   4. dildog                               5.33% 2,223,181,512 (units: 16,844)
-  5. TommydCat                            4.79% 1,996,292,469 (units: 22,387)
+  5. TommydCat                            4.79% 1,996,514,413 (units: 22,388)
   6. Ophie                                3.91% 1,629,014,655 (units: 108,571)
   7. edsai                                3.72% 1,551,032,619 (units: 12,298)
   8. GOLGO13                              3.44% 1,434,538,402 (units: 21,809)
@@ -26,7 +26,7 @@ As of 2021-04-08 18:41:27, r00t f0lds is rank 43
  24. SWinder                              1.07%  445,517,986 (units: 6,917)
  25. natrololol                           1.00%  417,920,394 (units: 4,331)
  26. crax                                 1.00%  417,787,037 (units: 2,723)
- 27. Privacywonk                          0.96%  402,408,950 (units: 8,260)
+ 27. Privacywonk                          0.97%  402,593,458 (units: 8,261)
  28. coldyfoldz                           0.93%  386,195,081 (units: 4,329)
  29. BELTIWAN                             0.91%  378,718,791 (units: 3,869)
  30. Moss                                 0.87%  361,237,807 (units: 6,596)
