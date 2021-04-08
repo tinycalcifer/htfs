@@ -1,16 +1,16 @@
-As of 2021-04-08 00:41:30, r00t f0lds is rank 43
-   with 869,154 work units for 41,678,758,002 credits
+As of 2021-04-08 00:51:24, r00t f0lds is rank 43
+   with 869,157 work units for 41,679,191,752 credits
   1. MasterKore                           8.29% 3,457,089,768 (units: 70,348)
   2. gaussie                              7.97% 3,321,408,860 (units: 26,737)
   3. NeTTwerk                             6.72% 2,799,680,571 (units: 16,115)
   4. dildog                               5.33% 2,223,181,512 (units: 16,844)
-  5. TommydCat                            4.78% 1,991,246,251 (units: 22,348)
+  5. TommydCat                            4.78% 1,991,463,962 (units: 22,349)
   6. Ophie                                3.91% 1,629,014,655 (units: 108,571)
   7. edsai                                3.71% 1,548,021,481 (units: 12,274)
   8. GOLGO13                              3.44% 1,434,538,402 (units: 21,809)
   9. Weld                                 3.11% 1,297,440,855 (units: 11,388)
  10. Nicolas_Dawson                       2.84% 1,182,118,286 (units: 7,349)
- 11. Gentry                               2.78% 1,156,609,872 (units: 14,351)
+ 11. Gentry                               2.78% 1,156,820,644 (units: 14,352)
  12. mowse                                2.47% 1,028,376,219 (units: 5,536)
  13. Swern                                2.27%  947,268,690 (units: 10,271)
  14. Chris_Eng                            2.11%  878,741,543 (units: 7,481)
@@ -26,7 +26,7 @@ As of 2021-04-08 00:41:30, r00t f0lds is rank 43
  24. SWinder                              1.07%  444,498,335 (units: 6,907)
  25. natrololol                           1.00%  417,920,394 (units: 4,331)
  26. crax                                 1.00%  417,787,037 (units: 2,723)
- 27. Privacywonk                          0.96%  400,628,980 (units: 8,248)
+ 27. Privacywonk                          0.96%  400,634,247 (units: 8,249)
  28. coldyfoldz                           0.93%  386,195,081 (units: 4,329)
  29. BELTIWAN                             0.91%  378,718,791 (units: 3,869)
  30. Moss                                 0.86%  360,131,144 (units: 6,575)
