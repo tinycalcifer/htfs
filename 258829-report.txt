@@ -1,16 +1,16 @@
-As of 2021-04-08 20:31:26, r00t f0lds is rank 43
-   with 869,642 work units for 41,719,525,129 credits
+As of 2021-04-08 20:41:28, r00t f0lds is rank 43
+   with 869,645 work units for 41,719,905,036 credits
   1. MasterKore                           8.29% 3,457,089,768 (units: 70,348)
   2. gaussie                              7.96% 3,321,408,860 (units: 26,737)
   3. NeTTwerk                             6.71% 2,799,680,571 (units: 16,115)
   4. dildog                               5.33% 2,223,181,512 (units: 16,844)
   5. TommydCat                            4.79% 1,996,965,186 (units: 22,391)
   6. Ophie                                3.90% 1,629,014,655 (units: 108,571)
-  7. edsai                                3.72% 1,551,483,861 (units: 12,301)
+  7. edsai                                3.72% 1,551,585,028 (units: 12,302)
   8. GOLGO13                              3.44% 1,434,538,402 (units: 21,809)
   9. Weld                                 3.11% 1,297,440,855 (units: 11,388)
  10. Nicolas_Dawson                       2.84% 1,185,677,858 (units: 7,371)
- 11. Gentry                               2.78% 1,159,936,627 (units: 14,372)
+ 11. Gentry                               2.78% 1,160,150,279 (units: 14,373)
  12. mowse                                2.46% 1,028,376,219 (units: 5,536)
  13. Swern                                2.28%  950,624,392 (units: 10,287)
  14. Chris_Eng                            2.11%  878,741,543 (units: 7,481)
@@ -26,10 +26,10 @@ As of 2021-04-08 20:31:26, r00t f0lds is rank 43
  24. SWinder                              1.07%  445,612,467 (units: 6,919)
  25. natrololol                           1.00%  417,920,394 (units: 4,331)
  26. crax                                 1.00%  417,787,037 (units: 2,723)
- 27. Privacywonk                          0.97%  402,593,458 (units: 8,261)
+ 27. Privacywonk                          0.96%  402,593,458 (units: 8,261)
  28. coldyfoldz                           0.93%  386,195,081 (units: 4,329)
  29. BELTIWAN                             0.91%  378,718,791 (units: 3,869)
- 30. Moss                                 0.87%  361,381,687 (units: 6,597)
+ 30. Moss                                 0.87%  361,446,775 (units: 6,598)
  31. Kranfahrer                           0.77%  322,193,840 (units: 7,094)
  32. /dev/random                          0.69%  287,877,215 (units: 6,508)
  33. X                                    0.68%  282,186,210 (units: 4,105)
