@@ -1,5 +1,5 @@
-As of 2021-04-08 03:11:34, r00t f0lds is rank 43
-   with 869,214 work units for 41,683,960,290 credits
+As of 2021-04-08 03:21:32, r00t f0lds is rank 43
+   with 869,217 work units for 41,684,183,712 credits
   1. MasterKore                           8.29% 3,457,089,768 (units: 70,348)
   2. gaussie                              7.97% 3,321,408,860 (units: 26,737)
   3. NeTTwerk                             6.72% 2,799,680,571 (units: 16,115)
@@ -26,7 +26,7 @@ As of 2021-04-08 03:11:34, r00t f0lds is rank 43
  24. SWinder                              1.07%  444,758,623 (units: 6,910)
  25. natrololol                           1.00%  417,920,394 (units: 4,331)
  26. crax                                 1.00%  417,787,037 (units: 2,723)
- 27. Privacywonk                          0.96%  400,839,136 (units: 8,251)
+ 27. Privacywonk                          0.96%  401,024,553 (units: 8,252)
  28. coldyfoldz                           0.93%  386,195,081 (units: 4,329)
  29. BELTIWAN                             0.91%  378,718,791 (units: 3,869)
  30. Moss                                 0.86%  360,178,547 (units: 6,577)
@@ -76,7 +76,7 @@ As of 2021-04-08 03:11:34, r00t f0lds is rank 43
  74. PhreakMonkey                         0.15%   60,734,917 (units: 12,013)
  75. LamontWaugh                          0.14%   59,802,052 (units: 4,219)
  76. Xenophile                            0.13%   54,989,668 (units: 1,399)
- 77. KeithS                               0.13%   52,984,539 (units: 2,479)
+ 77. KeithS                               0.13%   53,019,234 (units: 2,480)
  78. Jabolotai                            0.11%   47,675,122 (units: 2,603)
  79. CoolAcid                             0.11%   47,157,771 (units: 1,876)
  80. merimus                              0.11%   47,156,855 (units: 1,255)
@@ -217,7 +217,7 @@ As of 2021-04-08 03:11:34, r00t f0lds is rank 43
 215. noogie                               0.00%    1,510,310 (units:   362)
 216. Unregistered436                      0.00%    1,487,831 (units:   489)
 217.                                      0.00%    1,486,859 (units:    86)
-218. aph                                  0.00%    1,464,150 (units: 1,412)
+218. aph                                  0.00%    1,467,460 (units: 1,413)
 219. TommyTorty10                         0.00%    1,437,511 (units:    82)
 220. Deker                                0.00%    1,358,424 (units:   240)
 221. SIGAD                                0.00%    1,322,202 (units:   485)
