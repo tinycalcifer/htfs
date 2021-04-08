@@ -1,10 +1,10 @@
-As of 2021-04-08 18:11:23, r00t f0lds is rank 43
-   with 869,590 work units for 41,714,085,224 credits
+As of 2021-04-08 18:21:25, r00t f0lds is rank 43
+   with 869,593 work units for 41,714,147,610 credits
   1. MasterKore                           8.29% 3,457,089,768 (units: 70,348)
   2. gaussie                              7.96% 3,321,408,860 (units: 26,737)
   3. NeTTwerk                             6.71% 2,799,680,571 (units: 16,115)
   4. dildog                               5.33% 2,223,181,512 (units: 16,844)
-  5. TommydCat                            4.79% 1,996,246,539 (units: 22,386)
+  5. TommydCat                            4.79% 1,996,292,469 (units: 22,387)
   6. Ophie                                3.91% 1,629,014,655 (units: 108,571)
   7. edsai                                3.72% 1,551,032,619 (units: 12,298)
   8. GOLGO13                              3.44% 1,434,538,402 (units: 21,809)
@@ -29,7 +29,7 @@ As of 2021-04-08 18:11:23, r00t f0lds is rank 43
  27. Privacywonk                          0.96%  402,408,950 (units: 8,260)
  28. coldyfoldz                           0.93%  386,195,081 (units: 4,329)
  29. BELTIWAN                             0.91%  378,718,791 (units: 3,869)
- 30. Moss                                 0.87%  361,191,395 (units: 6,594)
+ 30. Moss                                 0.87%  361,194,911 (units: 6,595)
  31. Kranfahrer                           0.77%  322,193,840 (units: 7,094)
  32. /dev/random                          0.69%  287,743,882 (units: 6,507)
  33. X                                    0.68%  282,186,210 (units: 4,105)
@@ -68,7 +68,7 @@ As of 2021-04-08 18:11:23, r00t f0lds is rank 43
  66. jalvaren                             0.20%   82,134,054 (units: 2,308)
  67. OnidTheTRex                          0.19%   80,417,613 (units: 1,398)
  68. timforgot                            0.18%   75,168,486 (units: 3,369)
- 69. mbm                                  0.17%   68,998,850 (units: 3,540)
+ 69. mbm                                  0.17%   69,011,790 (units: 3,541)
  70. Fifi314                              0.16%   68,024,778 (units: 3,541)
  71. Anonymous                            0.15%   63,686,663 (units: 1,843)
  72. KStads                               0.15%   62,782,867 (units:   808)
