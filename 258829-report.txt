@@ -1,15 +1,15 @@
-As of 2021-04-09 10:01:22, r00t f0lds is rank 43
-   with 869,990 work units for 41,746,868,571 credits
+As of 2021-04-09 10:11:22, r00t f0lds is rank 43
+   with 869,993 work units for 41,747,204,716 credits
   1. MasterKore                           8.28% 3,457,089,768 (units: 70,348)
   2. gaussie                              7.96% 3,321,408,860 (units: 26,737)
   3. NeTTwerk                             6.71% 2,799,680,571 (units: 16,115)
   4. dildog                               5.33% 2,223,181,512 (units: 16,844)
   5. TommydCat                            4.79% 2,000,214,305 (units: 22,419)
   6. Ophie                                3.90% 1,629,014,655 (units: 108,571)
-  7. edsai                                3.72% 1,553,913,208 (units: 12,319)
+  7. edsai                                3.72% 1,554,110,276 (units: 12,320)
   8. GOLGO13                              3.44% 1,434,538,402 (units: 21,809)
   9. Weld                                 3.11% 1,297,440,855 (units: 11,388)
- 10. Nicolas_Dawson                       2.85% 1,188,325,218 (units: 7,391)
+ 10. Nicolas_Dawson                       2.85% 1,188,408,381 (units: 7,392)
  11. Gentry                               2.78% 1,162,215,386 (units: 14,387)
  12. mowse                                2.46% 1,028,376,219 (units: 5,536)
  13. Swern                                2.28%  952,830,775 (units: 10,302)
@@ -53,7 +53,7 @@ As of 2021-04-09 10:01:22, r00t f0lds is rank 43
  51. Erik_Fichtner                        0.34%  142,008,213 (units: 2,459)
  52. S0l3mn                               0.33%  137,124,785 (units: 5,535)
  53. Krypt0Gh0st                          0.32%  133,163,501 (units: 2,701)
- 54. zonksec                              0.31%  129,726,467 (units: 5,128)
+ 54. zonksec                              0.31%  129,782,381 (units: 5,129)
  55. SalusaSecondus                       0.29%  122,407,891 (units: 2,364)
  56. pizen                                0.29%  119,428,142 (units: 2,896)
  57. wingisfolding                        0.29%  119,385,401 (units: 17,882)
