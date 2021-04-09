@@ -1,5 +1,5 @@
-As of 2021-04-09 17:31:23, r00t f0lds is rank 43
-   with 870,180 work units for 41,760,457,353 credits
+As of 2021-04-09 17:41:23, r00t f0lds is rank 43
+   with 870,183 work units for 41,760,508,888 credits
   1. MasterKore                           8.28% 3,457,089,768 (units: 70,348)
   2. gaussie                              7.95% 3,321,408,860 (units: 26,737)
   3. NeTTwerk                             6.70% 2,799,680,571 (units: 16,115)
@@ -12,7 +12,7 @@ As of 2021-04-09 17:31:23, r00t f0lds is rank 43
  10. Nicolas_Dawson                       2.85% 1,189,558,827 (units: 7,399)
  11. Gentry                               2.79% 1,163,148,620 (units: 14,393)
  12. mowse                                2.46% 1,028,376,219 (units: 5,536)
- 13. Swern                                2.29%  954,250,193 (units: 10,311)
+ 13. Swern                                2.29%  954,253,419 (units: 10,312)
  14. Chris_Eng                            2.10%  878,741,543 (units: 7,481)
  15. Steve_Castellarin                    1.79%  749,559,549 (units: 11,607)
  16. wetdryvac                            1.75%  732,461,375 (units: 9,755)
@@ -29,7 +29,7 @@ As of 2021-04-09 17:31:23, r00t f0lds is rank 43
  27. Privacywonk                          0.97%  404,766,292 (units: 8,277)
  28. coldyfoldz                           0.92%  386,195,081 (units: 4,329)
  29. BELTIWAN                             0.91%  378,718,791 (units: 3,869)
- 30. Moss                                 0.87%  362,778,755 (units: 6,620)
+ 30. Moss                                 0.87%  362,823,964 (units: 6,621)
  31. Kranfahrer                           0.77%  322,193,840 (units: 7,094)
  32. /dev/random                          0.69%  288,720,687 (units: 6,522)
  33. X                                    0.68%  282,186,210 (units: 4,105)
@@ -294,8 +294,8 @@ As of 2021-04-09 17:31:23, r00t f0lds is rank 43
 292. secitup                              0.00%      319,688 (units:   279)
 293. ovrflt                               0.00%      315,912 (units:    73)
 294. cdnhost.ca                           0.00%      315,634 (units:    46)
-295. MJ1                                  0.00%      310,303 (units:   256)
-296. Arcans                               0.00%      307,231 (units:   277)
+295. Arcans                               0.00%      310,331 (units:   278)
+296. MJ1                                  0.00%      310,303 (units:   256)
 297. Falko                                0.00%      298,884 (units:   134)
 298. FuSeb0x                              0.00%      292,004 (units:   233)
 299. SciaticNerd                          0.00%      291,381 (units:   148)
